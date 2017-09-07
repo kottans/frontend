@@ -1,7 +1,6 @@
 # frontend course
 
-## Join our chat: [![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/forntend.svg)](https://gitter.im/Kottans/forntend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+## Join our chat: [![Gitter](https://badges.gitter.im/Kottans/frontend.svg)](https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Kottans/web/blob/master/LICENSE.md)
 [![Ideas and useful links](https://img.shields.io/badge/google--doc-ideas-ff69b4.svg)](https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811)
