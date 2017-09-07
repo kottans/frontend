@@ -71,6 +71,7 @@ And give all power & responsibility to students.
 
 
 8. [Join the gitter chat if you haven't done so yet :) ](https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
+[![Join the gitter chat if you haven't done so yet https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/forntend.svg)](https://gitter.im/Kottans/forntend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 When you finish this task you can start the next one:
