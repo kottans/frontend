@@ -1,6 +1,6 @@
-#frontend course
+# frontend course
 
-##Join our chat: [![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/forntend.svg)](https://gitter.im/Kottans/forntend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## Join our chat: [![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/forntend.svg)](https://gitter.im/Kottans/forntend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Kottans/web/blob/master/LICENSE.md)
@@ -16,7 +16,7 @@ This course will contain basics of forntend, HTML, CSS, JS, and some frontend fr
 We plan to decrease the amount of lectures in favor of collective discussion, team projects & collective work.
 And give all power & responsibility to students.
 
-####In the process of completing test tasks kottans will learn:
+#### In the process of completing test tasks kottans will learn:
 
 1. Git, github basics, writing good commit messages
 2. Linux, command line basics, network basics
@@ -26,7 +26,7 @@ And give all power & responsibility to students.
 6. MVC basics
 7. ...
 
-####Syllabus:
+#### Syllabus:
 
 1. Web development basics
 2. HTML, CSS
