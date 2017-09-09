@@ -1,4 +1,5 @@
 # Test task 1
+Learn some command line, server and http tools
 
 ## Join our chat: [![Gitter](https://badges.gitter.im/Kottans/frontend.svg)](https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -25,7 +26,7 @@ Finish the courses (1, 2 and 3) and put the screenshots of the finished lessons 
 
 When you finish this task you can start the next one:
 
-[Not ready yet]()
+[Test 2](test02.md)
 
 Some extra reading:
 
