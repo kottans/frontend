@@ -27,8 +27,6 @@ When you finish this task you can start the next one:
 
 Some extra reading:
 
-
-
-
+[freecodecamp.org](https://www.freecodecamp.org)
 
 https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x#!
