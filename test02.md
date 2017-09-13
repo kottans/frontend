@@ -8,6 +8,7 @@ Learn some frontend basics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
+<!-- ### Edx
 
 0. [Front-End Web Development Orientation](https://www.edx.org/course/front-end-web-development-orientation-microsoft-dev237x-0)
 
@@ -19,11 +20,22 @@ Learn some frontend basics
 
 4. [HTML5 Apps and Games](https://www.edx.org/course/html5-apps-games-w3cx-html5-2x)
 
-5. [JavaScript Introduction](https://www.edx.org/course/javascript-introduction-w3cx-js-0x-0)
+5. [JavaScript Introduction](https://www.edx.org/course/javascript-introduction-w3cx-js-0x-0) -->
+
+### Udacity
+1. [Intro to Html & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+
+2. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+
+3. [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
+
+<!-- https://www.udacity.com/course/web-development--cs253 -->
+<!-- https://www.udacity.com/course/make-your-own-2048--ud248 -->
+<!-- https://www.udacity.com/course/programming-foundations-with-python--ud036 -->
 
 When you finish this task you can start the next one:
 
-[Not ready yet]()
+[Test 3](test03.md)
 
 Some extra reading:
 
