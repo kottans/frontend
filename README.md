@@ -53,15 +53,15 @@ And give all power & responsibility to students.
 
 # Task 0 (get familiar with Git and Github):
 
-1. Watch [try.github.io](https://try.github.io/levels/1/challenges/1)
+1. Finish the course [How to use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
-2. Read [sixrevisions.com/web-development/git-tips/](http://sixrevisions.com/web-development/git-tips/)
+2. Finish [try.github.io](https://try.github.io/levels/1/challenges/1)
 
-3. Finish the course [How to use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+3. Create repository named "kottans_web_test" and a folder "task_0" in that repository.
 
-4. Create repository named "kottans_web_test" and a folder "task_0" in that repository.
+4. Create README.md for the repository.
 
-5. Create README.md for the repository.
+5. 
 
 6. Finish [learngitbranching](http://learngitbranching.js.org) and put the screenshots of completed task lists in the task_0 folder and add links to screenshots to the README.md file in the root of task_0 folder (you can read about markdown here: [writing-on-github](https://help.github.com/categories/writing-on-github/))
 
@@ -73,3 +73,7 @@ When you finish this task you can start the next one:
 [Test 1](test01.md)
 
 #### P.S. If you are willing to participate in the course, you need to understand that you’ll spend a lot of time building something big together - a new way of learning and collaborating. You’ll become part of a small family and should prepare yourself to find new friends and to invest a lot in this friendship, as in any friendship should be. Final part of this course will be to split a parts and create news courses like that (and we’ll never stop).
+
+Some extra reading:
+
+[sixrevisions.com/web-development/git-tips/](http://sixrevisions.com/web-development/git-tips/)
