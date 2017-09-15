@@ -29,6 +29,12 @@ Learn some frontend basics
 
 3. [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
 
+4. [JS Basics](https://www.udacity.com/course/javascript-basics--ud804)
+
+5. [Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
+
+6. [JS design patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+
 <!-- https://www.udacity.com/course/web-development--cs253 -->
 <!-- https://www.udacity.com/course/make-your-own-2048--ud248 -->
 <!-- https://www.udacity.com/course/programming-foundations-with-python--ud036 -->
@@ -51,6 +57,8 @@ Learn some frontend basics
 7. [Website Coding](https://www.coursera.org/learn/website-coding)
 
 <!-- https://www.coursera.org/specializations/website-development -->
+
+<!-- https://www.coursera.org/specializations/full-stack-mobile-app-development  -->
 
 
 When you finish this task you can start the next one:

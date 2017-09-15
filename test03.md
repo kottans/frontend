@@ -10,16 +10,6 @@ Learn some frontend basics
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
 
-1. [JS Basics](https://www.udacity.com/course/javascript-basics--ud804)
-
-2. [Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
-
-3. [JS design patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
-
-<!-- https://www.udacity.com/course/web-development--cs253 -->
-<!-- https://www.udacity.com/course/make-your-own-2048--ud248 -->
-<!-- https://www.udacity.com/course/programming-foundations-with-python--ud036 -->
-
 When you finish this task you can start the next one:
 
 [Not ready yet]()
