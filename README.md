@@ -20,22 +20,22 @@ And give all power & responsibility to students.
 1. Git, github basics, writing good commit messages
 2. Linux, command line basics, network basics
 3. HTML, CSS, JS basics
-4. TDD, BDD - to get familiar with
+4. Testing and TDD basics
 5. Basic FP vocabulary, OOP patterns vocabulary
-6. MVC basics
-7. ...
+6. Build a bunch of test projects
+7. Have fun together
 
 #### Syllabus:
 
-1. Web development basics
-2. HTML, CSS
-3. JavaScript
-4. CI/CD
-5. ...
-6. Since the course will be driven by students, you'll be able to decide on further topics.
-
+0. Git, Github
+1. HTML, CSS
+2. JavaScript
+...
+<!-- TODO finish it up  -->
 
 # General requirements
+
+0. English knowledge, most of the materials will be in English.
 
 1. You will make a repository on GitHub and save your progress in it. More on repositories in task 0 (see below).
 
@@ -46,7 +46,7 @@ And give all power & responsibility to students.
   - name (at least) one thing that surprised you
   - name (at least) one thing you will use in the future
 
-4. Online courses: finish all tasks, make screenshots and post them in respective task's README.
+4. Online courses: finish all tasks, add some reflection about them in README.
 
 5. Videos: same as for reading - watch the video, answer three questions.
 
@@ -61,9 +61,9 @@ And give all power & responsibility to students.
 
 4. Create README.md for the repository.
 
-5. 
+5. Describe your impressions about learned materials.
 
-6. Finish [learngitbranching](http://learngitbranching.js.org) and put the screenshots of completed task lists in the task_0 folder and add links to screenshots to the README.md file in the root of task_0 folder (you can read about markdown here: [writing-on-github](https://help.github.com/categories/writing-on-github/))
+6. Finish [learngitbranching](http://learngitbranching.js.org) (main & remote parts) and put the screenshots of completed task lists in the task_0 folder and add links to screenshots to the README.md file in the root of task_0 folder (you can read about markdown here: [writing-on-github](https://help.github.com/categories/writing-on-github/))
 
 7. Send a pull-request to repo [Kottans/mock-repo](https://github.com/Kottans/mock-repo) proposing a change. It could be anything, really. If you have found a typo in README - great! Take care to give your PR a meaningful name and description. Take screenshot of the PR and post it in README to task_0 folder.
 **Please note, that your PR may not be reviewed quickly.**
