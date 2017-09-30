@@ -22,7 +22,7 @@ Learn some command line, server and http tools
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
 
-Finish the courses (1, 2 and 3) and put the screenshots of the finished lessons lists in the task_1 folder and the links in the README.md file in the root of task_1 folder. Also read 4,5 articles.
+Finish the courses (1, 2 and 3) and put the screenshots of the finished lessons lists in the task_1 folder and the links in the README.md. Also read 4,5 articles.
 
 When you finish this task you can start the next one:
 
