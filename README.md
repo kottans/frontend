@@ -65,7 +65,7 @@ And give all power & responsibility to students.
 
 6. Finish [learngitbranching](http://learngitbranching.js.org) (main & remote parts) and put the screenshots of completed task lists in the task_0 folder and add links to screenshots to the README.md file in the root of task_0 folder (you can read about markdown here: [writing-on-github](https://help.github.com/categories/writing-on-github/))
 
-7. Send a pull-request to repo [Kottans/mock-repo](https://github.com/Kottans/mock-repo) proposing a change. It could be anything, really. If you have found a typo in README - great! Take care to give your PR a meaningful name and description. Take screenshot of the PR and post it in README to task_0 folder.
+7. Send a pull-request to repo [Kottans/mock-repo](https://github.com/Kottans/mock-repo) proposing a change. It could be anything, really. If you have found a typo in README - great! Take care to give your PR a meaningful name and description. Take screenshot of the PR and post a link to it in README.
 **Please note, that your PR may not be reviewed quickly.**
 
 When you finish this task you can start the next one:
