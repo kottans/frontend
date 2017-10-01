@@ -22,8 +22,6 @@ When you finish this task you can start the next one:
 
 [Test 3](test03.md)
 
-Some extra reading:
+Some extra materials:
 
-[freecodecamp.org](https://www.freecodecamp.org)
-
-https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x#!
+[Git Flight Rules](https://github.com/k88hudson/git-flight-rules)

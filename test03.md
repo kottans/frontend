@@ -71,7 +71,9 @@ When you finish this task you can start the next one:
 
 [Not ready yet]()
 
-Some extra reading:
+Some extra materials:
 
+[freecodecamp.org](https://www.freecodecamp.org)
+https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x#!
 https://www.udacity.com/course/front-end-frameworks--ud894
 https://www.udacity.com/course/client-server-communication--ud897
