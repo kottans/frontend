@@ -77,3 +77,4 @@ Some extra materials:
 https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x#!
 https://www.udacity.com/course/front-end-frameworks--ud894
 https://www.udacity.com/course/client-server-communication--ud897
+[Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
