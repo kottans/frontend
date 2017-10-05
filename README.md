@@ -10,10 +10,11 @@
 
 Welcome
 
-This course will contain basics of frontend, HTML, CSS, JS, and some frontend frameworks
+This course will contain basics of frontend, HTML, CSS, JS, and some frontend frameworks.
 
 We plan to decrease the amount of lectures in favor of collective discussion, team projects & collective work.
 And give all power & responsibility to students.
+(You can use this materials for your own eductation.)
 
 #### In the process of completing test tasks kottans will learn:
 
