@@ -12,6 +12,22 @@ Learn some frontend basics
 
 0. [HTML5 and CSS Fundamentals](https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x)
 
+When you finish this task you can start the next one:
+
+[Test 4 (Not ready yet)](test03.md)
+
+Some extra materials:
+
+[freecodecamp.org](https://www.freecodecamp.org)
+
+[Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
+
+[Specificity calculator](https://specificity.keegan.st/)
+
+
+
+
+
 <!-- start of the task
 
 ### Edx
@@ -69,15 +85,3 @@ https://www.udacity.com/course/client-server-communication--ud897
 https://www.coursera.org/specializations/full-stack-mobile-app-development
 
 TASK finish -->
-
-When you finish this task you can start the next one:
-
-[Test 4 (Not ready yet)](test03.md)
-
-Some extra materials:
-
-[freecodecamp.org](https://www.freecodecamp.org)
-
-[Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
-
-[Specificity calculator](https://specificity.keegan.st/)
