@@ -9,7 +9,10 @@ Learn some frontend basics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
-<!-- start of the task -->
+
+0. [HTML5 and CSS Fundamentals](https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x)
+
+<!-- start of the task
 
 ### Edx
 
@@ -38,9 +41,9 @@ Learn some frontend basics
 
 6. [JS design patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 
-<!-- https://www.udacity.com/course/web-development--cs253 -->
-<!-- https://www.udacity.com/course/make-your-own-2048--ud248 -->
-<!-- https://www.udacity.com/course/programming-foundations-with-python--ud036 -->
+https://www.udacity.com/course/web-development--cs253
+https://www.udacity.com/course/make-your-own-2048--ud248
+https://www.udacity.com/course/programming-foundations-with-python--ud036
 
 
 ### Coursera
@@ -59,23 +62,22 @@ Learn some frontend basics
 
 7. [Website Coding](https://www.coursera.org/learn/website-coding)
 
-<!-- https://www.coursera.org/specializations/website-development -->
+https://www.coursera.org/specializations/website-development
+https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x#!
+https://www.udacity.com/course/front-end-frameworks--ud894
+https://www.udacity.com/course/client-server-communication--ud897
+https://www.coursera.org/specializations/full-stack-mobile-app-development
 
-<!-- https://www.coursera.org/specializations/full-stack-mobile-app-development  -->
-
-Finish the courses listed in the task and put the screenshots of the finished courses in the task_03 folder and the links in the README.md.
-
-<!-- TASK finish -->
+TASK finish -->
 
 When you finish this task you can start the next one:
 
-[Not ready yet]()
+[Test 4 (Not ready yet)](test03.md)
 
 Some extra materials:
 
 [freecodecamp.org](https://www.freecodecamp.org)
-https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x#!
-https://www.udacity.com/course/front-end-frameworks--ud894
-https://www.udacity.com/course/client-server-communication--ud897
+
 [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
+
 [Specificity calculator](https://specificity.keegan.st/)
