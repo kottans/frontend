@@ -78,3 +78,5 @@ Some extra materials:
 [Git tips](http://sixrevisions.com/web-development/git-tips/)
 
 [learngitbranching](http://learngitbranching.js.org)
+
+[Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
