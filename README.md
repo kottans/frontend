@@ -79,3 +79,5 @@ Some extra materials:
 [learngitbranching](http://learngitbranching.js.org)
 
 [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
+
+[TypingClub](https://www.typingclub.com/)
