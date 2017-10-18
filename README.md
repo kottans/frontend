@@ -30,6 +30,7 @@ And give all power & responsibility to students.
 0. Git, Github
 1. HTML, CSS
 2. JavaScript
+3. Bootstrap 
 ...
 <!-- TODO finish it up  -->
 
