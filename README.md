@@ -21,10 +21,9 @@ And give all power & responsibility to students.
 1. Git, github basics, writing good commit messages
 2. Linux, command line basics, network basics
 3. HTML, CSS, JS basics
-4. Testing and TDD basics
-5. Basic FP vocabulary, OOP patterns vocabulary
-6. Build a bunch of test projects
-7. Have fun together
+4. JS basics
+5. Build a bunch of test projects
+6. Have fun together
 
 #### Syllabus:
 
