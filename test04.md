@@ -10,6 +10,7 @@ Learn some frontend basics
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
 
+[HTML5 Coding Essentials and Best Practices](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.1x+1T2017/course/)
 
 
 When you finish this task you can start the next one:
@@ -17,8 +18,6 @@ When you finish this task you can start the next one:
 [Test 5 (Not ready yet)](test05.md)
 
 Some extra materials:
-
-[HTML5 Coding Essentials and Best Practices](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.1x+1T2017/course/)
 
 [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
 
