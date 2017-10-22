@@ -10,15 +10,20 @@ Learn some frontend basics
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
 
-0. [HTML5 and CSS Fundamentals](https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x)
+
 
 When you finish this task you can start the next one:
 
-[Test 4](test04.md)
+[Test 5 (Not ready yet)](test05.md)
 
 Some extra materials:
 
-[freecodecamp.org](https://www.freecodecamp.org)
+[HTML5 Coding Essentials and Best Practices](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.1x+1T2017/course/)
+
+[Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
+
+[Specificity calculator](https://specificity.keegan.st/)
+
 
 
 
