@@ -30,7 +30,7 @@ And give all power & responsibility to students.
 0. Git, Github
 1. HTML, CSS
 2. JavaScript
-3. Bootstrap 
+3. Bootstrap
 ...
 <!-- TODO finish it up  -->
 
@@ -82,3 +82,5 @@ Some extra materials:
 [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 
 [TypingClub](https://www.typingclub.com/)
+
+[Как учиться и справляться с негативными мыслями](https://hexletguides.github.io/learning/)
