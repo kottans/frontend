@@ -12,22 +12,26 @@ Welcome
 
 This course will contain basics of frontend, HTML, CSS, JS, and some frontend frameworks.
 
-We plan to decrease the amount of lectures in favor of collective discussion, team projects & collective work.
+We plan to decrease the amount of lectures in favor of collective discussions, team projects & collective work.
 And give all power & responsibility to students.
-(You can use this materials for your own eductation.)
+(You can use these materials for self-eductation too.)
+
+#### Admission
+
+Admission for the course is open until enough applicants have successfully completed the tasks (30 students approximately). Which means, that completing the tasks faster increases your chances to get into the course.
 
 #### In the process of completing test tasks kottans will learn:
 
 1. Git, github basics, writing good commit messages
 2. Linux, command line basics, network basics
-3. HTML, CSS, JS basics
+3. HTML, CSS
 4. JS basics
 5. Build a bunch of test projects
 6. Have fun together
 
 #### Syllabus:
 
-0. Git, Github
+0. Git, GitHub
 1. HTML, CSS
 2. JavaScript
 3. Bootstrap
@@ -38,23 +42,23 @@ And give all power & responsibility to students.
 
 0. English knowledge, most of the materials will be in English.
 
-1. You will make a repository on GitHub and save your progress in it. More on repositories in task 0 (see below).
+1. Repository on GitHub to save your progress. More on repositories in task 0 (see below).
 
-1. Styling: it's up to you, but remember to make it readable. Using [markdown](https://help.github.com/categories/writing-on-github/) is a good idea.
+2. Formatting: it's up to you, but remember to make it readable. Using [markdown](https://help.github.com/categories/writing-on-github/) is a good idea.
 
 3. Reading: for each article you are required to read please post the answers to the following questions in your respective repo.  Don't worry, your answers will not be graded. It's just a way to reflect on what you have learned.
   - name (at least) one thing that was new to you
   - name (at least) one thing that surprised you
-  - name (at least) one thing you will use in the future
+  - name (at least) one thing you intend to use in the future
 
 4. Online courses: finish all tasks, add some reflection about them in README.
 
 5. Videos: same as for reading - watch the video, answer three questions.
 
 
-# Task 0 (get familiar with Git and Github):
+# Task 0 (get familiar with Git and GitHub):
 
-1. Finish the course [How to use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+1. Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 2. Finish [try.github.io](https://try.github.io/levels/1/challenges/1)
 
@@ -69,7 +73,7 @@ And give all power & responsibility to students.
 
 When you finish this task you can start the next one:
 
-[Test 1](test01.md)
+[Task 1](test01.md)
 
 #### P.S. If you are willing to participate in the course, you need to understand that you’ll spend a lot of time building something big together - a new way of learning and collaborating. You’ll become part of a small family and should prepare yourself to find new friends and to invest a lot in this friendship, as in any friendship should be. Final part of this course will be to split a parts and create news courses like that (and we’ll never stop).
 
