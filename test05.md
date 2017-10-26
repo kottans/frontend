@@ -1,5 +1,5 @@
 
-# Test task 4
+# Test task 5
 Learn some frontend basics
 
 ## Join our chat: [![Gitter](https://badges.gitter.im/Kottans/frontend.svg)](https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -9,21 +9,20 @@ Learn some frontend basics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
-[CSS Basics](https://www.edx.org/course/css-basics-w3cx-css-0x-0)
+[HTML5 Coding Essentials and Best Practices](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.1x+1T2017/course/)
+
+Some extra materials:
+
+[Flexbox Froggy](http://flexboxfroggy.com/)
+
+[Grid Garden](http://cssgridgarden.com/)
+
+[11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 
 
 When you finish this task you can start the next one:
 
-[Test 5](test05.md)
-
-Some extra materials:
-
-[Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
-
-[Specificity calculator](https://specificity.keegan.st/)
-
-
-
+[Test 6 (Not ready yet)](test06.md)
 
 
 <!-- start of the task
