@@ -11,7 +11,7 @@ Learn some frontend basics
 
 [HTML5 Coding Essentials and Best Practices](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.1x+1T2017/course/)
 
-## Additional materials:
+Some extra materials:
 
 [Flexbox Froggy](http://flexboxfroggy.com/)
 
@@ -19,12 +19,10 @@ Learn some frontend basics
 
 [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 
+
 When you finish this task you can start the next one:
 
 [Test 6 (Not ready yet)](test06.md)
-
-Some extra materials:
-
 
 
 <!-- start of the task
