@@ -11,6 +11,7 @@ Learn some frontend basics
 
 [CSS Basics](https://www.edx.org/course/css-basics-w3cx-css-0x-0)
 
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "CSS Basics - finished".
 
 When you finish this task you can start the next one:
 

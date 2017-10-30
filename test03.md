@@ -12,6 +12,9 @@ Learn some frontend basics
 
 [HTML5 and CSS Fundamentals](https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x)
 
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "HTML5 and CSS Fundamentals - finished".
+
+
 When you finish this task you can start the next one:
 
 [Test 4](test04.md)

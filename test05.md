@@ -11,6 +11,8 @@ Learn some frontend basics
 
 [HTML5 Coding Essentials and Best Practices](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.1x+1T2017/course/)
 
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "HTML5 Coding Essentials and Best Practices - finished".
+
 Some extra materials:
 
 [Flexbox Froggy](http://flexboxfroggy.com/)
