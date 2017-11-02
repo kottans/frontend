@@ -1,5 +1,5 @@
 
-# Test task 5
+# Test task 6
 Learn some frontend basics
 
 ## Join our chat: [![Gitter](https://badges.gitter.im/Kottans/frontend.svg)](https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -9,22 +9,17 @@ Learn some frontend basics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
-[Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
+[Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 
 If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "HTML5 Coding Essentials and Best Practices - finished".
 
 Some extra materials:
 
-[Flexbox Froggy](http://flexboxfroggy.com/)
-
-[Grid Garden](http://cssgridgarden.com/)
-
-[11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 
 
 When you finish this task you can start the next one:
 
-[Test 6](test06.md)
+[Test 7 (Not ready yet)](test06.md)
 
 
 <!-- start of the task
