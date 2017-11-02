@@ -9,9 +9,9 @@ Learn some frontend basics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
-[CSS Basics](https://www.edx.org/course/css-basics-w3cx-css-0x-0)
+[Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "CSS Basics - finished".
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Responsive Web Design Fundamentals - finished".
 
 When you finish this task you can start the next one:
 
