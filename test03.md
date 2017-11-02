@@ -12,7 +12,7 @@ Learn some frontend basics
 
 [Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "HTML5 and CSS Fundamentals - finished".
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Intro to HTML & CSS - finished".
 
 
 When you finish this task you can start the next one:

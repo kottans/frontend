@@ -11,7 +11,7 @@ Learn some frontend basics
 
 [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "CSS Basics - finished".
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Responsive Web Design Fundamentals - finished".
 
 When you finish this task you can start the next one:
 

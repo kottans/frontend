@@ -11,7 +11,7 @@ Learn some frontend basics
 
 [Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "HTML5 Coding Essentials and Best Practices - finished".
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Object Oriented JS - finished".
 
 Some extra materials:
 
