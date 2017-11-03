@@ -15,6 +15,10 @@ If you honestly finished all the previous steps than go ahead and share it with 
 
 Some extra materials:
 
+[WTFJS](https://github.com/denysdovhan/wtfjs/blob/master/README.md)
+[Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
+[Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/)
+[You Don't Know JS](https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details)
 
 
 When you finish this task you can start the next one:
