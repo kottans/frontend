@@ -33,3 +33,5 @@ When you finish this task you can start the next one:
 Some extra reading:
 
 [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
+[Oh shit, git!](http://ohshitgit.com/)
+[Flight rules for git](https://github.com/k88hudson/git-flight-rules)
