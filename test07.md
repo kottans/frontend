@@ -9,18 +9,13 @@ Learn some frontend basics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
-[Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
+[Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Object Oriented JS - finished".
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Client-Server Communication - finished".
 
 Some extra materials:
-
-[WTFJS](https://github.com/denysdovhan/wtfjs/blob/master/README.md)
-[Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
-[Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/)
-[You Don't Know JS](https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details)
 
 
 When you finish this task you can start the next one:
 
-[Test 7](test07.md)
+[Test 8](test08.md)
