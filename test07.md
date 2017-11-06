@@ -9,9 +9,9 @@ Learn some frontend basics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
-[Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+[Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Client-Server Communication - finished".
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Offline Web Applications - finished".
 
 Some extra materials:
 
