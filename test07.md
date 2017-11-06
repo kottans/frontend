@@ -16,8 +16,6 @@ If you honestly finished all the previous steps than go ahead and share it with 
 Some extra materials:
 
 [15 тривиальных фактов о правильной работе с протоколом HTTP](https://habrahabr.ru/company/yandex/blog/265569/)
-[HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-[HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
 
 
