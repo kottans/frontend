@@ -17,6 +17,8 @@ Some extra materials:
 
 [15 тривиальных фактов о правильной работе с протоколом HTTP](https://habrahabr.ru/company/yandex/blog/265569/)
 [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
+[HTTP/2 101 (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=r5oT_2ndjms)
+[Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
 
 
 When you finish this task you can start the next one:
