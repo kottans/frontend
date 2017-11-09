@@ -19,12 +19,8 @@ When you finish this task you can start the next one:
 
 Some extra materials:
 
-[Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
-
-[Specificity calculator](https://specificity.keegan.st/)
-
-[Flexbox Froggy](http://flexboxfroggy.com/)
-
-[Grid Garden](http://cssgridgarden.com/)
-
-[11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+- [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
+- [Specificity calculator](https://specificity.keegan.st/)
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [Grid Garden](http://cssgridgarden.com/)
+- [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)

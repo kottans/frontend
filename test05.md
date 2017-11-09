@@ -15,8 +15,8 @@ If you honestly finished all the previous steps than go ahead and share it with 
 
 Some extra materials:
 
-[Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-
+- [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 
 When you finish this task you can start the next one:
 
