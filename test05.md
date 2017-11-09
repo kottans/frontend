@@ -15,11 +15,7 @@ If you honestly finished all the previous steps than go ahead and share it with 
 
 Some extra materials:
 
-[Flexbox Froggy](http://flexboxfroggy.com/)
-
-[Grid Garden](http://cssgridgarden.com/)
-
-[11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+[Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 
 When you finish this task you can start the next one:
