@@ -22,3 +22,5 @@ When you finish this task you can start the next one:
 Some extra materials:
 
 [freecodecamp.org](https://www.freecodecamp.org)
+[Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html)
+[htmlacademy](https://htmlacademy.ru/)
