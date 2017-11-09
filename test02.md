@@ -24,6 +24,5 @@ When you finish this task you can start the next one:
 
 Some extra materials:
 
-- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 - [Oh shit, git!](http://ohshitgit.com/)
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
