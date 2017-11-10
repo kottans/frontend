@@ -18,16 +18,16 @@ The game ends when the last pair has been picked up.
 ![Pair Game](https://i.imgur.com/dT2VQ9W.gif)
 
 
-In order to complete this challange you should have a basic knowledge of HTML, CSS and JS.
+In order to complete this challenge you should have a basic knowledge of HTML, CSS and JS.
 You can use any styling and animations you want - the only rule is to do it by yourself.
 
-Some of fallowing links might be helpful:
+Some of following links might be helpful:
 
 1. [Shuffle Array](https://css-tricks.com/snippets/javascript/shuffle-array/)
 2. [CSS3 Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 
 
-When you're done with your challange push your code to github repo and publish it using gh-pages.
+When you're done with your challenge push your code to github repo and publish it using gh-pages.
 Add link to it to your main frontend tasks repo.
 If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Memory - Pair Game - finished".
 
