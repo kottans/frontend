@@ -29,6 +29,7 @@ Some of fallowing links might be helpful:
 
 When you're done with your challange push your code to github repo and publish it using gh-pages.
 Add link to it to your main frontend tasks repo.
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Memory - Pair Gam - finished".
 
 Some extra materials:
 
