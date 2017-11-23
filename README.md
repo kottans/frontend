@@ -99,6 +99,6 @@ Sat Jan 13 | 13:00 | | | | | |
 
 Our basic rules:
 * Respect each other.
-* [There is no such thing as a stupid question t](https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question)
+* [There is no such thing as a stupid question](https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question)
 * Each person learns with they own speed, has different background and personality, please respect this by communicating and understanding people that difference form us we can much benefit.
 * We are against any discriminations by sex, age, the color of skin, disabilities or any other.
