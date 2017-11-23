@@ -88,3 +88,11 @@ Some extra materials:
 [TypingClub](https://www.typingclub.com/)
 
 [Как учиться и справляться с негативными мыслями](https://hexletguides.github.io/learning/)
+
+Our learning plans:
+
+Date       | Time  | Topic   | Coach   | Summary | Slides | Video | Home task
+-----------|-------|---------|---------|---------|--------|-------|----------
+Wed Jan 10 | 19:00 | Intro   | [Artem Sychov](https://github.com/suchov)| | | |
+Sat Jan 13 | 13:00 | | | | | |
+- - - | 19:00 | | | | | |
