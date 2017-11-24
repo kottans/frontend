@@ -11,7 +11,7 @@ If you honestly finished all the previous steps than go ahead and share it with
 others - send a message in gitter channel with the link to you repo and "@/all"
 tag and the words "Website Performance Optimization - finished".
 
-![Website Performance Optimization](https://www.udacity.com/course/ud884)
+[Website Performance Optimization](https://www.udacity.com/course/ud884)
 
 > Note: the final project in this course requires python, therefore, if you
 > wish, you can skip this project.
