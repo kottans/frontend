@@ -1,6 +1,4 @@
-# Test task 8
-
-Memory Pair Game
+# Test task 9
 
 ## Join our chat: [![Gitter](https://badges.gitter.im/Kottans/frontend.svg)](https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -15,8 +13,8 @@ tag and the words "Website Performance Optimization - finished".
 
 ![Website Performance Optimization](https://www.udacity.com/course/ud884)
 
-Note: the final project in this course requires python, therefore, if you wish,
-you can skip this project.
+> Note: the final project in this course requires python, therefore, if you
+> wish, you can skip this project.
 
 ### Some extra materials:
 
@@ -26,14 +24,12 @@ you can skip this project.
 4. [Анимации на GPU: делаем это правильно](https://habrahabr.ru/company/odnoklassniki/blog/313978/)
 5. [Пример веб-производительности](https://habrahabr.ru/company/infobox/blog/226289/)
 
-### Важные аспекты работы браузера для разработчиков
+#### Важные аспекты работы браузера для разработчиков
 
 1. [Важные аспекты работы браузера для разработчиков. Часть 1](https://habrahabr.ru/company/dataart/blog/304138/)
 2. [Важные аспекты работы браузера для разработчиков. Часть 2](https://habrahabr.ru/company/dataart/blog/304138/)
 
-### How JavaScript works
-
-[Translated version](https://habrahabr.ru/company/ruvds/blog/340508/)
+#### How JavaScript works [Translated version](https://habrahabr.ru/company/ruvds/blog/340508/)
 
 1. [An overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 2. [Inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
