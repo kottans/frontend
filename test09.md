@@ -8,7 +8,7 @@
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
 If you honestly finished all the previous steps than go ahead and share it with
-others - send a message in gitter channel with the link to you repo and "@/all"
+others - send a message in gitter channel with the link to your repo and "@/all"
 tag and the words "Website Performance Optimization - finished".
 
 [Website Performance Optimization](https://www.udacity.com/course/ud884)

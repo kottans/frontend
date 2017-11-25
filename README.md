@@ -75,7 +75,7 @@ When you finish this task you can start the next one:
 
 [Task 1](test01.md)
 
-#### P.S. If you are willing to participate in the course, you need to understand that you’ll spend a lot of time building something big together - a new way of learning and collaborating. You’ll become part of a small family and should prepare yourself to find new friends and to invest a lot in this friendship, as in any friendship should be. Final part of this course will be to split a parts and create news courses like that (and we’ll never stop).
+#### P.S. If you are willing to participate in the course, you need to understand that you’ll spend a lot of time building something big together - a new way of learning and collaborating. You’ll become part of a small family and should prepare yourself to find new friends and to invest a lot in this friendship, as in any friendship should be. Final part of this course will be to split into groups and create new courses like that (and we’ll never stop).
 
 Some extra materials:
 
