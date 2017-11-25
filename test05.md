@@ -11,7 +11,7 @@ Learn some frontend basics
 
 [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Intro to JS - finished".
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Intro to JS - finished".
 
 Some extra materials:
 

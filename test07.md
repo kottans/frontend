@@ -11,7 +11,7 @@ Learn some frontend basics
 
 [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag and the words "Offline Web Applications - finished".
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Offline Web Applications - finished".
 
 Some extra materials:
 
