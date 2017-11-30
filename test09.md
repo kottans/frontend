@@ -27,7 +27,7 @@ tag and the words "Website Performance Optimization - finished".
 #### Важные аспекты работы браузера для разработчиков
 
 1. [Важные аспекты работы браузера для разработчиков. Часть 1](https://habrahabr.ru/company/dataart/blog/304138/)
-2. [Важные аспекты работы браузера для разработчиков. Часть 2](https://habrahabr.ru/company/dataart/blog/304138/)
+2. [Важные аспекты работы браузера для разработчиков. Часть 2](https://habrahabr.ru/company/dataart/blog/304934/)
 
 #### How JavaScript works [Translated version](https://habrahabr.ru/company/ruvds/blog/340508/)
 
