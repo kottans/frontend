@@ -19,18 +19,18 @@ website.
 
 Create a page with a weather cast.
 
-As a user I would like to:
+As a user, I would like to:
 
-* enter name of the city or it's postcode and get weather cast in this city
-* choose period of the weather cast: today, tomorrow, week
-* choose units — Celsius or Fahrenheit
+* enter the name of a city and get the forecast for it;
+* choose period of the forecast. As example: today, tomorrow, week, two weeks, etc;
+* choose units — Celsius or Fahrenheit;
 * have a list of favorite cities. By selecting favorite city from the list, I
-  want to see weather cast in it
-* have a list of recently viewed cities
+  want to see forecast in it;
+* have a list of recently viewed cities;
 * see current city in the link in the address bar of the browser. If I open this
-  link in the new window, website must show me weather in this city
-* see fancy icons for weather cast and design. Usage of template absolutely
-  acceptable
+  link in the new window, website must show me weather in this city;
+* see fancy icons for forecast and design. Usage of template absolutely
+  acceptable.
 
 You must support only last versions of major browsers — Chrome, Safari, FF,
 Edge.
@@ -38,14 +38,17 @@ Edge.
 If you wish, you can support Internet Explorer, but this is not required. Same
 story with mobile devices.
 
+### Additional information: ###
+- The exact list of forecast periods may vary from API which you choose for this task. Providing forecast not for week, but for five days totally acceptable.
+
 ### Materials which will help you:
 
 * [Weather public API's](https://github.com/toddmotto/public-apis#weather) - _you can use one of this API for
-  getting data for your website_
+  getting data for your website_;
 * [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - you can use
-  this for working with URL
+  this for working with URL;
 * [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
-  you must know how to work with browser history
+  you must know how to work with browser history.
 
 If you feel that you can do a better job, you can use
 [async/awaits](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99),
