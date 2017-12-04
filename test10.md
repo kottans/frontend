@@ -22,7 +22,7 @@ Create a page with a weather cast.
 As a user I would like to:
 
 * enter name of the city or it's postcode and get weather cast in this city
-* choose period of the weather cast: today, tomorrow, week, two weeks
+* choose period of the weather cast: today, tomorrow, week
 * choose units — Celsius or Fahrenheit
 * have a list of favorite cities. By selecting favorite city from the list, I
   want to see weather cast in it
@@ -40,7 +40,7 @@ story with mobile devices.
 
 ### Materials which will help you:
 
-* [Weather API](http://openweathermap.org/api) - _you can use this API for
+* [Weather public API's](https://github.com/toddmotto/public-apis#weather) - _you can use one of this API for
   getting data for your website_
 * [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - you can use
   this for working with URL
