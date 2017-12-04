@@ -39,7 +39,7 @@ If you wish, you can support Internet Explorer, but this is not required. Same
 story with mobile devices.
 
 ### Additional information: ###
-- The exact list of forecast periods may vary from API which you choose for this task. Providing forecast not for week, but for five days totally acceptable.
+- The exact list of forecast periods may depend on API which you choose for this task. Providing forecast not for week, but for five days totally acceptable.
 
 ### Materials which will help you:
 
