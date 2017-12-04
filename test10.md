@@ -17,19 +17,21 @@ website.
 
 ## Weather app
 
-Create a page with a weather cast. As example, you can see forecast from [darksky](https://darksky.net/forecast/50.4501,30.5241/us12/en).
+Create a page with a weather cast. As example, you can see forecast from
+[darksky](https://darksky.net/forecast/50.4501,30.5241/us12/en).
 
-### As a user, I would like to: ###
+### As a user, I would like to:
 
 * enter the name of a city and get the forecast for it;
-* see forecast for some period. not only for today. As example, also for tomorrow, week, two weeks,
-  etc;
+* see forecast for some period. not only for today. As example, also for
+  tomorrow, week, two weeks, etc;
 * choose units — Celsius or Fahrenheit;
 * have a list of favorite cities. By selecting favorite city from the list, I
   want to see forecast in it;
 * have a list of recently viewed cities;
-* see current city or latitude and longitude in the link in the address bar of the browser. If I open this
-  link in the new window, website must show me weather in this city;
+* see current city or latitude and longitude in the link in the address bar of
+  the browser. If I open this link in the new window, website must show me
+  weather in this city;
 * see fancy icons for forecast and design. Usage of template absolutely
   acceptable.
 
@@ -49,7 +51,8 @@ story with mobile devices.
   this for working with URL;
 * [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
   you must know how to work with browser history.
-* [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw) will help you to understand, how your website must be created
+* [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)
+  will help you to understand, how your website must be created
 
 ### If you feel that you can do a better job, you can:
 
