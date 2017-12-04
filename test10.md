@@ -17,20 +17,21 @@ website.
 
 ## Weather app
 
-Create a page with a weather cast.
+Create a page with a weather cast. As example, you can see forecast from [darksky](https://darksky.net/forecast/50.4501,30.5241/us12/en).
 
-As a user I would like to:
+### As a user, I would like to: ###
 
-* enter name of the city or it's postcode and get weather cast in this city
-* choose period of the weather cast: today, tomorrow, week, two weeks
-* choose units — Celsius or Fahrenheit
+* enter the name of a city and get the forecast for it;
+* see forecast for some period. not only for today. As example, also for tomorrow, week, two weeks,
+  etc;
+* choose units — Celsius or Fahrenheit;
 * have a list of favorite cities. By selecting favorite city from the list, I
-  want to see weather cast in it
-* have a list of recently viewed cities
-* see current city in the link in the address bar of the browser. If I open this
-  link in the new window, website must show me weather in this city
-* see fancy icons for weather cast and design. Usage of template absolutely
-  acceptable
+  want to see forecast in it;
+* have a list of recently viewed cities;
+* see current city or latitude and longitude in the link in the address bar of the browser. If I open this
+  link in the new window, website must show me weather in this city;
+* see fancy icons for forecast and design. Usage of template absolutely
+  acceptable.
 
 You must support only last versions of major browsers — Chrome, Safari, FF,
 Edge.
@@ -38,18 +39,35 @@ Edge.
 If you wish, you can support Internet Explorer, but this is not required. Same
 story with mobile devices.
 
-### Materials which will help you:
+### Stuff which will help you:
 
-* [Weather API](http://openweathermap.org/api) - _you can use this API for
-  getting data for your website_
+* [Основы XMLHttpRequest](https://learn.javascript.ru/ajax-xmlhttprequest) - you
+  can use XMLHttpRequest for sending requests to webserver;
+* [Weather public API's](https://github.com/toddmotto/public-apis#weather) -
+  _you can use one of this API for getting data for your website_;
 * [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - you can use
-  this for working with URL
+  this for working with URL;
 * [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
-  you must know how to work with browser history
+  you must know how to work with browser history.
+* [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw) will help you to understand, how your website must be created
 
-If you feel that you can do a better job, you can use
-[async/awaits](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99),
-[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), make
-good responsive/fluid/elastic/whatever design and other modern stuff.
+### If you feel that you can do a better job, you can:
+
+* use
+  [async/awaits](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99)
+  and [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+  for handling network requests;
+* with help of ES6 modules build website based on frontend components (aware,
+  that FF do not support ES6 modules right now).
+* make good responsive/fluid/elastic/whatever design and other modern stuff.
+
+### Additional information:
+
+* The exact list of forecast periods may depend on API which you choose for this
+  task. Providing forecast not for week, but for five days, 10 days, etc.
+  totally acceptable;
+* In case you trying to build modular frontend application, you can skip support
+  of FF, because last one does not supports ES6 modules;
+* Map with temperatures is not required for this task;
 
 <!-- [Test 9](test09.md) -->
