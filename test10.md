@@ -29,7 +29,7 @@ As a user I would like to:
 * have a list of recently viewed cities
 * see current city in the link in the address bar of the browser. If I open this
   link in the new window, website must show me weather in this city
-* see fancy icons for weather cast and design. Using of template absolutely
+* see fancy icons for weather cast and design. Usage of template absolutely
   acceptable
 
 You must support only last versions of major browsers — Chrome, Safari, FF,
@@ -45,11 +45,11 @@ story with mobile devices.
 * [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - you can use
   this for working with URL
 * [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
-  you must now how to work with browser history
+  you must know how to work with browser history
 
-If you fill that you can do a better job, you can use
+If you feel that you can do a better job, you can use
 [async/awaits](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99),
 [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), make
-good responsive/fluid/whatever/elasit/whatever design and other modern stuff.
+good responsive/fluid/elastic/whatever design and other modern stuff.
 
 <!-- [Test 9](test09.md) -->
