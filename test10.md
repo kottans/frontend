@@ -23,7 +23,7 @@ Create a page with a weather cast. As example, you can see forecast from
 ### As a user, I would like to:
 
 * enter the name of a city and get the forecast for it;
-* see forecast for some period. not only for today. As example, also for
+* see forecast for some period, not only for today. As example, for
   tomorrow, week, two weeks, etc;
 * choose units — Celsius or Fahrenheit;
 * have a list of favorite cities. By selecting favorite city from the list, I
@@ -66,7 +66,7 @@ story with mobile devices.
   that FF do not support ES6 modules right now).
 * make good responsive/fluid/elastic/whatever design and other modern stuff;
 
-#### Choose path of grandmaster of storms, tornados for all over the time, space and in all possible far-far away, and:
+#### Choose path of grandmaster of storms, tornadoes for all over the time, space and in all possible far-far away, and:
 
 * see video, which will give basic understanding about architecture of modern
   website —
