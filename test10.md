@@ -56,13 +56,30 @@ story with mobile devices.
 
 ### If you feel that you can do a better job, you can:
 
+#### Choose path of master wizzard and:
+
 * use
   [async/awaits](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99)
   and [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
   for handling network requests;
 * with help of ES6 modules build website based on frontend components (aware,
   that FF do not support ES6 modules right now).
-* make good responsive/fluid/elastic/whatever design and other modern stuff.
+* make good responsive/fluid/elastic/whatever design and other modern stuff;
+
+#### Choose path of grandmaster of magic and all over the time, space and all possible far-far away, and:
+
+* see video, which will give basic understanding about architecture of modern
+  website —
+  [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw);
+* after finishing above mentioned video, try to build your website from
+  components. As example:
+
+- Application — fetching, storing and processing all the data
+- SearchBar — controls search input, sends input data to Application
+- TodayForecast — takes data from Application and shows forecast for today
+- WeekForecast — takes data from Application and shows forecast for week
+- TemperatureDropdown — dropdown, which gives possibility to select Celsius or
+  Fahrenheit
 
 ### Additional information:
 
