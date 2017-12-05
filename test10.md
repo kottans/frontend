@@ -51,8 +51,6 @@ story with mobile devices.
   this for working with URL;
 * [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
   you must know how to work with browser history.
-* [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)
-  will help you to understand, how your website must be created
 
 ### If you feel that you can do a better job, you can:
 
