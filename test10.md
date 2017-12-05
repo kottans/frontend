@@ -56,7 +56,7 @@ story with mobile devices.
 
 ### If you feel that you can do a better job, you can:
 
-#### Choose path of master wizzard and:
+#### Choose path of master of sun and clouds, and:
 
 * use
   [async/awaits](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99)
@@ -66,7 +66,7 @@ story with mobile devices.
   that FF do not support ES6 modules right now).
 * make good responsive/fluid/elastic/whatever design and other modern stuff;
 
-#### Choose path of grandmaster of magic and all over the time, space and all possible far-far away, and:
+#### Choose path of grandmaster of storms, tornados for all over the time, space and in all possible far-far away, and:
 
 * see video, which will give basic understanding about architecture of modern
   website —
@@ -74,11 +74,11 @@ story with mobile devices.
 * after finishing above mentioned video, try to build your website from
   components. As example:
 
-- Application — fetching, storing and processing all the data
-- SearchBar — controls search input, sends input data to Application
-- TodayForecast — takes data from Application and shows forecast for today
-- WeekForecast — takes data from Application and shows forecast for week
-- TemperatureDropdown — dropdown, which gives possibility to select Celsius or
+  - Application — fetching, storing and processing all the data
+  - SearchBar — controls search input, sends input data to Application
+  - TodayForecast — takes data from Application and shows forecast for today
+  - WeekForecast — takes data from Application and shows forecast for week
+  - TemperatureDropdown — dropdown, which gives possibility to select Celsius or
   Fahrenheit
 
 ### Additional information:
@@ -86,8 +86,8 @@ story with mobile devices.
 * The exact list of forecast periods may depend on API which you choose for this
   task. Providing forecast not for week, but for five days, 10 days, etc.
   totally acceptable;
-* In case you trying to build modular frontend application, you can skip support
-  of FF, because last one does not supports ES6 modules;
+* In case you try to build modular frontend application, you can skip support
+  of FF, because last one does not support ES6 modules;
 * Map with temperatures is not required for this task;
 
-<!-- [Test 9](test09.md) -->
+<!-- [Test 11](test11.md) -->
