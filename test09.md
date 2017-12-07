@@ -23,6 +23,7 @@ tag and the words "Website Performance Optimization - finished".
 3. [Responsive Images](https://www.udacity.com/course/ud882)
 4. [Анимации на GPU: делаем это правильно](https://habrahabr.ru/company/odnoklassniki/blog/313978/)
 5. [Пример веб-производительности](https://habrahabr.ru/company/infobox/blog/226289/)
+6. [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)
 
 #### Важные аспекты работы браузера для разработчиков
 
