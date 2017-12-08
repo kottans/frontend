@@ -17,6 +17,7 @@ Some extra materials:
 
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 When you finish this task you can start the next one:
 
