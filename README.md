@@ -95,3 +95,4 @@ Our basic rules:
 * Each person learns with their own speed, has different background and personality, please respect this
 * Communicating and understanding people that are different from you can be beneficial to both parties, provided mutual respect.
 * We are against any discriminations by sex, age, the color of skin, disabilities or any other.
+* We respect intellectual property, there is a hard work of an author or a group of authors behind.
