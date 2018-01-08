@@ -4,6 +4,6 @@
 
 Date       | Time  | Topic   | Coach   | Summary | Slides | Video | Home task
 -----------|-------|---------|---------|---------|--------|-------|----------
-Wed Jan 10 | 19:00 | Intro   | [Artem Sychov](https://github.com/suchov)|| [Slides]() |[Video]() | [task]()
-Sat Jan 13 | 16:00 | topic | []() | [Summary]() | |TBA | [task]()
+Sat Jan 13 | 16:00 | Intro | [Artem Sychov](https://github.com/suchov) | [Summary]() | |TBA | [task]()
 Mon Jan 15 | 19:00 | topic | []() | [Summary]() | |TBA | [task]()
+Wed Jan 17 | 19:00 | topic | []() | [Summary]() | |TBA | [task]()
