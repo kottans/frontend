@@ -1,7 +1,7 @@
 # Students list:
 
 Number | Name      | Github | Tasks done | Summary
--------|-----------|---------|---------
+-------|-----------|---------|---------|---------
 1 | Anna Boyko| [git](https://github.com/Boyko-Anna) | Task 8 | self learned HTML, CSS, C# courses Cyber Bionics, some Ruby courses, JS self learning, interested in remote work.
 2 | Daria Shvydka | [git](https://github.com/DariaShvydka) | Task 9  | HTML, CSS, SASS production experience ~ 1 year. JS - self learning.
 3 | Igor Kurkov | [git](https://github.com/IgorKurkov) | Task 7 | Created https://igorkurkov.github.io/kottans-stats/, self learning php, js, Drupal
