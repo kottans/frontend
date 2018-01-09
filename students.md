@@ -8,4 +8,5 @@ Igor Kurkov | [git](https://github.com/IgorKurkov) | Task 7 | Created https://ig
 Maxim | [git](https://github.com/cidre) | Task 8 | 3rd time trying to get on the course, no prod experience
 Oleksii Nelin | [git](https://github.com/Xsorter) | Task 10  | ~1 year of production experience with JS, JQuery, CSS, HTML
 Miroslav | [git](https://github.com/iammiro/kottans_frontend) | Task 10  | Some prod experience, layout sites, JQuery
+Anna Stepashko | [git](https://github.com/xandzia) | Task 8  | CSS, HTML, JQuery self education, no production experience.
 Name | [git]() | Task  | info
