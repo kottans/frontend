@@ -26,12 +26,14 @@ Number | Name      | Github | Tasks done | Summary
 22 | Serhii Rosinec | [git](https://github.com/serhii-r) | Task 8 | No production experience, some Joomla experience, self learning
 23 | Sergey Gorobiy | [git](https://github.com/ermondel) | Task 8 | About one year forntend experience, it support
 24 | Tania Harchenko | [git](https://github.com/tatianochka) | Task 5 | Some production experience with HTML, CSS, intern in small company
-25 | Name | [git]() | Task | Info
-26 | Name | [git]() | Task | Info
-27 | Name | [git]() | Task | Info
-28 | Name | [git]() | Task | Info
+25 | Yaroslav Fedyai | [git](https://github.com/yfedyai/kottans_frontend) | Task 5 | KPI, some experience with frontend in the University
+26 | Sergey Turchak | [git](https://github.com/turchak) | Task 9 | Courses bitrut academy - HTML, CSS, lendings.
+27 | Oleksiy Rudenko | [git](https://github.com/OleksiyRudenko) | Task 10 | Small production experience
+28 | Oleksandr Semijuta | [git](https://github.com/kaizengami) | Task 10 | Small production experience, HTML, CSS, JS
 29 | Name | [git]() | Task | Info
 30 | Name | [git]() | Task | Info
 31 | Name | [git]() | Task | Info
 32 | Name | [git]() | Task | Info
 33 | Name | [git]() | Task | Info
+34 | Name | [git]() | Task | Info
+35 | Name | [git]() | Task | Info
