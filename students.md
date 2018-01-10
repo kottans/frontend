@@ -31,8 +31,8 @@ Number | Name      | Github | Tasks done | Summary
 27 | Oleksiy Rudenko | [git](https://github.com/OleksiyRudenko) | Task 10 | Small production experience
 28 | Oleksandr Semijuta | [git](https://github.com/kaizengami) | Task 10 | Small production experience, HTML, CSS, JS
 29 | Viki | [git](https://github.com/tori19) | Task 5 | No previous experience, self learned
-30 | Name | [git]() | Task | Info
-31 | Name | [git]() | Task | Info
+30 | Konstantyn Nazarenko | [git](https://github.com/KonstantynNazarenko) | Task 5 | Self learning, no previous experience, only design
+31 | Valentyn Fomenko | [git](https://github.com/val-fom) | Task 10 | No production experience, self learning
 32 | Name | [git]() | Task | Info
 33 | Name | [git]() | Task | Info
 34 | Name | [git]() | Task | Info
