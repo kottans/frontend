@@ -25,4 +25,13 @@ Number | Name      | Github | Tasks done | Summary
 21 | Zubrik Irina | [git](https://github.com/zubrik1) | Task 9 | Switcher, self learning, treehouse
 22 | Serhii Rosinec | [git](https://github.com/serhii-r) | Task 8 | No production experience, some Joomla experience, self learning
 23 | Sergey Gorobiy | [git](https://github.com/ermondel) | Task 8 | About one year forntend experience, it support
-24 | Name | [git]() | Task | Info
+24 | Tania Harchenko | [git](https://github.com/tatianochka) | Task 5 | Some production experience with HTML, CSS, intern in small company
+25 | Name | [git]() | Task | Info
+26 | Name | [git]() | Task | Info
+27 | Name | [git]() | Task | Info
+28 | Name | [git]() | Task | Info
+29 | Name | [git]() | Task | Info
+30 | Name | [git]() | Task | Info
+31 | Name | [git]() | Task | Info
+32 | Name | [git]() | Task | Info
+33 | Name | [git]() | Task | Info
