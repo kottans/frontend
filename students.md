@@ -33,7 +33,7 @@ Number | Name      | Github | Tasks done | Summary
 29 | Viki | [git](https://github.com/tori19) | Task 5 | No previous experience, self learned
 30 | Konstantyn Nazarenko | [git](https://github.com/KonstantynNazarenko) | Task 5 | Self learning, no previous experience, only design
 31 | Valentyn Fomenko | [git](https://github.com/val-fom) | Task 10 | No production experience, self learning
-32 | Name | [git]() | Task | Info
+32 | Lena Dragan | [git](https://github.com/lenadgit) | Task 9 | Self learning, small HTML, CSS experience, want to work in frontend
 33 | Name | [git]() | Task | Info
 34 | Name | [git]() | Task | Info
 35 | Name | [git]() | Task | Info
