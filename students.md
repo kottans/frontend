@@ -30,7 +30,7 @@ Number | Name      | Github | Tasks done | Summary
 26 | Sergey Turchak | [git](https://github.com/turchak) | Task 9 | Courses bitrut academy - HTML, CSS, lendings.
 27 | Oleksiy Rudenko | [git](https://github.com/OleksiyRudenko) | Task 10 | Small production experience
 28 | Oleksandr Semijuta | [git](https://github.com/kaizengami) | Task 10 | Small production experience, HTML, CSS, JS
-29 | Name | [git]() | Task | Info
+29 | Viki | [git](https://github.com/tori19) | Task 5 | No previous experience, self learned
 30 | Name | [git]() | Task | Info
 31 | Name | [git]() | Task | Info
 32 | Name | [git]() | Task | Info
