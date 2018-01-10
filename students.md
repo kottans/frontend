@@ -23,4 +23,6 @@ Number | Name      | Github | Tasks done | Summary
 19 | Nikolay Kolombet | [git](https://github.com/Nick9707) | Task 7 | IPSA KPI
 20 | Serafim Pochapinsky | [git](https://github.com/SerafimPoch) | Task 10 | Linguistic University
 21 | Zubrik Irina | [git](https://github.com/zubrik1) | Task 9 | Switcher, self learning, treehouse
-22 | Name | [git]() | Task | Info
+22 | Serhii Rosinec | [git](https://github.com/serhii-r) | Task 8 | No production experience, some Joomla experience, self learning
+23 | Sergey Gorobiy | [git](https://github.com/ermondel) | Task 8 | About one year forntend experience, it support
+24 | Name | [git]() | Task | Info
