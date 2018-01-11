@@ -35,6 +35,6 @@ Number | Name      | Github | Tasks done | Summary
 31 | Valentyn Fomenko | [git](https://github.com/val-fom) | Task 10 | No production experience, self learning
 32 | Lena Dragan | [git](https://github.com/lenadgit) | Task 9 | Self learning, small HTML, CSS experience, want to work in frontend
 33 | Alexander Ostrovnyy| [git](https://github.com/A-Ostrovnyy) | Task 6 | Self learning, interested in start working in frontend
-34 | Name | [git]() | Task | Info
+34 | Alena Kuznetsova | [git](https://github.com/alenakuznetsova) | Task 6 | Tech university, some HTML, CSS prod experience
 35 | Name | [git]() | Task | Info
-36 | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | ONLINE Odessa, HTML, CSS production experience, want to improve JS
+36 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
