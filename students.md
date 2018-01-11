@@ -37,7 +37,7 @@ Number | Name      | Github | Tasks done | Summary
 33 | Alexander Ostrovnyy| [git](https://github.com/A-Ostrovnyy) | Task 6 | Self learning, interested in start working in frontend
 34 | Alena Kuznetsova | [git](https://github.com/alenakuznetsova) | Task 6 | Tech university, some HTML, CSS prod experience
 35 | Nikita Andryhin | [git](https://github.com/n1cko22) | Task 5 | some self learning, no prod experience
-36 | Name | [git]() | Task | Info
+36 | Mykola Mielieshkin | [git](https://github.com/claimsecond) | Task 5 | Self learning, no prod experience
 37 | Name | [git]() | Task | Info
 38 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
 39 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer
