@@ -34,6 +34,6 @@ Number | Name      | Github | Tasks done | Summary
 30 | Konstantyn Nazarenko | [git](https://github.com/KonstantynNazarenko) | Task 5 | Self learning, no previous experience, only design
 31 | Valentyn Fomenko | [git](https://github.com/val-fom) | Task 10 | No production experience, self learning
 32 | Lena Dragan | [git](https://github.com/lenadgit) | Task 9 | Self learning, small HTML, CSS experience, want to work in frontend
-33 | Name | [git]() | Task | Info
+33 | Alexander Ostrovnyy| [git](https://github.com/A-Ostrovnyy) | Task 6 | Self learning, interested in start working in frontend
 34 | Name | [git]() | Task | Info
 35 | Name | [git]() | Task | Info
