@@ -37,3 +37,4 @@ Number | Name      | Github | Tasks done | Summary
 33 | Alexander Ostrovnyy| [git](https://github.com/A-Ostrovnyy) | Task 6 | Self learning, interested in start working in frontend
 34 | Name | [git]() | Task | Info
 35 | Name | [git]() | Task | Info
+36 | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | ONLINE Odessa, HTML, CSS production experience, want to improve JS
