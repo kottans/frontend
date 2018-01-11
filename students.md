@@ -38,6 +38,6 @@ Number | Name      | Github | Tasks done | Summary
 34 | Alena Kuznetsova | [git](https://github.com/alenakuznetsova) | Task 6 | Tech university, some HTML, CSS prod experience
 35 | Nikita Andryhin | [git](https://github.com/n1cko22) | Task 5 | some self learning, no prod experience
 36 | Mykola Mielieshkin | [git](https://github.com/claimsecond) | Task 5 | Self learning, no prod experience
-37 | Name | [git]() | Task | Info
+37 | Lilia Via | [git](https://github.com/LiliVia/kottans_frontend) | Task 6 | Slef learning, kottans courses
 38 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
 39 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer
