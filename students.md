@@ -39,5 +39,6 @@ Number | Name      | Github | Tasks done | Summary
 35 | Nikita Andryhin | [git](https://github.com/n1cko22) | Task 5 | some self learning, no prod experience
 36 | Mykola Mielieshkin | [git](https://github.com/claimsecond) | Task 5 | Self learning, no prod experience
 37 | Lilia Via | [git](https://github.com/LiliVia/kottans_frontend) | Task 6 | Slef learning, kottans courses
-38 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
-39 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer
+38 | Ivan Kartsev | [git](https://github.com/Refreyd) | Task 6 | Slef learning, HTML, CSS
+39 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
+40 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer
