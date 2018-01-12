@@ -42,3 +42,4 @@ Number | Name      | Github | Tasks done | Summary
 38 | Ivan Kartsev | [git](https://github.com/Refreyd) | Task 6 | Slef learning, HTML, CSS
 39 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
 40 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer
+41 online | Andrew Omelchenko | [git](https://github.com/Andrew-Omelchenko) | Task 9 | soem C(embeded hardware) experiance, self learning
