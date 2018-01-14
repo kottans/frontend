@@ -3,7 +3,7 @@
 
 Forms are the very essence of web. Roughly speaking an average web application consists mostly of forms and lists. Forms are expected to be:
 - usable: the user should understand clearly what action/input is required. If the user's input is incorrect, he/she should be notified in a friendly manner about it. The form should respond to user actions and give adequate feedback: user must understand what is happening and what he/she is expected to do (if the form is active, clicked, expecting input etc.)
-- accessible: often the user is using a form not on desktop browser, but on a mobile device, not with a mouse, but with keyboard instead of mouse, with screen reader or other support technology. Modern web applications are expected to provide optimal user experience in all those cases.
+- accessible: often the user is using a form not on desktop browser, but on a mobile device, not with a mouse, but with keyboard instead of mouse, with screen reader or other assistive device. Modern web applications are expected to provide optimal user experience in all those cases.
 - pretty and design-conform - the look of standard input widgets may diverge significantly from application design. Styling widgets is complicated, because you need to preserve functionality of a widget.
 
 Good news is that HTML5 provides developers with a rich set of tools to approach those challenges in an elegant way. Bad news is that not all browsers support all HTML5 goodies.
@@ -11,10 +11,12 @@ Tasks described in this lesson are often solved with JavaScript, but this approa
 
 #### Key Terms
 
-- Form, form group, widget
+- Form, widget
+- fieldset, legend, label
+- checkbox, radio button, select
+- tabindex
 - validation
 - accessibility
-- tabindex
 
 #### Skills to master in this lesson
 
@@ -31,7 +33,8 @@ Make a form according to mockup: https://dribbble.com/shots/1322677-Checkout-Pag
 Use only HTML & CSS, no JavaScript.  
 Form elements should be clickable and respond to user action.  
 The look should be as close as possible to mockup.  
-Test the result in all available browsers & on different devices
+Test the result in all available browsers & on different devices.  
+Turn off CSS styling and check how your form looks and if it is still usable.
 
 #### Resources
 
