@@ -43,3 +43,4 @@ Number | Name      | Github | Tasks done | Summary
 39 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
 40 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer
 41 online | Andrew Omelchenko | [git](https://github.com/Andrew-Omelchenko) | Task 9 | C(embedded hardware) experience, self learning
+42 | Olena Lomonos | [git](https://github.com/olomonos) | Task 5 | Self learning, no production experience, just got my first job as a FrontEnd developer
