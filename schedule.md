@@ -4,6 +4,6 @@
 
 Date       | Time  | Topic   | Coach   | Summary | Slides | Video | Home task
 -----------|-------|---------|---------|---------|--------|-------|----------
-Sat Jan 13 | 16:00 | Intro | [Artem Sychov](https://github.com/suchov) | [Summary](https://www.youtube.com/watch?v=EoggF4itgGc&t=73s) | |TBA | [task](https://www.youtube.com/watch?v=3wZsafZ0UPk&t=10s)
+Sat Jan 13 | 16:00 | Intro | [Artem Sychov](https://github.com/suchov) | [Summary](https://github.com/SerafimPoch/kottans_task_summary/blob/master/intro_summary.md) | |TBA | [task](https://www.youtube.com/watch?v=3wZsafZ0UPk&t=10s)
 Wed Jan 17 | 19:30 | topic | []() | [Summary]() | |TBA | [task]()
 Sat Jan 20 | 16:00 | topic | []() | [Summary]() | |TBA | [task]()
