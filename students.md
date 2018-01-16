@@ -8,7 +8,7 @@ Number | Name      | Github | Tasks done | Summary
 4 | Maxim | [git](https://github.com/cidre) | Task 8 | 3rd time trying to get on the course, no prod experience
 5 | Oleksii Nelin | [git](https://github.com/Xsorter) | Task 10  | ~1 year of production experience with JS, JQuery, CSS, HTML
 6 | Miroslav | [git](https://github.com/iammiro/kottans_frontend) | Task 10  | Some prod experience, layout sites, JQuery
-7 | Anna Stepashko | [git](https://github.com/xandzia) | Task 8 | CSS, HTML, JQuery self education, no production experience, interested in start working
+7 | Anna Stepashko | [git](https://github.com/xandzia) | Task 8 | CSS, HTML, JQuery self-education, no production experience, interested in start working
 8 | Yevhen Orlov | [git](https://github.com/yevhenorlov) | Task 10 | 1,5 years production experience HTML, SASS, jQuery, want more serious Front End
 9 | Iaroslav Garmash | [git](https://github.com/feroxes) | Task 7 | No production experience, self-learned HTML, CSS
 10 | Olexiy Letushev | [git](https://github.com/Letushev) | Task 9 | No production experience, student of Shevchenko University, HTML, CSS self-learned and JS started with this course
@@ -22,7 +22,7 @@ Number | Name      | Github | Tasks done | Summary
 18 | Volodymyr Fedorov | [git](https://github.com/voveus) | Task 5 | Self-learning, Freecodecamp, HTMLAcademy
 19 | Nikolay Kolombet | [git](https://github.com/Nick9707) | Task 7 | IPSA KPI
 20 | Serafim Pochapinsky | [git](https://github.com/SerafimPoch) | Task 10 | Linguistic University
-21 | Zubrik Irina | [git](https://github.com/zubrik1) | Task 9 | Switcher, self learning, treehouse
+21 | Zubrik Irina | [git](https://github.com/zubrik1) | Task 9 | Switcher, self-learning, treehouse
 22 | Serhii Rosinec | [git](https://github.com/serhii-r) | Task 8 | No production experience, some Joomla experience, self-learning
 23 | Sergey Gorobiy | [git](https://github.com/ermondel) | Task 8 | About one year frontend experience, it support
 24 | Tania Harchenko | [git](https://github.com/tatianochka) | Task 5 | Some production experience with HTML, CSS, intern in small company
@@ -31,9 +31,9 @@ Number | Name      | Github | Tasks done | Summary
 27 | Oleksiy Rudenko | [git](https://github.com/OleksiyRudenko) | Task 10 | Small production experience
 28 | Oleksandr Semijuta | [git](https://github.com/kaizengami) | Task 10 | Small production experience, HTML, CSS, JS
 29 | Viki | [git](https://github.com/tori19) | Task 5 | No previous experience, self-learned
-30 | Konstantyn Nazarenko | [git](https://github.com/KonstantynNazarenko) | Task 5 | Self learning, no previous experience, only design
+30 | Konstantyn Nazarenko | [git](https://github.com/KonstantynNazarenko) | Task 5 | Self-learning, no previous experience, only design
 31 | Valentyn Fomenko | [git](https://github.com/val-fom) | Task 10 | No production experience, self-learning
-32 | Lena Dragan | [git](https://github.com/lenadgit) | Task 9 | Self learning, small HTML, CSS experience, want to work in frontend
+32 | Lena Dragan | [git](https://github.com/lenadgit) | Task 9 | Self-learning, small HTML, CSS experience, want to work in frontend
 33 | Alexander Ostrovnyy| [git](https://github.com/A-Ostrovnyy) | Task 6 | Self-learning, interested in start working in frontend
 34 | Alena Kuznetsova | [git](https://github.com/alenakuznetsova) | Task 6 | Tech university, some HTML, CSS prod experience
 35 | Nikita Andryhin | [git](https://github.com/n1cko22) | Task 5 | some self-learning, no prod experience
@@ -41,6 +41,6 @@ Number | Name      | Github | Tasks done | Summary
 37 | Lilia Via | [git](https://github.com/LiliVia/kottans_frontend) | Task 6 | Self-learning, kottans courses
 38 | Ivan Kartsev | [git](https://github.com/Refreyd) | Task 6 | Self-learning, HTML, CSS
 39 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
-40 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer, self-learning js
+40 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer, self-learning js and passionate about FrontEnd
 41 online | Andrew Omelchenko | [git](https://github.com/Andrew-Omelchenko) | Task 9 | C(embedded hardware) experience, self-learning
 42 | Olena Lomonos | [git](https://github.com/olomonos) | Task 5 | Self-learning, no production experience, just got my first job as a FrontEnd developer
