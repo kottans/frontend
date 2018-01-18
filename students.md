@@ -44,3 +44,4 @@ Number | Name      | Github | Tasks done | Summary
 40 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer, self-learning js and passionate about FrontEnd
 41 online | Andrew Omelchenko | [git](https://github.com/Andrew-Omelchenko) | Task 9 | C(embedded hardware) experience, self-learning
 42 | Olena Lomonos | [git](https://github.com/olomonos) | Task 5 | Self-learning, no production experience, just got my first job as a FrontEnd developer
+43 | Vicky Bond | [git](https://github.com/vicktoriabo) | Task 5 | Student, self-learning, no production experience.
