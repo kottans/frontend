@@ -2,7 +2,7 @@
 
 Number | Name      | Github | Tasks done | Summary
 -------|-----------|---------|---------|---------
-1 | Anna Boyko| [git](https://github.com/Boyko-Anna) | Task 8 | self-learned HTML, CSS, C# courses Cyber Bionics, some Ruby courses, JS self-learning, interested in remote work.
+1 | Anna Boyko | [git](https://github.com/Boyko-Anna) | Task 8 | self-learned HTML, CSS, C# courses Cyber Bionics, some Ruby courses, JS self-learning, interested in remote work.
 2 | Daria Shvydka | [git](https://github.com/DariaShvydka) | Task 9  | HTML, CSS, SASS production experience ~ 1 year. JS - self-learning.
 3 | Igor Kurkov | [git](https://github.com/IgorKurkov) | Task 7 | Created https://igorkurkov.github.io/kottans-stats/, self-learning php, js, Drupal
 4 | Maxim | [git](https://github.com/cidre) | Task 8 | 3rd time trying to get on the course, no prod experience
@@ -37,11 +37,10 @@ Number | Name      | Github | Tasks done | Summary
 33 | Alexander Ostrovnyy| [git](https://github.com/A-Ostrovnyy) | Task 6 | Self-learning, interested in start working in frontend
 34 | Alena Kuznetsova | [git](https://github.com/alenakuznetsova) | Task 6 | Tech university, some HTML, CSS prod experience
 35 | Nikita Andryhin | [git](https://github.com/n1cko22) | Task 5 | some self-learning, no prod experience
-36 | Mykola Mielieshkin | [git](https://github.com/claimsecond) | Task 5 | Self-learning, no prod experience
-37 | Lilia Via | [git](https://github.com/LiliVia/kottans_frontend) | Task 6 | Self-learning, kottans courses
-38 | Ivan Kartsev | [git](https://github.com/Refreyd) | Task 6 | Self-learning, HTML, CSS
-39 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
-40 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer, self-learning js and passionate about FrontEnd
-41 online | Andrew Omelchenko | [git](https://github.com/Andrew-Omelchenko) | Task 9 | C(embedded hardware) experience, self-learning
-42 | Olena Lomonos | [git](https://github.com/olomonos) | Task 5 | Self-learning, no production experience, just got my first job as a FrontEnd developer
-43 | Vicky Bond | [git](https://github.com/vicktoriabo) | Task 5 | Student, self-learning, no production experience.
+36 | Lilia Via | [git](https://github.com/LiliVia/kottans_frontend) | Task 6 | Self-learning, kottans courses
+37 | Ivan Kartsev | [git](https://github.com/Refreyd) | Task 6 | Self-learning, HTML, CSS
+38 | Olena Lomonos | [git](https://github.com/olomonos) | Task 5 | Self-learning, no production experience, just got my first job as a FrontEnd developer
+39 | Vicky Bond | [git](https://github.com/vicktoriabo) | Task 5 | Student, self-learning, no production experience.
+40 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
+41 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer, self-learning js and passionate about FrontEnd
+42 online | Andrew Omelchenko | [git](https://github.com/Andrew-Omelchenko) | Task 9 | C(embedded hardware) experience, self-learning
