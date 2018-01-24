@@ -11,7 +11,7 @@ You watched course on Responsive Web Design in previous lessons. Time for practi
 
 - Make responsive layout for the home page of an online pizza ordering service as per [wireframe](img/pizza-manager.png). Choose design details according to your preferences. User-story-ish description: as a user I can see the list of ordered pizzas (picture, price, title, number in queue, estimated time until the order is ready). I can go to signup/login page to access into my account. I can go to pizza ordering page to make my own order.
 - Test yourself: can you explain the difference between responsive layouts, adaptive layouts and mobile-first layouts?
-- Make a list of things that could go wrong if your laylout is not responsive
+- Make a list of things that could go wrong if your layout is not responsive
 
 #### Resources
 
