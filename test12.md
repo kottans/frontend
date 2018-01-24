@@ -1,4 +1,4 @@
-# Task 12 (WORK IN PROGRESS)
+# Task 12
 ### Responsive Layouts
 You watched course on Responsive Web Design in previous lessons. Time for practice! In this lesson you will use your knowledge to make a layout of an imaginary online pizza order management service.
 
