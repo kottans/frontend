@@ -22,7 +22,7 @@ Number | Name      | Github | Tasks done | Summary
 18 | Volodymyr Fedorov | [git](https://github.com/voveus) | Task 5 | Self-learning, Freecodecamp, HTMLAcademy
 19 | Nikolay Kolombet | [git](https://github.com/Nick9707) | Task 7 | IPSA KPI
 20 | Serafim Pochapinsky | [git](https://github.com/SerafimPoch) | Task 10 | No production experience, JS, HTML, CSS, React, self-learning, freecodecamp.
-21 | Zubrik Irina | [git](https://github.com/zubrik1) | Task 9 | Switcher, self-learning, treehouse
+21 | Zubrik Irina | [git](https://github.com/zubrik1) | Task 11 | Switcher, self-learning, treehouse
 22 | Serhii Rosinec | [git](https://github.com/serhii-r) | Task 8 | No production experience, some Joomla experience, self-learning
 23 | Sergey Gorobiy | [git](https://github.com/ermondel) | Task 8 | About one year frontend experience, it support
 24 | Tania Harchenko | [git](https://github.com/tatianochka) | Task 5 | Some production experience with HTML, CSS, intern in small company
