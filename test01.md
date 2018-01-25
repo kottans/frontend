@@ -11,8 +11,6 @@ Learn some command line, server and http tools
 
 1. [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
-> Note: Currently (October 2017), you should install version 5.1 of VirtualBox. Later versions are not yet compatible with Vagrant. 
-
 2. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
 3. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)

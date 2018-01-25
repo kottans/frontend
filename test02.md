@@ -8,13 +8,13 @@ Learn some frontend basics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
 [![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
-### Yeh, we know that it's git again and you a bit tired of it. But! It's a great new course. It'll help you a lot to understand better the git and operate with you and you'll benefit from it on your future job and projects!
+### Yeh, we know that it's git again and you a bit tired of it. But! It's a great new course. It'll help you a lot to understand better the git and operate with it and you'll benefit from it on your future job and projects!
 
 0. [What is Version Control](https://classroom.udacity.com/courses/ud123/)
 
 1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
-2. You did a lot already! If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to you repo and "@/all" tag.
+2. You did a lot already! If you honestly finished all the previous steps then go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag.
 
 Finish the courses listed in the task and put the screenshots of the finished courses in the task_02 folder and the links in the README.md.
 
