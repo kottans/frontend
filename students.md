@@ -25,7 +25,7 @@ Number | Name      | Github | Tasks done | Summary
 21 | Zubrik Irina | [git](https://github.com/zubrik1) | Task 9 | Switcher, self-learning, treehouse
 22 | Serhii Rosinec | [git](https://github.com/serhii-r) | Task 8 | No production experience, some Joomla experience, self-learning
 23 | Sergey Gorobiy | [git](https://github.com/ermondel) | Task 8 | About one year frontend experience, it support
-24 | Tania Harchenko | [git](https://github.com/tatianochka) | Task 5 | Some production experience with HTML, CSS, intern in small company
+24 | Tania Harchenko | [git](https://github.com/tatianochka) | Task 11| Some production experience with HTML, CSS, intern in small company
 25 | Yaroslav Fedyai | [git](https://github.com/yfedyai/kottans_frontend) | Task 5 | KPI, some experience with frontend in the University
 26 | Sergey Turchak | [git](https://github.com/turchak) | Task 9 | Courses bitrut academy - HTML, CSS, lendings.
 27 | Oleksiy Rudenko | [git](https://github.com/OleksiyRudenko) | Task 10 | Small production experience
