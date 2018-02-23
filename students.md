@@ -19,7 +19,7 @@ Number | Name      | Github | Tasks done | Summary
 15 | Julia Mokhnach | [git](https://github.com/juliamokh) | Task 7 | Self-learning HTML,CSS, JS - online courses, codecademy, freecodecamp
 16 | Alex Karas | [git](https://github.com/boooeller/kottans_frontend) | Task 7 | GOIT, some production experience - WordPress, CSS, HTML
 17 | Natasha Shafir | [git](https://github.com/natashafir) | Task 8 | Self-learning, 3rd try, interested in frontend position
-18 | Volodymyr Fedorov | [git](https://github.com/voveus) | Task 5 | Self-learning, Freecodecamp, HTMLAcademy
+18 | Volodymyr Fedorov | [git](https://github.com/voveus) | Task 11 | Self-learning, Freecodecamp, HTMLAcademy
 19 | Nikolay Kolombet | [git](https://github.com/Nick9707) | Task 7 | IPSA KPI
 20 | Serafim Pochapinsky | [git](https://github.com/SerafimPoch) | Task 10 | No production experience, JS, HTML, CSS, React, self-learning, freecodecamp.
 21 | Zubrik Irina | [git](https://github.com/zubrik1) | Task 11 | Switcher, self-learning, treehouse
