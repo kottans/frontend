@@ -8,8 +8,8 @@ Number | Name      | Github | Tasks done | Summary
 4 | Maxim | [git](https://github.com/cidre) | Task 8 | 3rd time trying to get on the course, no prod experience
 5 | Oleksii Nelin | [git](https://github.com/Xsorter) | Task 11  | ~1 year of production experience with JS, JQuery, CSS, HTML
 6 | Miroslav Kolomiets | [git](https://github.com/iammiro/kottans_frontend) | Task 10  | Some prod experience, layout sites, JQuery
-7 | Anna Stepashko | [git](https://github.com/xandzia) | Task 8 | CSS, HTML, JQuery self-education, no production experience, interested in start working
-8 | Yevhen Orlov | [git](https://github.com/yevhenorlov) | Tasks 1-9, 11 | 1,5 years production experience HTML, SASS, jQuery, want more serious Front End
+7 | Anna Stepashko | [git](https://github.com/xandzia) | Task 11 | CSS, HTML, JQuery self-education, no production experience, interested in start working
+8 | Yevhen Orlov | [git](https://github.com/yevhenorlov) | Task 10 | 1,5 years production experience HTML, SASS, jQuery, want more serious Front End
 9 | Iaroslav Garmash | [git](https://github.com/feroxes) | Task 7 | No production experience, self-learned HTML, CSS
 10 | Olexiy Letushev | [git](https://github.com/Letushev) | Task 11 | No production experience, student of Shevchenko University, HTML, CSS self-learned and JS started with this course
 11 | Mykhailo Hanol | [git](https://github.com/ganolmc) | Task 8 | Some freelance experience about 5 years ago, Bionics University intern, interested in learning JS more
