@@ -43,4 +43,4 @@ Number | Name      | Github | Tasks done | Summary
 39 | Vicky Bond | [git](https://github.com/vicktoriabo) | Task 5 | Student, self-learning, no production experience.
 40 online | Denys Tsymbalenko | [git](https://github.com/kopkop123) | Task 8 | Odessa, HTML, CSS production experience, want to improve JS
 41 online | Denys Shykula | [git](https://github.com/ShykulaD) | Task 5 | QA engineer, self-learning js and passionate about FrontEnd
-42 online | Andrew Omelchenko | [git](https://github.com/Andrew-Omelchenko) | Task 9 | C(embedded hardware) experience, self-learning
+42 online | Andrew Omelchenko | [git](https://github.com/Andrew-Omelchenko) | Task 11 | C(embedded hardware) experience, self-learning
