@@ -28,7 +28,7 @@ Number | Name      | Github | Tasks done | Summary
 24 | Tania Harchenko | [git](https://github.com/tatianochka) | Task 11| Some production experience with HTML, CSS, intern in small company
 25 | Yaroslav Fedyai | [git](https://github.com/yfedyai/kottans_frontend) | Task 5 | KPI, some experience with frontend in the University
 26 | Sergey Turchak | [git](https://github.com/turchak) | Task 9 | Courses bitrut academy - HTML, CSS, lendings.
-27 | Oleksiy Rudenko | [git](https://github.com/OleksiyRudenko) | Task 10 | Small production experience
+27 | Oleksiy Rudenko | [git](https://github.com/OleksiyRudenko) | Task 11 | Small production experience
 28 | Oleksandr Semijuta | [git](https://github.com/kaizengami) | Task 10 | Small production experience, HTML, CSS, JS
 29 | Viki | [git](https://github.com/tori19) | Task 5 | No previous experience, self-learned
 30 | Konstantyn Nazarenko | [git](https://github.com/KonstantynNazarenko) | Task 5 | Self-learning, no previous experience, only design
