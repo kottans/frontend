@@ -6,7 +6,7 @@ Number | Name      | Github | Tasks done | Summary
 2 | Daria Shvydka | [git](https://github.com/DariaShvydka) | Task 9  | HTML, CSS, SASS production experience ~ 1 year. JS - self-learning.
 3 | Igor Kurkov | [git](https://github.com/IgorKurkov) | Task 1-8, 10 | Created https://igorkurkov.github.io/kottans-stats/, self-learning php, js, Drupal
 4 | Maxim | [git](https://github.com/cidre) | Task 8 | 3rd time trying to get on the course, no prod experience
-5 | Oleksii Nelin | [git](https://github.com/Xsorter) | Task 10  | ~1 year of production experience with JS, JQuery, CSS, HTML
+5 | Oleksii Nelin | [git](https://github.com/Xsorter) | Task 11  | ~1 year of production experience with JS, JQuery, CSS, HTML
 6 | Miroslav Kolomiets | [git](https://github.com/iammiro/kottans_frontend) | Task 10  | Some prod experience, layout sites, JQuery
 7 | Anna Stepashko | [git](https://github.com/xandzia) | Task 8 | CSS, HTML, JQuery self-education, no production experience, interested in start working
 8 | Yevhen Orlov | [git](https://github.com/yevhenorlov) | Tasks 1-9, 11 | 1,5 years production experience HTML, SASS, jQuery, want more serious Front End
