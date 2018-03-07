@@ -12,5 +12,6 @@ Wed Jan 31 | 19:30 | Build tools | [Viktor Yakubiv](https://github.com/viktor-ya
 Sat Feb 3 | 16:00 | SPA, Weather App | [Ivan Tytarenko](https://github.com/zonzujiro) | [Summary](http://telegra.ph/Weather-application-02-03) | [Slides](https://sway.com/UEHexhVLvFthB6Mc) |[Video](https://www.youtube.com/watch?v=-kWftzqN6tU) | [task](https://github.com/kottans/frontend/blob/master/test10.md)
 Sat Feb 10 | 12:00 | Promises & Prototypes | [Ivan Tytarenko](https://github.com/zonzujiro) |  |  |[Video](https://www.youtube.com/watch?v=54Z_4-99y-s) | [go on with Weather App](https://github.com/kottans/frontend/blob/master/test10.md)
 Sat Feb 17 | 11:00 | Components | [Ivan Tytarenko](https://github.com/zonzujiro) | [Summary](http://telegra.ph/Itogi-po-seminaru-17022018-02-19) |  | [Video](https://www.youtube.com/watch?v=aMTViq405YU&feature=youtu.be) | [go on with Weather App](https://github.com/kottans/frontend/blob/master/test10.md)
-Sat Feb 24 | 11:00 | State, props | [Ivan Tytarenko](https://github.com/zonzujiro) |  |  | [Video](https://youtu.be/kql_7UWk1WU) | 
-+Sat Mar 3 | 11:00 | Routing | [Ivan Tytarenko](https://github.com/zonzujiro) |  |  | [Video](https://www.youtube.com/watch?v=fMvgtmc57uY) |
+Sat Feb 24 | 12:00 | State, props | [Ivan Tytarenko](https://github.com/zonzujiro) | [Summary](http://telegra.ph/Itogi-seminara-24022018-02-27) |  | [Video](https://youtu.be/kql_7UWk1WU) | 
+Sat Mar 3 | 11:00 | Routing | [Ivan Tytarenko](https://github.com/zonzujiro) | [Summary](http://telegra.ph/Itogi-seminara-03032018-03-06) |  | [Video](https://www.youtube.com/watch?v=fMvgtmc57uY) |
+Sat Mar 10 |  | Pizza App | [Anton Lempiy](https://github.com/lempiy) |  |  |  | 
