@@ -25,9 +25,11 @@ or [hash-changed](https://developer.mozilla.org/ru/docs/Web/Events/hashchange) b
 - Transform your pizza dashboard page from Task 12 into [component](https://github.com/zonzujiro/spa-framework/blob/master/src/framework/Component.js).
 - Add two or two-in-one pages to your app - Registration and Login.
 - Using [Kottans Pizza API](https://github.com/lempiy/Kottans-Pizza-Api) implement registration and login functionality on your authorization pages.
+
 *IMPORTANT. In order to register new user in the system you will need to have your own "pizza store"
 bound to your application. To pick one, type private message on Gitter to **@lempiy** with store name and store password
 you want to use.*
+
 - Secure your dashboard page from Task 12 with authorization permission - non-authorized
 users should be redirected to login page.
 - Create user profile page that should be also secured with authorization permission. Use the data from [my_info](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/USERS.md#my-info) API method.
