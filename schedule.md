@@ -15,3 +15,4 @@ Sat Feb 17 | 11:00 | Components | [Ivan Tytarenko](https://github.com/zonzujiro)
 Sat Feb 24 | 12:00 | State, props | [Ivan Tytarenko](https://github.com/zonzujiro) | [Summary](http://telegra.ph/Itogi-seminara-24022018-02-27) |  | [Video](https://youtu.be/kql_7UWk1WU) | 
 Sat Mar 3 | 11:00 | Routing | [Ivan Tytarenko](https://github.com/zonzujiro) | [Summary](http://telegra.ph/Itogi-seminara-03032018-03-06) |  | [Video](https://www.youtube.com/watch?v=fMvgtmc57uY) |
 Sat Mar 10 |  | Pizza App | [Anton Lempiy](https://github.com/lempiy) |  | [Slides](http://slides.com/antonlempiy/deck-2#/) | [Video](https://www.youtube.com/watch?v=d9g5TWCcJ44) | 
+Sat Mar 24 | 12:00 | Html, Css | [Aleksey Shvayka](https://github.com/shvaikalesh) |  | | [Video](https://youtu.be/HkyT6cvOwZk) | 
