@@ -37,7 +37,7 @@ Number | Name      | Github | Tasks done | Summary
 33 | Alexander Ostrovnyy| [git](https://github.com/A-Ostrovnyy) | Task 6 | Self-learning, interested in start working in frontend
 34 | Alena Kuznetsova | [git](https://github.com/alenakuznetsova) | Task 6 | Tech university, some HTML, CSS prod experience
 35 | Nikita Andryhin | [git](https://github.com/n1cko22) | Task 5 | some self-learning, no prod experience
-36 | Lilia Via | [git](https://github.com/LiliVia/kottans_frontend) | Task 6 | Self-learning, kottans courses
+36 | Lilia Via | [git](https://github.com/LiliVia/kottans_frontend) | Task 7, 10 | Self-learning HTML,CSS, JS - online courses, codecademy, freecodecamp, coursera, kottans courses
 37 | Ivan Kartsev | [git](https://github.com/Refreyd) | Task 6 | Self-learning, HTML, CSS
 38 | Olena Lomonos | [git](https://github.com/olomonos) | Task 5 | Self-learning, no production experience, just got my first job as a FrontEnd developer
 39 | Vicky Bond | [git](https://github.com/vicktoriabo) | Task 5 | Student, self-learning, no production experience.
