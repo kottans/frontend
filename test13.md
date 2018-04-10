@@ -5,7 +5,6 @@
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Kottans/web/blob/master/LICENSE.md)
 [![Ideas and useful links](https://img.shields.io/badge/google--doc-ideas-ff69b4.svg)](https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
-[![ghit.me](https://ghit.me/badge.svg?repo=Kottans/frontend)](https://ghit.me/repo/Kottans/frontend)
 
 ### Login And Registration
 Our future pizza management service needs to know which manager performing some actions. Using experience gained from Task 10,
@@ -20,7 +19,7 @@ we are going to create a part of single page application with simple authorizati
 
 #### Task Description
 
-- Create Native JavaScript router using [history API](https://developer.mozilla.org/en-US/docs/Web/API/History) 
+- Create Native JavaScript router using [history API](https://developer.mozilla.org/en-US/docs/Web/API/History)
 or [hash-changed](https://developer.mozilla.org/ru/docs/Web/Events/hashchange) browser event. [Example](https://github.com/zonzujiro/spa-framework/blob/master/src/framework/Router.js).
 - Transform your pizza dashboard page from Task 12 into [component](https://github.com/zonzujiro/spa-framework/blob/master/src/framework/Component.js).
 - Add two or two-in-one pages to your app - Registration and Login.
