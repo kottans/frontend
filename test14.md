@@ -21,7 +21,7 @@ In order to do it we're going to use [Canvas API](https://developer.mozilla.org/
 
 - Create new page pizza ordering page with two key components - drawing board and ordering form.
 - Fill ordering form with [ingredients](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/INGREDIENT.md#list) 
-and [tags]((https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/TAG.md#list)) checkboxes.
+and [tags](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/TAG.md#list) checkboxes.
 - Your page structure may look similar(not equal!) to image bellow.
 - You draw board should display empty crust on page init. Canvas size - 320x320 pixels.
 - Upon choosing some of ingredients draw board should display the ingredient layer on crust.
