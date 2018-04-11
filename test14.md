@@ -23,11 +23,11 @@ In order to do it we're going to use [Canvas API](https://developer.mozilla.org/
 - Fill ordering form with [ingredients](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/INGREDIENT.md#list) 
 and [tags](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/TAG.md#list) checkboxes.
 - Your page structure may look similar(not equal!) to image bellow.
-- You draw board should display empty crust on page init. Canvas size - 320x320 pixels.
-- Upon choosing some of ingredients draw board should display the ingredient layer on crust.
-- Upon discarding some of ingredients draw board should remove the ingredient layer from crust.
-- Upon changing size of the pizza crust size with ingredients should change too.
-- Upon submit, all user data including canvas blob snapshot should be sent to [server](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/PIZZA.md#create-pizza).
+- Your draw board should display empty crust on page init. Canvas size - 320x320 pixels.
+- Upon choosing some of ingredients, draw board should display the ingredient layer on crust.
+- Upon discarding some of ingredients, draw board should remove the ingredient layer from crust.
+- Upon changing size of the pizza, crust and ingredients size should change too.
+- Upon submit all user data including canvas blob snapshot should be sent to [server](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/PIZZA.md#create-pizza).
 - Form should include validation according to [API](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/PIZZA.md#create-pizza) requirements.
 - Pizza total price should be count according to formula: 
 
