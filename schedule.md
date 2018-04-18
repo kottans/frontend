@@ -18,3 +18,4 @@ Sat Mar 10 | 11:00 | Pizza App | [Anton Lempiy](https://github.com/lempiy) |  | 
 Sat Mar 24 | 12:00 | Html, Css | [Aleksey Shvayka](https://github.com/shvaikalesh) |  | | [Video](https://youtu.be/HkyT6cvOwZk) | 
 Sat Mar 31 | 12:00 | Pizza ingredients | [Anton Lempiy](https://github.com/lempiy) |  |  | [Video](https://www.youtube.com/watch?v=IWg1vAjINF0) | 
 Wed Apr 04 | 19:30 | Pizza ingr. with Canvas API | [Anton Lempiy](https://github.com/lempiy) |  |  | [Video](https://www.youtube.com/watch?v=dlRGxgrbH5k) | [task 14](https://github.com/kottans/frontend/blob/master/test14.md)
+Sat Apr 14 | 12:00 | WebSocket | [Anton Lempiy](https://github.com/lempiy) |  | [Slides](http://slides.com/antonlempiy/deck-3#/) | [Video](https://youtu.be/wNm-qnueGLI) |
