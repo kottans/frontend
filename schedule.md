@@ -22,3 +22,5 @@ Sat Mar 31 | 12:00 | Pizza ingredients | [Anton Lempiy](https://github.com/lempi
 Wed Apr 04 | 19:30 | Pizza ingr. with Canvas API | [Anton Lempiy](https://github.com/lempiy) |  |  | [Video](https://www.youtube.com/watch?v=dlRGxgrbH5k) | [task 14](https://github.com/kottans/frontend/blob/master/test14.md)
 Sat Apr 14 | 12:00 | WebSocket | [Anton Lempiy](https://github.com/lempiy) |  | [Slides](http://slides.com/antonlempiy/deck-3#/) | [Video](https://youtu.be/wNm-qnueGLI) |
 Sat Apr 28 | 12:00 | React | [Ivan Tytarenko](https://github.com/zonzujiro) |  |  | [Video](https://youtu.be/bxihD3erHS0) | [task 15](https://github.com/kottans/frontend/blob/master/test15.md)
+Sat May 12 | 11:00 | Redux | [Ivan Tytarenko](https://github.com/zonzujiro) |  |  | [Video](https://www.youtube.com/watch?v=_undBpsT2_8) | [task 16](https://github.com/kottans/frontend/blob/master/test16.md)
+
