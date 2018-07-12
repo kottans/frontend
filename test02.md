@@ -25,3 +25,4 @@ Some extra materials:
 
 - [Oh shit, git!](http://ohshitgit.com/)
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+- [GitHub Learning Lab](https://lab.github.com/courses)
