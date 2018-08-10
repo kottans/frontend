@@ -22,3 +22,4 @@ Some extra materials:
 - [freecodecamp.org](https://www.freecodecamp.org)
 - [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html)
 - [htmlacademy](https://htmlacademy.ru/)
+- [w3w3schools exercise](https://www.w3schools.com/html/exercise.asp)
