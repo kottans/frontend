@@ -43,8 +43,8 @@ You will see the link on the top of each task.
 ### General Requirements
 
 0. __English knowledge:__ a lot of the materials will be in English.
-   If you do not feel yourself confident enough in your technical English,
-   take a look on [📚 Словари по фронтенду][frontend-dicts]
+   If you do not feel confident enough in your technical English,
+   take a look at [📚 Словари по фронтенду][frontend-dicts]
 
 1. __Repository on GitHub__ to save your progress.
    More about repositories in _Task 0_.
@@ -83,8 +83,10 @@ If you are willing to participate in the course, you need to understand that
 you’ll spend a lot of time building something big together — a new way
 of learning and collaborating. You’ll become part of a small family
 and should prepare yourself to find new friends and to invest a lot in this
-friendship, as in any friendship should be. Final part of this course will be
-to split into groups and create new courses like that (and we’ll never stop).
+friendship (as you should in any friendship). 
+
+Final task of this course will be to split into groups and create new courses 
+like that (and we’ll never stop).
 
 #### Our basic rules
 
@@ -94,10 +96,10 @@ to split into groups and create new courses like that (and we’ll never stop).
   personality, please respect this.
 * Communicating and understanding people that are different from you
   can be beneficial to both parties, provided mutual respect.
-* We are against any discriminations by sex, age, the color of skin,
+* We are against any discriminations by gender, age, the color of skin,
   disabilities or any other.
-* We respect intellectual property, there is a hard work of an author
-  or a group of authors behind.
+* We respect intellectual property - there is hard work of an author
+  or a group of authors behind all materials that we use.
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
