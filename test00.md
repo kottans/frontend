@@ -1,4 +1,6 @@
-# Task 0: Get familiar with Git and GitHub [![Gitter][icon-chat]][chat]
+[![Gitter][icon-chat]][chat]
+
+# Task 0: Get familiar with Git and GitHub
 
 1. Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 

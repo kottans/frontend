@@ -1,8 +1,10 @@
+[![Gitter][icon-chat]][chat]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![MIT Licensed][icon-mit]][license]
 [![Ideas and useful links][icon-ideas]][ideas]
 [![Awesome][icon-awesome]][awesome]
 
-# Front-End Course [![Gitter][icon-chat]][chat]
+# Front-End Course
 
 The course contains basics of front-end development:
 HTML, CSS, JS, and front-end frameworks.
@@ -20,8 +22,9 @@ Admission for the course is open until enough applicants have successfully
 completed the tasks (approximately 30 students). Which means, that completing
 the tasks faster increases your chances to get into the course.
 
-If you have any questions you can ask us in the [![Gitter][icon-chat]][chat]
-chat. You will see the link on the top of each task.
+If you have any questions you can ask us in the
+[![chat on Gitter][icon-chat]][chat]
+You will see the link on the top of each task.
 
 
 ### What you will learn
@@ -68,7 +71,7 @@ chat. You will see the link on the top of each task.
 
 ➡️ Go forward to [Task 0](test00.md)
 
-Do not forget to join our chat
+Do not forget to join our [![Gitter chat][icon-chat]][chat]
 
 
 
