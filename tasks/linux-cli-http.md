@@ -25,14 +25,17 @@ Finish the courses (1, 2 and 3) and put the screenshots of the finished lessons
 lists in the task_1 folder and the links in the `README.md`.
 Also read 4, 5 articles.
 
-When you finish this task you can start the next one:
+When you finish this task you can start the next one.
 
-[Test 2](test02.md)
-
-Some extra reading:
+## Extra Materials
 
 - [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
 - [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7 )
+
+## Done?
+
+➡️ Go forward to [Test 2](git-collaboration.md)
+
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg

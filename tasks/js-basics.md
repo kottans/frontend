@@ -4,23 +4,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 3: Front-End Basics
+# Task 5: JavaScript Basics
 
-[Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+[Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and `@/all` tag and the words _Intro to HTML & CSS - finished_.
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Intro to JS - finished".
 
+When you finish this task you can start the next one.
 
-When you finish this task you can start the next one:
+## Extra materials
 
-[Test 4](test04.md)
+- [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-Some extra materials:
+## Done?
 
-- [freecodecamp.org](https://www.freecodecamp.org)
-- [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html)
-- [htmlacademy](https://htmlacademy.ru/)
-- [w3w3schools exercise](https://www.w3schools.com/html/exercise.asp)
+➡️ Go forward to [Test 6](js-oop.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg

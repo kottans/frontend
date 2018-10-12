@@ -30,11 +30,13 @@ When you're done with your challenge push your code to github repo and publish i
 Add link to it to your main frontend tasks repo.
 If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Memory - Pair Game - finished".
 
-Some extra materials:
+## Extra materials
 
 1. [Flip Animation](https://davidwalsh.name/css-flip)
 
-[Test 9](test09.md)
+## Done?
+
+➡️ Go forward to [Test 9](app-design-performance.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg

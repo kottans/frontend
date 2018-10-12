@@ -69,7 +69,7 @@ You will see the link on the top of each task.
 
 ### Ready?
 
-➡️ Go forward to [Task 0](test00.md)
+➡️ Go forward to [Task 0](tasks/git-intro.md)
 
 Do not forget to join our [![Gitter chat][icon-chat]][chat]
 

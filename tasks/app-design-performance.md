@@ -8,7 +8,7 @@
 
 TBA
 
-### Some extra materials:
+### Extra materials
 
 1. [Website Performance Optimization](https://www.udacity.com/course/ud884)
 1. [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
@@ -30,7 +30,9 @@ TBA
 1. [Memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 1. [Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 
-[Test 10](test10.md)
+## Done?
+
+➡️ Go forward to [Test 10](weather-app.md)
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg

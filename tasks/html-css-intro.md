@@ -4,24 +4,24 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 4: Responsive Layouts
+# Task 3: Front-End Basics
 
-[Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+[Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Responsive Web Design Fundamentals - finished".
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and `@/all` tag and the words _Intro to HTML & CSS - finished_.
 
-When you finish this task you can start the next one:
+When you finish this task you can start the next one.
 
-[Test 5](test05.md)
+## Extra materials:
 
-Some extra materials:
+- [freecodecamp.org](https://www.freecodecamp.org)
+- [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html)
+- [htmlacademy](https://htmlacademy.ru/)
+- [w3w3schools exercise](https://www.w3schools.com/html/exercise.asp)
 
-- [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
-- [Specificity calculator](https://specificity.keegan.st/)
-- [Flexbox Froggy](http://flexboxfroggy.com/)
-- [Grid Garden](http://cssgridgarden.com/)
-- [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+## Done?
 
+➡️ Go forward to [Test 4](html-css-responsive.md)
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg

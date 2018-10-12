@@ -4,21 +4,25 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 5: JavaScript Basics
+# Task 4: Responsive Layouts
 
-[Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
+[Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Intro to JS - finished".
+If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Responsive Web Design Fundamentals - finished".
 
-Some extra materials:
+When you finish this task you can start the next one.
 
-- [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-- [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+## Extra materials
 
-When you finish this task you can start the next one:
+- [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
+- [Specificity calculator](https://specificity.keegan.st/)
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [Grid Garden](http://cssgridgarden.com/)
+- [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 
-[Test 6](test06.md)
+## Done?
+
+➡️ Go forward to [Test 5](js-basics.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
