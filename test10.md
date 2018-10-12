@@ -1,13 +1,13 @@
-# Test task 10
+[![MIT Licensed][icon-mit]][license]
+[![Ideas and useful links][icon-ideas]][ideas]
+[![Awesome][icon-awesome]][awesome]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gitter][icon-chat]][chat]
 
-## Join our chat: [![Gitter](https://badges.gitter.im/Kottans/frontend.svg)](https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-[![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Kottans/web/blob/master/LICENSE.md)
-[![Ideas and useful links](https://img.shields.io/badge/google--doc-ideas-ff69b4.svg)](https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
+# Task 10: Weather App
 
 When you're done with your challenge push your code to github repo and publish
-it using gh-pages. _Add link to it to your main frontend tasks repo._
+it using `gh-pages`. _Add link to it to your main frontend tasks repo._
 
 If you honestly finished all the previous steps than go ahead and share it with
 others - send a message in gitter channel with the link to you repo and "@/all"
@@ -88,3 +88,14 @@ story with mobile devices.
 * Map with temperatures is not required for this task;
 
 <!-- [Test 11](test11.md) -->
+
+
+[icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
+[icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
+[icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg
+[icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+
+[license]: https://github.com/Kottans/web/blob/master/LICENSE.md
+[awesome]: https://github.com/sindresorhus/awesome#front-end-development
+[ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
+[chat]: https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge

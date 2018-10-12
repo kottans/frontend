@@ -1,12 +1,12 @@
-# Test task 1
-Learn some command line, server and http tools
+[![MIT Licensed][icon-mit]][license]
+[![Ideas and useful links][icon-ideas]][ideas]
+[![Awesome][icon-awesome]][awesome]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gitter][icon-chat]][chat]
 
-## Join our chat: [![Gitter](https://badges.gitter.im/Kottans/frontend.svg)](https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# Task 1: Linux, Command Line, HTTP Tools
 
-[![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Kottans/web/blob/master/LICENSE.md)
-[![Ideas and useful links](https://img.shields.io/badge/google--doc-ideas-ff69b4.svg)](https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
-
+Learn some command line, server and http tools.
 
 1. [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
@@ -21,7 +21,9 @@ Learn some command line, server and http tools
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
 
-Finish the courses (1, 2 and 3) and put the screenshots of the finished lessons lists in the task_1 folder and the links in the README.md. Also read 4,5 articles.
+Finish the courses (1, 2 and 3) and put the screenshots of the finished lessons
+lists in the task_1 folder and the links in the `README.md`.
+Also read 4, 5 articles.
 
 When you finish this task you can start the next one:
 
@@ -31,3 +33,13 @@ Some extra reading:
 
 - [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
 - [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7 )
+
+[icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
+[icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
+[icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg
+[icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+
+[license]: https://github.com/Kottans/web/blob/master/LICENSE.md
+[awesome]: https://github.com/sindresorhus/awesome#front-end-development
+[ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
+[chat]: https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge

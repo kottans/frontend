@@ -1,13 +1,15 @@
-# Test task 2
-Learn some frontend basics
+[![MIT Licensed][icon-mit]][license]
+[![Ideas and useful links][icon-ideas]][ideas]
+[![Awesome][icon-awesome]][awesome]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gitter][icon-chat]][chat]
 
-## Join our chat: [![Gitter](https://badges.gitter.im/Kottans/frontend.svg)](https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# Task 2: Git for Team Collaboration
 
-[![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Kottans/web/blob/master/LICENSE.md)
-[![Ideas and useful links](https://img.shields.io/badge/google--doc-ideas-ff69b4.svg)](https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
-
-### Yeh, we know that it's git again and you a bit tired of it. But! It's a great new course. It'll help you a lot to understand better the git and operate with it and you'll benefit from it on your future job and projects!
+Yeh, we know that it's git again and you a bit tired of it.
+But! It's a great new course. It'll help you a lot to understand better
+the git and operate with it and you'll benefit from it on your future job
+and projects!
 
 0. [What is Version Control](https://classroom.udacity.com/courses/ud123/)
 
@@ -15,7 +17,7 @@ Learn some frontend basics
 
 2. You did a lot already! If you honestly finished all the previous steps then go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag.
 
-Finish the courses listed in the task and put the screenshots of the finished courses in the task_02 folder and the links in the README.md.
+Finish the courses listed in the task and put the screenshots of the finished courses in the task_02 folder and the links in the `README.md`.
 
 When you finish this task you can start the next one:
 
@@ -26,3 +28,14 @@ Some extra materials:
 - [Oh shit, git!](http://ohshitgit.com/)
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [GitHub Learning Lab](https://lab.github.com/courses)
+
+
+[icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
+[icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
+[icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg
+[icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+
+[license]: https://github.com/Kottans/web/blob/master/LICENSE.md
+[awesome]: https://github.com/sindresorhus/awesome#front-end-development
+[ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
+[chat]: https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
