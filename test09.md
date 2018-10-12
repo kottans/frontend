@@ -6,23 +6,17 @@
 [![Ideas and useful links](https://img.shields.io/badge/google--doc-ideas-ff69b4.svg)](https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#front-end-development)
 
-If you honestly finished all the previous steps than go ahead and share it with
-others - send a message in gitter channel with the link to your repo and "@/all"
-tag and the words "Website Performance Optimization - finished".
-
-[Website Performance Optimization](https://www.udacity.com/course/ud884)
-
-> Note: the final project in this course requires python, therefore, if you
-> wish, you can skip this project.
+TBA
 
 ### Some extra materials:
 
-1. [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
-2. [Browser Rendering Optimization](https://www.udacity.com/course/ud860)
-3. [Responsive Images](https://www.udacity.com/course/ud882)
-4. [Анимации на GPU: делаем это правильно](https://habrahabr.ru/company/odnoklassniki/blog/313978/)
-5. [Пример веб-производительности](https://habrahabr.ru/company/infobox/blog/226289/)
-6. [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)
+1. [Website Performance Optimization](https://www.udacity.com/course/ud884)
+2. [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
+3. [Browser Rendering Optimization](https://www.udacity.com/course/ud860)
+4. [Responsive Images](https://www.udacity.com/course/ud882)
+5. [Анимации на GPU: делаем это правильно](https://habrahabr.ru/company/odnoklassniki/blog/313978/)
+6. [Пример веб-производительности](https://habrahabr.ru/company/infobox/blog/226289/)
+7. [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)
 
 #### Важные аспекты работы браузера для разработчиков
 
