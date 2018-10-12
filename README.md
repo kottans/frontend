@@ -1,8 +1,8 @@
-[![Gitter][icon-chat]][chat]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![MIT Licensed][icon-mit]][license]
 [![Ideas and useful links][icon-ideas]][ideas]
 [![Awesome][icon-awesome]][awesome]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gitter][icon-chat]][chat]
 
 # Front-End Course
 
@@ -83,9 +83,9 @@ If you are willing to participate in the course, you need to understand that
 you’ll spend a lot of time building something big together — a new way
 of learning and collaborating. You’ll become part of a small family
 and should prepare yourself to find new friends and to invest a lot in this
-friendship (as you should in any friendship). 
+friendship (as you should in any friendship).
 
-Final task of this course will be to split into groups and create new courses 
+Final task of this course will be to split into groups and create new courses
 like that (and we’ll never stop).
 
 #### Our basic rules
