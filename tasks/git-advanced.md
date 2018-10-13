@@ -1,10 +1,10 @@
 # Advanced git
 **Enhance your git skills**
 
-> This task is optional.
-> You don't need it to advance further in the course.
-> However, you will definitely apply newly acquired skills
-> in your future work.
+This task is optional.
+You don't need it to advance further in the course.
+However, you will definitely apply newly acquired skills
+in your future work.
 
 ## Join our chat: [![Gitter](https://badges.gitter.im/Kottans/frontend.svg)](https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -65,13 +65,13 @@ for they are better comprehended when practising.
    - [lazygit](https://github.com/jesseduffield/lazygit)
    - [git aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
    - [gitalias](https://github.com/GitAlias/gitalias)
- * [Advanced Git Tricks (video)](https://vimeo.com/49444883)
+ * [Advanced Git Tricks :clapper:](https://vimeo.com/49444883)
  * [Git Patterns and Anti-Patterns](https://dzone.com/refcardz/git-patterns-and-anti-patterns?chapter=1)
  * [Oh shit, git!](http://ohshitgit.com/)
  * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
  * [GitHub Learning Lab](https://lab.github.com/courses)
  * [octotree](https://github.com/ovity/octotree) // [Chrome github navigation plug-in](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
- * [Скринкаст по git (videos)](https://learn.javascript.ru/screencast/git)
+ * [Скринкаст по git :clapper::clapper::clapper:](https://learn.javascript.ru/screencast/git)
  * [_placeholder for workshop videocast_](#)
 
 ---
@@ -82,7 +82,6 @@ You don't need to read the notes below. These
 are rather a collection of possible theses.
 
 <details><summary>TL;DR</summary>
-<p>
 
 * Commit often
   - break your code base into smaller files
@@ -136,5 +135,4 @@ are rather a collection of possible theses.
   - Git Credentials Storage
   - tags, releases
 
-</p>
 </details>
