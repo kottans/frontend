@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Building a tiny world
+# Building a Tiny JS World
 
 1. Build a tiny JS world model following the instructions
    [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
@@ -12,10 +12,10 @@
 2. When done then do the following
 
    * in your `kottans-frontend` repo `README.md` add a header
-     **pre-OOP JS** and add link to your repo
+     **A tiny JS world** and add link to your repo
 
    * share your progress with others -
-     send a message in gitter channel (_A tiny world task finished!_)
+     send a message in gitter channel (_A tiny JS world task finished!_)
      with the link to your
      repo and `@/all` tag and also ask mentors to make
      a code review
