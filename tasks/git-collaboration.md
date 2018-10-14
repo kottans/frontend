@@ -4,20 +4,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 2: Git for Team Collaboration
+# Git for Team Collaboration
 
-Yeh, we know that it's git again and you a bit tired of it.
+Yeh, we know that it's Git again and you a bit tired of it.
 But! It's a great new course. It'll help you a lot to understand better
 the git and operate with it and you'll benefit from it on your future job
 and projects!
 
-0. [What is Version Control](https://classroom.udacity.com/courses/ud123/)
+ 0. [What is Version Control](https://classroom.udacity.com/courses/ud123/)
 
-1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+ 1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
-2. You did a lot already! If you honestly finished all the previous steps then go ahead and share it with others - send a message in gitter channel with the link to your repo and `@/all` tag.
+ 2. You did a lot already! If you honestly finished all the previous steps then
+    go ahead and share it with others – send a message in [gitter channel][chat]
+    with the link to your repo and `@/all` tag.
 
-Finish the courses listed in the task and put the screenshots of the finished courses in the task_02 folder and the links in the `README.md`.
+Finish the courses listed in the task and put the screenshots of the finished
+courses in the `task-02` directory and the links in the `README.md`.
 
 When you finish this task you can start the next one.
 
@@ -30,7 +33,9 @@ When you finish this task you can start the next one.
 
 ## Done?
 
-➡️ Go forward to [Test 3](html-css-intro.md)
+➡️ Go forward to [Intro to HTML & CSS](html-css-intro.md)
+
+⤴️ Back to [Contents](../contents.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg

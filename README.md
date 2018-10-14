@@ -69,10 +69,11 @@ You will see the link on the top of each task.
 
 ### Ready?
 
-➡️ Go forward to [Task 0](tasks/git-intro.md)
+➡️ __Lets begin!__ Go forward to [Git and GitHub Intro](tasks/git-intro.md)
+
+➡️ Read course plan in [Contents](contents.md)
 
 Do not forget to join our [![Gitter chat][icon-chat]][chat]
-
 
 
 ---

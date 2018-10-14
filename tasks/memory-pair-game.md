@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 8: Memory – Pair Game
+# Memory – Pair Game
 
 We learned a lot, but now lets do some practice!
 
@@ -25,10 +25,13 @@ Some of following links might be helpful:
 1. [Shuffle Array](https://css-tricks.com/snippets/javascript/shuffle-array/)
 2. [CSS3 Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 
+When you're done with your challenge push your code to GitHub repo and publish
+it using [GitHub Pages](https://pages.github.com).
+Add link to your main frontend tasks repo.
 
-When you're done with your challenge push your code to github repo and publish it using gh-pages.
-Add link to it to your main frontend tasks repo.
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Memory - Pair Game - finished".
+If you honestly finished all the previous steps than go ahead and share it with
+others — send a message in [gitter channel][chat] with the link to your repo
+and `@/all` tag and the words _Memory - Pair Game – finished_.
 
 ## Extra materials
 
@@ -36,7 +39,9 @@ If you honestly finished all the previous steps than go ahead and share it with 
 
 ## Done?
 
-➡️ Go forward to [Test 9](app-design-performance.md)
+➡️ Go forward to [Website Performance Optimization](app-design-performance.md)
+
+⤴️ Back to [Contents](../contents.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg

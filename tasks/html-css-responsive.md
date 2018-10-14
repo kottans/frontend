@@ -4,13 +4,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 4: Responsive Layouts
+# Responsive Layouts
 
 [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
 [Flexbox Froggy](http://flexboxfroggy.com/)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Responsive Web Design Fundamentals - finished".
+If you honestly finished all the previous steps than go ahead and share it with
+others — send a message in [gitter channel][chat] with the link to your repo
+and `@/all` tag and the words _Responsive Web Design Fundamentals – finished_.
 
 When you finish this task you can start the next one.
 
@@ -23,7 +25,9 @@ When you finish this task you can start the next one.
 
 ## Done?
 
-➡️ Go forward to [Test 5](js-basics.md)
+➡️ Go forward to [JavaScript Basics](js-basics.md)
+
+⤴️ Back to [Contents](../contents.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
@@ -35,4 +39,3 @@ When you finish this task you can start the next one.
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
 [chat]: https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
-	

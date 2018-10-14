@@ -4,20 +4,25 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 0: Get familiar with Git and GitHub
+# Git and GitHub
 
-1. Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+Get familiar with Git and GitHub.
 
-2. Finish [try.github.io](https://try.github.io/levels/1/challenges/1)
+ 1. Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
-3. Create repository named `kottans-frontend`.
+ 2. Finish [try.github.io](https://try.github.io/levels/1/challenges/1)
 
-4. Create `README.md` for the repository.
+ 3. Create repository named `kottans-frontend`.
 
-5. Describe your impressions about learned materials.
+ 4. Create `README.md` for the repository.
 
-6. Send a pull-request to repo [Kottans/mock-repo](https://github.com/Kottans/mock-repo) proposing a change. It could be anything, really. If you have found a typo in README - great! Take care to give your PR a meaningful name and description.
-**Please note, that your PR may not be reviewed quickly.**
+ 5. Describe your impressions about learned materials.
+
+ 6. Send a pull-request to [Kottans/mock-repo][mock-repo] proposing a change.
+    It could be anything, really. If you have found a typo in README - great!
+    Take care to give your PR a meaningful name and description.
+
+    **Please note, that your PR may not be reviewed quickly.**
 
 When you finish this task you can start the next one.
 
@@ -37,7 +42,10 @@ When you finish this task you can start the next one.
 
 ## Done?
 
-➡️ Go forward to [Task 1](linux-cli-http.md)
+➡️ Go forward to [Linux, Command Line, HTTP Tools](linux-cli-http.md)
+
+⤴️ Back to [Contents](../contents.md)
+
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
@@ -48,3 +56,5 @@ When you finish this task you can start the next one.
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
 [chat]: https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+
+[mock-repo]: https://github.com/Kottans/mock-repo
