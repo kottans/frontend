@@ -34,3 +34,14 @@ Rewrite your weather application using react. Thats all.
 * [Dan Abramov - Suspense! - ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4)
 * [[WIP] Suspense #12279](https://github.com/facebook/react/pull/12279)
 * [Async React with Andrew Clark](https://changelog.com/reactpodcast/6)
+
+
+[icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
+[icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
+[icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg
+[icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+
+[license]: https://github.com/Kottans/web/blob/master/LICENSE.md
+[awesome]: https://github.com/sindresorhus/awesome#front-end-development
+[ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
+[chat]: https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
