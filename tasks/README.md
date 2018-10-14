@@ -22,6 +22,20 @@
 
 Tasks above are unidirectional linked list.
 
+### New tasks suggested for the remote phase
+
+These below can be added to the course only
+if approved by the community.
+
+* [pre-OOP JS](js-pre-oop.md) -
+  would come before [Object-Oriented JavaScript](js-oop.md)
+  to give students some experience of possibly bad coding.
+  Time to complete estimate 1-2 hours.
+* [post-OOP JS](js-post-oop.md) -
+  would come after [Object-Oriented JavaScript](js-oop.md).
+  Basically same as **pre-OOP JS** but this time students
+  are armed with JS OOP knowledge.
+
 ## Meetup supported (intramural) phase
 
 ### Major stream
@@ -36,7 +50,7 @@ Tasks above are unidirectional linked list.
 ### Supplementaries (workshops)
 
 1. [Advanced git](git-advanced.md)
-1. JS OOP
+1. JS OOP (see [issue #101](https://github.com/kottans/frontend/issues/101)
 
 ## To Be Assigned
 
