@@ -6,7 +6,9 @@
 
 # Task 3: Front-End Basics
 
-[Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+[Intro to HTML & CSS (Eng)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+
+[HTML Academy: first ~200 free html/css/js game-lessons (Rus)](https://htmlacademy.ru/)
 
 If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and `@/all` tag and the words _Intro to HTML & CSS - finished_.
 
@@ -16,7 +18,6 @@ When you finish this task you can start the next one.
 
 - [freecodecamp.org](https://www.freecodecamp.org)
 - [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html)
-- [htmlacademy](https://htmlacademy.ru/)
 - [w3w3schools exercise](https://www.w3schools.com/html/exercise.asp)
 
 ## Done?
