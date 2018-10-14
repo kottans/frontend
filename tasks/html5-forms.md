@@ -1,3 +1,9 @@
+[![MIT Licensed][icon-mit]][license]
+[![Ideas and useful links][icon-ideas]][ideas]
+[![Awesome][icon-awesome]][awesome]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gitter][icon-chat]][chat]
+
 # Task 11
 ### HTML5: Forms
 #### Intro
@@ -31,9 +37,9 @@ HTML5 validation | Many useful validations can be done with native HTML validati
 
 Make a form according to mockup: https://dribbble.com/shots/1322677-Checkout-Page/attachments/186093
 
-Use only HTML & CSS, no JavaScript.  
+Use only HTML & CSS, no JavaScript.
 Form elements should be clickable and respond to user action.  
-The look should be as close as possible to mockup.  
+The look should be as close as possible to mockup.
 Test the result in all available browsers & on different devices.  
 Turn off CSS styling and check how your form looks and if it is still usable.
 
@@ -47,3 +53,14 @@ Note: The list of recommended resources is extensive. You may not have enough ti
 - [HTML5 doctor](http://html5doctor.com/element-index/) - HTML5 elements description with examples
 - [Lecture on HTML by Aleksei Shvaika](https://youtu.be/Y7-0yo4KCVk?list=PLr1siHsWN79BpMXpZv0rEo0b8Wqgf9SUv) for Kottans JS course 2016
 - [Inhuman UI by Vadim Makeev](https://youtu.be/KAK-WAb9vow) - talk on accessibility and what web developers can do about it
+
+
+[icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
+[icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
+[icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg
+[icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+
+[license]: https://github.com/Kottans/web/blob/master/LICENSE.md
+[awesome]: https://github.com/sindresorhus/awesome#front-end-development
+[ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
+[chat]: https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
