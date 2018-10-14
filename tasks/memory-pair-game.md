@@ -32,7 +32,7 @@ If you honestly finished all the previous steps than go ahead and share it with 
 
 ## Extra materials
 
-1. [Flip Animation](https://davidwalsh.name/css-flip)
+- [Flip Animation](https://davidwalsh.name/css-flip)
 
 ## Done?
 

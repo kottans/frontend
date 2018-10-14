@@ -76,7 +76,7 @@ story with mobile devices.
   - TodayForecast — takes data from Application and shows forecast for today
   - WeekForecast — takes data from Application and shows forecast for week
   - TemperatureDropdown — dropdown, which gives possibility to select Celsius or
-  Fahrenheit
+    Fahrenheit
 
 ### Additional information:
 
