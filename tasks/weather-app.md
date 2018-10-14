@@ -78,7 +78,7 @@ story with mobile devices.
   - TemperatureDropdown — dropdown, which gives possibility to select Celsius or
     Fahrenheit
 
-### Additional information:
+### Additional information
 
 * The exact list of forecast periods may depend on API which you choose for this
   task. Providing forecast not for week, but for five days, 10 days, etc.
@@ -89,7 +89,9 @@ story with mobile devices.
 
 ## Done?
 
-__Congratulations! 🎉__ You finished _Stage 0_ of the cource.
+__Congratulations! 🎉__
+
+You have finished __Stage 0__ of the course!
 
 ➡️ Go to [Gitter Chat][chat] and let us know about!
 
