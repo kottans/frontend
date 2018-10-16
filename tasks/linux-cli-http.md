@@ -29,8 +29,11 @@ When you finish this task you can start the next one.
 
 ## Extra Materials
 
+- [Основы командной строки Hexlet (РУС)](https://ru.hexlet.io/courses/cli-basics)
+- [HTTP: Протокол, який повинен розуміти кожний веб-розробник (Частина 1) (УКР)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+- [HTTP: Протокол, который должен знать каждый веб-разработчик (Часть 1) (РУС)](https://code.tutsplus.com/ru/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
-- [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7 )
+- [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
 
 ## Done?
 
