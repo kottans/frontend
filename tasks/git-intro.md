@@ -23,6 +23,8 @@ When you finish this task you can start the next one.
 
 ## Extra Materials
 
+* [Git за 30 хвилин](https://codeguida.com/post/453)
+
 * [Git tips](http://sixrevisions.com/web-development/git-tips/) — consolidate your knowledge of Git
 
 * [Learn git branching](http://learngitbranching.js.org) — improve your understading of branching
