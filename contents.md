@@ -6,7 +6,7 @@
 
 # Front-End Course. Contents
 
-## Stage 0. Admission
+## Stage 0. Self-Study
 
 The online stage of _Front-End Course_. Following tasks should be completed
 at home to participate offline stage. Learn more in [README](README.md).
@@ -17,7 +17,7 @@ at home to participate offline stage. Learn more in [README](README.md).
  2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 
 ### Front-End Basics
- 3. [Intro to HTML&nbsp;&&nbsp;CSS](tasks/html-css-intro.md)
+ 3. [Intro to HTML&nbsp;&amp;&nbsp;CSS](tasks/html-css-intro.md)
  4. [Responsive Web Design](tasks/html-css-responsive.md)
  5. [Intro to JS](tasks/js-intro.md)
  6. [Document Object Model](tasks/js-dom.md)
