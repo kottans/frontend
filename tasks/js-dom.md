@@ -4,27 +4,31 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 6: Document Object Model
+# Document Object Model
 
 Learn some frontend basics: DOM API
 
-TBA
+__Under development.__
+
+If you honestly finished all the previous steps than go ahead and share it with
+others — send a message in [gitter channel][chat] with the link to your repo
+and `@/all` tag and the words _DOM – finished_.
 
 When you finish this task you can start the next one.
 
 ## Extra materials
 
--   [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
--   [15 тривиальных фактов о правильной работе с протоколом HTTP](https://habrahabr.ru/company/yandex/blog/265569/)
--   [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
--   [HTTP/2 101 (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=r5oT_2ndjms)
--   [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+- [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
+- [15 тривиальных фактов о правильной работе с протоколом HTTP](https://habrahabr.ru/company/yandex/blog/265569/)
+- [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
+- [HTTP/2 101 (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=r5oT_2ndjms)
+- [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
 
 ## Done?
 
 ➡️ Go forward to [Object-Oriented JavaScript](js-oop.md)
 
-⤴️ Back to [Contents](../)
+⤴️ Back to [Contents](../contents.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg

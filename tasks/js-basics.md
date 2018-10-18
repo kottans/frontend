@@ -4,11 +4,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 5: JavaScript Basics
+# JavaScript Basics
 
 [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Intro to JS - finished".
+If you honestly finished all the previous steps than go ahead and share it with
+others — send a message in [gitter channel][chat] with the link to your repo
+and `@/all` tag and the words _Intro to JS – finished_.
 
 When you finish this task you can start the next one.
 
@@ -21,7 +23,9 @@ When you finish this task you can start the next one.
 
 ## Done?
 
-➡️ Go forward to [Test 6](js-oop.md)
+➡️ Go forward to [Document Object Model](js-dom.md)
+
+⤴️ Back to [Contents](../contents.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg

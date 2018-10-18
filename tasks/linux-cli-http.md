@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 1: Linux, Command Line, HTTP Tools
+# Linux, Command Line, HTTP Tools
 
 Learn some command line, server and http tools.
 
@@ -37,7 +37,9 @@ When you finish this task you can start the next one.
 
 ## Done?
 
-➡️ Go forward to [Test 2](git-collaboration.md)
+➡️ Go forward to [Git for Team Collaboration](git-collaboration.md)
+
+⤴️ Back to [Contents](../contents.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg

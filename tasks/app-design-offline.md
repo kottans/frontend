@@ -4,12 +4,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 7: Offline Web Applications
-Learn some frontend basics
+# Offline Web Applications (optional)
 
 [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Offline Web Applications - finished".
+If you honestly finished all the previous steps than go ahead and share it with
+others — send a message in [gitter channel][chat] with the link to your repo
+and `@/all` tag and the words _Offline Web Applications – finished_.
 
 When you finish this task you can start the next one.
 
@@ -22,7 +23,9 @@ When you finish this task you can start the next one.
 
 ## Done?
 
-➡️ Go forward to [Test 8](memory-pair-game.md)
+➡️ Go forward to [Memory – Pair Game](memory-pair-game.md)
+
+⤴️ Back to [Contents](../contents.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg

@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 10: Weather App
+# Weather App
 
 When you're done with your challenge push your code to github repo and publish
 it using `gh-pages`. _Add link to it to your main frontend tasks repo._
@@ -78,7 +78,7 @@ story with mobile devices.
   - TemperatureDropdown — dropdown, which gives possibility to select Celsius or
     Fahrenheit
 
-### Additional information:
+### Additional information
 
 * The exact list of forecast periods may depend on API which you choose for this
   task. Providing forecast not for week, but for five days, 10 days, etc.
@@ -87,7 +87,15 @@ story with mobile devices.
   of FF, because last one does not support ES6 modules;
 * Map with temperatures is not required for this task;
 
-<!-- [Test 11](test11.md) -->
+## Done?
+
+__Congratulations! 🎉__
+
+You have finished __Stage 0__ of the course!
+
+➡️ Go to [Gitter Chat][chat] and let us know about!
+
+⤴️ Back to [Contents](../contents.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg

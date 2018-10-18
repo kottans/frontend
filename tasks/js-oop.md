@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 6: Object-Oriented JavaScript
+# Object-Oriented JavaScript
 
 [Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 
@@ -27,7 +27,9 @@ When you finish this task you can start the next one.
 
 ## Done?
 
-➡️ Go forward to [Test 7](app-design-offline.md)
+➡️ Go forward to [Offline Web Applications](app-design-offline.md)
+
+⤴️ Back to [Contents](../contents.md)
 
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg

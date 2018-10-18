@@ -54,7 +54,7 @@ if approved by the community.
 
 ## To Be Assigned
 
-Following tasks are not assigned to either phase
+The following tasks are not assigned to either phase
 
 1. [Document Object Model](js-dom.md) **TBA**,
    leads to major/[Object-Oriented JavaScript](js-oop.md)

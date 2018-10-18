@@ -4,9 +4,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gitter][icon-chat]][chat]
 
-# Task 9: Website Performance Optimization
+# Website Performance Optimization (optional)
 
-TBA
+<!-- TBA -->
 
 ### Extra materials
 
@@ -32,7 +32,10 @@ TBA
 
 ## Done?
 
-➡️ Go forward to [Test 10](weather-app.md)
+➡️ Go forward to [Weather App](weather-app.md) — real project!
+
+⤴️ Back to [Contents](../contents.md)
+
 
 [icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
