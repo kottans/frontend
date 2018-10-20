@@ -69,7 +69,12 @@ for they are better comprehended when practising.
  * [Git Patterns and Anti-Patterns](https://dzone.com/refcardz/git-patterns-and-anti-patterns?chapter=1)
  * [Oh shit, git!](http://ohshitgit.com/)
  * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
- * [GitHub Learning Lab](https://lab.github.com/courses)
+ * [GitHub Learning Lab](https://lab.github.com/courses):
+   - [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
+   - [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)
+ * [Rebase techniques](https://gist.github.com/OleksiyRudenko/232e1ebe6ed0780fc69d7391723cc75b)
+ * [Merging repos](https://gist.github.com/OleksiyRudenko/3324acdab15fff52955979522c878a3e)
+ * [How to publish `dist/*` only on github pages](https://gist.github.com/OleksiyRudenko/7e94aa2d18927e0c5e65b2b5a1c0e375)
  * [octotree](https://github.com/ovity/octotree) // [Chrome github navigation plug-in](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
  * [Скринкаст по git :clapper::clapper::clapper:](https://learn.javascript.ru/screencast/git)
  * [_placeholder for workshop videocast_](#)
