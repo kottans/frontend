@@ -17,9 +17,11 @@ When you finish this task you can start the next one.
 ## Extra materials:
 
 - [freecodecamp.org](https://www.freecodecamp.org)
+- [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
 - [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html)
 - [htmlacademy](https://htmlacademy.ru/)
-- [w3w3schools exercise](https://www.w3schools.com/html/exercise.asp)
+- [w3schools exercise](https://www.w3schools.com/html/exercise.asp)
+- [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
 ## Done?
 
