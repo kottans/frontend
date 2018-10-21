@@ -34,6 +34,8 @@ When you finish this task you can start the next one.
 
 * [Learn git branching](http://learngitbranching.js.org) — improve your understading of branching
 
+* [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+
 * [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 
 * [TypingClub](https://www.typingclub.com/) — improve your typing speed
