@@ -8,7 +8,8 @@
 
 Learn some frontend basics: DOM API
 
-__Under development.__
+[JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
+(4 lessons, estimated completion time 8 hrs)
 
 If you honestly finished all the previous steps than go ahead and share it with
 others — send a message in [gitter channel][chat] with the link to your repo
