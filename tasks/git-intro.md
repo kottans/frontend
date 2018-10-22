@@ -9,6 +9,12 @@ Get familiar with Git and GitHub.
 
  1. Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
+    You may resort to subtitles/closed captions and
+    to auto-translated subtitles in particular if you feel
+    it would help you to master the video course better.
+
+    ![youtube-CC-guide](../img/youtube-captions.png)
+
  2. Finish [try.github.io](https://try.github.io/levels/1/challenges/1)
 
  3. Create repository named `kottans-frontend`.
