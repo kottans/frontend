@@ -1,8 +1,7 @@
 [![MIT Licensed][icon-mit]][license]
-[![Ideas and useful links][icon-ideas]][ideas]
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Gitter][icon-chat]][chat]
+[![Telegram][icon-chat]][chat]
 
 # Advanced git
 **Enhance your git skills**
@@ -69,7 +68,12 @@ for they are better comprehended when practising.
  * [Git Patterns and Anti-Patterns](https://dzone.com/refcardz/git-patterns-and-anti-patterns?chapter=1)
  * [Oh shit, git!](http://ohshitgit.com/)
  * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
- * [GitHub Learning Lab](https://lab.github.com/courses)
+ * [GitHub Learning Lab](https://lab.github.com/courses):
+   - [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
+   - [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)
+ * [Rebase techniques](https://gist.github.com/OleksiyRudenko/232e1ebe6ed0780fc69d7391723cc75b)
+ * [Merging repos](https://gist.github.com/OleksiyRudenko/3324acdab15fff52955979522c878a3e)
+ * [How to publish `dist/*` only on github pages](https://gist.github.com/OleksiyRudenko/7e94aa2d18927e0c5e65b2b5a1c0e375)
  * [octotree](https://github.com/ovity/octotree) // [Chrome github navigation plug-in](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
  * [Скринкаст по git :clapper::clapper::clapper:](https://learn.javascript.ru/screencast/git)
  * [_placeholder for workshop videocast_](#)
@@ -138,12 +142,10 @@ are rather a collection of possible theses.
 </details>
 
 
-[icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
+[icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
-[icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
-[ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
-[chat]: https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+[chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q

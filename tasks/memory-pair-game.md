@@ -1,10 +1,9 @@
 [![MIT Licensed][icon-mit]][license]
-[![Ideas and useful links][icon-ideas]][ideas]
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Gitter][icon-chat]][chat]
+[![Telegram][icon-chat]][chat]
 
-# Task 8: Memory – Pair Game
+# Memory – Pair Game
 
 We learned a lot, but now lets do some practice!
 
@@ -25,10 +24,13 @@ Some of following links might be helpful:
 1. [Shuffle Array](https://css-tricks.com/snippets/javascript/shuffle-array/)
 2. [CSS3 Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 
+When you're done with your challenge push your code to GitHub repo and publish
+it using [GitHub Pages](https://pages.github.com).
+Add link to your main frontend tasks repo.
 
-When you're done with your challenge push your code to github repo and publish it using gh-pages.
-Add link to it to your main frontend tasks repo.
-If you honestly finished all the previous steps than go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Memory - Pair Game - finished".
+If you honestly finished all the previous steps than go ahead and share it with
+others — post a message to [course channel][chat] with the link to your repo
+and the words _Memory - Pair Game – finished_.
 
 ## Extra materials
 
@@ -36,15 +38,15 @@ If you honestly finished all the previous steps than go ahead and share it with 
 
 ## Done?
 
-➡️ Go forward to [Test 9](app-design-performance.md)
+➡️ Go forward to [Website Performance Optimization](app-design-performance.md)
+
+⤴️ Back to [Contents](../contents.md)
 
 
-[icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
+[icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
-[icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
-[ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
-[chat]: https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+[chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
