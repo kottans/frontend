@@ -10,6 +10,17 @@ Learn some command line, server and http tools.
 
 1. [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
+   **A note for Windows users:** you will need to work with Linux
+   CLI as many commands are not supported by Windows `cmd` or
+   PowerShell. You must have already installed `git`
+   from [git-scm.com](https://git-scm.com/downloads).
+   It offers Git Bash that is pretty OK to complete the task.
+
+   Right click anywhere in file explorer and select
+   `Git Bash here` option.
+
+   ![windows-git-bash](../img/windows-git-bash.png)
+
 2. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
 3. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
