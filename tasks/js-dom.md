@@ -10,7 +10,7 @@ Learn some frontend basics: DOM API
 - [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
 (4 lessons, estimated completion time 8 hrs)
 - [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) - finish second half of the course (10 lessons) and save a screenshot.
-- **Practical task**: Implement interactive side-menu' site without page reloads aka simple SPA. Theme may be any: pokemons, phones, site pages aka about/prices/goal/etc.
+- **Practical task**: Implement interactive side-menu' site without page reloads. You may chose any theme: pokemons, phones, site pages aka about/prices/goal/etc.
 Action menu - something like this but not so ugly :)
 ![image](https://i.imgur.com/KcUYO4F.png)
 
@@ -18,10 +18,10 @@ Action menu - something like this but not so ugly :)
 
 - [ ] complex implementation of full page responsive layout (credit to Udacity course about responsive HTML/CSS).
 - [ ] the point is the action-driven menu with ability to load some predefined html content related to own menu item into right-positioned `<main>` content container
-- [ ] you can store data in array of objects
-- [ ] you can use `innerHTML, insertAdjacentHTML, append, createElement`, container listeners
+- [ ] you can store data in an array of objects
+- [ ] you can use `innerHTML, insertAdjacentHTML, append, createElement, addEventListener`, 
 - [ ] you can use `Array.filter/sort/find/findIndex/reduce/map` etc and of course - DOM methods.
-You can push your code to separated repo, push it to gh-pages or whatever you want to publish your practical task. Good luck!
+You can push your code to a separated repo, push it to gh-pages or whatever you want to publish your practical task. Good luck!
 
 If you honestly finished all the previous steps than go ahead and share it with
 others — post a message to [course channel][chat] with the link to your repo
