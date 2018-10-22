@@ -8,8 +8,9 @@
 
 Learn some frontend basics: DOM API
 
-[JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
+- [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
 (4 lessons, estimated completion time 8 hrs)
+- [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) - finish second half of the course (10 lessons) and save a screenshot.
 
 If you honestly finished all the previous steps than go ahead and share it with
 others — send a message in [gitter channel][chat] with the link to your repo

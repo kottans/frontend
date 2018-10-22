@@ -6,7 +6,8 @@
 
 # JavaScript Basics
 
-[Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
+- [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
+- [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) - finish first half of the course (11 lessons) and save a screenshot.
 
 If you honestly finished all the previous steps than go ahead and share it with
 others — send a message in [gitter channel][chat] with the link to your repo
