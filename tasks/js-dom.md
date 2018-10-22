@@ -10,7 +10,7 @@ Learn some frontend basics: DOM API
 - [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
 (4 lessons, estimated completion time 8 hrs)
 - [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) - finish second half of the course (10 lessons) and save a screenshot.
-- **Practical task**: Implement interactive side-menu' site without page reloads. You may chose any theme: pokemons, phones, site pages aka about/prices/goal/etc.
+- **Practical task**: Implement interactive side-menu' site without page reloads. You may choose any theme: pokemons, phones, site pages aka about/prices/goal/etc.
 Action menu - something like this but not so ugly :)
 ![image](https://i.imgur.com/KcUYO4F.png)
 
