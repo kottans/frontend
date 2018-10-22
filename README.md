@@ -2,7 +2,6 @@
 [![Ideas and useful links][icon-ideas]][ideas]
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Gitter][icon-chat]][chat]
 
 # Front-End Course
 
@@ -22,9 +21,7 @@ Admission for the course is open until enough applicants have successfully
 completed the tasks (approximately 30 students). Which means, that completing
 the tasks faster increases your chances to get into the course.
 
-If you have any questions you can ask us in the
-[![chat on Gitter][icon-chat]][chat]
-You will see the link on the top of each task.
+If you have any questions you can ask us in one of our chats.
 
 
 ### What you will learn
@@ -65,6 +62,15 @@ You will see the link on the top of each task.
 
 5. __Videos:__ same as for the reading; watch the video —
    answer three questions.
+   
+   
+ ### Chats
+
+For your comfort we have created several chats in the telegram:
+
+1. [FE Students | Kottans](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA) - chat for students, where you can discuss anything related to the current course
+2. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need a help of one of the mentors, or maybe from all of them simultaneously, you can ask it there
+3. [Kottans](https://t.me/kottans) - and our main chat
 
 
 ### Ready?
@@ -72,9 +78,6 @@ You will see the link on the top of each task.
 ➡️ __Lets begin!__ Go forward to [Git and GitHub Intro](tasks/git-intro.md)
 
 ➡️ Read course plan in [Contents](contents.md)
-
-Do not forget to join our [![Gitter chat][icon-chat]][chat]
-
 
 ---
 
@@ -103,7 +106,6 @@ like that (and we’ll never stop).
   or a group of authors behind all materials that we use.
 
 
-[icon-chat]: https://badges.gitter.im/Kottans/frontend.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
@@ -111,7 +113,6 @@ like that (and we’ll never stop).
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
-[chat]: https://gitter.im/Kottans/frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 
 [frontend-dicts]: https://github.com/web-standards-ru/dictionary
 [markdown]: https://help.github.com/categories/writing-on-github/
