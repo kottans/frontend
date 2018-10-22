@@ -9,6 +9,7 @@
 
 - [HTML Academy: first ~146 + ~89 only free-of-paid html/css practical game-lessons (Rus) [~10 hours]](https://htmlacademy.ru/)
 ![image](https://i.imgur.com/RxF8BXb.png)
+(they are ~250 really so tiny, usually one-liners and very exciting - make you curious and eager to learn more and more :))
 
 If you honestly finished all the previous steps than go ahead and share it with
 others — post a message to [course channel][chat] with the link to your repo
