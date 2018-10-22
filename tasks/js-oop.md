@@ -8,7 +8,7 @@
 
 [Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 
-If you honestly finished all the previous steps then go ahead and share it with others - send a message in gitter channel with the link to your repo and "@/all" tag and the words "Object Oriented JS - finished".
+If you honestly finished all the previous steps then go ahead and share it with others - post a message to [course channel](chat) with the link to your repo and the words "Object Oriented JS - finished".
 
 When you finish this task you can start the next one.
 

@@ -9,8 +9,8 @@
 [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 
 If you honestly finished all the previous steps than go ahead and share it with
-others — send a message in [gitter channel][chat] with the link to your repo
-and `@/all` tag and the words _Offline Web Applications – finished_.
+others — post a message to [course channel][chat] with the link to your repo
+and the words _Offline Web Applications – finished_.
 
 When you finish this task you can start the next one.
 

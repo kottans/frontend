@@ -24,9 +24,9 @@ tiny JS world? Time to use your new power.
      - how OOP course you passed affected your coding
 
    * share your progress with others -
-     send a message in gitter channel (_post-OOP JS task finished!_)
+     post a message to [course channel](chat) (_post-OOP JS task finished!_)
      with the link to your
-     repo and `@/all` tag and also ask mentors to make
+     repo and also ask mentors to make
      a code review
 
 ## Done?

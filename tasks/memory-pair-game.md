@@ -30,8 +30,8 @@ it using [GitHub Pages](https://pages.github.com).
 Add link to your main frontend tasks repo.
 
 If you honestly finished all the previous steps than go ahead and share it with
-others — send a message in [gitter channel][chat] with the link to your repo
-and `@/all` tag and the words _Memory - Pair Game – finished_.
+others — post a message to [course channel][chat] with the link to your repo
+and the words _Memory - Pair Game – finished_.
 
 ## Extra materials
 

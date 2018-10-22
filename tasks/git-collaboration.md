@@ -15,9 +15,9 @@ and projects!
 
  1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
- 2. You did a lot already! If you honestly finished all the previous steps then
-    go ahead and share it with others – send a message in [gitter channel][chat]
-    with the link to your repo and `@/all` tag.
+1.  You did a lot already! If you honestly finished all the previous steps then
+    go ahead and share it with others – post a message to [course channel][chat]
+    with the link to your repo.
 
 Finish the courses listed in the task and put the screenshots of the finished
 courses in the `task-02` directory and the links in the `README.md`.

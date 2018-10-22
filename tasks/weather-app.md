@@ -10,8 +10,7 @@ When you're done with your challenge push your code to github repo and publish
 it using `gh-pages`. _Add link to it to your main frontend tasks repo._
 
 If you honestly finished all the previous steps than go ahead and share it with
-others - send a message in gitter channel with the link to you repo and "@/all"
-tag and the words "Weather APP - finished" and add link to repo with code of the
+others - send a message in [course channel](chat) with the link to you repo and the words "Weather APP - finished" and add link to repo with code of the
 website.
 
 ## Weather app
@@ -93,7 +92,7 @@ __Congratulations! 🎉__
 
 You have finished __Stage 0__ of the course!
 
-➡️ Go to [Gitter Chat][chat] and let us know about!
+➡️ Go to [Course Chat][chat] and let us know about!
 
 ⤴️ Back to [Contents](../contents.md)
 

@@ -12,8 +12,8 @@ Learn some frontend basics: DOM API
 (4 lessons, estimated completion time 8 hrs)
 
 If you honestly finished all the previous steps than go ahead and share it with
-others — send a message in [gitter channel][chat] with the link to your repo
-and `@/all` tag and the words _DOM – finished_.
+others — post a message to [course channel][chat] with the link to your repo
+and the words _DOM – finished_.
 
 When you finish this task you can start the next one.
 
