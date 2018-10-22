@@ -16,8 +16,7 @@ When you finish this task you can start the next one.
 ## Extra materials
 
 - [Курс "Введение в программирование" от Hexlet](https://ru.hexlet.io/courses/introduction_to_programming)
-- [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [Algorithms Course by Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## Done?
