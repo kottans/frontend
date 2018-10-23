@@ -18,7 +18,7 @@
 - Q: I want to be a student, what do I do?
   + A: Great spirit takes you halfway there. You could start working through prerequisites and test tasks, keep an eye on our [public channel](https://twitter.com/kottans_org) and [chat]
 - Q: I want to talk you your manager, get me to real person
-  + A: We don't have one, but you could throw a question at the [chat] and somebody might answer.
+  + A: We don't have one, but you could throw a question at the [chats](https://github.com/kottans/frontend#chats) and somebody might answer.
 
 Once again, don't forget:
 1) we are not paid to do this
