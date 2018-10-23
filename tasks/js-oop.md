@@ -8,7 +8,7 @@
 - [Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 - [codewars](https://www.codewars.com/) - register, join Kottans clan and reach 7 kyu.
 
-If you honestly finished all the previous steps then go ahead and share it with others - post a message to [course channel](chat) with the link to your repo and the words "Object Oriented JS - finished".
+If you honestly finished all the previous steps then go ahead and share it with others - post a message to [course channel][chat] with the link to your repo and the words "Object Oriented JS - finished".
 
 When you finish this task you can start the next one.
 
@@ -27,7 +27,7 @@ When you finish this task you can start the next one.
 
 ## Done?
 
-➡️ Go forward to [Offline Web Applications](app-design-offline.md)
+➡️ Go forward to [OOP Exercise](js-post-oop.md)
 
 ⤴️ Back to [Contents](../contents.md)
 
