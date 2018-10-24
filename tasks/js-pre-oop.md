@@ -14,10 +14,9 @@
      **A tiny JS world** and add link to your repo
 
    * share your progress with others -
-     send a message in gitter channel (_A tiny JS world task finished!_)
-     with the link to your
-     repo and `@/all` tag and also ask mentors to make
-     a code review
+     post a message in [course channel][chat]
+     with the link to your repo, words _A tiny JS world - finished!_,
+     and also ask mentors to make a code review
 
    * read one or two articles on OOP under the links in
      [this repo](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
@@ -25,6 +24,8 @@
 ## Done?
 
 ➡️ Go forward to [Object-Oriented JavaScript](js-oop.md)
+
+⤴️ Back to [Contents](../contents.md)
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
