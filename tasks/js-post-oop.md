@@ -8,10 +8,13 @@
 Now you know a lot about JavaScript OOP. Remember that
 tiny JS world? Time to use your new power.
 
-1. Re-build your tiny JS world model you forked from
+1. Improve your tiny JS world model you forked from
    [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
    This time use your favourite JS OOP methods to keep
    your code DRY and SOLID.
+
+   You don't need forking this time, work with the repo you've
+   already got. Git keeps history for you.
 
 2. When done then do the following
 
@@ -23,14 +26,15 @@ tiny JS world? Time to use your new power.
      - how OOP course you passed affected your coding
 
    * share your progress with others -
-     post a message to [course channel](chat) (_post-OOP JS task finished!_)
-     with the link to your
-     repo and also ask mentors to make
-     a code review
+     post a message in [course channel][chat]
+     with the link to your repo, words _OOP exercise - finished!_,
+     and also ask mentors to make a code review
 
 ## Done?
 
 ➡️ Go forward to [Offline Web Applications](app-design-offline.md)
+
+⤴️ Back to [Contents](../contents.md)
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
