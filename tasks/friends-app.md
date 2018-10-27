@@ -48,7 +48,7 @@ __Congratulations! 🎉__
 
 You have finished __Stage 0__ of the course!
 
-➡️ Go to [Course Chat][chat] and let us know about!
+➡️ Go forward to [Weather App](weather-app.md) — real project!
 
 ⤴️ Back to [Contents](../contents.md)
 
