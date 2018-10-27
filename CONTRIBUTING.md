@@ -1,3 +1,5 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+  
 # Contributing
 
 We want to encourage all students and mentors to get involved
@@ -82,19 +84,20 @@ thinks it looks good, it'll be accepted and merged in.
 Please ensure your PR initially has 1 or 2 commits,
 3 as a maximum. Otherwise please squash your commits
 into fewer well separated commits.
-It's important that commits be atomic to keep the history clean.
-Below is a short guide on squashing commits into a clean history. Please read through and follow [Chris Beams's - How to write a git commit message](http://chris.beams.io/posts/git-commit/).
+It's important that commits are atomic to keep the history clean.
+Below you will find a short guide on squashing commits into a clean history. 
+Please read through and follow [Chris Beams's - How to write a git commit message](http://chris.beams.io/posts/git-commit/).
 
-* Run `git log --oneline master..your-branch-name | wc -l`
-  to see how many commits there are on your branch.
-* Run `git rebase -i HEAD~#` where # is the number
-  of commits you have done on your branch.
-* Use the interactive rebase to edit your history.
-  Unless you have good reason to keep more than one
-  commit, it is best to mark the first commit
-  with 'r' (reword) and the others with 's' (squash).
-  This lets you keep the first commit only, but change
-  the message.
+1. Run `git log --oneline master..your-branch-name | wc -l`
+   to see how many commits there are on your branch.
+1. Run `git rebase -i HEAD~#` where # is the number
+   of commits you have done on your branch.
+1. Use the interactive rebase to edit your history.
+   Unless you have good reason to keep more than one
+   commit, it is best to mark the first commit
+   with 'r' (reword) and the others with 's' (squash).
+   This lets you keep the first commit only, but change
+   the message.
 
 If your commit resolves some issue then please refer the issue.
 This will get issue closed automatically upon merge.
@@ -110,6 +113,14 @@ Note a blank line before `Resolves...`. Everything after a
 blank line will be considered supplementary information
 not normally required to show up when anyone browses
 commits history with compact output.
+
+### Never made any Pull Requests before?
+
+Piece of cake!
+
+Consider completing
+[Kent Dodd's How to Contribute to an Open Source Project on GitHub course](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+(14 lessons, each ~3 mins long)
 
 ## Credits
 

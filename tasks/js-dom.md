@@ -39,7 +39,7 @@ When you finish this task you can start the next one.
 
 ## Done?
 
-➡️ Go forward to [Object-Oriented JavaScript](js-oop.md)
+➡️ Go forward to [Building a Tiny JS World](js-pre-oop.md)
 
 ⤴️ Back to [Contents](../contents.md)
 

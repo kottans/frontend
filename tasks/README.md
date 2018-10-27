@@ -13,7 +13,9 @@
 1. [Front-End Basics](html-css-intro.md)
 1. [Responsive Layouts](html-css-responsive.md)
 1. [JavaScript Basics](js-basics.md)
+1. [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
 1. [Object-Oriented JavaScript](js-oop.md)
+1. [OOP exercise](tasks/js-post-oop.md) - practice
 1. [Offline Web Applications](app-design-offline.md) **TBA**
 1. [Memory – Pair Game](memory-pair-game.md)
 1. [Website Performance Optimization](app-design-performance.md) **TBA**
@@ -25,15 +27,6 @@ Tasks above are unidirectional linked list.
 
 These below can be added to the course only
 if approved by the community.
-
-* [pre-OOP JS](js-pre-oop.md) -
-  would come before [Object-Oriented JavaScript](js-oop.md)
-  to give students some experience of possibly bad coding.
-  Time to complete estimate 1-2 hours.
-* [post-OOP JS](js-post-oop.md) -
-  would come after [Object-Oriented JavaScript](js-oop.md).
-  Basically same as **pre-OOP JS** but this time students
-  are armed with JS OOP knowledge.
 
 ## Meetup supported (intramural) phase
 

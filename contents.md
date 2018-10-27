@@ -17,22 +17,24 @@ at home to participate offline stage. Learn more in [README](README.md).
  2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 
 ### Front-End Basics
- 3. [Intro to HTML&nbsp;&amp;&nbsp;CSS](tasks/html-css-intro.md)
+ 3. [Intro to HTML & CSS](tasks/html-css-intro.md)
  4. [Responsive Web Design](tasks/html-css-responsive.md)
  5. [Intro to JS](tasks/js-basics.md)
  6. [Document Object Model](tasks/js-dom.md)
 
 ### Advanced Topics
- 7. [Object oriented JS](tasks/js-oop.md)
- 8. [Offline Web Applications](tasks/app-design-offline.md)
- 9. [Memory pair game](tasks/memory-pair-game.md) — real project!
-10. [Website Performance Optimization](tasks/app-design-performance.md)
-11. [Weather App](tasks/weather-app.md) — real project!
+ 7. [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
+ 8. [Object oriented JS](tasks/js-oop.md)
+ 9. [OOP exercise](tasks/js-post-oop.md) - practice
+10. [Offline Web Applications](tasks/app-design-offline.md)
+11. [Memory pair game](tasks/memory-pair-game.md) — real project!
+12. [Website Performance Optimization](tasks/app-design-performance.md)
+13. [Weather App](tasks/weather-app.md) — real project!
 
 
 ## Stage 1. The Show Must Go On
 
-__Under development__
+__Under revision__
 
 ### Basic skills enhancement
  1. Mastering HTML 5 forms
