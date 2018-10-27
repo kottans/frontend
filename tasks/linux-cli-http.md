@@ -20,13 +20,11 @@ Learn some command line, server and http tools.
 
    ![windows-git-bash](../img/windows-git-bash.png)
 
-2. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+2. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
-3. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+3. [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
-4. [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-
-5. [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+4. [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
@@ -44,6 +42,10 @@ When you finish this task you can start the next one.
 - [HTTP: Протокол, который должен знать каждый веб-разработчик (Часть 1) (РУС)](https://code.tutsplus.com/ru/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
 - [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
+
+## Optional
+
+1. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
 ## Done?
 
