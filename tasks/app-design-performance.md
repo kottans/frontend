@@ -31,7 +31,7 @@
 
 ## Done?
 
-➡️ Go forward to [Weather App](weather-app.md) — real project!
+➡️ Go forward to [Friends App](friends-app.md) — real project!
 
 ⤴️ Back to [Contents](../contents.md)
 

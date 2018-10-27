@@ -29,7 +29,8 @@ at home to participate offline stage. Learn more in [README](README.md).
 10. [Offline Web Applications](tasks/app-design-offline.md)
 11. [Memory pair game](tasks/memory-pair-game.md) — real project!
 12. [Website Performance Optimization](tasks/app-design-performance.md)
-13. [Weather App](tasks/weather-app.md) — real project!
+13. [Friends App](tasks/friends-app.md) - real project!
+14. [Weather App](tasks/weather-app.md) — real project!
 
 
 ## Stage 1. The Show Must Go On
