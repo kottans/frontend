@@ -24,17 +24,18 @@ Create a tiny social friends' search page with users cards, search, sorting and 
 * sorting cards by name/age in A-Z/Z-A ways
 * filtering friends by age, by name, whatever you want else options
 
-- [ ] you can use all `Array.methods` which you know :) for instance - Array.sort (text sort, number sort) `/filter/slice/splice/shift/map/reduce`
+- [ ] you can use all `Array.methods` which you know :) for instance - `Array#sort`,`Array#filter`, `Array#slice`, `Array#splice`, `Array#map`, `Array#reduce`, etc. Description of methods can be found [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - [ ] you can try to figure out with async data incapsulation in request/response and try callbacks' logic in action
-- [ ] understand sync/async `GET request`, params & queries in action, something one of `axios/fetch/xhr/` but NOT jQuery.
+- [ ] understand sync/async `GET` requests, params & queries in action, something one of `fetch` or `XMLHttpRequest` but *NOT* jQuery. Because no one like it ¯\_(ツ)_/¯
 - [ ] understand pros & cons of the immutable fundamentals for complex types aka array on example of copies of arrays and how manage them
 - [ ] you can try form' key/mouse events, manage them, enable and disable them
 
 ### Stuff which will help you:
 
+* We think that you will need to use promises for this task ;)
 * [Основы XMLHttpRequest](https://learn.javascript.ru/ajax-xmlhttprequest) - you
-  can use XMLHttpRequest for sending requests to webserver;
-  [Method Fetch замена XHR](https://learn.javascript.ru/fetch) - you can use fetch as better tool for sending requests.
+  can use `XMLHttpRequest` for sending requests to webserver;
+  [Method Fetch замена XHR](https://learn.javascript.ru/fetch) - you can use `fetch` as better tool for sending requests.
 * [Randomuser api with awesome simple examples and docs](https://randomuser.me) -
   _you can use one of this API for getting data for your website_;
 * [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - you can use
