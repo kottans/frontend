@@ -5,7 +5,7 @@
 
 # Document Object Model
 
-Learn some frontend basics: DOM API
+### Learn some frontend basics about DOM API:
 
 1. [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
    (4 lessons, estimated completion time 8 hrs)
@@ -13,26 +13,26 @@ Learn some frontend basics: DOM API
 1. [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
    - finish the second half of the course (10 lessons) and save a screenshot.
 
+### .then():
+
 1. **Practical task**: Implement interactive side-menu' site without page reloads. You may choose any theme: pokemons, phones, site pages aka about/prices/goal/etc.
    Action menu - something like this but not so ugly :)
    ![image](https://i.imgur.com/KcUYO4F.png)
 
-   **‎Goals**:
+### The goal
 
-   - [ ] complex implementation of full page responsive layout (credit to Udacity course about responsive HTML/CSS).
-   - [ ] the point is the action-driven menu with ability to load some predefined html content related to own menu item into right-positioned `<main>` content container
-   - [ ] you can store data in an array of objects
-   - [ ] you can use `innerHTML, insertAdjacentHTML, append, createElement, addEventListener`,
-   - [ ] you can use `Array.filter/sort/find/findIndex/reduce/map` etc and of course - DOM methods.
+Main goal - menu with ability to load some predefined html content related to own menu item into right-positioned `<main>` content container.
 
-   You may want to publish your results on
-   [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
+### Goals ###
 
-If you honestly finished all the previous steps than go ahead and share it with
-others — post a message to [course channel][chat] with the link to your repo
-and the words _DOM – finished_.
+- [ ] complex implementation of full page responsive layout (credit to Udacity course about responsive HTML/CSS).
+- [ ] you can store data in an array of objects
+- [ ] you can use `innerHTML, insertAdjacentHTML, append, createElement, addEventListener`,
+- [ ] you may find usefull array methods as `Array#filter`, `Array#sort`, `Array#find`, etc.
+- [ ] and of course - DOM methods.
 
-When you finish this task you can start the next one.
+You may want to publish your results on
+[GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 When complete do the following:
 1. Make screenshots of your progress in (1) and (2)
@@ -71,11 +71,7 @@ When you finish this task you can proceed to the next one.
 
 ## Extra materials
 
-- [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
-- [15 тривиальных фактов о правильной работе с протоколом HTTP](https://habrahabr.ru/company/yandex/blog/265569/)
-- [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
-- [HTTP/2 101 (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=r5oT_2ndjms)
-- [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+- [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
 
 ## Done?
 
