@@ -30,22 +30,18 @@ at home to participate offline stage. Learn more in [README](README.md).
 11. [Memory pair game](tasks/memory-pair-game.md) — real project!
 12. [Website Performance Optimization](tasks/app-design-performance.md)
 13. [Friends App](tasks/friends-app.md) - real project!
-14. [Weather App](tasks/weather-app.md) — real project!
-
 
 ## Stage 1. The Show Must Go On
 
 __Under revision__
 
-### Basic skills enhancement
  1. Mastering HTML 5 forms
- 2. Responsive Layouts
-
-### Advanced
- 3. Pizza App: Login and Registration
- 4. Pizza App: Pizza Creation
- 5. ReactJS Weather App
- 6. React + Redux
+ 1. Responsive Layouts
+ 1. Backend API (Weather App)
+ 1. Pizza App: Login and Registration
+ 1. Pizza App: Pizza Creation
+ 1. ReactJS Weather App
+ 1. React + Redux
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
