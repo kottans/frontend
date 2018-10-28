@@ -30,6 +30,10 @@ tiny JS world? Time to use your new power.
      with the link to your repo, words _OOP exercise - finished!_,
      and also ask mentors to make a code review
 
+## Extra Materials
+
+[Fun Fun Function - Composition over Inhertance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+
 ## Done?
 
 ➡️ Go forward to [Offline Web Applications](app-design-offline.md)
