@@ -10,12 +10,6 @@
 1. [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
    - finish first half of the course (11 lessons) and save a screenshot.
 
-If you honestly finished all the previous steps than go ahead and share it with
-others — post a message to [course channel][chat] with the link to your repo
-and the words _Intro to JS – finished_.
-
-When you finish this task you can start the next one.
-
 Finish the subtasks (1) and (2) above.
 
 When complete do the following:
