@@ -7,31 +7,32 @@
 
 Learn some command line, server and http tools.
 
-1. [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+1. [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
-   **A note for Windows users:** you will need to work with Linux
-   CLI as many commands are not supported by Windows `cmd` or
-   PowerShell. You must have already installed `git`
+  **Note:** Completion of free content (Interactive Lessons) is the required minimum, but Quizes and Freeform Projects should also be available via 7-day trial of Codecademy. Do them if you can, it's great practice.
+
+   **A note for Windows users:** This course provides a virtual environment to
+   type commands in. However, if you want to later use this commands in practice,
+   you will need to work with Linux CLI as many commands are not supported by
+   Windows `cmd` or PowerShell. You must have already installed `git`
    from [git-scm.com](https://git-scm.com/downloads).
-   It offers Git Bash that is pretty OK to complete the task.
+   It offers Git Bash that can be used to type bash commands in.
 
    Right click anywhere in file explorer and select
    `Git Bash here` option.
 
    ![windows-git-bash](../img/windows-git-bash.png)
 
-2. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+2. [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
-3. [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-
-4. [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+3. [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
 
-Finish the courses (1, 2 and 3) and put the screenshots of the finished lessons
+Finish the course (1) and put the screenshots of the finished lessons
 lists in the task_1 folder and the links in the `README.md`.
-Also read 4, 5 articles.
+Also read 2, 3 articles.
 
 When you finish this task you can start the next one.
 
@@ -45,7 +46,11 @@ When you finish this task you can start the next one.
 
 ## Optional
 
-1. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+1. [Command Line Power User](https://commandlinepoweruser.com/)
+
+2. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+
+3. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
 ## Done?
 
