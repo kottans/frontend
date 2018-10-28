@@ -17,7 +17,7 @@
 Action menu - something like this but not so ugly :)
 ![image](https://i.imgur.com/KcUYO4F.png)
 
-### The goal###
+### The goal
 
 Main goal - menu with ability to load some predefined html content related to own menu item into right-positioned `<main>` content container.
 
