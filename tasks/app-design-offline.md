@@ -5,6 +5,8 @@
 
 # Offline Web Applications (optional)
 
+> Note: this task is optional because most likely, you will not use knowledge obtained from it during our course. But, you will need this information when you will work as a developer. At least a general understanding of the concept. That's why finishing this task is up to you.
+
 [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 
 If you honestly finished all the previous steps than go ahead and share it with
