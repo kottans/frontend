@@ -14,9 +14,9 @@
 1. [Responsive Layouts](html-css-responsive.md)
 1. [JavaScript Basics](js-basics.md)
 1. [Document Object Model](js-dom.md)
-1. [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
+1. [Building a Tiny JS World (pre-OOP)](js-pre-oop.md) - practice
 1. [Object-Oriented JavaScript](js-oop.md) - practice
-1. [OOP exercise](tasks/js-post-oop.md) - practice
+1. [OOP exercise](js-post-oop.md) - practice
 1. [Offline Web Applications](app-design-offline.md) - _optional_
 1. [Memory – Pair Game](memory-pair-game.md) - practice
 1. [Website Performance Optimization](app-design-performance.md) - _optional_
