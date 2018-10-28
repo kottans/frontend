@@ -10,18 +10,31 @@ But! It's a great new course. It'll help you a lot to understand better
 the git and operate with it and you'll benefit from it on your future job
 and projects!
 
- 0. [What is Version Control](https://classroom.udacity.com/courses/ud123/)
+ 1. [What is Version Control](https://classroom.udacity.com/courses/ud123/)
 
- 1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+ 2. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
-1.  You did a lot already! If you honestly finished all the previous steps then
-    go ahead and share it with others – post a message to [course channel][chat]
-    with the link to your repo.
+Finish the courses (1) and (2) above.
 
-Finish the courses listed in the task and put the screenshots of the finished
-courses in the `task-02` directory and the links in the `README.md`.
+When complete do the following:
+1. Make screenshots of your finished lessons from (1) and (2)
+   and put the screenshots in `task_git_collaboration` folder in
+   your `kottans-frontend` repo
+1. In your `kottans-frontend` repo `README.md`:
+   * add header `## Git Collaboration`
+   * embed the screenshots or add links to the screenshots
+   * list your reflections on all subtasks
+     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+1. You did lot already! If you honestly finished all the previous steps then go ahead
+   and share it with others –
+   post a message in [course channel][chat]:
+   `Git Collaboration - finished!` and add the link to your repo
+1. Study Extra Materials below to improve your skills.
+   If you feel it affects your overall course performance consider
+   reverting to those later e.g. when you have all mandatory tasks completed.
+1. You may skip Optional materials from this task (if any).
 
-When you finish this task you can start the next one.
+When you finish this task you can proceed to the next one.
 
 ## Extra materials
 
