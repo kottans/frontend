@@ -9,11 +9,26 @@
 
 [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 
-If you honestly finished all the previous steps than go ahead and share it with
-others — post a message to [course channel][chat] with the link to your repo
-and the words _Offline Web Applications – finished_.
+If you decide to complete the task then
+do the following after you're done:
+1. Make screenshots of your progress in the course
+   and put the screenshots in `task_offline_web_app` folder in
+   your `kottans-frontend` repo
+1. In your `kottans-frontend` repo `README.md`:
+   * add header `## Offline Web Applications`
+   * embed the screenshots or add links to the screenshots
+   * list your reflections on the course
+     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+1. You did an extra effort! Go ahead
+   share your progress with others –
+   post a message in [course channel][chat]:
+   `Offline Web Apps - finished!` and add the link to your repo
+1. Study Extra Materials below to improve your skills.
+   If you feel it affects your overall course performance consider
+   reverting to those later e.g. when you have all mandatory tasks completed.
+1. You may skip Optional materials from this task (if any).
 
-When you finish this task you can start the next one.
+When you finish this task you can proceed to the next one.
 
 ## Extra materials
 

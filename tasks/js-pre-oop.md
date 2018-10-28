@@ -8,18 +8,30 @@
 1. Build a tiny JS world model following the instructions
    [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
 
-2. When done then do the following
+When complete do the following:
+1. You will require code review for this task:
+   * publish your task code base for review following instructions
+     in [FE 2019 course homewroks repo](https://github.com/kottans/frontend-2019-homeworks)
+   * post a link to your task PR in the
+     [FE Questionarium chat](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw)
+     and ask mentors for a code review
+   * once the code review phase successfully finished
+     and you have an approval from one of the mentors
+     add to your `kottans-frontend/README.md`
+     the header `## A Tiny JS World`,
+     a link to the task code base and
+     a note saying `Reviewed and approved by @<mentor>`
+     (use mentor's github username)
+   * list your reflections on this task
+     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+1. You did a lot already! If you honestly finished all the previous steps then go ahead
+   and share it with others –
+   post a message in [course channel][chat]:
+   `A Tiny JS World - finished!` and add the link to your repo
+1. Read one or two articles on OOP under the links in
+   [this repo](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
 
-   * in your `kottans-frontend` repo `README.md` add a header
-     **A tiny JS world** and add link to your repo
-
-   * share your progress with others -
-     post a message in [course channel][chat]
-     with the link to your repo, words _A tiny JS world - finished!_,
-     and also ask mentors to make a code review
-
-   * read one or two articles on OOP under the links in
-     [this repo](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
+When you finish this task you can proceed to the next one.
 
 ## Done?
 
