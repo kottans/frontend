@@ -5,22 +5,29 @@
 
 # Document Object Model
 
-Learn some frontend basics: DOM API
+### Learn some frontend basics about DOM API:
 
 - [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
 (4 lessons, estimated completion time 8 hrs)
 - [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) - finish second half of the course (10 lessons) and save a screenshot.
+
+### .then():
+
 - **Practical task**: Implement interactive side-menu' site without page reloads. You may choose any theme: pokemons, phones, site pages aka about/prices/goal/etc.
 Action menu - something like this but not so ugly :)
 ![image](https://i.imgur.com/KcUYO4F.png)
 
-**‎Goals**:
+### The goal###
+
+Main goal - menu with ability to load some predefined html content related to own menu item into right-positioned `<main>` content container.
+
+### Goals ###
 
 - [ ] complex implementation of full page responsive layout (credit to Udacity course about responsive HTML/CSS).
-- [ ] the point is the action-driven menu with ability to load some predefined html content related to own menu item into right-positioned `<main>` content container
 - [ ] you can store data in an array of objects
 - [ ] you can use `innerHTML, insertAdjacentHTML, append, createElement, addEventListener`, 
-- [ ] you can use `Array.filter/sort/find/findIndex/reduce/map` etc and of course - DOM methods.
+- [ ] you may find usefull array methods as `Array#filter`, `Array#sort`, `Array#find`, etc. 
+- [ ] and of course - DOM methods.
 You can push your code to a separated repo, push it to gh-pages or whatever you want to publish your practical task. Good luck!
 
 If you honestly finished all the previous steps than go ahead and share it with
@@ -31,11 +38,7 @@ When you finish this task you can start the next one.
 
 ## Extra materials
 
-- [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
-- [15 тривиальных фактов о правильной работе с протоколом HTTP](https://habrahabr.ru/company/yandex/blog/265569/)
-- [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
-- [HTTP/2 101 (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=r5oT_2ndjms)
-- [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+- [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
 
 ## Done?
 
