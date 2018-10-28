@@ -29,6 +29,10 @@ Get familiar with Git and GitHub.
 
     **Please note, that your PR may not be reviewed quickly.**
 
+ 7. Study Extra Materials below to improve your skills.
+    If you feel it affects your overall course performance consider
+    reverting to those later e.g. when you have all mandatory tasks completed.
+
 When you finish this task you can start the next one.
 
 ## Extra Materials

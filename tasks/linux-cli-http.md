@@ -30,11 +30,27 @@ Learn some command line, server and http tools.
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
 
-Finish the course (1) and put the screenshots of the finished lessons
-lists in the task_1 folder and the links in the `README.md`.
-Also read 2, 3 articles.
+Finish the course (1) and also read articles (2) and (3) above.
 
-When you finish this task you can start the next one.
+When complete do the following:
+1. Make a screenshot of your finished lessons from (1)
+   and put the screenshot in `task_linux_cli` folder in
+   your `kottans-frontend` repo
+1. In your `kottans-frontend` repo `README.md`:
+   * add header `## Linux CLI, and HTTP`
+   * embed the screenshot or add a link to the screenshot
+   * list your reflections on all subtasks
+     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+1. If you honestly finished all the previous steps then go ahead
+   and share it with others –
+   post a message in [course channel][chat]:
+   `Linux CLI and HTTP - finished!` and add the link to your repo
+1. Study Extra Materials below to improve your skills.
+   If you feel it affects your overall course performance consider
+   reverting to those later e.g. when you have all mandatory tasks completed.
+1. You may skip Optional materials from this task (if any).
+
+When you finish this task you can proceed to the next one.
 
 ## Extra Materials
 
