@@ -3,17 +3,39 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Responsive Layouts
+# Responsive Web Design
 
-[Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
-[Flexbox Froggy](http://flexboxfroggy.com/)
+1. [Flexbox Froggy](http://flexboxfroggy.com/)
 
 If you honestly finished all the previous steps than go ahead and share it with
 others — post a message to [course channel][chat] with the link to your repo
 and the words _Responsive Web Design Fundamentals – finished_.
 
 When you finish this task you can start the next one.
+
+Finish the subtasks (1) and (2) above.
+
+When complete do the following:
+1. Make screenshots of your progress in (1) and (2)
+   and put the screenshots in `task_responsive_web_design` folder in
+   your `kottans-frontend` repo
+1. In your `kottans-frontend` repo `README.md`:
+   * add header `## Responsive Web Design`
+   * embed the screenshots or add links to the screenshots
+   * list your reflections on all subtasks
+     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+1. You did a lot already! If you honestly finished all the previous steps then go ahead
+   and share it with others –
+   post a message in [course channel][chat]:
+   `Responsive Web Design - finished!` and add the link to your repo
+1. Study Extra Materials below to improve your skills.
+   If you feel it affects your overall course performance consider
+   reverting to those later e.g. when you have all mandatory tasks completed.
+1. You may skip Optional materials from this task (if any).
+
+When you finish this task you can proceed to the next one.
 
 ## Extra materials
 

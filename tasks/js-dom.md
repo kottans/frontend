@@ -7,27 +7,67 @@
 
 Learn some frontend basics: DOM API
 
-- [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
-(4 lessons, estimated completion time 8 hrs)
-- [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) - finish second half of the course (10 lessons) and save a screenshot.
-- **Practical task**: Implement interactive side-menu' site without page reloads. You may choose any theme: pokemons, phones, site pages aka about/prices/goal/etc.
-Action menu - something like this but not so ugly :)
-![image](https://i.imgur.com/KcUYO4F.png)
+1. [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
+   (4 lessons, estimated completion time 8 hrs)
 
-**‎Goals**:
+1. [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+   - finish the second half of the course (10 lessons) and save a screenshot.
 
-- [ ] complex implementation of full page responsive layout (credit to Udacity course about responsive HTML/CSS).
-- [ ] the point is the action-driven menu with ability to load some predefined html content related to own menu item into right-positioned `<main>` content container
-- [ ] you can store data in an array of objects
-- [ ] you can use `innerHTML, insertAdjacentHTML, append, createElement, addEventListener`, 
-- [ ] you can use `Array.filter/sort/find/findIndex/reduce/map` etc and of course - DOM methods.
-You can push your code to a separated repo, push it to gh-pages or whatever you want to publish your practical task. Good luck!
+1. **Practical task**: Implement interactive side-menu' site without page reloads. You may choose any theme: pokemons, phones, site pages aka about/prices/goal/etc.
+   Action menu - something like this but not so ugly :)
+   ![image](https://i.imgur.com/KcUYO4F.png)
+
+   **‎Goals**:
+
+   - [ ] complex implementation of full page responsive layout (credit to Udacity course about responsive HTML/CSS).
+   - [ ] the point is the action-driven menu with ability to load some predefined html content related to own menu item into right-positioned `<main>` content container
+   - [ ] you can store data in an array of objects
+   - [ ] you can use `innerHTML, insertAdjacentHTML, append, createElement, addEventListener`,
+   - [ ] you can use `Array.filter/sort/find/findIndex/reduce/map` etc and of course - DOM methods.
+
+   You may want to publish your results on
+   [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 If you honestly finished all the previous steps than go ahead and share it with
 others — post a message to [course channel][chat] with the link to your repo
 and the words _DOM – finished_.
 
 When you finish this task you can start the next one.
+
+When complete do the following:
+1. Make screenshots of your progress in (1) and (2)
+   and put the screenshots in `task_js_basics` folder in
+   your `kottans-frontend` repo
+1. You will require code review for your subtask (3).
+   Check [code review guidelines](code-review.md) for details.
+1. In your `kottans-frontend` repo `README.md`:
+   * add header `## DOM`
+   * embed the screenshots or add links to the screenshots
+   * add link to subtask (3) code base
+   * when you have your code reviewed by a mentor add a note
+     `Reviewed and approved by @<mentor>` using mentor's
+     github username
+   * list your reflections on all subtasks
+     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+1. You did a lot already! If you honestly finished all the previous steps then go ahead
+   and share it with others –
+   post a message in [course channel][chat]:
+   `DOM - finished!` and add the link to your repo
+1. Code review:
+   - post link to your subtask (3) code base in the
+     [FE Questionarium chat](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw)
+     and ask mentors for a code review
+   - once the code review phase successfully finished
+     and you have an approval from one of the mentors
+     add a note to `kottans-frontend/README.md` beside your code base link
+     saying `Reviewed and approved by @<mentor>`
+     (use mentor's github username)
+1. Study Extra Materials below to improve your skills.
+   If you feel it affects your overall course performance consider
+   reverting to those later e.g. when you have all mandatory tasks completed.
+1. You may skip Optional materials from this task (if any).
+
+When you finish this task you can proceed to the next one.
 
 ## Extra materials
 
