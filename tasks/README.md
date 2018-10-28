@@ -13,13 +13,14 @@
 1. [Front-End Basics](html-css-intro.md)
 1. [Responsive Layouts](html-css-responsive.md)
 1. [JavaScript Basics](js-basics.md)
+1. [Document Object Model](js-dom.md)
 1. [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
-1. [Object-Oriented JavaScript](js-oop.md)
+1. [Object-Oriented JavaScript](js-oop.md) - practice
 1. [OOP exercise](tasks/js-post-oop.md) - practice
-1. [Offline Web Applications](app-design-offline.md) **TBA**
-1. [Memory – Pair Game](memory-pair-game.md)
-1. [Website Performance Optimization](app-design-performance.md) **TBA**
-1. [Weather App](weather-app.md)
+1. [Offline Web Applications](app-design-offline.md) - _optional_
+1. [Memory – Pair Game](memory-pair-game.md) - practice
+1. [Website Performance Optimization](app-design-performance.md) - _optional_
+1. [Friends App](friends-app.md) - practice
 
 Tasks above are unidirectional linked list.
 
@@ -34,6 +35,7 @@ if approved by the community.
 
 1. [HTML5: Forms](html5-forms.md)
 1. [Responsive Layouts](html-css-responsive-layouts.md)
+1. [Weather App](weather-app.md)
 1. [Pizza App: API, auth, routing](pizza-app-api-auth-routing.md)
 1. [Pizza App: Canvas](pizza-app-canvas.md)
 1. [React](react.md)
@@ -47,9 +49,6 @@ if approved by the community.
 ## To Be Assigned
 
 The following tasks are not assigned to either phase
-
-1. [Document Object Model](js-dom.md) **TBA**,
-   leads to major/[Object-Oriented JavaScript](js-oop.md)
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
