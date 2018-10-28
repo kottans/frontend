@@ -17,6 +17,27 @@
 1. [Пример веб-производительности](https://habrahabr.ru/company/infobox/blog/226289/)
 1. [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)
 
+If you decide to complete the task then
+do the following after you're done:
+1. Make screenshots of your progress in the Udacity courses
+   you have completed
+   and put the screenshots in `task_website_performance` folder in
+   your `kottans-frontend` repo
+1. In your `kottans-frontend` repo `README.md`:
+   * add header `## Website Performance Optimization`
+   * embed the screenshots or add links to the screenshots
+   * list your reflections on the course
+     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+1. You did an extra effort! Go ahead
+   share your progress with others –
+   post a message in the [course channel][chat]:
+   `Website Performance Optimization - finished!` and add the link to your repo
+1. Study Extra Materials below to improve your skills.
+   If you feel it affects your overall course performance consider
+   reverting to those later e.g. when you have all mandatory tasks completed.
+
+When you finish this task you can proceed to the next one.
+
 #### Важные аспекты работы браузера для разработчиков
 
 1. [Важные аспекты работы браузера для разработчиков. Часть 1](https://habrahabr.ru/company/dataart/blog/304138/)
