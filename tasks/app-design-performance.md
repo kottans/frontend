@@ -5,9 +5,9 @@
 
 # Website Performance Optimization (optional)
 
-<!-- TBA -->
+> Note: this task is optional because most likely, you will not use knowledge obtained from it during our course. But, you will need this information when you will work as a developer. At least a general understanding of the concept. That's why finishing this task is up to you.
 
-### Extra materials
+#### Read this:
 
 1. [Website Performance Optimization](https://www.udacity.com/course/ud884)
 1. [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
