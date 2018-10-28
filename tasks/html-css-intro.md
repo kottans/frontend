@@ -45,7 +45,7 @@ When you finish this task you can proceed to the next one.
 
 ## Done?
 
-➡️ Go forward to [Responsive Layouts](html-css-responsive.md)
+➡️ Go forward to [Responsive Web Design](html-css-responsive.md)
 
 ⤴️ Back to [Contents](../contents.md)
 

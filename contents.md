@@ -19,8 +19,8 @@ at home to participate offline stage. Learn more in [README](README.md).
 ### Front-End Basics
  3. [Intro to HTML & CSS](tasks/html-css-intro.md)
  4. [Responsive Web Design](tasks/html-css-responsive.md)
- 5. [Intro to JS](tasks/js-basics.md)
- 6. [Document Object Model](tasks/js-dom.md)
+ 5. [JavaScript Basics](tasks/js-basics.md)
+ 6. [Document Object Model](tasks/js-dom.md) - practice
 
 ### Advanced Topics
  7. [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
