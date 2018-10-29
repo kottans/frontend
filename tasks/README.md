@@ -7,7 +7,7 @@
 
 ## Remote Phase
 
-0. [Git intro](git-intro.md)
+1. [Git intro](git-intro.md)
 1. [Linux CLI, HTTP](linux-cli-http.md)
 1. [Git for Team Collaboration](git-collaboration.md)
 1. [Front-End Basics](html-css-intro.md)
