@@ -1,3 +1,4 @@
+[![Kottans-Frontend][icon-kottans]][kottans-frontend]
 [![MIT Licensed][icon-mit]][license]
 [![Ideas and useful links][icon-ideas]][ideas]
 [![Awesome][icon-awesome]][awesome]
@@ -117,3 +118,6 @@ like that (and we’ll never stop).
 [frontend-dicts]: https://github.com/web-standards-ru/dictionary
 [markdown]: https://help.github.com/categories/writing-on-github/
 [wiki-stupid-question]: https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question
+
+[icon-kottans]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-frontend-yellow.svg
+[kottans-frontend]: https://github.com/kottans/frontend
