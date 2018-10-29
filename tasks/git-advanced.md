@@ -67,6 +67,7 @@ for they are better comprehended when practising.
  * [Advanced Git Tricks :clapper:](https://vimeo.com/49444883)
  * [Git Patterns and Anti-Patterns](https://dzone.com/refcardz/git-patterns-and-anti-patterns?chapter=1)
  * [Oh shit, git!](http://ohshitgit.com/)
+ * [How to undo (almost) anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
  * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
  * [GitHub Learning Lab](https://lab.github.com/courses):
    - [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
