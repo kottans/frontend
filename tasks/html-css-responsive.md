@@ -9,7 +9,7 @@
 
 1. [Flexbox Froggy](http://flexboxfroggy.com/)
 
-If you honestly finished all the previous steps than go ahead and share it with
+If you honestly finished all the previous steps then go ahead and share it with
 others — post a message to [course channel][chat] with the link to your repo
 and the words _Responsive Web Design Fundamentals – finished_.
 

@@ -9,7 +9,7 @@ Learn some command line, server and http tools.
 
 1. [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
-  **Note:** Completion of free content (Interactive Lessons) is the required minimum, but Quizes and Freeform Projects should also be available via 7-day trial of Codecademy. Do them if you can, it's great practice.
+  **Note:** Completion of free content (Interactive Lessons) is the required minimum, but Quizzes and Freeform Projects should also be available via 7-day trial of Codecademy. Do them if you can, it's great practice.
 
    **A note for Windows users:** This course provides a virtual environment to
    type commands in. However, if you want to later use these commands in practice,

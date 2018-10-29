@@ -30,9 +30,9 @@ When complete do the following:
    post a message in [course channel][chat]:
    `Object Oriented JS  - finished!` and add the link to your repo
 1. You will require code review for a coding subtask from (1)
-   (aracde game **Frogger**):
+   (arcade game **Frogger**):
    * publish your task code base for review following instructions
-     in [FE 2019 course homewroks repo](https://github.com/kottans/frontend-2019-homeworks)
+     in [FE 2019 course homeworks repo](https://github.com/kottans/frontend-2019-homeworks)
    * post a link to your subtask PR in the
      [FE Questionarium chat](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw)
      and ask mentors for a code review

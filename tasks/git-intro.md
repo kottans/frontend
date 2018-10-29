@@ -41,7 +41,7 @@ When you finish this task you can start the next one.
 
 * [Git tips](http://sixrevisions.com/web-development/git-tips/) — consolidate your knowledge of Git
 
-* [Learn git branching](http://learngitbranching.js.org) — improve your understading of branching
+* [Learn git branching](http://learngitbranching.js.org) — improve your understanding of branching
 
 * [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 

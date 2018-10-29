@@ -21,7 +21,7 @@ Complete the user stories below.
 * filtering friends by age, by name, whatever you want else options
 
 - [ ] you can use all `Array.methods` which you know :) for instance - `Array#sort`,`Array#filter`, `Array#slice`, `Array#splice`, `Array#map`, `Array#reduce`, etc. Description of methods can be found [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-- [ ] you can try to figure out with async data incapsulation in request/response and try callbacks' logic in action
+- [ ] you can try to figure out with async data encapsulation in request/response and try callbacks' logic in action
 - [ ] understand sync/async `GET` requests, params & queries in action, something one of `fetch` or `XMLHttpRequest` but *NOT* jQuery. Because no one like it ¯\_(ツ)_/¯
 - [ ] understand pros & cons of the immutable fundamentals for complex types aka array on example of copies of arrays and how manage them
 - [ ] you can try form' key/mouse events, manage them, enable and disable them
@@ -45,7 +45,7 @@ it using [GitHub Pages](https://pages.github.com).
 When complete do the following:
 1. You will require code review for this task:
    * publish your task code base for review following instructions
-     in [FE 2019 course homewroks repo](https://github.com/kottans/frontend-2019-homeworks)
+     in [FE 2019 course homeworks repo](https://github.com/kottans/frontend-2019-homeworks)
    * when creating a PR do not forget to add a link
      to your app published on GitHub Pages
    * post links to your app on GitHub Pages and
