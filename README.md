@@ -27,11 +27,11 @@ If you have any questions you can ask us in one of our chats.
 ### What you will learn
 
 1. Git, github basics, writing good commit messages
-2. Linux, command line basics, network basics
-3. HTML, CSS
-4. JS basics
-5. Build a bunch of test projects
-6. Have fun together
+1. Linux, command line basics, network basics
+1. HTML, CSS
+1. JS basics
+1. Build a bunch of test projects
+1. Have fun together
 
 <!-- TODO: finish it up  -->
 <!-- For more information take a look on [syllabus](syllabus.md) -->
@@ -39,17 +39,17 @@ If you have any questions you can ask us in one of our chats.
 
 ### General Requirements
 
-0. __English knowledge:__ a lot of the materials will be in English.
+1. __English knowledge:__ a lot of the materials will be in English.
    If you do not feel confident enough in your technical English,
    take a look at [📚 Словари по фронтенду][frontend-dicts]
 
 1. __Repository on GitHub__ to save your progress.
    More about repositories in _Task 0_.
 
-2. __Formatting:__ it's up to you but remember to make it readable.
+1. __Formatting:__ it's up to you but remember to make it readable.
    Using [markdown][markdown] is a good idea.
 
-3. __Reading:__ for each article you are required to read please post
+1. __Reading:__ for each article you are required to read please post
    the answers to the following questions in your respective repo.
    Don't worry, your answers will not be graded. It's just a way to reflect
    on what you have learned.
@@ -57,10 +57,10 @@ If you have any questions you can ask us in one of our chats.
    - name (at least) one thing that surprised you
    - name (at least) one thing you intend to use in the future
 
-4. __Online courses:__ finish all tasks, add some reflection
+1. __Online courses:__ finish all tasks, add some reflection
    about them into _README_.
 
-5. __Videos:__ same as for the reading; watch the video —
+1. __Videos:__ same as for the reading; watch the video —
    answer three questions.
    
    
@@ -69,8 +69,8 @@ If you have any questions you can ask us in one of our chats.
 For your comfort we have created several chats in the telegram:
 
 1. [FE Students | Kottans](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA) - chat for students, where you can discuss anything related to the current course
-2. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need a help of one of the mentors, or maybe from all of them simultaneously, you can ask it there
-3. [Kottans](https://t.me/kottans) - and our main chat
+1. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need a help of one of the mentors, or maybe from all of them simultaneously, you can ask it there
+1. [Kottans](https://t.me/kottans) - and our main chat
 
 
 ### Ready?
