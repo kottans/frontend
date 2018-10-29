@@ -5,7 +5,7 @@
 
 # Memory – Pair Game
 
-We learned a lot, but now lets do some practice!
+We learned a lot, but now let's do some practice!
 
 In this section you will create _Memory - Pair Game_ — a card game in which
 all of the cards are laid face down on a surface and two cards are flipped
@@ -31,7 +31,7 @@ it using [GitHub Pages](https://pages.github.com).
 When complete do the following:
 1. You will require code review for this task:
    * publish your task code base for review following instructions
-     in [FE 2019 course homewroks repo](https://github.com/kottans/frontend-2019-homeworks)
+     in [FE 2019 course homeworks repo](https://github.com/kottans/frontend-2019-homeworks)
    * when creating a PR do not forget to add a link
      to your game published on GitHub Pages
    * post links to your game on GitHub Pages and

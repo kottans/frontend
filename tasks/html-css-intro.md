@@ -23,7 +23,7 @@ When complete do the following:
    * embed the screenshots or add links to the screenshots
    * list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. You did lot already! If you honestly finished all the previous steps then go ahead
+1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
    `Intro to HTML and CSS - finished!` and add the link to your repo

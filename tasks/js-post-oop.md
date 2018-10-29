@@ -20,7 +20,7 @@ When complete do the following:
 1. You will require code review for this task:
    * update your code base for `A Tiny JS World`
    * publish updated code base for review
-     in [FE 2019 course homewroks repo](https://github.com/kottans/frontend-2019-homeworks)
+     in [FE 2019 course homeworks repo](https://github.com/kottans/frontend-2019-homeworks)
      with a PR
    * post a link to your task PR in the
      [FE Questionarium chat](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw)
