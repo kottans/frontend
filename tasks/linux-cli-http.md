@@ -12,7 +12,7 @@ Learn some command line, server and http tools.
   **Note:** Completion of free content (Interactive Lessons) is the required minimum, but Quizes and Freeform Projects should also be available via 7-day trial of Codecademy. Do them if you can, it's great practice.
 
    **A note for Windows users:** This course provides a virtual environment to
-   type commands in. However, if you want to later use this commands in practice,
+   type commands in. However, if you want to later use these commands in practice,
    you will need to work with Linux CLI as many commands are not supported by
    Windows `cmd` or PowerShell. You must have already installed `git`
    from [git-scm.com](https://git-scm.com/downloads).
