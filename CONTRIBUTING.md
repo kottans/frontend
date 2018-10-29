@@ -119,7 +119,7 @@ commits history with compact output.
 Piece of cake!
 
 Consider completing
-[Kent Dodd's How to Contribute to an Open Source Project on GitHub course](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+[Kent C. Dodds' How to Contribute to an Open Source Project on GitHub course](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 (14 lessons, each ~3 mins long)
 
 ## Credits
