@@ -34,7 +34,7 @@ and [tags](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/TAG.md#l
 
 `pizza.size / 5 + Σ(ingredient[n].price + ... +ingredient[n+ingredient.length-1].price)`
 
-![example](img/create-pizza.png)
+![example](https://github.com/kottans/frontend/blob/master/img/create-pizza.png)
 
 
 - Create pizza page should be secured with authorization permissions.
