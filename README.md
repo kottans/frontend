@@ -12,7 +12,7 @@ We plan to decrease the amount of lectures in favor of collective discussions,
 team projects & collective work. And give all power & responsibility
 to students.
 
-You can use these materials for self-eductation as well.
+You can use these materials for self-education as well.
 
 
 ### Admission
