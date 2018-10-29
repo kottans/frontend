@@ -14,7 +14,7 @@
 - Q: At what time are lectures gonna be?
   + A: Timetable is not set yet. Probably, one day on the weekend (historically, Saturdays were used for this), half a day
 - Q: What is test task? When can I start doing it?
-  + A: Well, tasks are already available through [this repo](https://github.com/kottans/frontend#ready), but some of the later tasks will be updated. You can start doing them now if you want to, but we can't guarantee they are the final tasks
+  + A: Tasks are already available through [this repo](https://github.com/kottans/frontend#ready).
 - Q: I want to be a student, what do I do?
   + A: Great spirit takes you halfway there. You could start working through prerequisites and test tasks, keep an eye on our [public channel](https://twitter.com/kottans_org) and [chat]
 - Q: I want to talk you your manager, get me to real person
