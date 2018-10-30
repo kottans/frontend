@@ -71,7 +71,6 @@ For your comfort we have created several chats in the telegram:
 
 1. [FE Students | Kottans](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA) - chat for students, where you can discuss anything related to the current course
 1. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need a help of one of the mentors, or maybe from all of them simultaneously, you can ask it there
-1. [Kottans](https://t.me/kottans) - and our main chat
 
 
 ### Ready?
