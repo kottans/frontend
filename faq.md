@@ -4,9 +4,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-**[Updated 15/10/18]**
-- Q: When is course going to start?
-  + A: No date set yet, but test assignments and program are being updated. As soon as we are done, we'll give time to complete tasks and will set up interview afterwards
+**[Updated 30/10/18]**
+- Q: When the course is going to start? Any schedule?
+  + A: The schedule is:
+    * `29/10/18` - official launch, time to start with test tasks from **Stage 0. SelfStudy**
+    * `05--15/10/18` - test tasks **Stage 0. SelfStudy** are expected to be completed; enrollment interviews held
+    * `15/01/18` - **Stage 1. Meetup supported (intramural) phase** starts
 - Q: Is this course available online?
   + A: No plans for this yet. Most tasks will be available online and we might put up some of the lecture recordings, so you could try working on this at your own pace and ask questions in the [chat]
 - Q: Where are courses going to take place?
