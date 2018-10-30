@@ -46,7 +46,7 @@ When complete do the following:
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `DOM - finished!` and add the link to your repo
+   `DOM — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. You will require code review for your subtask (3):
    * publish your task code base for review following instructions
      in [FE 2019 course homeworks repo](https://github.com/kottans/frontend-2019-homeworks)

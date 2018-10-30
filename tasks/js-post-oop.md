@@ -37,7 +37,7 @@ When complete do the following:
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `OOP Exercise - finished!` and add the link to your repo
+   `OOP Exercise — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills and
    read an article or two on OOP under the links in
    [this repo](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
