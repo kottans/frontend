@@ -28,7 +28,7 @@ When complete do the following:
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `Object Oriented JS  - finished!` and add the link to your repo
+   `Object Oriented JS — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. You will require code review for a coding subtask from (1)
    (arcade game **Frogger**):
    * publish your task code base for review following instructions

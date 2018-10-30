@@ -65,7 +65,7 @@ When complete do the following:
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in the [course channel][chat]:
-   `Friends App - finished!` and add the link to your repo
+   `Friends App — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 
 ## Done?
 
