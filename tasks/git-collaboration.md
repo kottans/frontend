@@ -34,6 +34,10 @@ When complete do the following:
    reverting to those later e.g. when you have all mandatory tasks completed.
 1. You may skip Optional materials from this task (if any).
 
+You have completed **General basics** tasks section. We shall appreciate your feedback
+on this section especially if you're doing this course from Ukraine. Please, grant us
+10-15 minutes of your time to complete [this form](https://goo.gl/forms/O80XcZwxhMhGmQKq2).
+
 When you finish this task you can proceed to the next one.
 
 ## Extra materials
