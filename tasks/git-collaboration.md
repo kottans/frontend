@@ -3,49 +3,56 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Git for Team Collaboration
+# Mastering Git and GitHub - intermediate stage
 
 Yeh, we know that it's Git again and you a bit tired of it.
 But! It's a great new course. It'll help you a lot to understand better
 the git and operate with it and you'll benefit from it on your future job
 and projects!
 
- 1. [What is Version Control](https://classroom.udacity.com/courses/ud123/)
+ 1. Finish [try.github.io](https://try.github.io/levels/1/challenges/1)
 
- 2. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+ 2. Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
-Finish the courses (1) and (2) above.
+    You may resort to subtitles/closed captions and
+    to auto-translated subtitles in particular if you feel
+    it would help you to master the video course better.
 
-When complete do the following:
-1. Make screenshots of your finished lessons from (1) and (2)
-   and put the screenshots in `task_git_collaboration` folder in
-   your `kottans-frontend` repo
-1. In your `kottans-frontend` repo `README.md`:
-   * add header `## Git Collaboration`
-   * embed the screenshots or add links to the screenshots
-   * list your reflections on all subtasks
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. You did lot already! If you honestly finished all the previous steps then go ahead
-   and share it with others –
-   post a message in [course channel][chat]:
-   `Git Collaboration — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. Study Extra Materials below to improve your skills.
-   If you feel it affects your overall course performance consider
-   reverting to those later e.g. when you have all mandatory tasks completed.
-1. You may skip Optional materials from this task (if any).
+    ![youtube-CC-guide](../img/youtube-captions.png)
 
-You have completed **General basics** tasks section. We shall appreciate your feedback
-on this section especially if you're doing this course from Ukraine. Please, grant us
-10-15 minutes of your time to complete [this form](https://goo.gl/forms/O80XcZwxhMhGmQKq2).
+ 3. Create repository named `kottans-frontend`.
 
-When you finish this task you can proceed to the next one.
+ 4. Create `README.md` for the repository.
 
-## Extra materials
+ 5. Describe your impressions about learned materials.
 
-- [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://youtu.be/MJUJ4wbFm_A)
-- [Oh shit, git!](http://ohshitgit.com/)
-- [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
-- [GitHub Learning Lab](https://lab.github.com/courses)
+ 6. Send a pull-request to [Kottans/mock-repo][mock-repo] proposing a change.
+    It could be anything, really. If you have found a typo in README - great!
+    Take care to give your PR a meaningful name and description.
+
+    **Please note, that your PR may not be reviewed quickly.**
+
+ 7. Study Extra Materials below to improve your skills.
+    If you feel it affects your overall course performance consider
+    reverting to those later e.g. when you have all mandatory tasks completed.
+
+When you finish this task you can start the next one.
+
+## Extra Materials
+
+* [Git за 30 хвилин](https://codeguida.com/post/453)
+
+* [Git tips](http://sixrevisions.com/web-development/git-tips/) — consolidate your knowledge of Git
+
+* [Learn git branching](http://learngitbranching.js.org) — improve your understanding of branching
+
+* [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+
+* [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
+
+* [TypingClub](https://www.typingclub.com/) — improve your typing speed
+
+* [Как учиться и справляться с негативными мыслями](https://hexletguides.github.io/learning/)
 
 ## Done?
 
@@ -61,3 +68,5 @@ When you finish this task you can proceed to the next one.
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
+
+[mock-repo]: https://github.com/Kottans/mock-repo
