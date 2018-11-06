@@ -5,14 +5,13 @@
 
 # Mastering Git and GitHub - intermediate stage
 
-Yeh, we know that it's Git again and you a bit tired of it.
-But! It's a great new course. It'll help you a lot to understand better
-the git and operate with it and you'll benefit from it on your future job
+Yeah, we know that it's Git again and you are a bit tired of it.
+But! It's a great new course. It'll help you a lot to understand Git better, use it with more confidence and you'll benefit from it on your future job
 and projects!
 
- 1. Finish [try.github.io](https://try.github.io/levels/1/challenges/1)
+ 1. Finish [try.github.io](https://try.github.io/levels/1/challenges/1).
 
- 2. Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+ 2. Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
 
     You may resort to subtitles/closed captions and
     to auto-translated subtitles in particular if you feel
