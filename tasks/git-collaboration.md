@@ -20,21 +20,13 @@ and projects!
 
     ![youtube-CC-guide](../img/youtube-captions.png)
 
- 3. Create repository named `kottans-frontend`.
+ 3. Describe your impressions about learned materials.
 
- 4. Create `README.md` for the repository.
-
- 5. Describe your impressions about learned materials.
-
- 6. Send a pull-request to [Kottans/mock-repo][mock-repo] proposing a change.
-    It could be anything, really. If you have found a typo in README - great!
-    Take care to give your PR a meaningful name and description.
-
-    **Please note, that your PR may not be reviewed quickly.**
-
- 7. Study Extra Materials below to improve your skills.
+ 4. Study Extra Materials below to improve your skills.
     If you feel it affects your overall course performance consider
     reverting to those later e.g. when you have all mandatory tasks completed.
+
+You have completed **General basics** tasks section. We shall appreciate your feedback on this section especially if you're doing this course from Ukraine. Please, grant us 10-15 minutes of your time to complete [this form](https://goo.gl/forms/O80XcZwxhMhGmQKq2).
 
 When you finish this task you can start the next one.
 
@@ -46,20 +38,11 @@ When you finish this task you can start the next one.
 
 * [Learn git branching](http://learngitbranching.js.org) — improve your understanding of branching
 
-* [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
-
-* [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
-
-* [TypingClub](https://www.typingclub.com/) — improve your typing speed
-
-* [Как учиться и справляться с негативными мыслями](https://hexletguides.github.io/learning/)
-
 ## Done?
 
 ➡️ Go forward to [Intro to HTML & CSS](html-css-intro.md)
 
 ⤴️ Back to [Contents](../contents.md)
-
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
@@ -68,5 +51,3 @@ When you finish this task you can start the next one.
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
-
-[mock-repo]: https://github.com/Kottans/mock-repo
