@@ -12,9 +12,9 @@ The online stage of _Front-End Course_. Following tasks should be completed
 at home to participate offline stage. Learn more in [README](README.md).
 
 ### General Basics
- 0. [Git Basics](tasks/git-intro.md)
+ 0. [Mastering Git and Github - intro](tasks/git-intro.md)
  1. [Linux CLI and Networking](tasks/linux-cli-http.md)
- 2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
+ 2. [Mastering Git and Github - intermediate](tasks/git-intermediate.md)
 
 ### Front-End Basics
  3. [Intro to HTML & CSS](tasks/html-css-intro.md)
