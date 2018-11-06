@@ -24,7 +24,7 @@ You already some have hands-on experience with:
 
 Basically, you have successfully completed this course
 [entry task](git-intro.md) and
-[git collaboration task](git-collaboration.md)
+[git intermediate task](git-intermediate.md)
 
 ## Topics
 

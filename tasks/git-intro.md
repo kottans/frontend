@@ -35,7 +35,7 @@ After comleting the courses do the following:
    * list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_);
 1. You did lot already! If you honestly finished all the previous steps then go ahead and share it with others – post a message in a [course channel][chat]:
-   `Git Collaboration — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `Git Intro — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills.
    If you feel it affects your overall course performance consider
    reverting to those later e.g. when you have all mandatory tasks completed.
