@@ -24,7 +24,7 @@ at home to participate offline stage. Learn more in [README](README.md).
 
 ### Advanced Topics
  7. [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
- 8. [Object oriented JS](tasks/js-oop.md)
+ 8. [Object oriented JS](tasks/js-oop.md) - practice
  9. [OOP exercise](tasks/js-post-oop.md) - practice
 10. [Offline Web Applications](tasks/app-design-offline.md)
 11. [Memory pair game](tasks/memory-pair-game.md) — real project!
