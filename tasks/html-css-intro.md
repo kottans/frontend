@@ -16,7 +16,7 @@ Finish the courses (1) and (2) above.
 
 When complete do the following:
 1. Make screenshots of your progress in (1) and (2)
-   and put the screenshots in `task_git_html_css_intro` folder in
+   and put the screenshots in `task_html_css_intro` folder in
    your `kottans-frontend` repo
 1. In your `kottans-frontend` repo `README.md`:
    * add header `## Intro to HTML and CSS`
