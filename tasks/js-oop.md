@@ -5,7 +5,7 @@
 
 # Object-Oriented JavaScript
 
-1. [Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
+1. [Object Oriented JS](https://classroom.udacity.com/courses/ud015)
 1. [codewars](https://www.codewars.com/) - register, join Kottans clan and reach 7 kyu.
 
 If you honestly finished all the previous steps then go ahead and share it with others
