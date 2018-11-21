@@ -66,6 +66,8 @@ When complete do the following:
    reverting to those later e.g. when you have all mandatory tasks completed.
 1. You may skip Optional materials from this task (if any).
 
+You have completed **Front-End basics** tasks section. We shall appreciate your feedback on this section especially if you're doing this course from Ukraine. Please, grant us 10-15 minutes of your time and complete [this feedback form](https://goo.gl/forms/qht9CEw7E966wXcl1).
+
 When you finish this task you can proceed to the next one.
 
 ## Extra materials
