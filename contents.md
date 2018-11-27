@@ -33,16 +33,34 @@ at home to participate offline stage. Learn more in [README](README.md).
 
 ## Stage 1. The Show Must Go On
 
-__Under revision__
+### Main thread
 
+ 1. Intro to meet-up backed course stage
+ 1. Self-study stage practical tasks retrospection
  1. Mastering HTML 5 forms
- 1. Responsive Layouts
- 1. Backend API (Weather App)
- 1. Pizza App: Login and Registration
- 1. Pizza App: Pizza Creation
- 1. ReactJS Weather App
- 1. React + Redux
+ 1. Modern Web App and Web  Frameworks
+ 1. Component-based App Architecture (Weather App)
+ 1. Routing (Collection Browsing App)
+ 1. Authentication and Authorization (Chat App)
+ 1. Websockets (Chat App)
+ 1. Canvas API (Puzzle Game)
+ 1. Framework/Library (_TBD_)
+ 
+### Supplementary workshops
 
+ 1. JS Asynchronicity
+ 1. JS tricks, best practices
+ 1. JS prototypes
+ 1. Tooling
+ 1. Advanced git
+ 1. Whatever students want to know (within FrontEnd Universe)
+ 
+### Extras
+
+ 1. Roles in IT company
+ 1. Agile/SCRUM, SDLC
+ 1. How to survive and succeed in job interview
+ 1. Product-centric mindset
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
