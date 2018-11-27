@@ -53,10 +53,20 @@ at home to participate offline stage. Learn more in [README](README.md).
  1. JS prototypes
  1. Tooling
  1. Advanced git
+ 1. Whatever students want to try (within FrontEnd Universe)
+ 
+### Supplementary lectures
+
+ 1. Design Patterns Classics
+ 1. JS Design Patterns
+ 1. Guided tour through MDN
+ 1. Website Performance Optimization
+ 1. react@next
  1. Whatever students want to know (within FrontEnd Universe)
  
-### Extras
+### Soft Skill Extras
 
+ 1. Problem decomposition
  1. Roles in IT company
  1. Agile/SCRUM, SDLC
  1. How to survive and succeed in job interview
