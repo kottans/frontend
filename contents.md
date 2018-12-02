@@ -33,6 +33,8 @@ at home to participate offline stage. Learn more in [README](README.md).
 
 ## Stage 1. The Show Must Go On
 
+The offline stage of _Front-End Course_.
+
 ### Main thread
 
  1. Intro to meet-up backed course stage
@@ -46,6 +48,12 @@ at home to participate offline stage. Learn more in [README](README.md).
  1. Canvas API (Puzzle Game)
  1. Framework/Library (_TBD_)
  
+## Supplementary part
+
+Following topics are not the part of the main course and can be held by Kottans after discussions with students.
+Short description of the each topic can be found in the [issue](https://github.com/kottans/frontend/issues/171).
+Additionally, each student can request, as well as each mentor can propose, a lecture or workshop about any theme.
+
 ### Supplementary workshops
 
  1. JS Asynchronicity
