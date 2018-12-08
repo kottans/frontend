@@ -7,6 +7,10 @@
 
 1. Build a tiny JS world model following the instructions
    [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
+   
+At this stage you are required to complete only **First approach** part.
+You will revert to your Tiny JS World to improve it later.
+So, for now restrict yourself to the means you feel confident with.
 
 When complete do the following:
 1. You will require code review for this task:
