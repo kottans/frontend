@@ -11,6 +11,8 @@
    - finish first half of the course (11 lessons) and save a screenshot
    - note that for _Intermediate Algorithms Scripting: **Pig Latin**_ exercise English letter **Y** is considered a consonant
    - use hints available on freecodecamp at each exercise as the first resort when you feel stuck
+   
+1. [Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)
 
 Finish the subtasks (1) and (2) above.
 
