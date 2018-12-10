@@ -91,7 +91,7 @@ Go ahead and post a celebration sticker or dancing gif
 in the [course channel][chat].
 
 ... and a tiny thing to do yet.
-[List yourself among course Stage 0 finishers](../students/stage0-finishers).
+[List yourself among course Stage 0 finishers](../students/stage0-finishers.md).
 
 ⤴️ Back to [Contents](../contents.md)
 
