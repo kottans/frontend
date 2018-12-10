@@ -46,6 +46,7 @@ and [tags](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/TAG.md#l
 #### Resources
 
 - [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+- [HTML Canvas API Tutorial](https://flaviocopes.com/canvas/)
 - [FormData](https://developer.mozilla.org/en-US/docs/Web/API/FormData)
 - [HTML5 Canvas Udacity course](https://www.udacity.com/course/html5-canvas--ud292)
 - [Get blob from canvas](https://developer.mozilla.org/ru/docs/Web/API/HTMLCanvasElement/toBlob)
