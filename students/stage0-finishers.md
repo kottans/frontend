@@ -42,6 +42,6 @@ Use the first table row as a template.
 
 ## Finishers
 
-|    Date    | Course profile | M | P | O | B | Comment |
+|    Date    | Course profile | R | P | O | B | Comment |
 | ---------- | -------------- | - | - | - | - | ------- |
 | 2018-12-31 | [example-username](https://github.com/example-username/kottans-frontend) | 6 | 6 | 2 | 0 | --- |
