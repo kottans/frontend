@@ -79,10 +79,19 @@ When complete do the following:
 
 __Congratulations! 🎉__
 
+* [ ] Have you finished all mandatory tasks?
+* [ ] Are practical tasks get reviewed and
+      PRs are merged into
+      [frontend-2019-homeworks](https://github.com/kottans/frontend-2019-homeworks)
+      repo `master`?
+
 You have finished __Stage 0__ of the course!
 
 Go ahead and post a celebration sticker or dancing gif
 in the [course channel][chat].
+
+... and a tiny thing to do yet.
+[List yourself among course Stage 0 finishers](../students/stage0-finishers).
 
 ⤴️ Back to [Contents](../contents.md)
 
