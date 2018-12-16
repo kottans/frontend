@@ -11,7 +11,7 @@
    (4 lessons, estimated completion time 8 hrs)
 
 2. [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
-   - finish the second half of the course (10 lessons) and save a screenshot.
+   - finish tasks 12..18 (**Sum All Odd Fibonacci Numbers** to **Everything Be True**) and save a screenshot.
 
 ### .then():
 
