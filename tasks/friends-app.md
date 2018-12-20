@@ -9,7 +9,13 @@ Create a tiny social friends' search page with users cards,
 search, sorting and filtering of them by age, name
 or whatever you want with [Random User API](https://randomuser.me) :)
 
-![image](https://i.imgur.com/5tcpqcY.png).
+## Example
+
+This is *example*. You should style your application like you want. 
+
+Make it personal. Make it beautiful. Make it perfect and then be proud for what you did.
+
+![image](https://i.imgur.com/5tcpqcY.png)
 
 Complete the user stories below.
 
@@ -20,9 +26,10 @@ Complete the user stories below.
 * sorting cards by name/age in A-Z/Z-A ways
 * filtering friends by age, by name, whatever you want else options
 
-- [ ] you can use all `Array.methods` which you know :) for instance - `Array#sort`,`Array#filter`, `Array#slice`, `Array#splice`, `Array#map`, `Array#reduce`, etc. Description of methods can be found [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-- [ ] you can try to figure out with async data encapsulation in request/response and try callbacks' logic in action
-- [ ] understand sync/async `GET` requests, params & queries in action, something one of `fetch` or `XMLHttpRequest` but *NOT* jQuery. Because no one like it ¯\_(ツ)_/¯
+## You can:
+- [ ] use all `Array.methods` which you know :) For instance - `Array#sort`,`Array#filter`, `Array#slice`, `Array#splice`, `Array#map`, `Array#reduce`, etc. Description of methods can be found [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [ ] try to figure out with async data encapsulation in request/response and try callbacks' logic in action
+- [ ] understand sync/async `GET` requests, params & queries in action, something one of `fetch` or `XMLHttpRequest` but *NOT* jQuery. Because no ones like it ¯\_(ツ)_/¯
 - [ ] understand pros & cons of the immutable fundamentals for complex types aka array on example of copies of arrays and how manage them
 - [ ] you can try form' key/mouse events, manage them, enable and disable them
 
