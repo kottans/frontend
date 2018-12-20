@@ -19,21 +19,22 @@ Make it personal. Make it beautiful. Make it perfect and then be proud for what 
 
 Complete the user stories below.
 
-## As a user, I would like to:
+## As a user, I would like to
 
 * see cards list of users on the page, cards may be pretty styled with user photo, name, age, phone number, maybe with some another user information which you would to see in user info card.
 * searching by typing name in search input and see immediately filtering on the page
 * sorting cards by name/age in A-Z/Z-A ways
 * filtering friends by age, by name, whatever you want else options
 
-## You can:
+## You can
+
 - [ ] use all `Array.methods` which you know :) For instance - `Array#sort`,`Array#filter`, `Array#slice`, `Array#splice`, `Array#map`, `Array#reduce`, etc. Description of methods can be found [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - [ ] try to figure out with async data encapsulation in request/response and try callbacks' logic in action
 - [ ] understand sync/async `GET` requests, params & queries in action, something one of `fetch` or `XMLHttpRequest` but *NOT* jQuery. Because no ones like it ¯\_(ツ)_/¯
 - [ ] understand pros & cons of the immutable fundamentals for complex types aka array on example of copies of arrays and how manage them
 - [ ] you can try form' key/mouse events, manage them, enable and disable them
 
-## Stuff which will help you:
+## Stuff which will help you
 
 * We think that you will need to use promises for this task ;)
 * [Основы XMLHttpRequest](https://learn.javascript.ru/ajax-xmlhttprequest) - you
