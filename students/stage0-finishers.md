@@ -47,5 +47,5 @@ Use the first table row as a template.
 | ---------- | -------------- | - | - | - | - | ------- | ----------- |
 | 2018-12-31 | [example-username](https://github.com/example-username/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
 | 2018-12-13 | [MitchfFirstGit](https://github.com/MitchfFirstGit/kottans-frontend) | 6 | 6 | 2 | 1 | --- | |
-
+| 2018-12-21 | [vitaliykravchyk](https://github.com/vitaliykravchyk/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 
