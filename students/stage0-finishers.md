@@ -21,14 +21,13 @@ _When editing file via GitHub add two newlines at the file end._
 Fields description:
  * **Date** is the date you have completed mandatory tasks
    or all of the tasks
- * **Course profile** is your nick name with a link to your
+ * **Course repo** is your nick name with a link to your
    course repo (`kottans-frontend`)
  * **R** means **Regulars** and is a number of regular tasks completed;
    normally says `6`; if `5` or lesser then you can
    be inquired for the reasons
  * **P** means **Practicals** and is a number of practical tasks completed;
-   normally says `6`; if `5` or lesser then you can
-   be inquired for the reasons
+   normally says `6`; if `5` or lesser then give a reason in **Comment**
  * **O** means **Optionals** and is a number of optional tasks
    completed;
    `0` is OK; `2` qualifies you for a special badge
@@ -37,11 +36,13 @@ Fields description:
    the course Stage 0; `0` is OK; anything above that is a plus
  * **Comment** is for optional comments and reasons to skip any mandatory
    tasks
+ * **Performance** is intended for mentors team use, e.g.
+   to specify performance badges granted
 
 Use the first table row as a template.
 
 ## Finishers
 
-|    Date    | Course profile | R | P | O | B | Comment |
-| ---------- | -------------- | - | - | - | - | ------- |
-| 2018-12-31 | [example-username](https://github.com/example-username/kottans-frontend) | 6 | 6 | 2 | 0 | --- |
+|    Date    | Course repo    | R | P | O | B | Comment | Performance |
+| ---------- | -------------- | - | - | - | - | ------- | ----------- |
+| 2018-12-31 | [example-username](https://github.com/example-username/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
