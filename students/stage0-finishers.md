@@ -46,5 +46,5 @@ Use the first table row as a template.
 |    Date    | Course repo    | R | P | O | B | Comment | Performance |
 | ---------- | -------------- | - | - | - | - | ------- | ----------- |
 | 2018-12-31 | [example-username](https://github.com/example-username/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
-| 2018-12-20 | [vitaliykravchyk](https://github.com/vitaliykravchyk/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+| 2018-12-21 | [vitaliykravchyk](https://github.com/vitaliykravchyk/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 
