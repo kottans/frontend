@@ -11,7 +11,7 @@ or whatever you want with [Random User API](https://randomuser.me) :)
 
 ## Example
 
-This is *example*. You should style your application like you want. 
+This is an *example*. You should style your application like you want. 
 
 Make it personal. Make it beautiful. Make it perfect and then be proud for what you did.
 
@@ -25,6 +25,20 @@ Complete the user stories below.
 * searching by typing name in search input and see immediately filtering on the page
 * sorting cards by name/age in A-Z/Z-A ways
 * filtering friends by age, by name, whatever you want else options
+* see fancy icons and cool design with shadows, gradients, yellow font on the blue background, etc. Usage of template absolutely acceptable
+
+## If you feel that you can do a better job, you can
+
+### Be like a Durov and
+
+* make good responsive/fluid/elastic/whatever design and other modern stuff
+* use async/awaits and fetch API for handling network requests
+
+### Be like a Zuckerberg and
+
+* using your OOP knowledge, split your application to different parts, like: `FriendsList`, `FiltersContainer`, etc.
+* with help of ES6 modules build website based on frontend components
+* add pagination to search and scrolling
 
 ## You can
 
