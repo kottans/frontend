@@ -34,8 +34,10 @@ Note, that this is an additional part of the task. Also you can implement anythi
 ### Be like a Durov and
 
 * add pagination to scrolling
-* make good responsive/fluid/elastic/whatever design and other modern stuff
-* use async/awaits and fetch API for handling network requests
+* sort not only by name and age, but also by date of registration
+* filter by location and email
+* make good responsive/fluid/elastic/whatever design which will work for mobiles
+* use async/awaits for handling async actions
 
 ### Be like a Zuckerberg and
 
