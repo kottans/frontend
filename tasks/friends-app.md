@@ -29,16 +29,19 @@ Complete the user stories below.
 
 ## If you feel that you can do a better job, you can
 
+Note, that this is an additional part of the task. Also you can implement anything from the list below.
+
 ### Be like a Durov and
 
+* add pagination to scrolling
 * make good responsive/fluid/elastic/whatever design and other modern stuff
 * use async/awaits and fetch API for handling network requests
 
 ### Be like a Zuckerberg and
 
+* add support of address bar which means, that user must see a state of filters and sortings in URL
 * using your OOP knowledge, split your application to different parts, like: `FriendsList`, `FiltersContainer`, etc.
 * with help of ES6 modules build website based on frontend components
-* add pagination to search and scrolling
 
 ## You can
 
@@ -59,7 +62,8 @@ Complete the user stories below.
 * [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - you can use
   this for working with URL;
 * Take a look on [Array methods on learn.javascript.ru](https://learn.javascript.ru/array-methods)
-* make good responsive/adaptive/fluid/elastic/whatever design with your styles as you imagine.
+* [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
+  you must know how to work with browser history.
 
 When you're done with your challenge push your code to GitHub repo and publish
 it using [GitHub Pages](https://pages.github.com).
