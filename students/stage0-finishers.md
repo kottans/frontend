@@ -50,5 +50,5 @@ Use the first table row as a template.
 | 2018-12-21 | [vitaliykravchyk](https://github.com/vitaliykravchyk/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 | 2018-12-20 | [zihfred](https://github.com/zihfred/kottans-frontend) | 6 | 6 | 1 | 1 | --- | |
 | 2018-12-04 | [oodmincheg](https://github.com/oodmincheg/kottans-frontend) | 6 | 6 | 1 | 2 | --- | |
-
+| 2018-12-17 | [beta-version-profile](https://github.com/beta-version-profile/kottans-frontend) | 6 | 6 | 0 | 1 | --- | |
 
