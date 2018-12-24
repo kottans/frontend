@@ -42,6 +42,12 @@ When complete do the following:
    read an article or two on OOP under the links in
    [this repo](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
 
+You have completed OOP tasks section.
+We shall appreciate your feedback on this section especially
+if you're doing this course from Ukraine.
+Please, grant us 10-15 minutes of your time and complete
+[this feedback form](https://goo.gl/forms/sU4LKB6Ib3f659XD2).
+
 When you finish this task you can proceed to the next one.
 
 ## Extra Materials
