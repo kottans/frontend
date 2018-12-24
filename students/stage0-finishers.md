@@ -20,7 +20,11 @@ _When editing file via GitHub add two newlines at the file end._
 
 Fields description:
  * **Date** is the date you have completed mandatory tasks
-   or all of the tasks
+   (the date of the latest commit to the most recent practical task PR merged,
+   if e.g. your latest practical task was **Friends App**,
+   the latest commit to the task-related PR is dated December 25, 2018,
+   and the PR was approved on January 2, 2019,
+   then the **Date** is `2018-12-25`)
  * **Course repo** is your nick name with a link to your
    course repo (`kottans-frontend`)
  * **R** means **Regulars** and is a number of regular tasks completed;
