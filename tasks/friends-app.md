@@ -97,8 +97,8 @@ When complete do the following:
 1. You have completed the last tasks section of offline course stage.
    We shall appreciate your feedback on this section especially
    if you're doing this course from Ukraine.
-   Please, grant us 10-15 minutes of your time and complete
-   [this feedback form](https://goo.gl/forms/3qotPDzLTwZYqFA42).
+   Please, grant us 10-15 minutes of your time and **complete**
+   **[this feedback form](https://goo.gl/forms/3qotPDzLTwZYqFA42)**.
 
 ## Done?
 
