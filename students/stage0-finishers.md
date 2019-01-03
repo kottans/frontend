@@ -61,5 +61,5 @@ Use the first table row as a template.
 | 2018-12-31 | [kalash14](https://github.com/kalash14/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
 | 2019-01-01 | [igkostyuk](https://github.com/igkostyuk/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 | 2019-01-03 | [maxovsanyuk](https://github.com/maxovsanyuk/kottans-frontend) | 6 | 6 | 0 | 1 | --- | |
-
+| 2019-01-03 | [RomanovAleksander](https://github.com/RomanovAleksander/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
 
