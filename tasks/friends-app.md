@@ -47,11 +47,11 @@ Note, that this is an additional part of the task. Also you can implement anythi
 
 ## You can
 
-- [ ] use all `Array.methods` which you know :) For instance - `Array#sort`,`Array#filter`, `Array#slice`, `Array#splice`, `Array#map`, `Array#reduce`, etc. Description of methods can be found [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-- [ ] try to figure out with async data encapsulation in request/response and try callbacks' logic in action
-- [ ] understand sync/async `GET` requests, params & queries in action, something one of `fetch` or `XMLHttpRequest` but *NOT* jQuery. Because no ones like it ¯\_(ツ)_/¯
-- [ ] understand pros & cons of the immutable fundamentals for complex types aka array on example of copies of arrays and how manage them
-- [ ] you can try form' key/mouse events, manage them, enable and disable them
+* use all `Array.methods` which you know :)
+* try to figure out with async data encapsulation in request/response and try callbacks' logic in action
+* understand sync/async `GET` requests, params & queries in action, something one of `fetch` or `XMLHttpRequest` but *NOT* jQuery. Because no ones like it ¯\_(ツ)_/¯
+* understand pros & cons of the immutable fundamentals for complex types aka array on example of copies of arrays and how manage them
+* try form' key/mouse events, manage them, enable and disable them
 
 ## Stuff which will help you
 
@@ -63,7 +63,7 @@ Note, that this is an additional part of the task. Also you can implement anythi
   _you can use one of this API for getting data for your website_;
 * [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - you can use
   this for working with URL;
-* Take a look on [Array methods on learn.javascript.ru](https://learn.javascript.ru/array-methods)
+* Take a look on [Array methods on learn.javascript.ru](https://learn.javascript.ru/array-methods) and on [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
   you must know how to work with browser history.
 
