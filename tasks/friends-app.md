@@ -48,9 +48,11 @@ Note, that this is an additional part of the task. Also you can implement anythi
 ## You can
 
 * use all `Array.methods` which you know :)
-* try to figure out with async data encapsulation in request/response and try callbacks' logic in action
-* understand sync/async `GET` requests, params & queries in action, something one of `fetch` or `XMLHttpRequest` but *NOT* jQuery. Because no ones like it ¯\_(ツ)_/¯
-* understand pros & cons of the immutable fundamentals for complex types aka array on example of copies of arrays and how manage them
+* try to figure out with async data encapsulation in request/response. Try callbacks' logic in action
+* understand difference between synchronous and asynchronous network requests
+* get know params & queries in action 
+* use `fetch` and/or `XMLHttpRequest`. But *NOT* jQuery. Bad jQuery, bad! No ones like jQuery! `¯\_(ツ)_/¯`
+* understand pros & cons of the immutable data fundamentals on example of copies of arrays
 * try form' key/mouse events, manage them, enable and disable them
 
 ## Stuff which will help you
