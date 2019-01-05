@@ -70,5 +70,3 @@ Use the first table row as a template.
 
 
 
-
-
