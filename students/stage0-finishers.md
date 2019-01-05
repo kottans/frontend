@@ -69,3 +69,6 @@ Use the first table row as a template.
 | 2019-01-04 | [denislukianenko](https://github.com/denislukianenko/kottans-frontend) | 6 | 6 | 1 | 0 | --- | |
 
 
+
+
+
