@@ -18,6 +18,18 @@
 1. [Пример веб-производительности](https://habrahabr.ru/company/infobox/blog/226289/)
 1. [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)
 
+#### Важные аспекты работы браузера для разработчиков
+
+1. [Важные аспекты работы браузера для разработчиков. Часть 1](https://habrahabr.ru/company/dataart/blog/304138/)
+1. [Важные аспекты работы браузера для разработчиков. Часть 2](https://habrahabr.ru/company/dataart/blog/304934/)
+
+#### How JavaScript works [Translated version](https://habrahabr.ru/company/ruvds/blog/340508/)
+
+1. [An overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+1. [Inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
+1. [Memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
+1. [Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+
 If you decide to complete the task then
 do the following after you're done:
 1. Make screenshots of your progress in the Udacity courses
@@ -38,18 +50,6 @@ do the following after you're done:
    reverting to those later e.g. when you have all mandatory tasks completed.
 
 When you finish this task you can proceed to the next one.
-
-#### Важные аспекты работы браузера для разработчиков
-
-1. [Важные аспекты работы браузера для разработчиков. Часть 1](https://habrahabr.ru/company/dataart/blog/304138/)
-1. [Важные аспекты работы браузера для разработчиков. Часть 2](https://habrahabr.ru/company/dataart/blog/304934/)
-
-#### How JavaScript works [Translated version](https://habrahabr.ru/company/ruvds/blog/340508/)
-
-1. [An overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
-1. [Inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
-1. [Memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
-1. [Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 
 ## Done?
 
