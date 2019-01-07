@@ -18,6 +18,8 @@
 1. [Пример веб-производительности](https://habrahabr.ru/company/infobox/blog/226289/)
 1. [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)
 
+### Optional inside optional
+
 #### Важные аспекты работы браузера для разработчиков
 
 1. [Важные аспекты работы браузера для разработчиков. Часть 1](https://habrahabr.ru/company/dataart/blog/304138/)
