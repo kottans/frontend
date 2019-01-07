@@ -9,6 +9,7 @@
 
 #### Read this:
 
+1. [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 1. [Website Performance Optimization](https://www.udacity.com/course/ud884)
 1. [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 1. [Browser Rendering Optimization](https://www.udacity.com/course/ud860)
