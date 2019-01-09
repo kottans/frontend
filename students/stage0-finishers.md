@@ -47,28 +47,27 @@ Use the first table row as a template.
 
 ## Finishers
 
-|    Date    | Course repo    | R | P | O | B | Comment | Performance |
-| ---------- | -------------- | - | - | - | - | ------- | ----------- |
-| 2018-12-31 | [example-username](https://github.com/example-username/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
-| 2018-12-13 | [MitchfFirstGit](https://github.com/MitchfFirstGit/kottans-frontend) | 6 | 6 | 2 | 1 | --- | |
-| 2018-12-21 | [vitaliykravchyk](https://github.com/vitaliykravchyk/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
-| 2018-12-25 | [zihfred](https://github.com/zihfred/kottans-frontend) | 6 | 6 | 1 | 1 | --- | |
-| 2018-12-04 | [oodmincheg](https://github.com/oodmincheg/kottans-frontend) | 6 | 6 | 1 | 2 | --- | |
-| 2018-12-17 | [beta-version-profile](https://github.com/beta-version-profile/kottans-frontend) | 6 | 6 | 0 | 1 | --- | |
-| 2018-12-27 | [IrynaY](https://github.com/IrynaY/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
-| 2018-12-30 | [linkqwd](https://github.com/linkqwd/kottans_frontend) | 6 | 6 | 0 | 0 | --- | |
-| 2018-12-31 | [o-msh](https://github.com/o-msh/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
-| 2018-12-31 | [kalash14](https://github.com/kalash14/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
-| 2019-01-01 | [igkostyuk](https://github.com/igkostyuk/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
-| 2019-01-03 | [maxovsanyuk](https://github.com/maxovsanyuk/kottans-frontend) | 6 | 6 | 0 | 1 | --- | |
-| 2019-01-01 | [justdevway](https://github.com/justdevway/kottans-frontend) | 6 | 6 | 2 | 1 | --- | |
-| 2019-01-03 | [RomanovAleksander](https://github.com/RomanovAleksander/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
-| 2019-01-03 | [Vitaminvp](https://github.com/Vitaminvp/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
-| 2019-01-04 | [allykrupina](https://github.com/allykrupina/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
-| 2019-01-05 | [yulyasystem](https://github.com/yulyasystem/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
-| 2019-01-04 | [denislukianenko](https://github.com/denislukianenko/kottans-frontend) | 6 | 6 | 1 | 0 | --- | |
-| 2019-01-05 | [nazmariam](https://github.com/nazmariam/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
-| 2019-01-05 | [feroxes](https://github.com/feroxes/kottans_frontend) | 6 | 6 | 0 | 0 | --- | |
-| 2019-01-08 | [CuteShaun](https://github.com/CuteShaun/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|  |    Date    | Course repo    | R | P | O | B | Comment | Performance |
+|--| ---------- | -------------- | - | - | - | - | ------- | ----------- |
+|1 | 2018-12-13 | [MitchfFirstGit](https://github.com/MitchfFirstGit/kottans-frontend) | 6 | 6 | 2 | 1 | --- | |
+|2 | 2018-12-21 | [vitaliykravchyk](https://github.com/vitaliykravchyk/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
+|3 | 2018-12-25 | [zihfred](https://github.com/zihfred/kottans-frontend) | 6 | 6 | 1 | 1 | --- | |
+|4 | 2018-12-04 | [oodmincheg](https://github.com/oodmincheg/kottans-frontend) | 6 | 6 | 1 | 2 | --- | |
+|5 | 2018-12-17 | [beta-version-profile](https://github.com/beta-version-profile/kottans-frontend) | 6 | 6 | 0 | 1 | --- | |
+|6 | 2018-12-27 | [IrynaY](https://github.com/IrynaY/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
+|7 | 2018-12-30 | [linkqwd](https://github.com/linkqwd/kottans_frontend) | 6 | 6 | 0 | 0 | --- | |
+|8 | 2018-12-31 | [o-msh](https://github.com/o-msh/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
+|9 | 2018-12-31 | [kalash14](https://github.com/kalash14/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
+|10| 2019-01-01 | [igkostyuk](https://github.com/igkostyuk/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|11| 2019-01-03 | [maxovsanyuk](https://github.com/maxovsanyuk/kottans-frontend) | 6 | 6 | 0 | 1 | --- | |
+|12| 2019-01-01 | [justdevway](https://github.com/justdevway/kottans-frontend) | 6 | 6 | 2 | 1 | --- | |
+|13| 2019-01-03 | [RomanovAleksander](https://github.com/RomanovAleksander/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
+|14| 2019-01-03 | [Vitaminvp](https://github.com/Vitaminvp/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
+|15| 2019-01-04 | [allykrupina](https://github.com/allykrupina/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|16| 2019-01-05 | [yulyasystem](https://github.com/yulyasystem/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|17| 2019-01-04 | [denislukianenko](https://github.com/denislukianenko/kottans-frontend) | 6 | 6 | 1 | 0 | --- | |
+|18| 2019-01-05 | [nazmariam](https://github.com/nazmariam/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|19| 2019-01-05 | [feroxes](https://github.com/feroxes/kottans_frontend) | 6 | 6 | 0 | 0 | --- | |
+|20| 2019-01-08 | [CuteShaun](https://github.com/CuteShaun/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 
 
