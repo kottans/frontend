@@ -80,6 +80,7 @@ Use the first table row as a template.
 |29| 2019-01-13 | [Aldegid](https://github.com/Aldegid/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 |30| 2019-01-13 | [iamsokol](https://github.com/iamsokol/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 |31| 2019-01-13 | [alexdefender](https://github.com/alexdefender/kottans-frontend) | 6 | 6 | 0 | 0 | --- | | 
+|32| 2019-01-04 | [bugagashinka](https://github.com/bugagashinka/kottans-frontend) | 6 | 6 | 0 | 0 | --- | | 
 
 
 
