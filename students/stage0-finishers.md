@@ -77,6 +77,8 @@ Use the first table row as a template.
 |26| 2019-01-11 | [Humminggoo](https://github.com/Humminggoo/kottans-frontend) | 6 | 6 | 1 | 0 | --- | |
 |27| 2019-01-09 | [AlinaLadybug](https://github.com/AlinaLadybug/kottans-frontend) | 6 | 6 | 1 | 0 | --- | |
 |28| 2019-01-13 | [OlgaFrontend](https://github.com/OlgaFrontend/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|29| 2019-01-13 | [Aldegid](https://github.com/Aldegid/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+
 
 
 
