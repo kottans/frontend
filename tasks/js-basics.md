@@ -11,6 +11,13 @@
    - finish first half of the course (11 lessons) and save a screenshot
    - note that for _Intermediate Algorithms Scripting: **Pig Latin**_ exercise English letter **Y** is considered a consonant
    - use hints available on freecodecamp at each exercise as the first resort when you feel stuck
+   - if you find this task difficult and need hints and googling from the very beginning consider passing simpler tasks first:
+     - [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+     - [ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) - at least
+       till **Write Concise Declarative Functions with ES6**
+     - [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/)
+     - [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+     - [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/)
 
 Finish the subtasks (1) and (2) above.
 
