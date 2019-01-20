@@ -12,6 +12,7 @@
 1. [Git for Team Collaboration](git-collaboration.md)
 1. [Front-End Basics](html-css-intro.md)
 1. [Responsive Layouts](html-css-responsive.md)
+1. [HTML & CSS Practice](html-css-popup.md)
 1. [JavaScript Basics](js-basics.md)
 1. [Document Object Model](js-dom.md)
 1. [Building a Tiny JS World (pre-OOP)](js-pre-oop.md) - practice
