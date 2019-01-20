@@ -6,7 +6,7 @@
 
 - Q: Whatcourses do you have?
   + A: We have two main courses:
-    1. Offline course, which was started 26.01.2019. This is a course is for students who have finished online part of self-education. Right now enrollment for this course is closed.
+    1. Offline course, which was started 26.01.2019. Right now enrollment for this course is closed.
     2. [Peer-to-peer course](https://github.com/kottans/frontend/issues/227) - this course is oriented mostly to self-education and for those, who haven't finished the online part in time. Everyone can become part of this course. All you need is just follow instructions in tasks.
 - Q: When the courses is going to start? Any schedule?
   + A: Offline course started 26.01.2019. P2P course started 27.01.2019.
