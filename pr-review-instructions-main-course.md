@@ -17,7 +17,7 @@
       
 # After finishing with a code review, do the following:
 
-* once the code review phase successfully finished and you have approval from one of the mentors add to your `kottans-frontend/README.md`:
+* once the code review phase successfully finished and you have required approvals add the following to your `kottans-frontend/README.md`:
      the header `## Name of task here`,
      a link to the app on GitHub Pages,
      a link to the task code base and
