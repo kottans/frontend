@@ -47,7 +47,7 @@ When you finish this task you can proceed to the next one.
 
 ## Done?
 
-➡️ Go forward to [JavaScript Basics](js-basics.md)
+➡️ Go forward to [HTML & CSS Practice](html-css-popup.md)
 
 ⤴️ Back to [Contents](../contents.md)
 
