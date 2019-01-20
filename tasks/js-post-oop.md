@@ -18,10 +18,10 @@ tiny JS world? Time to use your new power.
 
 When complete do the following:
 1. You will require code review for this task:
-   * update your code base for `A Tiny JS World`
-   * publish updated code base for review
+   * update your code base for `A Tiny JS World` in your own repo
+   * publish updated code base for review (`index.js` only)
      in [FE 2019 course homeworks repo](https://github.com/kottans/frontend-2019-homeworks)
-     with a PR
+     with a new PR in a dedicated branch and a task sub-folder
    * post a link to your task PR in the
      [FE Questionarium chat](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw)
      and ask mentors for a code review
