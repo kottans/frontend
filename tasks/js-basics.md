@@ -7,10 +7,24 @@
 
 1. [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
 
-1. [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
-   - finish first half of the course (11 lessons) and save a screenshot
-   - note that for _Intermediate Algorithms Scripting: **Pig Latin**_ exercise English letter **Y** is considered a consonant
-   - use hints available on freecodecamp at each exercise as the first resort when you feel stuck
+1. FreeCodeCamp exercises. Complete the modules below and save screenshots for each module.
+   Use hints available on freecodecamp at each exercise as the first resort when you feel stuck.
+   Other helpful devices are materials from **Extra Materials** section below
+   and students chat to ask any questions and seek for help.
+   - [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/) -
+     Basic JavaScript language features. ~100 tiny exercises, 2-3 hrs to complete.
+   - [ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) - 
+     JS ES6 features. Complete initial 19 exercises (till **Write Concise Declarative Functions with ES6**),
+     3-4 hrs to complete.
+   - [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/) -
+     Manipulate arrays and objects. Complete all exercises (20). 3-4 hrs to complete.
+   - [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/) -
+     Basic algorithms. Solve all problems (<20). 4-5 hrs to complete.
+   - [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/) -
+     Complete all exercises (<25). 2-3 hrs to complete.
+   - [Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) -
+     Intermediate algorithms. Solve initial 11 problems (till **Convert HTML Entities**), 3-5 hrs to complete.
+     Note that for _Intermediate Algorithms Scripting: **Pig Latin**_ exercise English letter **Y** is considered a consonant.
 
 Finish the subtasks (1) and (2) above.
 
