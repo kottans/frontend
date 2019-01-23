@@ -22,6 +22,13 @@ Admission for the course is open until enough applicants have successfully
 completed the tasks (approximately 30 students). Which means, that completing
 the tasks faster increases your chances to get into the course.
 
+
+Also, since we would like to give support for ambitioned students,
+which in some reason can't be a part of the main course, we providing
+a __peer-to-peer__ learning (hereinafter referred to as __p2p__).
+A p2p group has no specific limitations on the number of students and not fitted to strict deadlines as the main group is.
+
+
 If you have any questions you can ask us in one of our chats.
 
 
@@ -63,8 +70,8 @@ If you have any questions you can ask us in one of our chats.
 
 1. __Videos:__ same as for the reading; watch the video —
    answer three questions.
-   
-   
+
+
  ### Chats
 
 For your comfort we have created several chats in the telegram:
