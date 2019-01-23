@@ -24,7 +24,11 @@
      Complete all exercises (<25). 2-3 hrs to complete.
    - [Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) -
      Intermediate algorithms. Solve initial 11 problems (till **Convert HTML Entities**), 3-5 hrs to complete.
-     Note that for _Intermediate Algorithms Scripting: **Pig Latin**_ exercise English letter **Y** is considered a consonant.
+     - :warning: In [**Pig Latin**](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/)
+       exercise English letter **Y** is considered a consonant.
+     - :warning: In [**Convert HTML Entities**](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities)
+       exercise **DO NOT** copy-paste HTML entities (`'&amp;'`, `'&lt'` etc.) from the tests
+       as those will contain invisible non-breaking spaces and the code won't work as expected. Type them instead.
 
 Finish the subtasks (1) and (2) above.
 
