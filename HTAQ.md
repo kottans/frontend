@@ -7,7 +7,7 @@ In the world of hackers, the kind of answers you get to your technical questions
 
 ## Before You Ask
 Before asking a question, do the following:
-1. Try to find an answer by searching the archives of the our [chats](https://github.com/babayK0/frontend/edit/master/HTAQ.md#where-to-ask).
+1. Try to find an answer by searching the archives of the our [chats](https://github.com/babayK0/frontend/blob/master/HTAQ.md#where-to-ask).
 2. Try to find an answer by searching the Web.
 3. Try to find an answer by reading the manual.
 4. Try to find an answer by reading a [FAQ](https://github.com/kottans/frontend/blob/master/faq.md).
