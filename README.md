@@ -26,7 +26,13 @@ the tasks faster increases your chances to get into the course.
 Also, since we would like to give support for ambitioned students,
 which in some reason can't be a part of the main course, we providing
 a __peer-to-peer__ learning (hereinafter referred to as __p2p__).
-A p2p group has no specific limitations on the number of students and not fitted to strict deadlines as the main group is.
+A p2p group has no specific limitations on the number of students and not 
+fitted to strict deadlines as the main group is.
+
+The common factor of Peer teaching is that knowledge is shared not by an 
+instructor or other person of authority.
+It’s all about people on the same level teaching each other what they 
+know. __Learners Teaching Learners__.
 
 
 If you have any questions you can ask us in one of our chats.
