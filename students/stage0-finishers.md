@@ -64,13 +64,24 @@ Use the first table row as a template.
 |13| 2019-01-03 | [RomanovAleksander](https://github.com/RomanovAleksander/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
 |14| 2019-01-03 | [Vitaminvp](https://github.com/Vitaminvp/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
 |15| 2019-01-04 | [allykrupina](https://github.com/allykrupina/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
-|16| 2019-01-05 | [yulyasystem](https://github.com/yulyasystem/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
-|17| 2019-01-04 | [denislukianenko](https://github.com/denislukianenko/kottans-frontend) | 6 | 6 | 1 | 0 | --- | |
-|18| 2019-01-05 | [nazmariam](https://github.com/nazmariam/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|16| 2019-01-05 | [yulyasystem](https://github.com/yulyasystem/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
+|17| 2019-01-04 | [denislukianenko](https://github.com/denislukianenko/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
+|18| 2019-01-05 | [nazmariam](https://github.com/nazmariam/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
 |19| 2019-01-05 | [feroxes](https://github.com/feroxes/kottans_frontend) | 6 | 6 | 0 | 0 | --- | |
 |20| 2019-01-08 | [CuteShaun](https://github.com/CuteShaun/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 |21| 2019-01-09 | [rrrds](https://github.com/rrrds/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 |22| 2019-01-10 | [KurosavaAkira](https://github.com/KurosavaAkira/kottans-frontend) | 6 | 6 | 2 | 1 | --- | |
-|23| 2019-01-25 | [Konstantin Makarevich](https://github.com/krash1408/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|23| 2019-01-11 | [vv2529](https://github.com/vv2529/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|24| 2019-01-11 | [karasb888](https://github.com/Karasb888/kottans-frontend) | 5 | 6 | 0 | 2 | --- | |
+|25| 2019-01-13 | [Dnzln](https://github.com/dnzln/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|26| 2019-01-11 | [Humminggoo](https://github.com/Humminggoo/kottans-frontend) | 6 | 6 | 1 | 0 | --- | |
+|27| 2019-01-09 | [AlinaLadybug](https://github.com/AlinaLadybug/kottans-frontend) | 6 | 6 | 1 | 0 | --- | |
+|28| 2019-01-13 | [OlgaFrontend](https://github.com/OlgaFrontend/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|29| 2019-01-13 | [Aldegid](https://github.com/Aldegid/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|30| 2019-01-13 | [iamsokol](https://github.com/iamsokol/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|31| 2019-01-13 | [alexdefender](https://github.com/alexdefender/kottans-frontend) | 6 | 6 | 0 | 0 | --- | | 
+|32| 2019-01-04 | [bugagashinka](https://github.com/bugagashinka/kottans-frontend) | 6 | 6 | 0 | 0 | --- | | 
+|33| 2019-01-14 | [olek557](https://github.com/olek557/kottans-frontend) | 6 | 6 | 0 | 0 | --- | | 
+|34| 2019-01-25 | [Konstantin Makarevich](https://github.com/krash1408/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 
 

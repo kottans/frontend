@@ -18,9 +18,25 @@ You can use these materials for self-education as well.
 
 ### Admission
 
-Admission for the course is open until enough applicants have successfully
-completed the tasks (approximately 30 students). Which means, that completing
-the tasks faster increases your chances to get into the course.
+Admission for the main course was open until 13 Jan 2019 and now
+is closed as the student's group is full and the course was started.
+The only alternative for now - is our p2p course.
+
+Since we would like to support ambitious students who couldn't join the main course,
+we providing __peer-to-peer__ learning (hereinafter referred to as __p2p__) based on the online part
+([Stage0](https://github.com/kottans/frontend/blob/master/contents.md#stage-0-self-study)) of the main course.
+
+A p2p group has no specific limitations on the number of students and not 
+so fitted to strict deadlines as the main group is.
+
+The common factor of Peer teaching is that knowledge is shared not by an 
+instructor or other person of authority.
+It’s all about people on the same level teaching each other what they 
+know. __Learners Teaching Learners__. 
+
+As you could understand from the context of p2p meaning - it is a great
+possibility to grow up both as a student and teacher. Especially this course,
+you will learn how to correctly check the other students job.
 
 If you have any questions you can ask us in one of our chats.
 
@@ -63,8 +79,8 @@ If you have any questions you can ask us in one of our chats.
 
 1. __Videos:__ same as for the reading; watch the video —
    answer three questions.
-   
-   
+
+
  ### Chats
 
 For your comfort we have created several chats in the telegram:
