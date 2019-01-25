@@ -74,4 +74,3 @@ Use the first table row as a template.
 |23| 2019-01-25 | [Konstantin Makarevich](https://github.com/krash1408/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 
 
-
