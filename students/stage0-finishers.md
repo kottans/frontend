@@ -71,6 +71,7 @@ Use the first table row as a template.
 |20| 2019-01-08 | [CuteShaun](https://github.com/CuteShaun/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 |21| 2019-01-09 | [rrrds](https://github.com/rrrds/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 |22| 2019-01-10 | [KurosavaAkira](https://github.com/KurosavaAkira/kottans-frontend) | 6 | 6 | 2 | 1 | --- | |
+|23| 2019-01-25 | [Konstantin Makarevich](https://github.com/krash1408/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
 
 
 
