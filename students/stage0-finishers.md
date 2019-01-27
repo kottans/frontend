@@ -83,5 +83,7 @@ Use the first table row as a template.
 |32| 2019-01-04 | [bugagashinka](https://github.com/bugagashinka/kottans-frontend) | 6 | 6 | 0 | 0 | --- | | 
 |33| 2019-01-14 | [olek557](https://github.com/olek557/kottans-frontend) | 6 | 6 | 0 | 0 | --- | | 
 |34| 2019-01-25 | [Konstantin Makarevich](https://github.com/krash1408/kottans-frontend) | 6 | 6 | 0 | 0 | --- | |
+|35| 2019-01-27 | [babayK0](https://github.com/babayK0/kottans-frontend) | 6 | 6 | 2 | 0 | --- | |
+
 
 
