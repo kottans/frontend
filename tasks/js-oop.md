@@ -31,7 +31,7 @@ When complete do the following:
    `Object Oriented JS — #done`(or `Object Oriented JS — #p2p-pr-done` if you are p2p course student)  and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. You will require code review for a coding subtask from (1)
    - If you are **p2p course** student follow next [instructions](https://github.com/Oodmincheg/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
-   - If you are student of online kottans course follow next [instructions](https://github.com/Oodmincheg/frontend-2019-homeworks/blob/master/README.md)
+   - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
 1. Study Extra Materials below to improve your skills.
    If you feel it affects your overall course performance consider
    reverting to those later e.g. when you have all mandatory tasks completed.
