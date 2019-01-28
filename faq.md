@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-- Q: Whatcourses do you have?
+- Q: What courses do you have?
   + A: We have two main courses:
     1. Offline course, which was started 26.01.2019. Right now enrollment for this course is closed.
     2. [Peer-to-peer course](https://github.com/kottans/frontend/issues/227) - this course is oriented mostly to self-education and for those, who haven't finished the online part in time. Everyone can become part of this course. All you need is just follow instructions in tasks.
