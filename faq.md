@@ -4,22 +4,22 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-**[Updated 30/10/18]**
-- Q: When the course is going to start? Any schedule?
-  + A: The schedule is:
-    * `29/10/18` - official launch, time to start with test tasks from **Stage 0. SelfStudy**
-    * `05--15/01/19` - test tasks **Stage 0. SelfStudy** are expected to be completed; enrollment interviews held
-    * `15/01/19` - **Stage 1. Meetup supported (intramural) phase** starts
+- Q: What courses do you have?
+  + A: We have two main courses:
+    1. Offline course, which was started 26.01.2019. Right now enrollment for this course is closed.
+    2. [Peer-to-peer course](https://github.com/kottans/frontend/issues/227) - this course is oriented mostly to self-education and for those, who haven't finished the online part in time. Everyone can become part of this course. All you need is just follow instructions in tasks.
+- Q: When the courses is going to start? Any schedule?
+  + A: Offline course started 26.01.2019. P2P course started 27.01.2019.
 - Q: Is this course available online?
-  + A: No plans for this yet. Most tasks will be available online and we might put up some of the lecture recordings, so you could try working on this at your own pace and ask questions in the [chat]
+  + A: Peer-to-peer course is available online. This means, that we will provide tasks, recomendations for self-education, for code-review, acceptance criteria, etc. Also, we will create tasks from offline part - we might put up some of the lecture recordings, so you could try working on this at your own pace and ask questions in the [chat]
 - Q: Where are courses going to take place?
-  + A: Probably, this will take place at [Cogniance office](https://goo.gl/maps/cVxLSCpWPUB2)
+  + A: Offline course will take place at [Cogniance office](https://goo.gl/maps/cVxLSCpWPUB2). Peer-to-peer course is mostly online.
 - Q: At what time are lectures gonna be?
-  + A: Timetable is not set yet. Probably, one day on the weekend (historically, Saturdays were used for this), half a day
+  + A: From 11:00 - 12:00 to 17:00 - 18:00. One day on the weekend - Saturdays.
 - Q: What is test task? When can I start doing it?
-  + A: Tasks are already available through [this repo](https://github.com/kottans/frontend#ready).
+  + A: As was told, enrollment for an offline course is closed. Peer-to-peer course requires no tests, because all tasks are already available through [this repo](https://github.com/kottans/frontend#ready).
 - Q: I want to be a student, what do I do?
-  + A: Great spirit takes you halfway there. You could start working through prerequisites and test tasks, keep an eye on our [public channel](https://twitter.com/kottans_org) and [chat]
+  + A: Great spirit takes you halfway there. You could start working through prerequisites and peer-to-peer tasks, keep an eye on our [public channel](https://twitter.com/kottans_org) and [chat](https://github.com/kottans/frontend#chats)
 - Q: I want to talk you your manager, get me to real person
   + A: We don't have one, but you could throw a question at the [chats](https://github.com/kottans/frontend#chats) and somebody might answer.
 

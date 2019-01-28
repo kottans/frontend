@@ -14,7 +14,7 @@ So, for now restrict yourself to the means you feel confident with.
 
 When complete do the following:
 1. You will require code review for this task:
-   * publish your task code base for review following instructions
+   * publish your task code base (`index.js` only) for review following instructions
      in [FE 2019 course homewroks repo](https://github.com/kottans/frontend-2019-homeworks)
    * post a link to your task PR in the
      [FE Questionarium chat](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw)
