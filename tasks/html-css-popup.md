@@ -5,14 +5,14 @@
 
 # HTML & CSS practice: Google-style Popup
 
-The goal of this task is to practice coding HTML & CSS from mockup. You are expected to deepen your knowledge of HTML & SCC and discover new previously unknown features.
+The goal of this task is to practice coding HTML & CSS from mockup. You are expected to deepen your knowledge of HTML & CSS and discover new previously unknown features.
 
 Requirements:
-- no JavaScipt
+- no JavaScript, only HTML/CSS, use of preprocessors is allowed
 - no external libraries or frameworks
 - browser support: Chrome only (feel free to use latest features)
 
-The popup is expected to have three states depending on click on the Google App button (third element from left). After first click the popup appears. After second click it is hidden. When popup is open, click on "More" button adds 10 more icons and forces the content of the popup to scroll.
+The popup is expected to have three states depending on click on the Google App button (third element from left in the top row). After first click the popup appears. After second click it is hidden. When popup is visible, click on "More" button adds 10 more icons and forces the content of the popup to scroll.
 Mobile view is irrelevant for this task.  
 Initial state: non pop-up visible:
 
@@ -29,6 +29,10 @@ Scrollable state:
 All interactive elements should be marked as such.
 
 ![popup-hover-state](../img/popup-hover.png)
+
+All interactive elements should have `:focus` state.
+
+![popup-hover-state](../img/popup-focus.png)
 
 
 ## Done?
