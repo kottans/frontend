@@ -19,7 +19,7 @@
 - Q: What is test task? When can I start doing it?
   + A: As was told, enrollment for an offline course is closed. Peer-to-peer course requires no tests, because all tasks are already available through [this repo](https://github.com/kottans/frontend#ready).
 - Q: I want to be a student, what do I do?
-  + A: Great spirit takes you halfway there. You could start working through prerequisites and peer-to-peer tasks, keep an eye on our [public channel](https://twitter.com/kottans_org) and [chat]
+  + A: Great spirit takes you halfway there. You could start working through prerequisites and peer-to-peer tasks, keep an eye on our [public channel](https://twitter.com/kottans_org) and [chat](https://github.com/kottans/frontend#chats)
 - Q: I want to talk you your manager, get me to real person
   + A: We don't have one, but you could throw a question at the [chats](https://github.com/kottans/frontend#chats) and somebody might answer.
 
