@@ -19,17 +19,18 @@ at home to participate offline stage. Learn more in [README](README.md).
 ### Front-End Basics
  3. [Intro to HTML & CSS](tasks/html-css-intro.md)
  4. [Responsive Web Design](tasks/html-css-responsive.md)
- 5. [JavaScript Basics](tasks/js-basics.md)
- 6. [Document Object Model](tasks/js-dom.md) - practice
+ 5. [HTML & CSS Practice](tasks/html-css-popup.md)
+ 6. [JavaScript Basics](tasks/js-basics.md)
+ 7. [Document Object Model](tasks/js-dom.md) - practice
 
 ### Advanced Topics
- 7. [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
- 8. [Object oriented JS](tasks/js-oop.md) - practice
- 9. [OOP exercise](tasks/js-post-oop.md) - practice
-10. [Offline Web Applications](tasks/app-design-offline.md)
-11. [Memory pair game](tasks/memory-pair-game.md) — real project!
-12. [Website Performance Optimization](tasks/app-design-performance.md)
-13. [Friends App](tasks/friends-app.md) - real project!
+ 8. [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
+ 9. [Object oriented JS](tasks/js-oop.md) - practice
+ 10. [OOP exercise](tasks/js-post-oop.md) - practice
+11. [Offline Web Applications](tasks/app-design-offline.md)
+12. [Memory pair game](tasks/memory-pair-game.md) — real project!
+13. [Website Performance Optimization](tasks/app-design-performance.md)
+14. [Friends App](tasks/friends-app.md) - real project!
 
 ## Stage 1. The Show Must Go On
 
