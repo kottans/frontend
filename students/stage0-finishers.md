@@ -1,11 +1,11 @@
 # Frontend Course Stage 0 (self-study) finishers
 
 Course Stage 0 (self-study) comprises
-[14 tasks (0 to 13)](https://github.com/kottans/frontend/blob/master/contents.md),
+[15 tasks (0 to 14)](https://github.com/kottans/frontend/blob/master/contents.md),
 of which
-- 12 are mandatory including
+- 13 are mandatory including
   - 6 regular tasks
-  - 6 practical tasks/real projects with code review
+  - 7 practical tasks/real projects with code review
 - 2 are optional
 
 Once you're eligible to list yourself here, please, add
@@ -31,7 +31,7 @@ Fields description:
    normally says `6`; if `5` or lesser then you can
    be inquired for the reasons
  * **P** means **Practicals** and is a number of practical tasks completed;
-   normally says `6`; if `5` or lesser then give a reason in **Comment**
+   normally says `7`; if `6` or lesser then give a reason in **Comment**
  * **O** means **Optionals** and is a number of optional tasks
    completed;
    `0` is OK; `2` qualifies you for a special badge
