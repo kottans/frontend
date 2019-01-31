@@ -46,7 +46,7 @@ do the following after you're done:
 1. You did an extra effort! Go ahead
    share your progress with others –
    post a message in the [course channel][chat]:
-   `Website Performance Optimization — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `Website Performance Optimization — #done` (or `Website Performance Optimization — #p2p-done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills.
    If you feel it affects your overall course performance consider
    reverting to those later e.g. when you have all mandatory tasks completed.

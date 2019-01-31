@@ -30,28 +30,12 @@ it using [GitHub Pages](https://pages.github.com).
 
 When complete do the following:
 1. You will require code review for this task:
-   * publish your task code base for review following instructions
-     in [FE 2019 course homeworks repo](https://github.com/kottans/frontend-2019-homeworks)
-   * when creating a PR do not forget to add a link
-     to your game published on GitHub Pages
-   * post links to your game on GitHub Pages and
-     to your task PR in the
-     [FE Questionarium chat](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw)
-     and ask mentors for a code review
-   * once the code review phase successfully finished
-     and you have an approval from one of the mentors
-     add to your `kottans-frontend/README.md`
-     the header `## Memory Pair Game`,
-     a link to the game on GitHub Pages,
-     a link to the task code base and
-     a note saying `Reviewed and approved by @<mentor>`
-     (use mentor's github username)
-   * list your reflections on this task
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+   - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+   - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in the [course channel][chat]:
-   `Memory Pair Game — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `Memory Pair Game — #done` (or `Memory Pair Game — #p2p-done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 
 When you finish this task you can proceed to the next one.
 

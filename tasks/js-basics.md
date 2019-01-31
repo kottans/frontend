@@ -13,7 +13,7 @@
    and students chat to ask any questions and seek for help.
    - [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/) -
      Basic JavaScript language features. ~100 tiny exercises, 2-3 hrs to complete.
-   - [ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) - 
+   - [ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) -
      JS ES6 features. Complete initial 19 exercises (till **Write Concise Declarative Functions with ES6**),
      3-4 hrs to complete.
    - [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/) -
@@ -44,7 +44,7 @@ When complete do the following:
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `JS Basics — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `JS Basics — #done` (or `JS Basics — #p2p-done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills.
    If you feel it affects your overall course performance consider
    reverting to those later e.g. when you have all mandatory tasks completed.

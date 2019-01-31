@@ -18,26 +18,12 @@ tiny JS world? Time to use your new power.
 
 When complete do the following:
 1. You will require code review for this task:
-   * update your code base for `A Tiny JS World` in your own repo
-   * publish updated code base for review (`index.js` only)
-     in [FE 2019 course homeworks repo](https://github.com/kottans/frontend-2019-homeworks)
-     with a new PR in a dedicated branch and a task sub-folder
-   * post a link to your task PR in the
-     [FE Questionarium chat](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw)
-     and ask mentors for a code review
-   * once the code review phase successfully finished
-     and you have an approval from one of the mentors
-     add to your `kottans-frontend/README.md`
-     the header `## OOP Exercise`,
-     a link to the task code base and
-     a note saying `Reviewed and approved by @<mentor>`
-     (use mentor's github username)
-   * list your reflections on this task
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+   - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+   - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `OOP Exercise — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `OOP Exercise — #done` (or `OOP Exercise — #p2p-done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills and
    read an article or two on OOP under the links in
    [this repo](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
