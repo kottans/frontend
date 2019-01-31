@@ -11,7 +11,7 @@ or whatever you want with [Random User API](https://randomuser.me) :)
 
 ## Example
 
-This is an *example*. You should style your application like you want. 
+This is an *example*. You should style your application like you want.
 
 Make it personal. Make it beautiful. Make it perfect and then be proud for what you did.
 
@@ -50,7 +50,7 @@ Note, that this is an additional part of the task. Also you can implement anythi
 * use all `Array.methods` which you know :)
 * try to figure out with async data encapsulation in request/response. Try callbacks' logic in action
 * understand difference between synchronous and asynchronous network requests
-* get know params & queries in action 
+* get know params & queries in action
 * use `fetch` and/or `XMLHttpRequest`. But *NOT* jQuery. Bad jQuery, bad! No ones like jQuery! `¯\_(ツ)_/¯`
 * understand pros & cons of the immutable data fundamentals on example of copies of arrays
 * try form' key/mouse events, manage them, enable and disable them
@@ -74,28 +74,12 @@ it using [GitHub Pages](https://pages.github.com).
 
 When complete do the following:
 1. You will require code review for this task:
-   * publish your task code base for review following instructions
-     in [FE 2019 course homeworks repo](https://github.com/kottans/frontend-2019-homeworks)
-   * when creating a PR do not forget to add a link
-     to your app published on GitHub Pages
-   * post links to your app on GitHub Pages and
-     to your task PR in the
-     [FE Questionarium chat](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw)
-     and ask mentors for a code review
-   * once the code review phase successfully finished
-     and you have an approval from one of the mentors
-     add to your `kottans-frontend/README.md`
-     the header `## Friends App`,
-     a link to the app on GitHub Pages,
-     a link to the task code base and
-     a note saying `Reviewed and approved by @<mentor>`
-     (use mentor's github username)
-   * list your reflections on this task
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+   - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+   - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in the [course channel][chat]:
-   `Friends App — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `Friends App — #done` (or `Friends App — #p2p-pr-done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. You have completed the last tasks section of offline course stage.
    We shall appreciate your feedback on this section especially
    if you're doing this course from Ukraine.

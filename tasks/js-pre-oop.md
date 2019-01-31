@@ -7,31 +7,19 @@
 
 1. Build a tiny JS world model following the instructions
    [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
-   
+
 At this stage you are required to complete only **First approach** part.
 You will revert to your Tiny JS World to improve it later.
 So, for now restrict yourself to the means you feel confident with.
 
 When complete do the following:
 1. You will require code review for this task:
-   * publish your task code base (`index.js` only) for review following instructions
-     in [FE 2019 course homewroks repo](https://github.com/kottans/frontend-2019-homeworks)
-   * post a link to your task PR in the
-     [FE Questionarium chat](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw)
-     and ask mentors for a code review
-   * once the code review phase successfully finished
-     and you have an approval from one of the mentors
-     add to your `kottans-frontend/README.md`
-     the header `## A Tiny JS World`,
-     a link to the task code base and
-     a note saying `Reviewed and approved by @<mentor>`
-     (use mentor's github username)
-   * list your reflections on this task
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
+   - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+   - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `A Tiny JS World — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `A Tiny JS World — #done` (or `A Tiny JS World — #p2p-done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Read one or two articles on OOP under the links in
    [this repo](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
 
