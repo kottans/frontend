@@ -22,7 +22,9 @@ When complete do the following:
    follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
    - If you are a student of the **offline** Kottans course, please,
    follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
-   - Note, that especially this task you require to put a single file (**index.js only**) in your homework repo.
+   - Note, that especially this task requires you to submit
+   a single file (`index.js` **only**) to the
+   `frontend-2019-homeworks` or `frontend-2019-p2p` repo for code review.
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
