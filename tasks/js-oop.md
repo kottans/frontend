@@ -28,7 +28,7 @@ When complete do the following:
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `Object Oriented JS — #done`(or `Object Oriented JS — #p2p-pr-done` if you are p2p course student)  and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `Object Oriented JS — #done`(or `Object Oriented JS — #p2p_done` if you are p2p course student)  and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. You will require code review for a coding subtask from (1)
    - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
    - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
@@ -41,7 +41,7 @@ When you finish this task you can proceed to the next one.
 
 ## Extra materials
 
-### OOP part: 
+### OOP part:
 
 - [Understanding ECMAScript 6. Block Bindings](https://leanpub.com/understandinges6/read/#leanpub-auto-block-bindings)
 - [Рoзуміння ECMAScript 6. Розділ "Блочне зв'язування"](https://understandinges6.denysdovhan.com/manuscript/01-Block-Bindings.html)

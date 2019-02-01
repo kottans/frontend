@@ -46,7 +46,7 @@ When complete do the following:
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `DOM — #done` (or `DOM — #p2p-done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `DOM — #done` (or `DOM — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. You will require code review for your subtask (3):
    - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
    - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)

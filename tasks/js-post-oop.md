@@ -18,12 +18,18 @@ tiny JS world? Time to use your new power.
 
 When complete do the following:
 1. You will require code review for this task:
-   - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
-   - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
+   - If you are a **p2p course** student, please,
+   follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+   - If you are a student of the **offline** Kottans course, please,
+   follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
+   - Note, that especially this task requires you to submit
+   a single file (`index.js` **only**) to the
+   `frontend-2019-homeworks` or `frontend-2019-p2p` repo for code review.
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `OOP Exercise — #done` (or `OOP Exercise — #p2p-done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `OOP Exercise — #done` (or `OOP Exercise — #p2p_done` if you are p2p course student)
+   and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills and
    read an article or two on OOP under the links in
    [this repo](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)

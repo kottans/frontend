@@ -79,7 +79,7 @@ When complete do the following:
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in the [course channel][chat]:
-   `Friends App — #done` (or `Friends App — #p2p-pr-done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `Friends App — #done` (or `Friends App — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. You have completed the last tasks section of offline course stage.
    We shall appreciate your feedback on this section especially
    if you're doing this course from Ukraine.
