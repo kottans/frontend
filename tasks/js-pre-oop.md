@@ -20,7 +20,7 @@ When complete do the following:
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `A Tiny JS World — #done` (or `A Tiny JS World — #p2p-done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `A Tiny JS World — #done` (or `A Tiny JS World — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Read one or two articles on OOP under the links in
    [this repo](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
 

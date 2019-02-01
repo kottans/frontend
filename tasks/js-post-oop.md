@@ -26,7 +26,7 @@ When complete do the following:
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel][chat]:
-   `OOP Exercise — #done` (or `OOP Exercise — #p2p-done` if you are p2p course student)
+   `OOP Exercise — #done` (or `OOP Exercise — #p2p_done` if you are p2p course student)
    and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills and
    read an article or two on OOP under the links in
