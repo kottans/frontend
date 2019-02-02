@@ -15,6 +15,8 @@ For this, you can create your own class, which will extend `Promise`. Or you can
 
 ## Polyfills
 
+Note, that in this part you will create a polyfill. This means, that unlike previous task, you should add new methods to existing `Promise` and to some extended entity. But take into action, that when browser will have, saying `Promise.any`, your pollyfill should not be applied to `Promise`. So, add proper check. What check - figure out yourself. As an example, you can look to [Element.closest](https://developer.mozilla.org/en-US/docs/Web/API/Element/closest) polyfill.
+
 1. Implement polyfill for [Promise.allSettled](https://github.com/tc39/proposal-promise-allSettled)
 1. Implement polyfill for [Promise.any](https://github.com/tc39/proposal-promise-any)
 
