@@ -168,17 +168,32 @@ and make sure they want to be invited.
 
 ### Front-End Specific Tools To Use
 
-:heavy_exclamation_mark:_Please do **NOT** write code in the chat if this is more than 5 lines_:heavy_exclamation_mark:
-
 **IF YOU USE ONE OF THESE TOOLS TO DISPLAY YOUR CODE YOU WILL GET MORE QUICK ANSWER.**
 * **[CodePen](https://codepen.io/)**
 * **[repl.it](https://repl.it/)**
 * **[jsconsole](https://jsconsole.com/?q=console.log(%27AA%27))**
 
+[_^ back to TOC^_](#table-of-contents)
+
 ## Where To Ask
 
 1. [FE Students | Kottans](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA) - chat for students, where you can discuss anything related to the current course
 2. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need a help of one of the mentors, or maybe from all of them simultaneously, you can ask it there
+
+:heavy_exclamation_mark:_Please do **NOT** write code in the chat if this is more than 5 lines_:heavy_exclamation_mark:
+
+Use [online services](#front-end-specific-tools-to-use) to post code instead.
+
+:heavy_exclamation_mark:_Please do **NOT** post code as screenshots
+as this may require your readers to re-type the code
+to see how it would work_:heavy_exclamation_mark:
+
+Many chat apps (e.g. Telegram) support markdown.
+Put your code between `` ``` `` and `` ``` ``
+(two rows containing triple backticks) to have
+your code properly formatted.
+`Shift` or `Alt` plus `Enter` keys allow you to write
+multi-line chat message.
 
 [_^ back to TOC^_](#table-of-contents)
 
