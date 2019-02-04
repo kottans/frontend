@@ -34,6 +34,19 @@ All interactive elements should have `:focus` state.
 
 ![popup-hover-state](../img/popup-focus.png)
 
+You may want to publish your results on
+[GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
+
+**When complete do the following:**
+1. You will require code review for this task:
+   - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+   - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
+1. You did a lot already! If you honestly finished all the previous steps then go ahead
+   and share it with others –
+   post a message in [course channel][chat]:
+   `HTML-CSS-Popup — #done` (or `HTML-CSS-Popup — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+
+When you finish this task you can proceed to the next one.
 
 ## Done?
 
