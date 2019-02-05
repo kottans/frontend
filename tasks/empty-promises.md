@@ -28,6 +28,8 @@ Note, that in this part you will create a polyfill. This means, that unlike prev
 
 **Missing functionality. Part 1. For brave one**
 
+What if you need to cancel a promise? Saying, you have sent a network request, you haven't received a result and the user leaves the page. You don't need a result of this request and a server can stop working on it, right?
+
 Some time ago, our community had a proposal for cancelable promise. But because of evil guys from Google author closed [it](https://github.com/tc39/proposal-cancelable-promises). But we need a possibility to [cancel the promise](https://medium.com/@benlesh/promise-cancellation-is-dead-long-live-promise-cancellation-c6601f1f5082).
 
 So you will, with help of the product of evil guys mentioned above, which is quite ironic I say, find a way how to create your own cancelable promise. In such a way you will restore justice in a galaxy.
