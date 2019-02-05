@@ -40,7 +40,7 @@ Your promise must extend existing promise, of course.
 
 You know, how `Promise.all` works, right? It will launch all asynchronous functions simultaneously.
 
-But what we can do, if we need to run several functions one-by-one? `Promise.chain` will help us! This method should receive as an argument array of promises and then call them one by one (you see why "chain" right?) and return result.
+But what we can do, if we need to run several functions one-by-one? :thinking: `Promise.chain` will help us! This method should receive as an argument array of promises and then call them one by one (you see why "chain" right?) and return result.
 
 Little tip: `Array#reduce`
 
