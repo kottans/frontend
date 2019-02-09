@@ -78,6 +78,7 @@ for they are better comprehended when practising.
  * [How to publish `dist/*` only on github pages](https://gist.github.com/OleksiyRudenko/7e94aa2d18927e0c5e65b2b5a1c0e375)
  * [octotree](https://github.com/ovity/octotree) // [Chrome github navigation plug-in](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
  * [Скринкаст по git :clapper::clapper::clapper:](https://learn.javascript.ru/screencast/git)
+ * [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
  * [_placeholder for workshop videocast_](#)
 
 ---
