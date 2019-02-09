@@ -3,7 +3,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Task 11
 ### HTML5: Forms
 #### Intro
 
