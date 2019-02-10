@@ -57,6 +57,7 @@ Note: The list of recommended resources is extensive. You may not have enough ti
 - [HTML5 doctor](http://html5doctor.com/element-index/) - HTML5 elements description with examples
 - [Lecture on HTML by Aleksei Shvaika](https://youtu.be/Y7-0yo4KCVk?list=PLr1siHsWN79BpMXpZv0rEo0b8Wqgf9SUv) for Kottans JS course 2016
 - [Inhuman UI by Vadim Makeev](https://youtu.be/KAK-WAb9vow) - talk on accessibility and what web developers can do about it
+- [Weblind](https://weblind.ru/) - Recommendations on site development for people visually impaired
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
