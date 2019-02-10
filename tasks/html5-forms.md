@@ -3,7 +3,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Task 11
 ### HTML5: Forms
 #### Intro
 
@@ -41,10 +40,11 @@ Make a form according to mockup: https://dribbble.com/shots/1322677-Checkout-Pag
 - Use only HTML & CSS, no JavaScript.
 - Use semantic HTML elements like `<address>`, `<section>`, `<nav>` etc. - this task's purpose is to showcase all the available options and make you familiar with them.
 - Form elements should be clickable and respond to user action.
+- Form data should be validated using HTML/CSS capabilities only. 
 - Form elements should be accessible via any type of input: mouse, keyboard, touch devices. Bonus points for testing with screen readers.
 - The look should be as close as possible to mockup.
 - Test the result in all available browsers & on different devices.  
-- Turn off CSS styling and check how your form looks and if it is still usable.
+- Turn off CSS styling and check how your form looks and if it is still usable (and validated properly).
 - Form should be tested for valid [HTML](https://validator.w3.org/) & [CSS](https://jigsaw.w3.org/css-validator/). 100% compliance is not required, but make sure you don't have errors (warnings are acceptable, just make sure you understand them).
 
 #### Resources
@@ -57,6 +57,7 @@ Note: The list of recommended resources is extensive. You may not have enough ti
 - [HTML5 doctor](http://html5doctor.com/element-index/) - HTML5 elements description with examples
 - [Lecture on HTML by Aleksei Shvaika](https://youtu.be/Y7-0yo4KCVk?list=PLr1siHsWN79BpMXpZv0rEo0b8Wqgf9SUv) for Kottans JS course 2016
 - [Inhuman UI by Vadim Makeev](https://youtu.be/KAK-WAb9vow) - talk on accessibility and what web developers can do about it
+- [Weblind](https://weblind.ru/) - Recommendations on site development for people visually impaired
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
