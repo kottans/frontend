@@ -12,6 +12,19 @@ Requirements:
 - no external libraries or frameworks
 - browser support: Chrome only (feel free to use latest features)
 
+:warning: ![Google-Warning](https://place-hold.it/380x24/fff/f03c15?text=Important!+Google+may+ban+your+github+pages+domain!&bold)
+
+The above may happen if you:
+- use word "google" in
+  - your project/repo name
+  - any urls
+  - in css selectors
+  - in HTML elements ids (including created with JS) or elsewhere across HTML
+- replicate Google design (layout structure, styles etc)
+- use Google icons
+   
+Change pop-up layout and styling, use different icons (or tamper them in graphic editor) and service names, so that Google won't suspect you in attempt to mimic Google services and/or steal your visitors Google credentials.
+
 The popup is expected to have three states depending on click on the Google App button (third element from left in the top row). After first click the popup appears. After second click it is hidden. When popup is visible, click on "More" button adds 10 more icons and forces the content of the popup to scroll.
 Mobile view is irrelevant for this task.  
 Initial state: non pop-up visible:
