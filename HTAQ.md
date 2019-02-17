@@ -96,6 +96,7 @@ A question like
 > I am trying to fetch data from server and
 > publish it on a web page, but nothing happens.
 > What am I doing wrong?
+
 requires too many clarifications and therefore
 can be ignored by community.
 
