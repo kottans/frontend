@@ -43,6 +43,7 @@ for they are better comprehended when practising.
 
 ## Materials
 
+ * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
  * At [Learn git branching](https://learngitbranching.js.org/)
    refresh your skills:
    - Main: Moving Work Around, Advanced Topics
