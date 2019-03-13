@@ -35,12 +35,7 @@ if approved by the community.
 ### Major stream
 
 1. [HTML5: Forms](html5-forms.md)
-1. [Responsive Layouts](html-css-responsive-layouts.md)
 1. [Weather App](weather-app.md)
-1. [Pizza App: API, auth, routing](pizza-app-api-auth-routing.md)
-1. [Pizza App: Canvas](pizza-app-canvas.md)
-1. [React](react.md)
-1. [React + Redux](react-redux.md)
 
 ### Supplementaries (workshops)
 
