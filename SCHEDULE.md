@@ -17,8 +17,8 @@
 | 02/03 | 12:00 | Component-Based App Architecture, part I | [Oleksiy Rudenko](https://github.com/OleksiyRudenko)    | [repo](https://github.com/kottans/weather-componental) |[slides](https://goo.gl/mX8C2H)        | [video1 [6h08m]](https://youtu.be/FcPx2AC77DQ), [video2 [6m]](https://youtu.be/CSpnXeaBomE) | [Homework](https://github.com/kottans/weather-componental/issues/1)
 | 09/03 | 12:00 | Component-Based App Architecture, part I retro | [Oleksiy Rudenko](https://github.com/OleksiyRudenko)    | [repo](https://github.com/kottans/weather-componental) (same) |[slides](https://goo.gl/mX8C2H) (same) | [video [3h32m]](https://youtu.be/o1L0DvcqmDU) | [Homework](https://github.com/kottans/weather-componental/issues/1) (same)
 | 16/03 | 12:00 | Weather App, p II State Management |[Oleksiy Rudenko](https://github.com/OleksiyRudenko)| [repo](https://github.com/kottans/weather-componental) (same) |        |  [video [3h40m]](https://youtu.be/TC0ROTuYAlo) |      |
-| 23/03 | 12:00 | Routing (Lecture) | [Mykhailo Hanol](https://github.com/ganolmc) |  |  |  |  | 
-|  | 14:00 | Routing (Workshop)| [Christina Landvytovych](https://github.com/Croftyland) |  |  |  |  | 
+| 23/03 | 12:00 | Routing (Lecture) | [Christina Landvytovych](https://github.com/Croftyland)  |  |  |  |  | 
+|  | 14:00 | Routing (Workshop)| [Mykhailo Hanol](https://github.com/ganolmc) |  |  |  |  | 
 | 30/03 | 12:00 | Asynchronous JavaScript | [Yevhen Orlov](https://github.com/yevhenorlov) |  |  |  |
 | 06/04 | 12:00 | React Basics |  [Christina Landvytovych](https://github.com/Croftyland)  |  |  |  |  |  |  |
 | 13/04 | 12:00 | Authentication & Authorization | [Anastasiya Mashoshyna](https://github.com/AMashoshyna) |
