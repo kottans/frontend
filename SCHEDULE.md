@@ -20,8 +20,8 @@
 | 23/03 | 12:00 | Routing (Lecture) | [Christina Landvytovych](https://github.com/Croftyland)  |  |  |  |  | 
 |  | 14:00 | Routing (Workshop)| [Mykhailo Hanol](https://github.com/ganolmc) |  |  |  |  |
 | 30/03 | 12:00 | DYI Framework: Recap | |  |  |  |
-| 06/04 | 12:00 | Asynchronous JavaScript | [Yevhen Orlov](https://github.com/yevhenorlov) |  |  |  |
-| 13/04 | 12:00 | React Basics |  [Christina Landvytovych](https://github.com/Croftyland)  |  |  |  |  |  |  |
-| 20/04 | 12:00 | Authentication & Authorization | [Anastasiya Mashoshyna](https://github.com/AMashoshyna) |
-| 27/04 | 12:00 |
+| 07/04 | 12:00 | React Basics |  [Christina Landvytovych](https://github.com/Croftyland) |  |  |  |
+| 13/04 | 12:00 | Performance |  [Svyatoslav Shmatko](https://github.com/sdoomz)  |  |  |  |  |  |  |
+| 20/04 | 12:00 | WebSocket | [Alexander Kochetov](https://github.com/alexk0ch) |
+| 27/04 | 12:00 | Asynchronous JavaScript | [Yevhen Orlov](https://github.com/yevhenorlov) |  |  |  |
 | 04/05 | 12:00 |
