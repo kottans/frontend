@@ -31,11 +31,7 @@ When complete do the following:
    and share it with others –
    post a message in the [course channel][chat]:
    `React Friends App — #done` (or `React Friends App — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. You have completed the last tasks section of offline course stage.
-   We shall appreciate your feedback on this section especially
-   if you're doing this course from Ukraine.
-   Please, grant us 10-15 minutes of your time and **complete**
-   **[this feedback form](https://goo.gl/forms/3qotPDzLTwZYqFA42)**.
+   
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
