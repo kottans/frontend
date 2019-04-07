@@ -3,11 +3,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Task 15
+# React Friends App
 
-### React
+Implement application similar to your friends app, but using React.
 
-Rewrite your weather application using react. Thats all.
+You can use any API you want - [Marvel API](https://developer.marvel.com/), [Star Wars API](https://swapi.co), [The Rick And Morty API](https://rickandmortyapi.com/), etc.
 
 ### Resources
 
@@ -20,20 +20,22 @@ Rewrite your weather application using react. Thats all.
 * [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
 * [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
 
-#### Fiber
+When you're done with your challenge push your code to GitHub repo and publish
+it using [GitHub Pages](https://pages.github.com).
 
-* [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs)
-* [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
-* [Top Resources to Explore React Fiber](https://hackernoon.com/top-resources-to-explore-react-fiber-9a2b19114520)
-
-#### Async render and suspense
-
-* [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
-* [Dan Abramov: Beyond React 16 | JSConf Iceland 2018](https://www.youtube.com/watch?v=nLF0n9SACd4)
-* [Dan Abramov - Suspense! - ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4)
-* [[WIP] Suspense #12279](https://github.com/facebook/react/pull/12279)
-* [Async React with Andrew Clark](https://changelog.com/reactpodcast/6)
-
+When complete do the following:
+1. You will require code review for this task:
+   - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+   - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
+1. You did a lot already! If you honestly finished all the previous steps then go ahead
+   and share it with others –
+   post a message in the [course channel][chat]:
+   `React Friends App — #done` (or `React Friends App — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+1. You have completed the last tasks section of offline course stage.
+   We shall appreciate your feedback on this section especially
+   if you're doing this course from Ukraine.
+   Please, grant us 10-15 minutes of your time and **complete**
+   **[this feedback form](https://goo.gl/forms/3qotPDzLTwZYqFA42)**.
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
