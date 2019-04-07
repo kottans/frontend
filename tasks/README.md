@@ -22,7 +22,6 @@
 1. [Memory – Pair Game](memory-pair-game.md) - practice
 1. [Website Performance Optimization](app-design-performance.md) - _optional_
 1. [Friends App](friends-app.md) - practice
-1. [React Friends App](react.md) - practice
 
 Tasks above are unidirectional linked list.
 
@@ -37,6 +36,7 @@ if approved by the community.
 
 1. [HTML5: Forms](html5-forms.md)
 1. [Weather App](weather-app.md)
+1. [React Friends App](react.md) - practice
 
 ### Supplementaries (workshops)
 
