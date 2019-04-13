@@ -17,11 +17,13 @@
 | 02/03 | 12:00 | Component-Based App Architecture, part I | [Oleksiy Rudenko](https://github.com/OleksiyRudenko)    | [repo](https://github.com/kottans/weather-componental) |[slides](https://goo.gl/mX8C2H)        | [video1 [6h08m]](https://youtu.be/FcPx2AC77DQ), [video2 [6m]](https://youtu.be/CSpnXeaBomE) | [Homework](https://github.com/kottans/weather-componental/issues/1)
 | 09/03 | 12:00 | Component-Based App Architecture, part I retro | [Oleksiy Rudenko](https://github.com/OleksiyRudenko)    | [repo](https://github.com/kottans/weather-componental) (same) |[slides](https://goo.gl/mX8C2H) (same) | [video [3h32m]](https://youtu.be/o1L0DvcqmDU) | [Homework](https://github.com/kottans/weather-componental/issues/1) (same)
 | 16/03 | 12:00 | Weather App, p II State Management |[Oleksiy Rudenko](https://github.com/OleksiyRudenko)| [repo](https://github.com/kottans/weather-componental) (same) | [slides](https://goo.gl/xsspsZ) |  [video [3h40m]](https://youtu.be/TC0ROTuYAlo) | [Homework](https://github.com/kottans/weather-componental/issues/5)     |
-| 23/03 | 12:00 | Routing (Lecture) | [Christina Landvytovych](https://github.com/Croftyland)  |  |  |  |  | 
-|  | 14:00 | Routing (Workshop)| [Mykhailo Hanol](https://github.com/ganolmc) |  |  |  |  |
-| 30/03 | 12:00 | DYI Framework: Recap | |  |  |  |
-| 07/04 | 12:00 | React Basics |  [Christina Landvytovych](https://github.com/Croftyland) |  |  |  |
+| 23/03 | 12:00 | Routing (Lecture) | [Christina Landvytovych](https://github.com/Croftyland)  |  |  |[video [30min]](https://youtu.be/UKjbmvl4WQU)  |  | 
+|  | 14:00 | Routing (Workshop)| [Mykhailo Hanol](https://github.com/ganolmc) |  |  |[video p. 1[0:43 min]](https://youtu.be/AVYPMZIdAIw), [video p. 2[60min]](https://youtu.be/JUTb6SY48-Y), [video p. 3[1h15min]](https://youtu.be/VvbL9HEZpjY) |  |
+| 30/03 | 12:00 | DYI Framework: Recap |[Oleksiy Rudenko](https://github.com/OleksiyRudenko) | | |[video part 1[19min]](https://youtu.be/EDzPXul5teA) [video part 2[1h11]](https://youtu.be/z9spriQGo5M) |
+| 07/04 | 12:00 | React Intro | [Anastasiya Mashoshyna](https://github.com/AMashoshyna) |  |  |[video [32min]](https://youtu.be/DjsWUFVbwgM)  |
+| | 14:00 | React Intro |   [Ivan Tytarenko](https://github.com/zonzujiro) |  |  | [video part 1[1h47]](https://youtu.be/yp5Ndd_7NPM), [video part 2[60min]](https://youtu.be/3i04Um6UGGI) |
+| | 16:00 | React Intro | [Yevhen Orlov](https://github.com/yevhenorlov) |  |  |  |
 | 13/04 | 12:00 | Performance |  [Svyatoslav Shmatko](https://github.com/sdoomz)  |  |  |  |  |  |  |
 | 20/04 | 12:00 | WebSocket | [Alexander Kochetov](https://github.com/alexk0ch) |
-| 27/04 | 12:00 | Asynchronous JavaScript | [Yevhen Orlov](https://github.com/yevhenorlov) |  |  |  |
+| 27/04 | 12:00 | Asynchronous JavaScript | [Yevhen Orlov](https://github.com/yevhenorlov) |  |  | [video [42min]](https://youtu.be/bvh3n0MJyMY) |
 | 04/05 | 12:00 |
