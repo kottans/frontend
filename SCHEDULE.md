@@ -22,8 +22,8 @@
 | 30/03 | 12:00 | DYI Framework: Recap |[Oleksiy Rudenko](https://github.com/OleksiyRudenko) | | |[video part 1[19min]](https://youtu.be/EDzPXul5teA) [video part 2[1h11]](https://youtu.be/z9spriQGo5M) |
 | 07/04 | 12:00 | React Intro | [Anastasiya Mashoshyna](https://github.com/AMashoshyna) |  |  |[video [32min]](https://youtu.be/DjsWUFVbwgM)  |
 | | 14:00 | React Intro |   [Ivan Tytarenko](https://github.com/zonzujiro) |  |  | [video part 1[1h47]](https://youtu.be/yp5Ndd_7NPM), [video part 2[60min]](https://youtu.be/3i04Um6UGGI) |
-| | 16:00 | React Intro | [Yevhen Orlov](https://github.com/yevhenorlov) |  |  |  |
+| | 16:00 | React Intro | [Yevhen Orlov](https://github.com/yevhenorlov) |  |  | [video [42min]](https://youtu.be/bvh3n0MJyMY) |
 | 13/04 | 12:00 | How to win and make an impact |  [Svyatoslav Shmatko](https://github.com/sdoomz)  |  |  | [Part one](https://www.youtube.com/watch?v=QbJiXDYISKo), [Part two](https://www.youtube.com/watch?v=d_5NWZ77nEk) |  |  |  |
 | 20/04 | 12:00 | WebSocket | [Alexander Kochetov](https://github.com/alexk0ch) |
-| 27/04 | 12:00 | Asynchronous JavaScript | [Yevhen Orlov](https://github.com/yevhenorlov) |  |  | [video [42min]](https://youtu.be/bvh3n0MJyMY) |
+| 27/04 | 12:00 | Asynchronous JavaScript | [Yevhen Orlov](https://github.com/yevhenorlov) |  |  |  |
 | 04/05 | 12:00 |
