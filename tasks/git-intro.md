@@ -49,7 +49,7 @@ When you finish this task you can start the next one.
 
 * [TypingClub](https://www.typingclub.com/) — improve your typing speed
 
-* [Как учиться и справляться с негативными мыслями](https://hexletguides.github.io/learning/)
+* [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/learning/)
 
 ## Done?
 
