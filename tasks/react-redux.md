@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Task 16
+# Task 4
 
 ## React + Redux
 
@@ -15,7 +15,7 @@ Complete [Test Task for Intern / Junior Front-End Developer Position](https://gi
 
 ### Resources
 
-We had a lot of reading resources about React & etc. at last [task #15](https://github.com/kottans/frontend/blob/master/test15.md).
+We had a lot of reading resources about React & etc.
 But if you don't sure at component lifecycle yet,
 try to read this [article](https://habr.com/post/358090/).
 
