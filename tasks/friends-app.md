@@ -58,7 +58,7 @@ Note, that this is an additional part of the task. Also you can implement anythi
 ## Stuff which will help you
 
 * We think that you will need to use promises for this task ;)
-* [Основы XMLHttpRequest](https://learn.javascript.ru/ajax-xmlhttprequest) - you
+* [Основы XMLHttpRequest](https://learn.javascript.ru/xmlhttprequest) - you
   can use `XMLHttpRequest` for sending requests to webserver;
   [Method Fetch замена XHR](https://learn.javascript.ru/fetch) - you can use `fetch` as better tool for sending requests.
 * [Randomuser api with awesome simple examples and docs](https://randomuser.me) -
