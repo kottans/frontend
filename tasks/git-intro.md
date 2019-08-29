@@ -7,7 +7,7 @@
 
 Get familiar with Git and GitHub.
 
- 1. Finish the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+ 1. Finish the course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
     You may resort to subtitles/closed captions and
     to auto-translated subtitles in particular if you feel
