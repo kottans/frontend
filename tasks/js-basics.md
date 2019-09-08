@@ -59,9 +59,9 @@ When you finish this task you can proceed to the next one.
 - [Algorithms Course by Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) /
-  [Вы не знаете JS: Начните и Совершенствуйтесь](https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going)
-  [JavaScript Equality Table Game](https://eqeq.js.org/)
-  [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
+- [Вы не знаете JS: Начните и Совершенствуйтесь](https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going)
+- [JavaScript Equality Table Game](https://eqeq.js.org/)
+- [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
 
 ## Done?
 
