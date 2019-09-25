@@ -7,7 +7,7 @@
 
 Learn some command line, server and http tools.
 
-1. [Linux Sruvival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
+1. [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
 
    **A note for Windows users:** This course provides a virtual environment to
    type commands in. However, if you want to later use these commands in practice,
