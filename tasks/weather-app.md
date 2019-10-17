@@ -103,7 +103,6 @@ You can see workshop's screencast below.
 [![Routing Workshop - Mykhailo Hanol][tenth-ws-img]][tenth-ws]|[Routing Workshop - Mykhailo Hanol (2/3)][tenth-ws]
 [![Routing Workshop - Mykhailo Hanol][eleventh-ws-img]][eleventh-ws]|[Routing Workshop - Mykhailo Hanol (3/3)][eleventh-ws]
 
-
 ## Done?
 
 __Congratulations! 🎉__
