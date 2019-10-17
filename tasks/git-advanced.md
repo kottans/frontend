@@ -145,7 +145,7 @@ are rather a collection of possible theses.
 
 </details>
 
-### Video
+## Video
 
 You can see workshop's screencast below.
 
