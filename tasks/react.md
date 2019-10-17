@@ -41,9 +41,7 @@ You can see workshop's screencast below.
 [![ReactJS - Intro (p.1) - Anastasiya Mashoshyna][first-ws-img]][first-ws] | [ReactJS - Intro (p.1) - Anastasiya Mashoshyna][first-ws]
 [![ReactJS - Intro (p.2) - Ivan Tytarenko][second-ws-img]][second-ws] | [ReactJS - Intro (p.2) - Ivan Tytarenko][second-ws]
 [![ReactJS - Intro (p.3) - Ivan Tytarenko][third-ws-img]][third-ws]|[ReactJS - Intro (p.3) - Ivan Tytarenko][third-ws]
-[![ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws-img]][fourth-ws]|[ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws]
-
-   
+[![ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws-img]][fourth-ws]|[ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws]   
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
