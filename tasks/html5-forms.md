@@ -65,10 +65,10 @@ You can see workshop's screencast below.
 
 |||    
 --- | --- 
-[![First workshop HTML5 Form (1/2) - Yevhen Orlov](http://img.youtube.com/vi/4MYA3Nocsts/default.jpg)](https://youtu.be/4MYA3Nocsts) | [First workshop HTML5 Form (1/2) - Yevhen Orlov](https://youtu.be/4MYA3Nocsts)
-[![First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy](http://img.youtube.com/vi/ZoC759dIObM/default.jpg)](https://youtu.be/ZoC759dIObM) | [First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy](https://youtu.be/ZoC759dIObM)
-[![Second workshop HTML5 Form - Oleksandr Ostrovnyy](http://img.youtube.com/vi/eTCGaUILyzg/default.jpg)](https://youtu.be/eTCGaUILyzg)|[Second workshop HTML5 Form - Oleksandr Ostrovnyy](https://youtu.be/eTCGaUILyzg) 
-[![Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy](http://img.youtube.com/vi/NRCvOcEuDEU/default.jpg)](https://youtu.be/NRCvOcEuDEU)|[Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy](https://youtu.be/NRCvOcEuDEU)
+[![First workshop HTML5 Form (1/2) - Yevhen Orlov][first-workshop-1-img]][first-workshop-1] | [First workshop HTML5 Form (1/2) - Yevhen Orlov][first-workshop-1]
+[![First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][first-workshop-2-img]][first-workshop-2] | [First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][first-workshop-2]
+[![Second workshop HTML5 Form - Oleksandr Ostrovnyy][second-workshop-img]][second-workshop]|[Second workshop HTML5 Form - Oleksandr Ostrovnyy][second-workshop]
+[![Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][third-workshop-img]][third-workshop]|[Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][third-workshop]
 
 
 
@@ -79,3 +79,12 @@ You can see workshop's screencast below.
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
+
+[first-workshop-1]: https://youtu.be/4MYA3Nocsts
+[first-workshop-1-img]: http://img.youtube.com/vi/4MYA3Nocsts/default.jpg
+[first-workshop-2]: https://youtu.be/ZoC759dIObM
+[first-workshop-2-img]: http://img.youtube.com/vi/ZoC759dIObM/default.jpg
+[second-workshop]: https://youtu.be/eTCGaUILyzg
+[second-workshop-img]: http://img.youtube.com/vi/eTCGaUILyzg/default.jpg
+[third-workshop]: https://youtu.be/NRCvOcEuDEU
+[third-workshop-img]: http://img.youtube.com/vi/NRCvOcEuDEU/default.jpg
