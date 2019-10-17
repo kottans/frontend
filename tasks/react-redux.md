@@ -20,7 +20,7 @@ But if you don't sure at component lifecycle yet,
 try to read this [article](https://habr.com/post/358090/).
 
 
-#### Video
+### Video
 
 You can see workshop's screencast below.
 
