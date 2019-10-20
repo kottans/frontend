@@ -147,7 +147,7 @@ are rather a collection of possible theses.
 
 ## Video
 
-You can see workshop's screencast below.
+You can watch related screencasts from Kottans course live workshops below.
 
 |||    
 --- | --- 
