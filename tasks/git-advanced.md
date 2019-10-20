@@ -145,6 +145,14 @@ are rather a collection of possible theses.
 
 </details>
 
+## Video
+
+You can watch related screencasts from Kottans course live workshops below.
+
+|||    
+--- | --- 
+[![Git Course Intro - Oleksiy Rudenko][first-ws-img]][first-ws] | [Git Course Intro - Oleksiy Rudenko][first-ws]
+[![Git Workshop - Oleksiy Rudenko][second-ws-img]][second-ws] | [Git Workshop - Oleksiy Rudenko][second-ws]
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
@@ -153,3 +161,8 @@ are rather a collection of possible theses.
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
+
+[first-ws]: https://youtu.be/jmb5YsACP5U
+[first-ws-img]: http://img.youtube.com/vi/jmb5YsACP5U/default.jpg
+[second-ws]: https://youtu.be/cJf5c8bwWME
+[second-ws-img]: http://img.youtube.com/vi/cJf5c8bwWME/default.jpg

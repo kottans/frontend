@@ -31,7 +31,17 @@ When complete do the following:
    and share it with others –
    post a message in the [course channel][chat]:
    `React Friends App — #done` (or `React Friends App — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-   
+
+#### Video
+
+You can watch related screencasts from Kottans course live workshops below.
+
+|||    
+--- | --- 
+[![ReactJS - Intro (p.1) - Anastasiya Mashoshyna][first-ws-img]][first-ws] | [ReactJS - Intro (p.1) - Anastasiya Mashoshyna][first-ws]
+[![ReactJS - Intro (p.2) - Ivan Tytarenko][second-ws-img]][second-ws] | [ReactJS - Intro (p.2) - Ivan Tytarenko][second-ws]
+[![ReactJS - Intro (p.3) - Ivan Tytarenko][third-ws-img]][third-ws]|[ReactJS - Intro (p.3) - Ivan Tytarenko][third-ws]
+[![ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws-img]][fourth-ws]|[ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws]   
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
@@ -40,3 +50,12 @@ When complete do the following:
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
+
+[first-ws]: https://youtu.be/DjsWUFVbwgM
+[first-ws-img]: http://img.youtube.com/vi/DjsWUFVbwgM/default.jpg
+[second-ws]: https://youtu.be/yp5Ndd_7NPM
+[second-ws-img]: http://img.youtube.com/vi/yp5Ndd_7NPM/default.jpg
+[third-ws]: https://youtu.be/3i04Um6UGGI
+[third-ws-img]: http://img.youtube.com/vi/3i04Um6UGGI/default.jpg
+[fourth-ws]: https://youtu.be/bvh3n0MJyMY
+[fourth-ws-img]: http://img.youtube.com/vi/bvh3n0MJyMY/default.jpg

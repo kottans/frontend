@@ -59,6 +59,18 @@ Note: The list of recommended resources is extensive. You may not have enough ti
 - [Inhuman UI by Vadim Makeev](https://youtu.be/KAK-WAb9vow) - talk on accessibility and what web developers can do about it
 - [Weblind](https://weblind.ru/) - Recommendations on site development for people visually impaired
 
+#### Video
+
+You can watch related screencasts from Kottans course live workshops below.
+
+|||    
+--- | --- 
+[![First workshop HTML5 Form (1/2) - Yevhen Orlov][first-workshop-1-img]][first-workshop-1] | [First workshop HTML5 Form (1/2) - Yevhen Orlov][first-workshop-1]
+[![First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][first-workshop-2-img]][first-workshop-2] | [First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][first-workshop-2]
+[![Second workshop HTML5 Form - Oleksandr Ostrovnyy][second-workshop-img]][second-workshop]|[Second workshop HTML5 Form - Oleksandr Ostrovnyy][second-workshop]
+[![Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][third-workshop-img]][third-workshop]|[Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][third-workshop]
+
+
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
@@ -67,3 +79,12 @@ Note: The list of recommended resources is extensive. You may not have enough ti
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
+
+[first-workshop-1]: https://youtu.be/4MYA3Nocsts
+[first-workshop-1-img]: http://img.youtube.com/vi/4MYA3Nocsts/default.jpg
+[first-workshop-2]: https://youtu.be/ZoC759dIObM
+[first-workshop-2-img]: http://img.youtube.com/vi/ZoC759dIObM/default.jpg
+[second-workshop]: https://youtu.be/eTCGaUILyzg
+[second-workshop-img]: http://img.youtube.com/vi/eTCGaUILyzg/default.jpg
+[third-workshop]: https://youtu.be/NRCvOcEuDEU
+[third-workshop-img]: http://img.youtube.com/vi/NRCvOcEuDEU/default.jpg
