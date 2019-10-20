@@ -34,7 +34,7 @@ When complete do the following:
 
 #### Video
 
-You can see workshop's screencast below.
+You can watch related screencasts from Kottans course live workshops below.
 
 |||    
 --- | --- 
