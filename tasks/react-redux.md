@@ -22,7 +22,7 @@ try to read this [article](https://habr.com/post/358090/).
 
 ### Video
 
-You can see workshop's screencast below.
+You can watch related screencasts from Kottans course live workshops below.
 
 |||    
 --- | --- 
