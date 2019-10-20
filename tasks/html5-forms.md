@@ -61,7 +61,7 @@ Note: The list of recommended resources is extensive. You may not have enough ti
 
 #### Video
 
-You can see workshop's screencast below.
+You can watch related screencasts from Kottans course live workshops below.
 
 |||    
 --- | --- 
