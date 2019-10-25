@@ -22,7 +22,7 @@ Requirements:
 
 The above may happen if your design mimics Google components or services
 as they may decide that you've created a phishing site to steal
-your visitors Google credentials.
+your visitors' Google credentials.
 
 To avoid this
 - DO NOT use word "google", "apple", "amazon" or any other brand in
