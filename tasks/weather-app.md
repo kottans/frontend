@@ -57,8 +57,6 @@ story with mobile devices.
   [async/awaits](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99)
   and [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
   for handling network requests;
-* with help of ES6 modules build website based on frontend components (aware,
-  that FF do not support ES6 modules right now).
 * make good responsive/fluid/elastic/whatever design and other modern stuff;
 
 #### Choose path of grandmaster of storms, tornadoes for all over the time, space and in all possible far-far away, and:
@@ -81,8 +79,6 @@ story with mobile devices.
 * The exact list of forecast periods may depend on API which you choose for this
   task. Providing forecast not for week, but for five days, 10 days, etc.
   totally acceptable;
-* In case you try to build modular frontend application, you can skip support
-  of FF, because last one does not support ES6 modules;
 * Map with temperatures is not required for this task;
 
 #### Video
