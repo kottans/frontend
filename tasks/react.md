@@ -7,7 +7,7 @@
 
 Implement application similar to your friends app, but using React.
 
-You can use any API you want - [Marvel API](https://developer.marvel.com/), [Star Wars API](https://swapi.co), [The Rick And Morty API](https://rickandmortyapi.com/), etc.
+You can use any API you want - [Marvel API](https://developer.marvel.com/), [Star Wars API](https://swapi.co) + [Star Wars Imagery](https://starwars-visualguide.com/), [The Rick And Morty API](https://rickandmortyapi.com/), etc.
 
 ### Resources
 
