@@ -38,7 +38,31 @@ Main part of the _Front-End Course_.
 
 ### Lectures & Workshops
 
-TODO
+#### HTML, CSS & DOM
+
+1. W3C and WHATWG Standards. HTML markup. Intro to CSS. Grids.
+1. Graphics on the web. А11Y & forms. Content handling
+1. DOM and Layout Trees
+1. Cookies, document.cookie
+
+#### JavaScript
+
+1. Scopes & Closures
+1. Concept of this
+1. Prototypes
+1. Types & Grammar
+1. Callbacks & Promises
+1. Async & Await
+1. ESNext Api / Generators
+1. Functionality
+1. How browser works/Web workers
+
+
+#### Frontend Framework
+
+#### TypeScript
+
+#### Soft Skills
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
