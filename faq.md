@@ -12,8 +12,6 @@
   + A: Preparatory stage of the course includes free learning materials. As for main course, we plan to make records of all lectures & workshops and make them available online, but live presence is for course students only.
 - Q: Where are courses going to take place?
   + A: All lectures & workshops will be held online.
-- Q: At what time are lectures gonna be?
-  + A: From 11:00 - 12:00 to 17:00 - 18:00. One day on the weekend - Saturdays.
 - Q: I want to be a student, what do I do?
   + A: Great spirit takes you halfway there. You could start working through prerequisites and peer-to-peer tasks, keep an eye on our [public channel](https://twitter.com/kottans_org) and [chat](https://github.com/kottans/frontend#chats)
 - Q: I want to talk you your manager, get me to real person
