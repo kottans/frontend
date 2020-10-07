@@ -10,9 +10,6 @@
 1. [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
    (4 lessons, estimated completion time 8 hrs)
 
-2. [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
-   - finish tasks 12..18 (**Sum All Odd Fibonacci Numbers** to **Everything Be True**) and save a screenshot.
-
 ### .then():
 
 3. **Practical task**: Implement interactive side-menu' site without page reloads. You may choose any theme: pokemons, phones, site pages aka about/prices/goal/etc.
