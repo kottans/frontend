@@ -5,19 +5,13 @@
 
 # Git for Team Collaboration
 
-Yeh, we know that it's Git again and you a bit tired of it.
-But! It's a great new course. It'll help you a lot to understand better
-the git and operate with it and you'll benefit from it on your future job
-and projects!
 
- 1. [What is Version Control](https://classroom.udacity.com/courses/ud123/)
+ 1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
- 2. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
-
-Finish the courses (1) and (2) above.
+Finish the course above.
 
 When complete do the following:
-1. Make screenshots of your finished lessons from (1) and (2)
+1. Make screenshots of your finished lessons
    and put the screenshots in `task_git_collaboration` folder in
    your `kottans-frontend` repo
 1. In your `kottans-frontend` repo `README.md`:
