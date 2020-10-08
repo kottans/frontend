@@ -5,15 +5,17 @@
 
 # Front-End Course
 
-The course contains basics of front-end development:
-HTML, CSS, JS, and front-end frameworks.
+This repository contains materials for frontend course. Here you can find tasks for qualification phase (required to join the main course) and main course (comes later).
 
 You can use these materials for self-education as well.
 
+### Dates & Deadlines
+
+For 2020-2021 course: preparatory stage starts 12.10.2020 and ends in December. Main course starts in December (exact dates to be announced)
 
 ### Admission
 
-TODO
+To join main course track, the applicants are required to finish tasks listed in [Stage 0. Self-Study](contents.md#stage-0-self-study) part of the course and to pass successfully the interview with mentors. We highly encourage you to be active in your study process and help other students: answer questions in chants, review pull-requests, report possible errors and suggest solutions. Don’t hesitate to ask questions and let mentors know if you are stuck and need help. Your progress is in your hands.
 
 ### What you will learn
 
@@ -28,7 +30,7 @@ TODO
 <!-- For more information take a look on [syllabus](syllabus.md) -->
 
 
-### General Requirements
+### Pre-Requisites
 
 1. __English knowledge:__ a lot of the materials will be in English.
    If you do not feel confident enough in your technical English,
@@ -57,6 +59,9 @@ The course includes links to different learning materials - video courses, tutor
 1. __Videos:__ same as for the reading; watch the video,
    answer three questions.
 
+### Progress Reports
+
+We would like to know the progress of students along the way. We kindly ask you to post about you progress (finished tasks) in students chat.
 
  ### Chats
 
