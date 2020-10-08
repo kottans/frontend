@@ -1,5 +1,4 @@
 [![MIT Licensed][icon-mit]][license]
-[![Ideas and useful links][icon-ideas]][ideas]
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
@@ -8,10 +7,10 @@
 
 ## Stage 0. Self-Study
 
-The online stage of _Front-End Course_. Following tasks should be completed
-at home to participate offline stage. Learn more in [README](README.md).
+Preparatory stage of _Front-End Course_. Following tasks should be completed
+to join main course. Learn more in [README](README.md).
 
-### General Basics
+### General
  0. [Git Basics](tasks/git-intro.md)
  1. [Linux CLI and Networking](tasks/linux-cli-http.md)
  2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
@@ -34,52 +33,36 @@ at home to participate offline stage. Learn more in [README](README.md).
 
 ## Stage 1. The Show Must Go On
 
-The offline stage of _Front-End Course_.
+Main part of the _Front-End Course_.
 
-### Main thread
+### Lectures & Workshops
 
- 1. Intro to meet-up backed course stage
- 1. Self-study stage practical tasks retrospection
- 1. Mastering HTML 5 forms
- 1. Modern Web App and Web  Frameworks
- 1. Component-based App Architecture (Weather App)
- 1. Routing (Collection Browsing App)
- 1. Authentication and Authorization (Chat App)
- 1. Websockets (Chat App)
- 1. Canvas API (Puzzle Game)
- 1. Framework/Library (_TBD_)
- 
-## Supplementary part
+#### HTML, CSS & DOM
 
-Following topics are not the part of the main course and can be held by Kottans after discussions with students.
-Short description of the each topic can be found in the [issue](https://github.com/kottans/frontend/issues/171).
-Additionally, each student can request, as well as each mentor can propose, a lecture or workshop about any theme.
+1. W3C and WHATWG Standards. HTML markup. Intro to CSS. Grids.
+1. Graphics on the web. А11Y & forms. Content handling
+1. DOM and Layout Trees
+1. Cookies, document.cookie
 
-### Supplementary workshops
+#### JavaScript
 
- 1. JS Asynchronicity
- 1. JS tricks, best practices
- 1. JS prototypes
- 1. Tooling
- 1. Advanced git
- 1. Whatever students want to try (within FrontEnd Universe)
- 
-### Supplementary lectures
+1. Scopes & Closures
+1. Concept of this
+1. Prototypes
+1. Types & Grammar
+1. Callbacks & Promises
+1. Async & Await
+1. ESNext Api / Generators
+1. Functionality
+1. How browser works/Web workers
 
- 1. Design Patterns Classics
- 1. JS Design Patterns
- 1. Guided tour through MDN
- 1. Website Performance Optimization
- 1. react@next
- 1. Whatever students want to know (within FrontEnd Universe)
- 
-### Soft Skill Extras
 
- 1. Problem decomposition
- 1. Roles in IT company
- 1. Agile/SCRUM, SDLC
- 1. How to survive and succeed in job interview
- 1. Product-centric mindset
+#### Frontend Framework
+
+#### TypeScript
+
+#### Soft Skills
+
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
@@ -88,5 +71,4 @@ Additionally, each student can request, as well as each mentor can propose, a le
 
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
-[ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q

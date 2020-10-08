@@ -5,25 +5,19 @@
 [![Telegram][icon-chat]][chat]
 
 - Q: What courses do you have?
-  + A: We have two main courses:
-    1. Offline course, which was started 26.01.2019. Right now enrollment for this course is closed.
-    2. [Peer-to-peer course](https://github.com/kottans/frontend/issues/227) - this course is oriented mostly to self-education and for those, who haven't finished the online part in time. Everyone can become part of this course. All you need is just follow instructions in tasks.
+  + A: Frontend course
 - Q: When the courses is going to start? Any schedule?
-  + A: Offline course started 26.01.2019. P2P course started 27.01.2019.
+  + A: Preparatory stage of Frontend Course starts 12.10.20. Date of main course to be announced.
 - Q: Is this course available online?
-  + A: Peer-to-peer course is available online. This means, that we will provide tasks, recomendations for self-education, for code-review, acceptance criteria, etc. Also, we will create tasks from offline part - we might put up some of the lecture recordings, so you could try working on this at your own pace and ask questions in the [chat]
+  + A: Preparatory stage of the course includes free learning materials. As for main course, we plan to make records of all lectures & workshops and make them available online, but live presence is for course students only.
 - Q: Where are courses going to take place?
-  + A: Offline course will take place at [Cogniance office](https://goo.gl/maps/cVxLSCpWPUB2). Peer-to-peer course is mostly online.
-- Q: At what time are lectures gonna be?
-  + A: From 11:00 - 12:00 to 17:00 - 18:00. One day on the weekend - Saturdays.
-- Q: What is test task? When can I start doing it?
-  + A: As was told, enrollment for an offline course is closed. Peer-to-peer course requires no tests, because all tasks are already available through [this repo](https://github.com/kottans/frontend#ready).
+  + A: All lectures & workshops will be held online.
 - Q: I want to be a student, what do I do?
   + A: Great spirit takes you halfway there. You could start working through prerequisites and peer-to-peer tasks, keep an eye on our [public channel](https://twitter.com/kottans_org) and [chat](https://github.com/kottans/frontend#chats)
 - Q: I want to talk you your manager, get me to real person
   + A: We don't have one, but you could throw a question at the [chats](https://github.com/kottans/frontend#chats) and somebody might answer.
 
-Once again, don't forget:
+Gentle reminder:
 1) we are not paid to do this
 2) answering same questions over and over takes time, that could be used to make materials for this course better
 3) don't be rude, everyone likes talking to nice people
