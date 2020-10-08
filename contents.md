@@ -1,5 +1,4 @@
 [![MIT Licensed][icon-mit]][license]
-[![Ideas and useful links][icon-ideas]][ideas]
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
