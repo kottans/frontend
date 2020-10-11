@@ -8,7 +8,7 @@
 1. [Object Oriented JS](https://classroom.udacity.com/courses/ud015)
 1. [codewars](https://www.codewars.com/) - register, join Kottans clan and reach 7 kyu.
 
-If you honestly finished all the previous steps then go ahead and share it with others
+Great job! Go ahead and share your progress with others
 - post a message to [course channel][chat] with the link to your
 repo and the words "Object Oriented JS - finished".
 
@@ -25,8 +25,7 @@ When complete do the following:
      showing your progress
    * list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. You did a lot already! If you honestly finished all the previous steps then go ahead
-   and share it with others –
+1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
    `Object Oriented JS — #done`(or `Object Oriented JS — #p2p_done` if you are p2p course student)  and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. You will require code review for a coding subtask from (1)

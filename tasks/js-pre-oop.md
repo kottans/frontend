@@ -18,9 +18,8 @@ When complete do the following:
    - For **p2p course** students: please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
    - Note, that especially this task requires you to submit
    a single file (`index.js` **only**) to the
-   `frontend-2019-homeworks` or `frontend-2019-p2p` repo for code review.
-1. You did a lot already! If you honestly finished all the previous steps then go ahead
-   and share it with others –
+   `frontend-2021-homeworks` or `frontend-2019-p2p` repo for code review.
+1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
    `A Tiny JS World — #done` (or `A Tiny JS World — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Read one or two articles on OOP under the links in
