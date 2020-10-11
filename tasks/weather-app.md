@@ -8,8 +8,7 @@
 When you're done with your challenge push your code to github repo and publish
 it using `gh-pages`. _Add link to it to your main frontend tasks repo._
 
-If you honestly finished all the previous steps than go ahead and share it with
-others - send a message in [course channel](chat) with the link to you repo and the words "Weather APP - finished" and add link to repo with code of the
+Great job! Go ahead and share your progress with others - send a message in [course channel](chat) with the link to you repo and the words "Weather APP - finished" and add link to repo with code of the
 website.
 
 ## Weather app

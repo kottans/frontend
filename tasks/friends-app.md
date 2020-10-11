@@ -74,10 +74,9 @@ it using [GitHub Pages](https://pages.github.com).
 
 When complete do the following:
 1. You will require code review for this task:
-   - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
-   - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
-1. You did a lot already! If you honestly finished all the previous steps then go ahead
-   and share it with others –
+   - For **Frontend 2021** course students: please, follow [these instructions](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - For **p2p course** students: please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+1. Great job! Go ahead and share your progress with others –
    post a message in the [course channel][chat]:
    `Friends App — #done` (or `Friends App — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. You have completed the last tasks section of offline course stage.
@@ -93,7 +92,7 @@ __Congratulations! 🎉__
 * [ ] Have you finished all mandatory tasks?
 * [ ] Are practical tasks get reviewed and
       PRs are merged into
-      [frontend-2019-homeworks](https://github.com/kottans/frontend-2019-homeworks)
+      [frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
       repo `master`?
 
 You have finished __Stage 0__ of the course!
