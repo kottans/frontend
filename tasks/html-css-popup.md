@@ -68,6 +68,8 @@ All interactive elements should have `:focus` state.
 
 ![popup-hover-state](../img/popup-focus.png)
 
+You'll must able to switch across all interactive elements using only keyboard(without a mouse, don't forget about styles for `:focus` state)
+
 Feel free using [our icons](https://github.com/kottans/frontend/raw/master/img/popup-icons.zip).
 
 You may want to publish your results on
