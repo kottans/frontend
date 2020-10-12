@@ -7,12 +7,9 @@
 
 1. [Intro to HTML & CSS (Eng)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
-1. [HTML Academy: first two sections, "Basics of HTML" & "Basics of CSS" — free exercises only, you don't have to do paid ones (Rus) [~10 hours]](https://htmlacademy.ru/)
+1. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
 
-   ![image](https://i.imgur.com/RxF8BXb.png)
-   (these are mostly one-liners and they are very exciting — make you curious and eager to learn more and more :))
-
-Finish the courses (1) and (2) above.
+2. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
 
 When complete do the following:
 1. Make screenshots of your progress in (1) and (2)
@@ -38,9 +35,7 @@ When you finish this task you can proceed to the next one.
 - [freecodecamp.org](https://www.freecodecamp.org)
 - [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
 - [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html)
-- [htmlacademy](https://htmlacademy.ru/)
 - [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
-- [w3schools exercise](https://www.w3schools.com/html/exercise.asp)
 - [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
 ## Done?
