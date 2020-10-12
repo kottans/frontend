@@ -42,7 +42,7 @@ if approved by the community.
 ### Supplementaries (workshops)
 
 1. [Advanced git](git-advanced.md)
-1. JS OOP (see [issue #101](https://github.com/kottans/frontend/issues/101)
+1. JS OOP (see [issue #101](https://github.com/kottans/frontend/issues/101))
 
 ## To Be Assigned
 
