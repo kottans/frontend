@@ -96,6 +96,7 @@ A question like
 > I am trying to fetch data from server and
 > publish it on a web page, but nothing happens.
 > What am I doing wrong?
+
 requires too many clarifications and therefore
 can be ignored by community.
 
@@ -152,8 +153,9 @@ What if the project is way too big for codepen
 and you cannot extract a part of it to build proper
 visualization?
 
-Just open a pull request for the code review!
-That's what pull requests can be efficiently used for.
+Just open a [draft pull request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
+for the code review!
+That's what draft pull requests can be efficiently used for.
 
 You can open a PR in your own repository.
 Put your code fragment in a dedicated branch, push,

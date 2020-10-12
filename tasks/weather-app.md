@@ -8,8 +8,7 @@
 When you're done with your challenge push your code to github repo and publish
 it using `gh-pages`. _Add link to it to your main frontend tasks repo._
 
-If you honestly finished all the previous steps than go ahead and share it with
-others - send a message in [course channel](chat) with the link to you repo and the words "Weather APP - finished" and add link to repo with code of the
+Great job! Go ahead and share your progress with others - send a message in [course channel](chat) with the link to you repo and the words "Weather APP - finished" and add link to repo with code of the
 website.
 
 ## Weather app
@@ -57,8 +56,6 @@ story with mobile devices.
   [async/awaits](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99)
   and [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
   for handling network requests;
-* with help of ES6 modules build website based on frontend components (aware,
-  that FF do not support ES6 modules right now).
 * make good responsive/fluid/elastic/whatever design and other modern stuff;
 
 #### Choose path of grandmaster of storms, tornadoes for all over the time, space and in all possible far-far away, and:
@@ -81,9 +78,25 @@ story with mobile devices.
 * The exact list of forecast periods may depend on API which you choose for this
   task. Providing forecast not for week, but for five days, 10 days, etc.
   totally acceptable;
-* In case you try to build modular frontend application, you can skip support
-  of FF, because last one does not support ES6 modules;
 * Map with temperatures is not required for this task;
+
+#### Video
+
+You can see workshop's screencast below.
+
+|||    
+--- | --- 
+[![WebApp - Design Patterns - Oleksiy Rudenko][first-ws-img]][first-ws] | [WebApp - Design Patterns - Oleksiy Rudenko][first-ws]
+[![Weather App (p.1) - Oleksiy Rudenko][second-ws-img]][second-ws] | [Weather App (p.1) - Oleksiy Rudenko][second-ws]
+[![Weather App (p.1 continued) - Oleksiy Rudenko][third-ws-img]][third-ws]|[Weather App (p.1 continued) - Oleksiy Rudenko][third-ws]
+[![Weather App (p.1 Retro) - Oleksiy Rudenko][fourth-ws-img]][fourth-ws]|[Weather App (p.1 Retro) - Oleksiy Rudenko][fourth-ws]
+[![Weather App (p.2) State Management - Oleksiy Rudenko][fifth-ws-img]][fifth-ws]|[Weather App (p.2) State Management - Oleksiy Rudenko][fifth-ws]
+[![Improving Component Rendering (p.1) - Oleksiy Rudenko][sixth-ws-img]][sixth-ws]|[Improving Component Rendering (p.1) - Oleksiy Rudenko][sixth-ws]
+[![Improving Component Rendering (p.2) - Oleksiy Rudenko][seventh-ws-img]][seventh-ws]|[Improving Component Rendering (p.2) - Oleksiy Rudenko][seventh-ws]
+[![Routing Intro - Christina Landvytovych][eighth-ws-img]][eighth-ws]|[Routing Intro - Christina Landvytovych][eighth-ws]
+[![Routing Workshop - Mykhailo Hanol][ninth-ws-img]][ninth-ws]|[Routing Workshop - Mykhailo Hanol (1/3)][ninth-ws]
+[![Routing Workshop - Mykhailo Hanol][tenth-ws-img]][tenth-ws]|[Routing Workshop - Mykhailo Hanol (2/3)][tenth-ws]
+[![Routing Workshop - Mykhailo Hanol][eleventh-ws-img]][eleventh-ws]|[Routing Workshop - Mykhailo Hanol (3/3)][eleventh-ws]
 
 ## Done?
 
@@ -103,3 +116,26 @@ You have finished __Stage 0__ of the course!
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
+
+[first-ws]: https://youtu.be/NQ6xHcQuQe4
+[first-ws-img]: http://img.youtube.com/vi/NQ6xHcQuQe4/default.jpg
+[second-ws]: https://youtu.be/FcPx2AC77DQ
+[second-ws-img]: http://img.youtube.com/vi/FcPx2AC77DQ/default.jpg
+[third-ws]: https://youtu.be/CSpnXeaBomE
+[third-ws-img]: http://img.youtube.com/vi/CSpnXeaBomE/default.jpg
+[fourth-ws]: https://youtu.be/o1L0DvcqmDU
+[fourth-ws-img]: http://img.youtube.com/vi/o1L0DvcqmDU/default.jpg
+[fifth-ws]: https://youtu.be/TC0ROTuYAlo
+[fifth-ws-img]: http://img.youtube.com/vi/TC0ROTuYAlo/default.jpg
+[sixth-ws]: https://youtu.be/EDzPXul5teA
+[sixth-ws-img]: http://img.youtube.com/vi/EDzPXul5teA/default.jpg
+[seventh-ws]: https://youtu.be/z9spriQGo5M
+[seventh-ws-img]: http://img.youtube.com/vi/z9spriQGo5M/default.jpg
+[eighth-ws]: https://youtu.be/UKjbmvl4WQU
+[eighth-ws-img]: http://img.youtube.com/vi/UKjbmvl4WQU/default.jpg
+[ninth-ws]: https://youtu.be/AVYPMZIdAIw
+[ninth-ws-img]: http://img.youtube.com/vi/AVYPMZIdAIw/default.jpg
+[tenth-ws]: https://youtu.be/JUTb6SY48-Y
+[tenth-ws-img]: http://img.youtube.com/vi/JUTb6SY48-Y/default.jpg
+[eleventh-ws]: https://youtu.be/VvbL9HEZpjY
+[eleventh-ws-img]: http://img.youtube.com/vi/VvbL9HEZpjY/default.jpg

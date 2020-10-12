@@ -7,9 +7,7 @@
 
 Learn some command line, server and http tools.
 
-1. [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-
-  **Note:** Completion of free content (Interactive Lessons) is the required minimum, but Quizzes and Freeform Projects should also be available via 7-day trial of Codecademy. Do them if you can, it's great practice.
+1. [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
 
    **A note for Windows users:** This course provides a virtual environment to
    type commands in. However, if you want to later use these commands in practice,
@@ -41,8 +39,7 @@ When complete do the following:
    * embed the screenshot or add a link to the screenshot
    * list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. If you honestly finished all the previous steps then go ahead
-   and share it with others –
+1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
    `Linux CLI and HTTP — #done` (or `Linux CLI and HTTP — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills.

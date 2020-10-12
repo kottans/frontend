@@ -41,8 +41,7 @@ When complete do the following:
    * embed the screenshots or add links to the screenshots
    * list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. You did a lot already! If you honestly finished all the previous steps then go ahead
-   and share it with others –
+1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
    `JS Basics — #done` (or `JS Basics — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills.
@@ -59,7 +58,9 @@ When you finish this task you can proceed to the next one.
 - [Algorithms Course by Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) /
-  [Вы не знаете JS: Начните и Совершенствуйтесь](https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going)
+- [Вы не знаете JS: Начните и Совершенствуйтесь](https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going)
+- [JavaScript Equality Table Game](https://eqeq.js.org/)
+- [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
 
 ## Done?
 

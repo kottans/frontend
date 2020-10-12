@@ -33,10 +33,10 @@ When you finish this task you can proceed to the next one.
 ## Extra materials
 
 - [15 тривиальных фактов о правильной работе с протоколом HTTP](https://habrahabr.ru/company/yandex/blog/265569/)
-- [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
+- [How the Internet works](https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org/internet-works-intro/v/what-is-the-internet)
 - [HTTP/2 101 (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=r5oT_2ndjms)
 - [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
-- [Serviceworkies mastery games(by the author of Flexbox Zombies)](https://serviceworkies.mastery.games/)
+- [Serviceworkies mastery games(by the author of Flexbox Zombies)](https://serviceworkies.com/)
 
 ## Done?
 

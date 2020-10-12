@@ -20,8 +20,7 @@ When complete do the following:
    * embed the screenshots or add links to the screenshots
    * list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. You did a lot already! If you honestly finished all the previous steps then go ahead
-   and share it with others –
+1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
    `Intro to HTML and CSS — #done` (or `Intro to HTML and CSS — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills.
@@ -36,6 +35,7 @@ When you finish this task you can proceed to the next one.
 - [freecodecamp.org](https://www.freecodecamp.org)
 - [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
 - [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html)
+- [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
 - [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
 ## Done?

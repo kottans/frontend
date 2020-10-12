@@ -8,12 +8,6 @@
 1. [Object Oriented JS](https://classroom.udacity.com/courses/ud015)
 1. [codewars](https://www.codewars.com/) - register, join Kottans clan and reach 7 kyu.
 
-If you honestly finished all the previous steps then go ahead and share it with others
-- post a message to [course channel][chat] with the link to your
-repo and the words "Object Oriented JS - finished".
-
-When you finish this task you can start the next one.
-
 When complete do the following:
 1. Make screenshot of your progress in (1)
    and put the screenshot in `task_js_oop` folder in
@@ -25,13 +19,12 @@ When complete do the following:
      showing your progress
    * list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. You did a lot already! If you honestly finished all the previous steps then go ahead
-   and share it with others –
+1. You will require code review for a coding subtask from (1)
+   - For **Frontend 2021** course students: please, follow [these instructions](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - For **p2p course** students: please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
    `Object Oriented JS — #done`(or `Object Oriented JS — #p2p_done` if you are p2p course student)  and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. You will require code review for a coding subtask from (1)
-   - If you are a **p2p course** student, please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
-   - If you are a student of the **offline** Kottans course, please, follow [these instructions](https://github.com/kottans/frontend-2019-homeworks/blob/master/README.md)
 1. Study Extra Materials below to improve your skills.
    If you feel it affects your overall course performance consider
    reverting to those later e.g. when you have all mandatory tasks completed.

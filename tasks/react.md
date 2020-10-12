@@ -3,11 +3,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Task 15
+# React Friends App
 
-### React
+Implement application similar to your friends app, but using React.
 
-Rewrite your weather application using react. Thats all.
+You can use any API you want - [Marvel API](https://developer.marvel.com/), [Star Wars API](https://swapi.co) + [Star Wars Imagery](https://starwars-visualguide.com/), [The Rick And Morty API](https://rickandmortyapi.com/), etc.
 
 ### Resources
 
@@ -20,20 +20,27 @@ Rewrite your weather application using react. Thats all.
 * [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
 * [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
 
-#### Fiber
+When you're done with your challenge push your code to GitHub repo and publish
+it using [GitHub Pages](https://pages.github.com).
 
-* [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs)
-* [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
-* [Top Resources to Explore React Fiber](https://hackernoon.com/top-resources-to-explore-react-fiber-9a2b19114520)
+When complete do the following:
+1. You will require code review for this task:
+   - For **Frontend 2021** course students: please, follow [these instructions](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - For **p2p course** students: please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+1. Great job! Go ahead and share your progress with others –
+   post a message in the [course channel][chat]:
+   `React Friends App — #done` (or `React Friends App — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 
-#### Async render and suspense
+#### Video
 
-* [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
-* [Dan Abramov: Beyond React 16 | JSConf Iceland 2018](https://www.youtube.com/watch?v=nLF0n9SACd4)
-* [Dan Abramov - Suspense! - ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4)
-* [[WIP] Suspense #12279](https://github.com/facebook/react/pull/12279)
-* [Async React with Andrew Clark](https://changelog.com/reactpodcast/6)
+You can watch related screencasts from Kottans course live workshops below.
 
+|||    
+--- | --- 
+[![ReactJS - Intro (p.1) - Anastasiya Mashoshyna][first-ws-img]][first-ws] | [ReactJS - Intro (p.1) - Anastasiya Mashoshyna][first-ws]
+[![ReactJS - Intro (p.2) - Ivan Tytarenko][second-ws-img]][second-ws] | [ReactJS - Intro (p.2) - Ivan Tytarenko][second-ws]
+[![ReactJS - Intro (p.3) - Ivan Tytarenko][third-ws-img]][third-ws]|[ReactJS - Intro (p.3) - Ivan Tytarenko][third-ws]
+[![ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws-img]][fourth-ws]|[ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws]   
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
@@ -42,3 +49,12 @@ Rewrite your weather application using react. Thats all.
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
+
+[first-ws]: https://youtu.be/DjsWUFVbwgM
+[first-ws-img]: http://img.youtube.com/vi/DjsWUFVbwgM/default.jpg
+[second-ws]: https://youtu.be/yp5Ndd_7NPM
+[second-ws-img]: http://img.youtube.com/vi/yp5Ndd_7NPM/default.jpg
+[third-ws]: https://youtu.be/3i04Um6UGGI
+[third-ws-img]: http://img.youtube.com/vi/3i04Um6UGGI/default.jpg
+[fourth-ws]: https://youtu.be/bvh3n0MJyMY
+[fourth-ws-img]: http://img.youtube.com/vi/bvh3n0MJyMY/default.jpg

@@ -9,8 +9,7 @@
 
 1. [Flexbox Froggy](http://flexboxfroggy.com/)
 
-If you honestly finished all the previous steps then go ahead and share it with
-others — post a message to [course channel][chat] with the link to your repo
+Great job! Go ahead and share your progress with others — post a message to [course channel][chat] with the link to your repo
 and the words _Responsive Web Design Fundamentals – finished_.
 
 When you finish this task you can start the next one.
@@ -26,8 +25,7 @@ When complete do the following:
    * embed the screenshots or add links to the screenshots
    * list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. You did a lot already! If you honestly finished all the previous steps then go ahead
-   and share it with others –
+1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
    `Responsive Web Design — #done` (or `Responsive Web Design — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills.
