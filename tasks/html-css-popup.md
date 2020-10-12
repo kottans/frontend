@@ -13,10 +13,19 @@
   
 The goal of this task is to practice coding HTML & CSS from mockup. You are expected to deepen your knowledge of HTML & CSS and discover new previously unknown features.
 
-Requirements:
+## Requirements
 - no JavaScript, only HTML/CSS, use of preprocessors is allowed
 - no external libraries or frameworks
 - browser support: Chrome only (feel free to use latest features)
+- the popup is expected to have three states depending on user actions:
+  - initial state: popup menu is not visible
+  - upon click on ![popup-button](../img/popup-button.png) button 
+    the popup menu gets visible or gets hidden if already open 
+  - click on "More" button adds 3 to 10 more icons and 
+    makes the content of the popup scrollable
+- mobile view is irrelevant for this task
+
+## Warning
 
 :warning: ![Google-Warning](https://place-hold.it/380x24/fff/f03c15?text=Important!+Google+may+ban+your+github+pages+domain!&bold)
 
@@ -32,11 +41,14 @@ To avoid this
   - any HTML elements ids (including created with JS) or elsewhere across HTML
 - DO NOT replicate Google design (layout structure, styles etc)
 - DO NOT use Google icons
-   
-The popup is expected to have three states depending on click on the Google App button (third element from left in the top row). After first click the popup appears. After second click it is hidden. When popup is visible, click on "More" button adds 10 more icons and forces the content of the popup to scroll.
-Mobile view is irrelevant for this task.
 
-Initial state: non pop-up visible:
+## Examples
+
+You do not need to make your design 100% identical to the examples below.
+Implementation of the mechanics is more important.
+Use examples for your reference.
+
+Initial state: no pop-up visible:
 
 ![popup-hidden](../img/popup-hidden.png)
 
@@ -44,7 +56,7 @@ Active state:
 
 ![popup-visible](../img/popup-visible.png)
 
-Scrollable state:
+Expanded set of icons, scrollable state:
 
 ![popup-scrollable](../img/popup-scrollable.png)
 
@@ -55,6 +67,8 @@ All interactive elements should be marked as such on mouse hover.
 All interactive elements should have `:focus` state.
 
 ![popup-hover-state](../img/popup-focus.png)
+
+You'll must able to switch across all interactive elements using only keyboard(without a mouse, don't forget about styles for `:focus` state)
 
 Feel free using [our icons](https://github.com/kottans/frontend/raw/master/img/popup-icons.zip).
 
@@ -68,8 +82,6 @@ You may want to publish your results on
 1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
    `HTML-CSS-Popup — #done` (or `HTML-CSS-Popup — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-
-When you finish this task you can proceed to the next one.
 
 ## Done?
 
