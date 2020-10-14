@@ -15,7 +15,7 @@ Get familiar with Git and GitHub.
 
     ![youtube-CC-guide](../img/youtube-captions.png)
 
- 2. Finish [try.github.io](https://try.github.io/levels/1/challenges/1)
+ 2. Finish "Learn Git Branching" tutorial at [try.github.io](https://try.github.io/levels/1/challenges/1). Other tutorials in this page are recommended, but not obligatory.
 
  3. Create repository named `kottans-frontend`.
 
