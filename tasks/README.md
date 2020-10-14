@@ -12,9 +12,9 @@
 1. [Git for Team Collaboration](git-collaboration.md)
 1. [Front-End Basics](html-css-intro.md)
 1. [Responsive Layouts](html-css-responsive.md)
-1. [HTML & CSS Practice](html-css-popup.md)
+1. [HTML & CSS Practice](html-css-popup.md) - practice
 1. [JavaScript Basics](js-basics.md)
-1. [Document Object Model](js-dom.md)
+1. [Document Object Model](js-dom.md) - practice
 1. [Building a Tiny JS World (pre-OOP)](js-pre-oop.md) - practice
 1. [Object-Oriented JavaScript](js-oop.md) - practice
 1. [OOP exercise](js-post-oop.md) - practice
@@ -42,7 +42,7 @@ if approved by the community.
 ### Supplementaries (workshops)
 
 1. [Advanced git](git-advanced.md)
-1. JS OOP (see [issue #101](https://github.com/kottans/frontend/issues/101)
+1. JS OOP (see [issue #101](https://github.com/kottans/frontend/issues/101))
 
 ## To Be Assigned
 
