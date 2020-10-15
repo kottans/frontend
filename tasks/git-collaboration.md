@@ -5,10 +5,18 @@
 
 # Git for Team Collaboration
 
+Complete the following:
 
  1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
-
-Finish the course above.
+ 
+ 2. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/):
+    - Main: Ramping Up, Moving Work Around
+    - Remote: To Origin and Beyond
+    
+A **Mixed Bag** and **Advanced Topics** from the Main section
+of **Learn Git Branching** are optional. If you skip those now
+make sure to bookmark the resource and revert to it later
+to improve your git skills.
 
 When complete do the following:
 1. Make screenshots of your finished lessons
