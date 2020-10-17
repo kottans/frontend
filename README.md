@@ -68,7 +68,7 @@ We would like to know the progress of students along the way. We kindly ask you 
 For your comfort we have created several telegram-chats:
 
 1. [FE Students | Kottans](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA) - chat for students, where you can discuss anything related to the current course
-1. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need the help of one of the mentors, or maybe from all of them, you can ask there
+1. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need help of one of the mentors, or maybe from all of them, you can ask there
 1. [Kottans Radio](https://t.me/radio_kottans) - our channel with useful links and awesome articles ;)
 
 ### Questions?
