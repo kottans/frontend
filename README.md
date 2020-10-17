@@ -11,11 +11,11 @@ You can use these materials for self-education as well.
 
 ### Dates & Deadlines
 
-For 2020-2021 course: preparatory stage starts 12.10.2020 and ends in December. Main course starts in December (exact dates to be announced)
+For the 2020-2021 course, the preparatory stage starts 12.10.2020 and ends in December. The main course starts in December (exact dates to be announced)
 
 ### Admission
 
-To join main course track, the applicants are required to finish tasks listed in [Stage 0. Self-Study](contents.md#stage-0-self-study) part of the course and to pass successfully the interview with mentors. We highly encourage you to be active in your study process and help other students: answer questions in chants, review pull-requests, report possible errors and suggest solutions. Don’t hesitate to ask questions and let mentors know if you are stuck and need help. Your progress is in your hands.
+To join the main course track, the applicants are required to finish tasks listed in [Stage 0. Self-Study](contents.md#stage-0-self-study) part of the course and to pass successfully the interview with mentors. We highly encourage you to be active in your study process and help other students: answer questions in chants, review pull-requests, report possible errors and suggest solutions. Don’t hesitate to ask questions and let mentors know if you are stuck and need help. Your progress is in your hands.
 
 ### What you will learn
 
@@ -36,7 +36,7 @@ To join main course track, the applicants are required to finish tasks listed in
    If you do not feel confident enough in your technical English,
    take a look at [📚 Словари по фронтенду][frontend-dicts]
 
-1. __Account on GitHub__ you will need a repository on GitHub to save your progress.
+1. __An account on GitHub__ you will need a repository on GitHub to save your progress.
    More about repositories in _Task 0_.
 
 1. __Markdown basics__: text formatting and readability matter. It's up to you to choose a particular style, but remember to make it readable. Using [markdown][markdown] in your repo is a good idea.
@@ -45,7 +45,7 @@ To join main course track, the applicants are required to finish tasks listed in
 
 The course includes links to different learning materials - video courses, tutorials, articles etc. We suggest the following approach to those materials:
 
-1. __Reading:__ for each article you are required to read please post
+1. __Reading:__ for each article, you are required to read please post
    the answers to the following questions in your respective repo.
    Don't worry, your answers will not be graded. It's just a way to reflect
    on what you have learned.
@@ -61,14 +61,14 @@ The course includes links to different learning materials - video courses, tutor
 
 ### Progress Reports
 
-We would like to know the progress of students along the way. We kindly ask you to post about you progress (finished tasks) in students chat.
+We would like to know the progress of students along the way. We kindly ask you to post about your progress (finished tasks) in students chat.
 
  ### Chats
 
 For your comfort we have created several telegram-chats:
 
 1. [FE Students | Kottans](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA) - chat for students, where you can discuss anything related to the current course
-1. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need a help of one of the mentors, or maybe from all of them, you can ask there
+1. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need help of one of the mentors, or maybe from all of them, you can ask there
 1. [Kottans Radio](https://t.me/radio_kottans) - our channel with useful links and awesome articles ;)
 
 ### Questions?
@@ -78,7 +78,7 @@ Please see our [FAQ](https://github.com/kottans/frontend/blob/master/faq.md). If
 
 ### Ready?
 
-➡️ __Lets begin!__ Go forward to [Git and GitHub Intro](tasks/git-intro.md)
+➡️ __Let's begin!__ Go forward to [Git and GitHub Intro](tasks/git-intro.md)
 
 ➡️ Read course plan in [Contents](contents.md)
 
@@ -92,12 +92,12 @@ of learning and collaborating. You’ll become part of a small family
 and should prepare yourself to find new friends and to invest a lot in this
 friendship (as you should in any friendship).
 
-Final task of this course will be to split into groups and create new courses
+The final task of this course will be to split into groups and create new courses
 like that (and we’ll never stop).
 
 #### Our Basic Rules
 
-* Respect each other.
+* Respect for each other.
 * [There is no such thing as a stupid question][wiki-stupid-question].
 * Each person learns with their own speed, has different background and
   personality, please respect this.
