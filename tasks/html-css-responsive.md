@@ -41,7 +41,7 @@ When you finish this task you can proceed to the next one.
 - [Specificity calculator](https://specificity.keegan.st/)
 - [Grid Garden](http://cssgridgarden.com/)
 - [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
-- [Flexbox Zombies](https://mastery.games/p/flexbox-zombies) (game)
+- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (game)
 
 ## Done?
 
