@@ -33,7 +33,7 @@ Get familiar with Git and GitHub.
     * Clone your fork to your local machine: `git clone https://github.com/YOUR_USERNAME/mock-repo.git`
     * Add this repository [Kottans/mock-repo][mock-repo] as an upstream: git remote add upstream `https://github.com/kottans/mock-repo.git`
     * `git checkout master` and then create new branch, naming is up to you (aka feature branch): `git checkout -b BRANCH_NAME`.
-    * In your local repo made some changes. It could be anything, really. If you have found a typo in README - great!
+    * Make some changes to your local repository. It could be anything, really. If you have found a typo in README - great!
     Take care to give your PR a meaningful name and description.
     * Сommit your changes to newly created feature branch
     * Сheckout master branch: `git checkout master`
