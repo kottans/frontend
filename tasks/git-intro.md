@@ -26,21 +26,22 @@ Get familiar with Git and GitHub.
  1. Describe your impressions about learned materials.
 
  1. Send a pull-request to [Kottans/mock-repo][mock-repo] proposing a change.
-
+ 
     **How to make a pull-request**
+ 
     * Fork this repo [Kottans/mock-repo][mock-repo]
     * Clone your fork to your local machine: `git clone https://github.com/YOUR_USERNAME/mock-repo.git`
     * Add this repository [Kottans/mock-repo][mock-repo] as an upstream: git remote add upstream `https://github.com/kottans/mock-repo.git`
     * `git checkout master` and then create new branch, naming is up to you (aka feature branch): `git checkout -b BRANCH_NAME`.
     * In your local repo made some changes. It could be anything, really. If you have found a typo in README - great!
     Take care to give your PR a meaningful name and description.
-    * commit your changes to newly created feature branch
-    * checkout master branch: `git checkout master`
-    * pull latest changes from upstream master branch: `git pull upstream master`
-    * merge master branch into your feature branch: `git checkout BRANCH_NAME && git merge master`
-    * resolve any merge conflicts if there are any
-    * push feature branch to your remote repository: `git push --set-upstream origin BRANC`
-    * make pull-request from your repository to this repository via GitHub web-interface
+    * Сommit your changes to newly created feature branch
+    * Сheckout master branch: `git checkout master`
+    * Pull latest changes from upstream master branch: `git pull upstream master`
+    * Merge master branch into your feature branch: `git checkout BRANCH_NAME && git merge master`
+    * Resolve any merge conflicts if there are any
+    * Push feature branch to your remote repository: `git push --set-upstream origin BRANC`
+    * Make pull-request from your repository to this repository via GitHub web-interface
 
     **Please note, that your PR may not be reviewed quickly.**
 
