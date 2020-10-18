@@ -40,7 +40,7 @@ Get familiar with Git and GitHub.
     * Pull latest changes from upstream master branch: `git pull upstream master`
     * Merge master branch into your feature branch: `git checkout BRANCH_NAME && git merge master`
     * Resolve any merge conflicts if there are any
-    * Push feature branch to your remote repository: `git push --set-upstream origin BRANC`
+    * Push feature branch to your remote repository: `git push --set-upstream origin BRANCH_NAME`
     * Make pull-request from your repository to this repository via GitHub web-interface
 
     **Please note, that your PR may not be reviewed quickly.**
