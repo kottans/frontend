@@ -20,18 +20,18 @@ Get familiar with Git and GitHub.
     - Remote: Push & Pull -- Git Remotes
 
  3. Create repository named `kottans-frontend`.
-
- 4. Create `README.md` for the repository.
-
- 5. Describe your impressions about learned materials.
-
- 6. Send a pull-request to [Kottans/mock-repo][mock-repo] proposing a change.
-    It could be anything, really. If you have found a typo in README - great!
-    Take care to give your PR a meaningful name and description.
-
-    **Please note, that your PR may not be reviewed quickly.**
-
- 7. Study Extra Materials below to improve your skills.
+    
+ 4. Make a screenshot of your finished lessons from (1), (2) and put the screenshot in `git_basics` folder in your kottans-frontend repo
+ 
+ 5. Create `README.md` for the repository.
+ 
+ 8. In your `kottans-frontend` repo README.md:
+    - add header ## Git basics
+    - embed the screenshot or add a link to the screenshot
+    - list your reflections on all subtasks (what was new to you, what surprised you, what you intend to use in future)
+    - Great job! Go ahead and share your progress with others – post a message in course channel: `Git Basics — #done` (or `Git Basics — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+  
+ 9. Study Extra Materials below to improve your skills.
     If you feel it affects your overall course performance consider
     reverting to those later e.g. when you have all mandatory tasks completed.
 
