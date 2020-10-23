@@ -42,6 +42,7 @@ Get familiar with Git and GitHub.
     * Resolve any merge conflicts if there are any
     * Push feature branch to your remote repository: `git push --set-upstream origin BRANCH_NAME`
     * Make pull-request from your repository to this repository via GitHub web-interface
+    * If you are asked to fix a merge conflict refer to the extra materials for the related information
 
     **Please note, that your PR may not be reviewed quickly.**
 
@@ -57,7 +58,9 @@ When you finish this task you can start the next one.
 
 * [Git tips](http://sixrevisions.com/web-development/git-tips/) — consolidate your knowledge of Git
 
-* [Learn git branching](http://learngitbranching.js.org) — improve your understanding of branching
+* [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
+
+* [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
 
 * [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 
