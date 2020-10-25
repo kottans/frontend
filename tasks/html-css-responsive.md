@@ -9,11 +9,6 @@
 
 1. [Flexbox Froggy](http://flexboxfroggy.com/)
 
-Great job! Go ahead and share your progress with others — post a message to [course channel][chat] with the link to your repo
-and the words _Responsive Web Design Fundamentals – finished_.
-
-When you finish this task you can start the next one.
-
 Finish the subtasks (1) and (2) above.
 
 When complete do the following:
