@@ -34,19 +34,15 @@ Fields description:
    normally says `7`; if `6` or lesser then give a reason in **Comment**
  * **O** means **Optionals** and is a number of optional tasks
    completed;
-   `0` is OK; `2` qualifies you for a special badge
-   provided all mandatory tasks are completed
- * **B** means **Badges** and is a number of badges earned during
-   the course Stage 0; `0` is OK; anything above that is a plus
- * **Comment** is for optional comments and reasons to skip any mandatory
+   `0` is OK; `2` is good for a student as optional tasks offer more knowledge
+ * **Student's Comment** is for optional comments and reasons to skip any mandatory
    tasks
- * **Performance** is intended for mentors team use, e.g.
-   to specify performance badges granted
+ * **Mentors' comment** is intended for mentors team use
 
 Use the first table row as a template.
 
 ## Finishers
 
-|  |    Date    | Course repo    | R | P | O | B | Comment | Performance |
-|--| ---------- | -------------- | - | - | - | - | ------- | ----------- |
-|1 | 2020-10-27 | [Shramkoweb](https://github.com/Shramkoweb/kottans-frontend) | 6 | 7 | 0 | 0 | --- | |
+|  |    Date    | Course repo    | R | P | O | Student's Comment | Mentors' Comment |
+|--| ---------- | -------------- | - | - | - | ------- | ----------- |
+|1 | 2020-10-27 | [Shramkoweb](https://github.com/Shramkoweb/kottans-frontend) | 6 | 7 | 0 | --- | |
