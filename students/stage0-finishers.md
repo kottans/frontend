@@ -48,5 +48,5 @@ Use the first table row as a template.
 ## Stage 0 Finalists
 
 |  |    Date    | Telegram profile | Course repo    | R | P | O | Student's Comment | Mentors' Comment |
-|--| ---------- | -------------- | - | - | - | ------- | ----------- |
+|--| ---------- | ---------------- | -------------- | - | - | - | ----------------- | ---------------- |
 |1 | 2020-10-27 | [@shramkoweb](https://t.me/shramkoweb) | [Shramkoweb](https://github.com/Shramkoweb/kottans-frontend) | 6 | 7 | 0 | --- | |
