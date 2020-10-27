@@ -51,3 +51,4 @@ Use the first table row as a template.
 |  |    Date    | Telegram profile | Course repo    | R | P | O | Student's Comment | Mentors' Comment |
 |--| ---------- | ---------------- | -------------- | - | - | - | ----------------- | ---------------- |
 |1 | 2020-10-27 | [@shramkoweb](https://t.me/shramkoweb) | [Shramkoweb](https://github.com/Shramkoweb/kottans-frontend) | 6 | 7 | 0 | --- | |
+|2 | 2019-11-04 | [@madmaxWMFU](https://t.me/madmaxWMFU) | [madmaxWMFU](https://github.com/madmaxWMFU/kottans-frontend) | 6 | 7 | 2 | --- | |
