@@ -28,7 +28,8 @@ Fields description:
  * **Telegram profile** is a link to your telegram profile.
    Required to instruct finalists on further steps.
    You can create one when in Telegram app settings/user profile.
-   Link in the table below should follow the template `[@username](https://t.me/username)`
+   Link in the table below should follow the template `[@username](https://t.me/username)`.
+   Check if your `t.me` link works before submitting your entry. 
  * **Course repo** is your nick name with a link to your
    course repo (`kottans-frontend`)
  * **R** means **Regulars** and is a number of regular tasks completed;
