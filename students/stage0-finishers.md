@@ -1,4 +1,4 @@
-# Frontend Course Stage 0 (self-study) finishers
+# Frontend Course Stage 0 (self-study) Finalists
 
 Course Stage 0 (self-study) comprises
 [15 tasks (0 to 14)](https://github.com/kottans/frontend/blob/master/contents.md),
@@ -25,6 +25,11 @@ Fields description:
    the latest commit to the task-related PR is dated October 12, 2020,
    and the PR was approved on October 15, 2020,
    then the **Date** is `2020-10-12`)
+ * **Telegram profile** is a link to your telegram profile.
+   Required to instruct finalists on further steps.
+   You can create one when in Telegram app settings/user profile.
+   Link in the table below should follow the template `[@username](https://t.me/username)`.
+   Check if your `t.me` link works before submitting your entry. 
  * **Course repo** is your nick name with a link to your
    course repo (`kottans-frontend`)
  * **R** means **Regulars** and is a number of regular tasks completed;
@@ -41,8 +46,8 @@ Fields description:
 
 Use the first table row as a template.
 
-## Finishers
+## Stage 0 Finalists
 
-|  |    Date    | Course repo    | R | P | O | Student's Comment | Mentors' Comment |
-|--| ---------- | -------------- | - | - | - | ------- | ----------- |
-|1 | 2020-10-27 | [Shramkoweb](https://github.com/Shramkoweb/kottans-frontend) | 6 | 7 | 0 | --- | |
+|  |    Date    | Telegram profile | Course repo    | R | P | O | Student's Comment | Mentors' Comment |
+|--| ---------- | ---------------- | -------------- | - | - | - | ----------------- | ---------------- |
+|1 | 2020-10-27 | [@shramkoweb](https://t.me/shramkoweb) | [Shramkoweb](https://github.com/Shramkoweb/kottans-frontend) | 6 | 7 | 0 | --- | |
