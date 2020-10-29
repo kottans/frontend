@@ -32,7 +32,7 @@
 1. [Memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 1. [Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 
-### Styles optimization
+#### Styles optimization
 1. [Handling Unused CSS In Sass To Improve Performance](https://www.smashingmagazine.com/2019/08/handling-unused-css-sass-performance/)
 
 If you decide to complete the task then
