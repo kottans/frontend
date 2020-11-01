@@ -26,17 +26,8 @@ The goal of this task is to practice coding HTML & CSS from mockup. You are expe
 - mobile view is irrelevant for this task
 
 ## Recommendations
-- Make sure that your navigation is built by this structure: 
-``` HTML
-  <nav>
-    <ul>
-      <li>
-        <a href='#'>Link</a>
-      </li>
-    <ul>
-  </nav>
-```
-- Make sure that you've used visually-hidden for hiding inputs:
+- Make sure that your navigation is built with all semantic [rules](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav). 
+- We recommend using these styles for hiding inputs:
 ``` CSS
 .visually-hidden {
   appearance: none;
@@ -51,8 +42,9 @@ The goal of this task is to practice coding HTML & CSS from mockup. You are expe
   padding: 0;
   border: 0;
 }
-```
-More info [here](https://htmlacademy.ru/blog/boost/frontend/short-12)
+``` 
+
+More information about his technique you can find [here](https://htmlacademy.ru/blog/boost/frontend/short-12).
 - Try to style your elements by classes (not by ID).
 - Don't forget to set the `alt` attribute for the `img` tags (if you used them).
 - No need to add a lot of files (inc. icons, gitignore, configs, etc) to your PR. HTML and CSS files would be enough for checking your work.
