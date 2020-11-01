@@ -25,6 +25,40 @@ The goal of this task is to practice coding HTML & CSS from mockup. You are expe
     makes the content of the popup scrollable
 - mobile view is irrelevant for this task
 
+## Recommendations
+- Make sure that your navigation is built by this structure: 
+``` HTML
+  <nav>
+    <ul>
+      <li>
+        <a href='#'>Link</a>
+      </li>
+    <ul>
+  </nav>
+```
+- Make sure that you've used visually-hidden for hiding inputs:
+``` CSS
+.visually-hidden {
+	position: absolute !important;
+	clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+	clip: rect(1px, 1px, 1px, 1px);
+	padding:0 !important;
+	border:0 !important;
+	height: 1px !important; 
+	width: 1px !important; 
+	overflow: hidden;
+}
+```
+More info [here](https://htmlacademy.ru/blog/boost/frontend/short-12)
+- Try to style your elements by classes (not by ID).
+- Don't forget to set the `alt` attribute for the `img` tags (if you used them).
+- No need to add a lot of files (inc. icons, gitignore, configs, etc) to your PR. HTML and CSS files would be enough for checking your work.
+- Avoid external scripts for the font icons.
+- Check your preview in the [validator](https://validator.w3.org/).
+- Make sure you've added empty lines in each file from your PR.
+- Check your code again and remove all redundant comments from your code.
+
+
 ## Warning
 
 :warning: ![Google-Warning](https://place-hold.it/380x24/fff/f03c15?text=Important!+Google+may+ban+your+github+pages+domain!&bold)
