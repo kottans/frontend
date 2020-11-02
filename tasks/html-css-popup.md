@@ -27,31 +27,17 @@ The goal of this task is to practice coding HTML & CSS from mockup. You are expe
 
 ## Recommendations
 - Make sure that your navigation is built with all semantic [rules](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav). 
-- We recommend using these styles for hiding inputs:
-``` CSS
-.visually-hidden {
-  appearance: none;
-  -moz-appearance: none;
-  -webkit-appearance: none;
-  position: absolute;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
-  height: 1px;
-  width: 1px;
-  margin: -1px;
-  padding: 0;
-  border: 0;
-}
-``` 
-
-More information about his technique you can find [here](https://htmlacademy.ru/blog/boost/frontend/short-12).
+- We recommend watching a [video](https://www.youtube.com/watch?v=E6kLaaQFctU&ab_channel=VadimMakeev) about hiding checkbox good parts.
 - Try to style your elements by classes (not by ID).
 - Don't forget to set the `alt` attribute for the `img` tags (if you used them).
 - No need to add a lot of files (inc. icons, gitignore, configs, etc) to your PR. HTML and CSS files would be enough for checking your work.
 - Avoid external scripts for the font icons.
 - Check your preview in the [validator](https://validator.w3.org/).
-- Make sure you've added empty lines in each file from your PR.
-- Check your code again and remove all redundant comments from your code.
+- Make sure you've added empty lines in each file from your PR - [reason](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline).
+If you forget to add an empty line at the end of the file GitHub will show it:
+
+![Missed line](https://user-images.githubusercontent.com/16196199/97906688-c123c900-1d4c-11eb-8424-75e9150b0705.png)
+- Check your work again and remove all redundant comments from your code.
 
 
 ## Warning
