@@ -31,13 +31,14 @@ Learn some command line, server and http tools.
 Finish the course (1) and also read articles (2) and (3) above.
 
 When complete do the following:
+
 1. Make a screenshot of your finished lessons from (1)
    and put the screenshot in `task_linux_cli` folder in
    your `kottans-frontend` repo
 1. In your `kottans-frontend` repo `README.md`:
-   * add header `## Linux CLI, and HTTP`
-   * embed the screenshot or add a link to the screenshot
-   * list your reflections on all subtasks
+   - add header `## Linux CLI, and HTTP`
+   - embed the screenshot or add a link to the screenshot
+   - list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
 1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
@@ -56,6 +57,7 @@ When you finish this task you can proceed to the next one.
 - [HTTP: Протокол, который должен знать каждый веб-разработчик (Часть 1) (РУС)](https://code.tutsplus.com/ru/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
 - [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
+- [What is HTTP?](https://www.youtube.com/watch?v=SzSXHv8RKdM) - simple video for complete beginners which will help understanding articles (2) and (3) (suggested to watch it before reading them).
 
 ## Optional
 
@@ -71,11 +73,9 @@ When you finish this task you can proceed to the next one.
 
 ⤴️ Back to [Contents](../contents.md)
 
-
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
