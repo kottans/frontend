@@ -12,13 +12,14 @@
 Finish the subtasks (1) and (2) above.
 
 When complete do the following:
+
 1. Make screenshots of your progress in (1) and (2)
    and put the screenshots in `task_responsive_web_design` folder in
    your `kottans-frontend` repo
 1. In your `kottans-frontend` repo `README.md`:
-   * add header `## Responsive Web Design`
-   * embed the screenshots or add links to the screenshots
-   * list your reflections on all subtasks
+   - add header `## Responsive Web Design`
+   - embed the screenshots or add links to the screenshots
+   - list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
 1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
@@ -37,6 +38,7 @@ When you finish this task you can proceed to the next one.
 - [Grid Garden](http://cssgridgarden.com/)
 - [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (game)
+- [A simple explanation of High DPI screens](https://broken-links.com/2013/10/02/simple-explanation-high-dpi-screens/)
 
 ## Done?
 
@@ -44,11 +46,9 @@ When you finish this task you can proceed to the next one.
 
 ⤴️ Back to [Contents](../contents.md)
 
-
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
