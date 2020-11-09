@@ -5,7 +5,7 @@
 
 # JavaScript Basics
 
-1. [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
+1. [Intro to JS](https://classroom.udacity.com/courses/ud803)
 
 1. FreeCodeCamp exercises. Complete the modules below and save screenshots for each module.
    Use hints available on freecodecamp at each exercise as the first resort when you feel stuck.
