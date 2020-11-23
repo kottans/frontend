@@ -25,27 +25,29 @@ Learn some command line, server and http tools.
 
 3. [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
+4. If the articles 2 and 3 above are difficult for understanding try reading another article - [What actually happens when a user types google.com into the browser](https://htmlacademy.ru/blog/education/all/brauzer-google) 
+
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
 
-Finish the course (1) and also read articles (2) and (3) above.
+Finish the course (1) and also read articles (2), (3) or (4) above.
 
 When complete do the following:
 1. Make a screenshot of your finished lessons from (1)
    and put the screenshot in `task_linux_cli` folder in
    your `kottans-frontend` repo
-1. In your `kottans-frontend` repo `README.md`:
+2. In your `kottans-frontend` repo `README.md`:
    * add header `## Linux CLI, and HTTP`
    * embed the screenshot or add a link to the screenshot
    * list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. Great job! Go ahead and share your progress with others –
+3. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
    `Linux CLI and HTTP — #done` (or `Linux CLI and HTTP — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. Study Extra Materials below to improve your skills.
+4. Study Extra Materials below to improve your skills.
    If you feel it affects your overall course performance consider
    reverting to those later e.g. when you have all mandatory tasks completed.
-1. You may skip Optional materials from this task (if any).
+5. You may skip Optional materials from this task (if any).
 
 When you finish this task you can proceed to the next one.
 
