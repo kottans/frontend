@@ -52,6 +52,7 @@ When you finish this task you can proceed to the next one.
 ## Extra Materials
 
 - [Основы командной строки Hexlet (РУС)](https://ru.hexlet.io/courses/cli-basics)
+- [Путешествие в мир Linux и Git](https://habr.com/ru/company/ruvds/blog/520334/)
 - [HTTP: Протокол, який повинен розуміти кожний веб-розробник (Частина 1) (УКР)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - [HTTP: Протокол, который должен знать каждый веб-разработчик (Часть 1) (РУС)](https://code.tutsplus.com/ru/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
