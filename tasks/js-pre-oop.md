@@ -5,12 +5,27 @@
 
 # Building a Tiny JS World
 
+## Assignment
+
 1. Build a tiny JS world model following the instructions
    [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
 
 At this stage you are required to complete only **First approach** part.
 You will revert to your Tiny JS World to improve it later.
 So, for now restrict yourself to the means you feel confident with.
+
+### Additional requirements
+
+- An object's properties that are parts of the object presentation string must be explicitly listed/specified
+- `Object` methods like `keys`, `values`, `entries` shouldn't be used to build an object's presentation string
+  as these do not guarantee any particular order of keys/values
+- Your code is [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), which means that whenever you see
+  a pattern in your code it should be eliminated as much as possible. Examples:
+  - `print(dog); print(cat); etc ... ` should be refactored employing `Array.forEach` as the least
+  - `` `${obj.prop1}; ${obj.prop2}; ${obj.prop3};` `` (yes, strings/template literals are a form of code)
+    must be refactored employing appropriate `Array` methods (you will find `map` and `join` to be the most handy)
+
+### Code review and assignment finalization
 
 When complete do the following:
 1. You will require code review for this task:
