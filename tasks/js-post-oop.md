@@ -26,6 +26,7 @@ tiny JS world? Time to use your new power.
 - [ ] Classes for species that do not have hands by natural design, do not consequently have hands or any equivalent property
       and do not inherit such properties from any of the base/parent classes
 - [ ] Class properties that are parts of an object's presentation string are listed/specified explicitly
+      (i.e. `Object` methods `values`, `keys`, `entires` or constructions like `for (key in obj)` aren't used)
 - [ ] Object's presentation string builder is a class method, not an independent function
 - [ ] Class constructor is defined with named parameters
 - [ ] A class doesn't assign or change property owned by any other class (defined in any other class)
