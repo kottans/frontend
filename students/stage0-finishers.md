@@ -56,4 +56,5 @@ Use the first table row as a template.
 |4 | 2020-11-29 | [@HannaRybka](https://t.me/HannaRybka) | [HannaSyn](https://github.com/HannaSyn/kottans-frontend) | 6 | 7 | 2 | --- | |
 |5 | 2020-12-03 | [@andrewklmn](https://t.me/andrewklmn) | [andrewklmn](https://github.com/andrewklmn/kottans-frontend) | 6 | 7 | 2 | --- | |
 |6 | 2020-12-08 | [@ustymchyk](https://t.me/ustymchyk)   | [ustymchyk](https://github.com/ustymchyk/kottans-frontend) | 6 | 7 | 0 | --- | |
+|7 | 2020-12-22 | [@Nataliya_Kholodkova](https://t.me/Nataliya_Kholodkova)   | [UA-girl](https://github.com/UA-girl/kottans-frontend) | 6 | 7 | 2 | --- | |
 
