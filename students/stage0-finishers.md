@@ -59,4 +59,4 @@ Use the first table row as a template.
 |7 | 2020-12-22 | [@Nataliya_Kholodkova](https://t.me/Nataliya_Kholodkova)   | [UA-girl](https://github.com/UA-girl/kottans-frontend) | 6 | 7 | 2 | --- | |
 |8 | 2020-12-22 | [@ses3332002](https://t.me/ses3332002) | [ses3332002](https://github.com/ses3332002/kottans-frontend) | 6 | 7 | 1 | --- | |
 |9 | 2020-12-22 | [@stepanenko7](https://t.me/stepanenko7) | [alstep07](https://github.com/alstep07/kottans-frontend) | 6 | 7 | 1 | --- | |
-
+|10 | 2020-12-27 | [@Ann505St](https://t.me/Ann505St) | [AnnaStoyano](https://github.com/AnnaStoyano/kottans-frontend) | 6 | 7 | 0 | --- | |
