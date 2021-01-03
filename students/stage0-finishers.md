@@ -63,3 +63,4 @@ Use the first table row as a template.
 |11 | 2020-12-23 | [@dumynskyi](https://t.me/dumynskyi) | [Nemooochka](https://github.com/Nemooochka/kottans-frontend) | 6 | 7 | 1 | --- | |
 |12 | 2020-12-29 | [@antonantonov18](https://t.me/antonantonov18) | [Ant-C-tech](https://github.com/Ant-C-tech/kottans-frontend) | 6 | 7 | 2 | --- | |
 |13 | 2020-12-31 | [@nadsatt](https://t.me/nadsatt) | [Nadsatt](https://github.com/nadsatt/kottans-frontend) | 6 | 7 | 0 | --- | |
+|14 | 2020-12-31 | [@krylenger42](https://t.me/krylenger42) | [krylenger](https://github.com/krylenger/kottans-frontend) | 6 | 7 | 1 | --- | |
