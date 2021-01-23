@@ -2,5 +2,5 @@
 
 
 | Date       | Time  | Topic                                     | Lecturer                                                   | Summary | Slides | Video                                                                                        | Home task                                                                        |
-| ---------- | ----- | ----------------------------------------- | ------------------------------------------------------- | ------- | ------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 23.01.2021 | 11:00 | HTML/CSS | [Oleksandr Ostrovnyy](https://github.com/A-Ostrovnyy) |  | [Slides](https://slides.com/alexander-5/deck-261d41) | [Video]()| [Movie seat booking](https://github.com/kottans/frontend/blob/master/tasks/html-movie-seat-booking.md) |
 |  | |                                     |                |         |        |                                                                                              |                                                                                  |
