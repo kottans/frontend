@@ -19,7 +19,7 @@ Make an app close to the mockup: https://dribbble.com/shots/3628370-Movie-Seat-B
 
 ##### Acceptance criteria
 
-- Use only HTML & CSS, no JavaScript.
+- Use only HTML & CSS, no JavaScript. *CSS and HTML preprocessors allowed (SASS, LESS, Stylys, Pug, HAML, etc.)*
 - Use semantic HTML elements like `<article>`, `<section>`, `<nav>` etc. - this task's purpose is to showcase all the available options and make you familiar with them.
 - Interractive elements should be clickable and respond to user action.
 - If you use form, data should be validated using HTML/CSS capabilities only. 
