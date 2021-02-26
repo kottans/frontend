@@ -69,5 +69,6 @@ Use the first table row as a template.
 |17 | 2021-01-24 | [@an6rey_ko](https://t.me/an6rey_ko) | [webdevtoday](https://github.com/webdevtoday/kottans-frontend) | 6 | 7 | 0 | --- | |
 |18 | 2021-02-17 | [@granit_ua](https://t.me/granit_ua) | [Harnytskyi](https://github.com/Harnytskyi/kottans-frontend) | 6 | 7 | 0 | --- | |
 |19 | 2021-01-15 | [@viktoriiabu](https://t.me/viktoriiabu) | [BlueLamantine](https://github.com/BlueLamantine/kottans-frontend) | 6 | 7 | 0 | --- | |
+|20 | 2021-02-17 | [@AnastasiaShrai](https://t.me/AnastasiaShrai) | [Shrai-dev](https://github.com/Shrai-dev/kottans-frontend) | 6 | 7 | 0 | --- | |
 
 
