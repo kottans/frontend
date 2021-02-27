@@ -72,6 +72,3 @@ Use the first table row as a template.
 |20 | 2021-02-17 | [@AnastasiaShrai](https://t.me/AnastasiaShrai) | [Shrai-dev](https://github.com/Shrai-dev/kottans-frontend) | 6 | 7 | 0 | --- | |
 |21 | 2021-02-03 | [@auser_name](https://t.me/auser_name) | [kt-std](https://github.com/kt-std/kottans-frontend) | 6 | 7 | 1 | --- | |
 
-
-
-
