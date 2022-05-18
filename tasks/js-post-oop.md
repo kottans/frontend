@@ -8,6 +8,8 @@
 Now you know a lot about JavaScript OOP. Remember that
 tiny JS world? Time to use your new power.
 
+## Assignment
+
 1. Improve your tiny JS world model you forked from
    [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
    This time use your favourite JS OOP methods to keep
@@ -15,6 +17,24 @@ tiny JS world? Time to use your new power.
 
    You don't need forking this time, work with the repo you've
    already got. Git keeps history for you.
+   
+   You will find [these materials](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own) helpful.
+
+### Most common issues to address
+
+- [ ] If peer classes (siblings) have same properties those must be generalized to their base (parent) class
+- [ ] Classes for species that do not have hands by natural design, do not consequently have hands or any equivalent property
+      and do not inherit such properties from any of the base/parent classes
+- [ ] Class properties that are parts of an object's presentation string are listed/specified explicitly
+      (i.e. `Object` methods `values`, `keys`, `entires` or constructions like `for (key in obj)` aren't used)
+- [ ] Object's presentation string builder is a class method, not an independent function
+- [ ] Class constructor is defined with named parameters
+- [ ] A class doesn't assign or change property owned by any other class (defined in any other class)
+- [ ] A child class shouldn't directly use an inherited property to build an object's presentation string
+- [ ] The code is [OOP](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/), SOLID ([eng](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa), [rus](https://medium.com/webbdev/solid-4ffc018077da)) and [DRY](https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161) compliant
+- [ ] Got stuck or anything is not really clear? Ask a question
+
+### Code review and assignment finalization
 
 When complete do the following:
 1. You will require code review for this task:

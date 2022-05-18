@@ -71,4 +71,6 @@ Use the first table row as a template.
 |19 | 2021-01-15 | [@viktoriiabu](https://t.me/viktoriiabu) | [BlueLamantine](https://github.com/BlueLamantine/kottans-frontend) | 6 | 7 | 0 | --- | |
 |20 | 2021-02-17 | [@AnastasiaShrai](https://t.me/AnastasiaShrai) | [Shrai-dev](https://github.com/Shrai-dev/kottans-frontend) | 6 | 7 | 0 | --- | |
 |21 | 2021-02-03 | [@auser_name](https://t.me/auser_name) | [kt-std](https://github.com/kt-std/kottans-frontend) | 6 | 7 | 1 | --- | |
-
+|22 | 2021-02-26 | [@orybka94](https://t.me/orybka94) | [ORybka](https://github.com/ORybka/kottans-frontend) | 6 | 7 | 0 | --- | |
+|23 | 2021-02-27 | [@kasionio](https://t.me/kasionio) | [kasionio](https://github.com/kasionio/kottans-frontend) | 6 | 7 | 0 | --- | |
+|24 | 2021-01-18 | [@fedot](https://t.me/fedot) | [f3d0t](https://github.com/f3d0t/kottans-frontend) | 6 | 7 | 0 | --- | |
