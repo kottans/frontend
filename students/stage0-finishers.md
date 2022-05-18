@@ -52,3 +52,23 @@ Use the first table row as a template.
 |--| ---------- | ---------------- | -------------- | - | - | - | ----------------- | ---------------- |
 |1 | 2020-10-27 | [@shramkoweb](https://t.me/shramkoweb) | [Shramkoweb](https://github.com/Shramkoweb/kottans-frontend) | 6 | 7 | 0 | --- | |
 |2 | 2019-11-04 | [@madmaxWMFU](https://t.me/madmaxWMFU) | [madmaxWMFU](https://github.com/madmaxWMFU/kottans-frontend) | 6 | 7 | 2 | --- | |
+|3 | 2020-11-24 | [@Usides](https://t.me/Usides) | [usides](https://github.com/usides/kottans-frontend) | 6 | 7 | 0 | --- | |
+|4 | 2020-11-29 | [@HannaRybka](https://t.me/HannaRybka) | [HannaSyn](https://github.com/HannaSyn/kottans-frontend) | 6 | 7 | 2 | --- | |
+|5 | 2020-12-03 | [@andrewklmn](https://t.me/andrewklmn) | [andrewklmn](https://github.com/andrewklmn/kottans-frontend) | 6 | 7 | 2 | --- | |
+|6 | 2020-12-08 | [@ustymchyk](https://t.me/ustymchyk)   | [ustymchyk](https://github.com/ustymchyk/kottans-frontend) | 6 | 7 | 0 | --- | |
+|7 | 2020-12-22 | [@Nataliya_Kholodkova](https://t.me/Nataliya_Kholodkova)   | [UA-girl](https://github.com/UA-girl/kottans-frontend) | 6 | 7 | 2 | --- | |
+|8 | 2020-12-22 | [@ses3332002](https://t.me/ses3332002) | [ses3332002](https://github.com/ses3332002/kottans-frontend) | 6 | 7 | 1 | --- | |
+|9 | 2020-12-22 | [@stepanenko7](https://t.me/stepanenko7) | [alstep07](https://github.com/alstep07/kottans-frontend) | 6 | 7 | 1 | --- | |
+|10 | 2020-12-27 | [@Ann505St](https://t.me/Ann505St) | [AnnaStoyano](https://github.com/AnnaStoyano/kottans-frontend) | 6 | 7 | 0 | --- | |
+|11 | 2020-12-23 | [@dumynskyi](https://t.me/dumynskyi) | [Nemooochka](https://github.com/Nemooochka/kottans-frontend) | 6 | 7 | 1 | --- | |
+|12 | 2020-12-29 | [@antonantonov18](https://t.me/antonantonov18) | [Ant-C-tech](https://github.com/Ant-C-tech/kottans-frontend) | 6 | 7 | 2 | --- | |
+|13 | 2020-12-31 | [@nadsatt](https://t.me/nadsatt) | [Nadsatt](https://github.com/nadsatt/kottans-frontend) | 6 | 7 | 0 | --- | |
+|14 | 2020-12-31 | [@krylenger42](https://t.me/krylenger42) | [krylenger](https://github.com/krylenger/kottans-frontend) | 6 | 7 | 1 | --- | |
+|15 | 2021-01-07 | [@chris_909](https://t.me/chris_909) | [chris-voitova](https://github.com/chris-voitova/kottans-frontend) | 6 | 7 | 0 | --- | |
+|16 | 2021-01-11 | [@annanikr](https://t.me/annanikr) | [lalalilulu](https://github.com/lalalilulu/kottans-frontend) | 6 | 7 | 2 | --- | |
+|17 | 2021-01-24 | [@an6rey_ko](https://t.me/an6rey_ko) | [webdevtoday](https://github.com/webdevtoday/kottans-frontend) | 6 | 7 | 0 | --- | |
+|18 | 2021-02-17 | [@granit_ua](https://t.me/granit_ua) | [Harnytskyi](https://github.com/Harnytskyi/kottans-frontend) | 6 | 7 | 0 | --- | |
+|19 | 2021-01-15 | [@viktoriiabu](https://t.me/viktoriiabu) | [BlueLamantine](https://github.com/BlueLamantine/kottans-frontend) | 6 | 7 | 0 | --- | |
+|20 | 2021-02-17 | [@AnastasiaShrai](https://t.me/AnastasiaShrai) | [Shrai-dev](https://github.com/Shrai-dev/kottans-frontend) | 6 | 7 | 0 | --- | |
+
+

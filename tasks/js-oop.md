@@ -41,8 +41,8 @@ When you finish this task you can proceed to the next one.
 
 #### YDKJS English:
 
-- [You Don't Know JS series: Scopes and Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
-- [You Don't Know JS series: _this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+- [You Don't Know JS series: Scopes and Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
+- [You Don't Know JS series: _this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes)
 
 #### YDKJS Russian:
 
