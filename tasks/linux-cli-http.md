@@ -21,6 +21,8 @@ Learn some command line, server and http tools.
 
    ![windows-git-bash](../img/windows-git-bash.png)
 
+Before reading articles below you can watch the video [What is HTTP?](https://www.youtube.com/watch?v=SzSXHv8RKdM).
+
 2. [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
 3. [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
@@ -31,13 +33,14 @@ Learn some command line, server and http tools.
 Finish the course (1) and also read articles (2) and (3) above.
 
 When complete do the following:
+
 1. Make a screenshot of your finished lessons from (1)
    and put the screenshot in `task_linux_cli` folder in
    your `kottans-frontend` repo
 1. In your `kottans-frontend` repo `README.md`:
-   * add header `## Linux CLI, and HTTP`
-   * embed the screenshot or add a link to the screenshot
-   * list your reflections on all subtasks
+   - add header `## Linux CLI, and HTTP`
+   - embed the screenshot or add a link to the screenshot
+   - list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
 1. Great job! Go ahead and share your progress with others –
    post a message in [course channel][chat]:
@@ -71,11 +74,9 @@ When you finish this task you can proceed to the next one.
 
 ⤴️ Back to [Contents](../contents.md)
 
-
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
