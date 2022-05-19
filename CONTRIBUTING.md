@@ -1,20 +1,21 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-  
-# Contributing
 
-We want to encourage all students and mentors to get involved
-with the development of this course. The materials here are
-mostly developed and curated by the mentors team but we admit
-that we may miss things, or occasionally get them wrong.
-We've put together some guidelines that should help you
-get started with making contributions.
+# Ваші внески
 
-Thanks for helping improve this course for everyone!
+Ми б хотіли заохочувати усіх студентів та менторів долучатися до розробки цього
+курсу. Матеріали тут здебільшого розробляються та керуються командою менторів,
+але ми визнаємо що ми можемо робити помилки, або пропускати деякі речі. Ми
+створили деякі правила, які повинні допомогти вам почати робити свій внесок.
 
-## Questions, concerns, or issues
+Дякуємо усім за допомогу в покращенні курсу для усіх!
 
-If you've got a question or problem that you think others may
-have, then please read this first.
+
+## Питання, занепокоєння та проблеми
+
+Якщо у вас є 
+
+<!-- If you've got a question or problem that you think others may
+have, then please read this first. -->
 
 The GitHub issue tracker is our preferred channel for dealing
 with these questions. It keeps questions public and allows
@@ -85,7 +86,7 @@ Please ensure your PR initially has 1 or 2 commits,
 3 as a maximum. Otherwise please squash your commits
 into fewer well separated commits.
 It's important that commits are atomic to keep the history clean.
-Below you will find a short guide on squashing commits into a clean history. 
+Below you will find a short guide on squashing commits into a clean history.
 Please read through and follow [Chris Beams's - How to write a git commit message](http://chris.beams.io/posts/git-commit/).
 
 1. Run `git log --oneline master..your-branch-name | wc -l`
