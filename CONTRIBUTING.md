@@ -12,74 +12,64 @@
 
 ## Питання, занепокоєння та проблеми
 
-Якщо у вас є 
+Якщо у вас виникло запитання або проблема, і ви вважаєте що така ж ситуація
+могла б виникнути і у інших, спочайте прочитайте це.
 
-<!-- If you've got a question or problem that you think others may
-have, then please read this first. -->
+Трекер проблем Гітхабу це канал якому ми надаємо перевагу при роботі з такими
+питаннями та проблемами. Він тримає питання публічними та надає можливість іншим
+долучатись з потенційними рішеннями, такой він дбає про те щоб все було
+задокументовано на майбутнє. Ця система створена не для особистих запитань, або
+проблем що не підходять для публічної бесіди, у таких ситуаціях ми пропонуємо
+звертатись до когось з команди менторів, що відповідає за цей курс.
 
-The GitHub issue tracker is our preferred channel for dealing
-with these questions. It keeps questions public and allows
-others to pitch in with potential solutions,
-it also means everything is documented for the future.
-This should not be used for personal questions or issues
-unfit for public discussion, in those instances we encourage
-you to contact the member of mentors team responsible for
-this course.
+Перед створенням нової проблеми, вокористайте пошук GitHub (або продивіться
+[відкриті проблеми](https://issues) або
+[закриті проблеми](https://issues?q=is%3Aissue+is%3Aclosed)) щоб переконатись,
+що подібне запитання не ставив до вас ніхто. Якщо не знайшли - вперед,
+створювайте нову. Коли створюєте нову проблему, будь ласка, приділіть час на
+вибір точної та легко впізнаваної теми, після чого надайте якомога більше
+деталей в основний опис.
 
-Before submitting a new issue, use the GitHub search
-(or just browse through [open issues](https://issues) or
-[closed issues](https://issues?q=is%3Aissue+is%3Aclosed))
-to see if it has already been submitted before.
-If it hasn't, then go ahead and create a new one.
-When creating a new issue, please spend some time
-creating an identifiable and specific
-title, then provide as much detail as possible in the main
-description.
+Приклади поганих тем:
+* _Проблема з матеріалами на поточній фазі_
+* _Питання про курс_
+* _Просто думка..._
+* _Не можу виконати завдання_
 
-Examples of bad titles:
-* _Problem with materials for current phase_
-* _Question about the course_
-* _Just a thought..._
-* _Can't complete one task_
 
-Examples of good titles:
-* _Task Intro to JS: broken Extra materials link_
-* _Assignment Pizza App submission of 30th Feburary is incorrect_
-* _Object-Oriented JavaScript missing source repository_
+Приклади гарних тем:
+* _Завдання "Вступ в JS": не працює посилання на додатковий матеріал_
+* _Завдання здати вправу "Додаток Pizza" 30го лютого некоректне_
+* _"Об'єктно-орієнтований JavaScript" не має репозиторію з вихідним кодом_
 
-## Amendments, corrections, and contributions
+## Поправки та додатки
 
-Contributions are so gratefully received. If you've noticed
-an error, or would like to add additional resources then
-please use a pull request. To ensure your pull request
-is accepted as quickly as possible, please take a moment
-to check the following guidelines. Once a pull request
-has been submitted, it can be reviewed by fellow students
-and mentors. When a mentor (or normally at least two)
-thinks it looks good, it'll be accepted and merged in.
+Ми також були б вдячні вам за ваші внески до матеріалів. Помітили помилку, або
+хотіли б додати ресурс? Використовуйте pull requests. Якщо хочете щоб ваш пул
+реквест був опрацьований якомога скоріше, будь ласка продивіться наступні
+правила. Як тільки пул реквест буде створено, його можуть переглянути студентами
+та менторами. Коли ментор (або як правило хочаб два ментори) будуть вважати що
+все добре, пул реквест буде прийнятий та влитий в основну гілку.
 
-### General guidelines
+# Загальні правила
 
-* Ensure any added resources are properly cited like similar
-  material. This may be adding a link to the resource in
-  a task description, or appending a full citation to
-  an assignment.
-* If you're adding a task then, please, do the following:
-  - use either of existing tasks as a template
-  - give a suggested task file some meaningful name
-  - place the task file under `tasks/`
-  - follow the structure common for all tasks
-  - keep badges
-  - also list the task in [`tasks/README.md`](tasks/README.md).
-    If you aren't sure to what phase to add the task to, then
-    just list it somewhere under
-    **New tasks suggested for the remote phase** or
-    **To Be Assigned** sections. Please, feel free adding any
-    comments.
-* In your PR comment give a comprehensive description of
-  what and why you're suggesting to add, or refer to an issue
-  (e.g. `Resolves #121`).
-
+- Переконайтесь що додані ресурси правильно надані, так само як схожі матеріли,
+які вже є у курсі. Це може бути додавання посилання на ресурс у описі завдання,
+або додавання цитати до вправи.
+- Якщо ви додаєте вправу, то, будь ласка, виконайте наступне:
+  - використайте будь яку уже присутню вправу як шаблон
+  - дайте файлу запропонованого завдання значущу назву
+  - розташуйте файл завдання у теці `tasks/`
+  - зберігайте загальну структуру завдань
+  - залишайте бейджи
+  - додайте вашу вправу до [`tasks/README.md`](tasks/README.md)
+    - якщо ви не впевнені до якої саме фази додати вправу, то залишіть її десь
+    під **Новими запропонованими завданнями** або **До розгляду**. Ви також
+    можете додати будь які коментарі.
+  - У вашому пул реквесті надайте розгорнути опис того що саме ви хочете додати
+  та чому саме ви хочете це додати, або зробіть посилання на проблему яку ви
+  вирішуєте (наприклад, `Вирішує #121`).
+<!--
 ### Commits
 
 Please ensure your PR initially has 1 or 2 commits,
@@ -126,4 +116,4 @@ Consider completing
 ## Credits
 
 - [BlueHatbRit/EDU-CONTRIBUTING.md](https://gist.github.com/BlueHatbRit/3bd366313f7ca2c7d2537d927ec970e8)
-- [PurpleBooth/Good-CONTRIBUTING.md-template.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426)
+- [PurpleBooth/Good-CONTRIBUTING.md-template.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) -->
