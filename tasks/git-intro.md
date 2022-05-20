@@ -12,7 +12,7 @@
    Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте
    це допоможе вам краще засвоїти відеокурс.
 
-    ![youtube-CC-guide](../img/youtube-captions.png)
+   ![youtube-CC-guide](../img/youtube-captions.png)
 
  2. Пройдіть наступні рівні тут [learngitbranching.js.org](https://learngitbranching.js.org/):
     - Main: Introduction Sequence
@@ -69,7 +69,7 @@
 
 * [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/learning/)
 
-## Зроблено?
+## Готово?
 
 ➡️ Ідіть далі [Linux, Command Line, HTTP Tools](linux-cli-http.md)
 
