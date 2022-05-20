@@ -15,8 +15,8 @@
    ![youtube-CC-guide](../img/youtube-captions.png)
 
  2. Пройдіть наступні рівні тут [learngitbranching.js.org](https://learngitbranching.js.org/):
-    - Main: Introduction Sequence
-    - Remote: Push & Pull -- Git Remotes
+    - Основи: Introduction Sequence
+    - Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
 
  3. Створіть репозиторій та назвіть його `kottans-frontend`.
 
