@@ -69,51 +69,47 @@
   - У вашому пул реквесті надайте розгорнути опис того що саме ви хочете додати
   та чому саме ви хочете це додати, або зробіть посилання на проблему яку ви
   вирішуєте (наприклад, `Вирішує #121`).
-<!--
-### Commits
 
-Please ensure your PR initially has 1 or 2 commits,
-3 as a maximum. Otherwise please squash your commits
-into fewer well separated commits.
-It's important that commits are atomic to keep the history clean.
-Below you will find a short guide on squashing commits into a clean history.
-Please read through and follow [Chris Beams's - How to write a git commit message](http://chris.beams.io/posts/git-commit/).
 
-1. Run `git log --oneline master..your-branch-name | wc -l`
-   to see how many commits there are on your branch.
-1. Run `git rebase -i HEAD~#` where # is the number
-   of commits you have done on your branch.
-1. Use the interactive rebase to edit your history.
-   Unless you have good reason to keep more than one
-   commit, it is best to mark the first commit
-   with 'r' (reword) and the others with 's' (squash).
-   This lets you keep the first commit only, but change
-   the message.
+### Коміти
 
-If your commit resolves some issue then please refer the issue.
-This will get issue closed automatically upon merge.
-Commit message example:
+Будь ласка, переконайтесь що у вашому PR лише 1 чи 2, максимум 3 коміти. У 
+іншому випадку, стисніть (squash) ваші коміти у декілька добре описаних та 
+розділених коміти. Дуже важливо зберігати коміти атомарними щоб залишати 
+історію чистою. Нижче ви знайдете короткий гайд по тому як стискати коміти в
+чисто історію. Будь ласка прочитайте: [Chris Beams's - How to write a git commit message](http://chris.beams.io/posts/git-commit/).
+
+1. Виконайте `git log --oneline master..your-branch-name | wc -l`
+   щоб побачити скільки комітів у вашій гілці.
+2. Виконайте `git rebase -i HEAD~#` де `#` це номер комітів які ви зробили у
+   своїй гілці.
+3. Використайте інтерактивний rebase щоб переробити вашу історію.
+   Якщо у вас немає вагомої причини залишити більше одного коміта, краще за все
+   помітити перший коміт як `r` (reword) а усі інші як `s` (squash). Це дасть
+   вам змогу залишити тільки перший коміт, та змінити його повідомлення.
+
+Якщо ваш коміт виправляє якусь проблему (issue), будь ласка залиште посилання на
+цю проблему. Це помітить проблему як закриту автоматично під час вливання.
+Приклад повідомлення для коміта:
 
 ```
-Fixed broken link to w3schools in Intro to HTML & CSS
+Fixed broken link to w3schools in "Intro to HTML & CSS"
 
 Resolves #111
 ```
 
-Note a blank line before `Resolves...`. Everything after a
-blank line will be considered supplementary information
-not normally required to show up when anyone browses
-commits history with compact output.
+Зверніть увагу на порожній рядок перед `Resolves...`. Все що йде після
+порожнього рядка вважається додатковою інформацію та не буде виведена на екран,
+якщо хтось просто шукає коміти в історії з компактним відображенням.
 
-### Never made any Pull Requests before?
+### Ніколи не робили Pull Request?
 
-Piece of cake!
+Не проблема!
 
-Consider completing
-[Kent C. Dodds' How to Contribute to an Open Source Project on GitHub course](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-(14 lessons, each ~3 mins long)
+Ви можете пройти [Kent C. Dodds' How to Contribute to an Open Source Project on GitHub course](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
+(14 уроків, кожний ~3 хвилини)
 
 ## Credits
 
 - [BlueHatbRit/EDU-CONTRIBUTING.md](https://gist.github.com/BlueHatbRit/3bd366313f7ca2c7d2537d927ec970e8)
-- [PurpleBooth/Good-CONTRIBUTING.md-template.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) -->
+- [PurpleBooth/Good-CONTRIBUTING.md-template.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426)
