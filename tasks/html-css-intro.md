@@ -10,7 +10,9 @@
    Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
    це допоможе вам краще засвоїти відеокурс.
 
-2. [Знайомство з HTML і CSS (рос)](https://htmlacademy.ru/courses/basic-html-css)
+2. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+
+3. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
 
 Після завершення виконайте наступне:
 1. Зробіть знімок екрана своїх завершених уроків
