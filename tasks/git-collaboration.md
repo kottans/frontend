@@ -23,7 +23,7 @@
 
 Після завершення виконайте наступне:
 1. Зробіть скріншот своїх завершених уроків
-   і помістіть скріншот в папку `task_git_collaboration`
+   і помістіть його в папку `task_git_collaboration`
    вашого репо `kottans-frontend`
 1. В вашому `kottans-frontend` репо `README.md`:
    * додайте заголовок `## Git Collaboration`

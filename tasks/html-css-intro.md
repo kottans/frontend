@@ -16,7 +16,7 @@
 
 Після завершення виконайте наступне:
 1. Зробіть скріншот своїх завершених уроків
-   і помістіть скріншот в папку `task_html_css_intro`
+   і помістіть його в папку `task_html_css_intro`
    вашого репо `kottans-frontend`
 1. В вашому `kottans-frontend` репо `README.md`:
    * додайте заголовок `## Intro to HTML and CSS`

@@ -35,7 +35,7 @@
 Якщо ви вирішите виконати завдання, то
 після завершення виконайте наступне:
 1. Зробіть скріншот своїх завершених уроків
-   і помістіть скріншот в папку `task_website_performance`
+   і помістіть його в папку `task_website_performance`
    вашого репо `kottans-frontend`
 2. В вашому `kottans-frontend` репо `README.md`:
    * додайте заголовок `##  Website Performance Optimization`
