@@ -19,8 +19,8 @@
 5. [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
 
 Після завершення виконайте наступне:
-1. Зробіть знімок екрана своїх завершених уроків
-   і помістіть знімок екрана в папку `task_responsive_web_design`
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть скріншот в папку `task_responsive_web_design`
    вашого репо `kottans-frontend`
 1. В вашому `kottans-frontend` репо `README.md`:
    * додайте заголовок `## Responsive Web Design`

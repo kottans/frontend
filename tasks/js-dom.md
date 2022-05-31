@@ -38,8 +38,8 @@
 [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 Після завершення виконайте наступне:
-1. Зробіть знімок екрана своїх завершених уроків
-   і помістіть знімок екрана в папку `task_js_dom`
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть скріншот в папку `task_js_dom`
    вашого репо `kottans-frontend`
 2. В вашому `kottans-frontend` репо `README.md`:
    * додайте заголовок `## DOM`

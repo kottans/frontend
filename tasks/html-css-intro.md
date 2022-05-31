@@ -15,8 +15,8 @@
 3. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
 
 Після завершення виконайте наступне:
-1. Зробіть знімок екрана своїх завершених уроків
-   і помістіть знімок екрана в папку `task_html_css_intro`
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть скріншот в папку `task_html_css_intro`
    вашого репо `kottans-frontend`
 1. В вашому `kottans-frontend` репо `README.md`:
    * додайте заголовок `## Intro to HTML and CSS`
