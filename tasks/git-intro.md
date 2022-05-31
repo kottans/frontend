@@ -67,7 +67,7 @@
 
 * [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
 
-* [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/learning/)
+* [Как учиться и справляться с негативными мыслями[rus]](https://guides.hexlet.io/learning/)
 
 ## Готово?
 
