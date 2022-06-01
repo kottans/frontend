@@ -14,13 +14,13 @@ in your future work.
 ## Pre-requisites
 
 You already some have hands-on experience with:
- * [ ] creating, forking and cloning repos
- * [ ] committing changes
- * [ ] pulling, fetching and, hopefully, rebasing
- * [ ] basic branching
- * [ ] pushing to remotes
- * [ ] creating PR
- * [ ] collaborating with others and/or yourself :wink:
+- [ ] creating, forking and cloning repos
+- [ ] committing changes
+- [ ] pulling, fetching and, hopefully, rebasing
+- [ ] basic branching
+- [ ] pushing to remotes
+- [ ] creating PR
+- [ ] collaborating with others and/or yourself :wink:
 
 Basically, you have successfully completed this course
 [entry task](git-intro.md) and
@@ -43,12 +43,12 @@ for they are better comprehended when practising.
 
 ## Materials
 
- * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
- * At [Learn git branching](https://learngitbranching.js.org/)
+ - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+ - At [Learn git branching](https://learngitbranching.js.org/)
    refresh your skills:
    - Main: Moving Work Around, Advanced Topics
    - Remote: all exercises
- * git flows
+ - git flows
    - [A successful Git branching model @nvie](https://nvie.com/posts/a-successful-git-branching-model/)
    - [Issues with "nvie" git-flow](http://scottchacon.com/2011/08/31/github-flow.html)
    - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
@@ -58,29 +58,29 @@ for they are better comprehended when practising.
    - [Comparing Workflows @Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows)
    - [DM Development Workflow with Git, GitHub, JIRA and Jenkins](https://developer.lsst.io/processes/workflow.html)
    - [Git Workflows for Pros: A Good Git Guide](https://www.toptal.com/git/git-workflows-for-pros-a-good-git-guide)
- * git automation tools:
+ - git automation tools:
    - [hub from github](https://hub.github.com/)
    - [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh)
    - [git-town](https://github.com/Originate/git-town)
    - [lazygit](https://github.com/jesseduffield/lazygit)
    - [git aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
    - [gitalias](https://github.com/GitAlias/gitalias)
- * [Advanced Git Tricks :clapper:](https://vimeo.com/49444883)
- * [Git Patterns and Anti-Patterns](https://dzone.com/refcardz/git-patterns-and-anti-patterns?chapter=1)
- * [Oh shit, git!](http://ohshitgit.com/)
- * [How to undo (almost) anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
- * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
- * [GitHub Learning Lab](https://lab.github.com/courses):
+ - [Advanced Git Tricks :clapper:](https://vimeo.com/49444883)
+ - [Git Patterns and Anti-Patterns](https://dzone.com/refcardz/git-patterns-and-anti-patterns?chapter=1)
+ - [Oh shit, git!](http://ohshitgit.com/)
+ - [How to undo (almost) anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
+ - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+ - [GitHub Learning Lab](https://lab.github.com/courses):
    - [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
    - [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)
- * [Rebase techniques](https://gist.github.com/OleksiyRudenko/232e1ebe6ed0780fc69d7391723cc75b)
- * [Merging repos](https://gist.github.com/OleksiyRudenko/3324acdab15fff52955979522c878a3e) &
+ - [Rebase techniques](https://gist.github.com/OleksiyRudenko/232e1ebe6ed0780fc69d7391723cc75b)
+ - [Merging repos](https://gist.github.com/OleksiyRudenko/3324acdab15fff52955979522c878a3e) &
    [Repo import and export back](https://gist.github.com/OleksiyRudenko/86d378b56fe690e47a066b8eeb4ac5b2)
- * [How to publish `dist/*` only on github pages](https://gist.github.com/OleksiyRudenko/7e94aa2d18927e0c5e65b2b5a1c0e375)
- * [octotree](https://github.com/ovity/octotree) // [Chrome github navigation plug-in](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
- * [Скринкаст по git :clapper::clapper::clapper:](https://learn.javascript.ru/screencast/git)
- * [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
- * [_placeholder for workshop videocast_](#)
+ - [How to publish `dist/*` only on github pages](https://gist.github.com/OleksiyRudenko/7e94aa2d18927e0c5e65b2b5a1c0e375)
+ - [octotree](https://github.com/ovity/octotree) // [Chrome github navigation plug-in](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
+ - [Скринкаст по git :clapper::clapper::clapper:](https://learn.javascript.ru/screencast/git)
+ - [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+ - [_placeholder for workshop videocast_](#)
 
 ---
 
@@ -91,50 +91,50 @@ are rather a collection of possible theses.
 
 <details><summary>TL;DR</summary>
 
-* Commit often
+- Commit often
   - break your code base into smaller files
   - scope a commit to an individual file;
     may be 2+ files if a new module is introduced
     and immediately used/referred to elsewhere
   - think of collaboration and possible conflicts
-* Branching
+- Branching
   - branch, fail, checkout back
   - branch naming patterns; scoping using `/` delimiter
   - you may not need the branch after merger
   - specify the commit scope in a message; branches
     are just pointers
   - `git stash`
-* Undoing things
+- Undoing things
   - `git branch`
   - `git reset --mixed|soft|hard`
   - `git revert`
   - cherry pick
-* `merge` / `rebase`
+- `merge` / `rebase`
   - `merge` vs `rebase`
   - `git merge --no-ff branch`
   - cherry picking
   - what actually `rebase` is
-* Squash 'em all!
+- Squash 'em all!
   - keep issue references on squash/fixup
   - rebasing work flow
-* History rewriting
+- History rewriting
   - remote as a WIP storage
   - killing branches on remote
   - force pushing squashed
-* Conflict resolution
+- Conflict resolution
   - update from target branch before merging into it
   - `merge` vs `rebase`, hello again
   - cross check the result using diff with a back-up
     branch
-* Collaboration work flows
+- Collaboration work flows
   - nvie, github, gitlab, fork-PR
   - tools: `git-town`, git aliases
   - shortcuts from JetBrains WebStorm
-* Issue Driven Development
+- Issue Driven Development
   - add a feature/enhancement as an issue
   - refer to the issue on commit
   - issues as tasks in your IDE
-* Misc
+- Misc
   - git config/aliases collection
   - sub-tree, sub-repo
   - merging repos

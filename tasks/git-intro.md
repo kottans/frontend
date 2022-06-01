@@ -28,20 +28,20 @@
  
     **Як зробити pull-request**
  
-    * Форкніть цей репозиторій [Kottans/mock-repo][mock-repo]
-    * Клонуйте свій форк локально на свій комп'ютер: `git clone https://github.com/YOUR_USERNAME/mock-repo.git`
-    * Додайте цей репозиторій [Kottans/mock-repo][mock-repo] як upstream: git remote add upstream `https://github.com/kottans/mock-repo.git`
-    * `git checkout master` і потім створіть нову гілку, ім'я на ваш роздум (aka feature branch): `git checkout -b BRANCH_NAME`.
-    * Внесіть деякі зміни до свого локального сховища. Це може бути що завгодно, насправді. Якщо ви знайшли помилку в README - чудово!
+    - Форкніть цей репозиторій [Kottans/mock-repo][mock-repo]
+    - Клонуйте свій форк локально на свій комп'ютер: `git clone https://github.com/YOUR_USERNAME/mock-repo.git`
+    - Додайте цей репозиторій [Kottans/mock-repo][mock-repo] як upstream: git remote add upstream `https://github.com/kottans/mock-repo.git`
+    - `git checkout master` і потім створіть нову гілку, ім'я на ваш роздум (aka feature branch): `git checkout -b BRANCH_NAME`.
+    - Внесіть деякі зміни до свого локального сховища. Це може бути що завгодно, насправді. Якщо ви знайшли помилку в README - чудово!
     Подбайте про те, щоб дати своєму PR значиме ім’я та опис.
-    * Внесіть зміни до новоствореної гілки (Сommit)
-    * Перейдить до гілки master: `git checkout master`
-    * Витягніть останні зміни з гілки upstream master: `git pull upstream master`
-    * Об’єднайте головну гілку зі своєю гілкою: `git checkout BRANCH_NAME && git merge master`
-    * Вирішіть будь-які конфлікти мержу, якщо такі є (Resolve merge conflicts)
-    * Надішліть гілку до вашого віддаленого сховища: `git push --set-upstream origin BRANCH_NAME`
-    * Зробіть pull-request з вашого репозиторія до [this][mock-repo] репозиторія через GitHub web-interface
-    * Якщо вас попросять виправити merge конфлікт, зверніться до додаткових матеріалів для отримання відповідної інформації
+    - Внесіть зміни до новоствореної гілки (Сommit)
+    - Перейдить до гілки master: `git checkout master`
+    - Витягніть останні зміни з гілки upstream master: `git pull upstream master`
+    - Об’єднайте головну гілку зі своєю гілкою: `git checkout BRANCH_NAME && git merge master`
+    - Вирішіть будь-які конфлікти мержу, якщо такі є (Resolve merge conflicts)
+    - Надішліть гілку до вашого віддаленого сховища: `git push --set-upstream origin BRANCH_NAME`
+    - Зробіть pull-request з вашого репозиторія до [this][mock-repo] репозиторія через GitHub web-interface
+    - Якщо вас попросять виправити merge конфлікт, зверніться до додаткових матеріалів для отримання відповідної інформації
 
     **Зауважте, що ваш PR можуть не розглянути швидко.**
 
@@ -53,21 +53,21 @@
 
 ## Додаткові матеріали
 
-* [Git за 30 хвилин](https://codeguida.com/post/453)
+- [Git за 30 хвилин](https://codeguida.com/post/453)
 
-* [Git tips](http://sixrevisions.com/web-development/git-tips/) — закріпити свої знання про Git
+- [Git tips](http://sixrevisions.com/web-development/git-tips/) — закріпити свої знання про Git
 
-* [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
+- [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
 
-* [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
+- [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
 
-* [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+- [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 
-* [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
+- [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 
-* [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
+- [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
 
-* [Как учиться и справляться с негативными мыслями[rus]](https://guides.hexlet.io/learning/)
+- [Как учиться и справляться с негативными мыслями[rus]](https://guides.hexlet.io/learning/)
 
 ## Готово?
 

@@ -69,12 +69,12 @@ Prepare your question. Think it through. Hasty-sounding questions get hasty answ
 [_^ back to TOC^_](#table-of-contents)
 
 ## When You Ask
-* **Write in clear, grammatical, correctly-spelled language**
-* **Use [Stack Overflow](https://stackoverflow.com/)** 
+- **Write in clear, grammatical, correctly-spelled language**
+- **Use [Stack Overflow](https://stackoverflow.com/)** 
 
     _There are many similar questions, so try [SEARCH](https://stackoverflow.com/search?q=) first and then Ask._
 
-* **Be precise and informative about your problem**
+- **Be precise and informative about your problem**
 
      Describe the symptoms of your problem or bug carefully and clearly.
      
@@ -84,9 +84,9 @@ Prepare your question. Think it through. Hasty-sounding questions get hasty answ
      
      Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
 
-* **Describe the problem's symptoms, not your guesses**
+- **Describe the problem's symptoms, not your guesses**
 
-* **Be explicit about your question**
+- **Be explicit about your question**
 
 [_^ back to TOC^_](#table-of-contents)
 
@@ -173,9 +173,9 @@ and make sure they want to be invited.
 ### Front-End Specific Tools To Use
 
 **IF YOU USE ONE OF THESE TOOLS TO DISPLAY YOUR CODE YOU WILL GET MORE QUICK ANSWER.**
-* **[CodePen](https://codepen.io/)**
-* **[repl.it](https://repl.it/)**
-* **[jsconsole](https://jsconsole.com/?q=console.log(%27AA%27))**
+- **[CodePen](https://codepen.io/)**
+- **[repl.it](https://repl.it/)**
+- **[jsconsole](https://jsconsole.com/?q=console.log(%27AA%27))**
 
 [_^ back to TOC^_](#table-of-contents)
 
