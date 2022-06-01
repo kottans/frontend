@@ -56,7 +56,6 @@
 1. Functionality
 1. How browser works/Web workers
 
-
 #### Frontend Framework
 
 #### TypeScript

@@ -42,6 +42,7 @@ You can watch related screencasts from Kottans course live workshops below.
 [![ReactJS - Intro (p.3) - Ivan Tytarenko][third-ws-img]][third-ws]|[ReactJS - Intro (p.3) - Ivan Tytarenko][third-ws]
 [![ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws-img]][fourth-ws]|[ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws]   
 
+
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg

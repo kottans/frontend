@@ -47,7 +47,6 @@
 1. Прочитайте одну-дві статті про ООП за посиланнями в
    [цьому репо](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
 
-
 ## Додаткові матеріали
 
 [Fun Fun Function - Composition over Inhertance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
@@ -57,6 +56,7 @@
 ➡️ Ідіть далі [Offline Web Applications](app-design-offline.md)
 
 ⤴️ Повернутися до [Contents](../contents.md)
+
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg

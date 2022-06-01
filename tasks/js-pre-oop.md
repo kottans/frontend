@@ -9,7 +9,6 @@
 
 1. Створіть a tiny JS world model, дотримуючись інструкцій
    [тут](https://github.com/OleksiyRudenko/a-tiny-JS-world).
-
    Не забувайте, що за необхідністю, ви завжди можете перекласти англомовні матеріали за допомогою онлайн-перекладачів. 
 
 На цьому етапі вам потрібно виконати лише частину **First approach**.
@@ -47,6 +46,7 @@
 ➡️ Ідіть далі [Object-Oriented JavaScript](js-oop.md)
 
 ⤴️ Повернутися до [Contents](../contents.md)
+
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
