@@ -21,9 +21,9 @@
 
    ![windows-git-bash](../img/windows-git-bash.png)
 
-2. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+1. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
-3. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+1. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
@@ -59,9 +59,9 @@
 
 1. [Command Line Power User](https://commandlinepoweruser.com/)
 
-2. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+1. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
-3. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+1. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
 ## Готово?
 

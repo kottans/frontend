@@ -10,13 +10,13 @@
 Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
 це допоможе вам краще засвоїти відеокурс.
 
-2. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+1. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 
-3. [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
+1. [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
 
-4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+1. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 
-5. [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
+1. [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
 
 Після завершення виконайте наступне:
 1. Зробіть скріншот своїх завершених уроків
