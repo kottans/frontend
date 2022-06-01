@@ -37,7 +37,7 @@ if approved by the community.
 1. [HTML5: Forms](html5-forms.md)
 1. [Weather App](weather-app.md)
 1. [React Friends App](react.md) - practice
-2. [React TMDB App](react-redux.md) - practice
+1. [React TMDB App](react-redux.md) - practice
 
 ### Supplementaries (workshops)
 

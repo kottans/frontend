@@ -13,12 +13,12 @@ You can use any API you want - [Marvel API](https://developer.marvel.com/), [Sta
 
 #### Must have
 
-* [Create React App](https://github.com/facebook/create-react-app)
-* [React docs](https://reactjs.org/docs/hello-world.html)
-* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-* [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
-* [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
-* [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
+- [Create React App](https://github.com/facebook/create-react-app)
+- [React docs](https://reactjs.org/docs/hello-world.html)
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+- [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
+- [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
+- [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
 
 When you're done with your challenge push your code to GitHub repo and publish
 it using [GitHub Pages](https://pages.github.com).
@@ -41,6 +41,7 @@ You can watch related screencasts from Kottans course live workshops below.
 [![ReactJS - Intro (p.2) - Ivan Tytarenko][second-ws-img]][second-ws] | [ReactJS - Intro (p.2) - Ivan Tytarenko][second-ws]
 [![ReactJS - Intro (p.3) - Ivan Tytarenko][third-ws-img]][third-ws]|[ReactJS - Intro (p.3) - Ivan Tytarenko][third-ws]
 [![ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws-img]][fourth-ws]|[ReactJS - Intro (p.4) - Yevhen Orlov][fourth-ws]   
+
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg

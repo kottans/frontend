@@ -5,9 +5,9 @@
 
 # Website Performance Optimization (optional)
 
-> Note: this task is optional because most likely, you will not use knowledge obtained from it during our course. But, you will need this information when you will work as a developer. At least a general understanding of the concept. That's why finishing this task is up to you.
+> Примітка: це завдання є необов’язковим, оскільки, швидше за все, ви не будете використовувати знання, отримані з нього під час нашого курсу. Але ця інформація вам знадобиться, коли ви будете працювати розробником. Принаймні загальне розуміння понять. Тому робити це завдання чи ні - is up to you.
 
-#### Read this:
+#### Прочитайте це:
 
 1. [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 1. [Website Performance Optimization](https://www.udacity.com/course/ud884)
@@ -20,44 +20,40 @@
 
 ### Optional inside optional
 
-#### Важные аспекты работы браузера для разработчиков
+#### Важливі аспекти роботи браузера для розробників
 
 1. [Важные аспекты работы браузера для разработчиков. Часть 1](https://habrahabr.ru/company/dataart/blog/304138/)
 1. [Важные аспекты работы браузера для разработчиков. Часть 2](https://habrahabr.ru/company/dataart/blog/304934/)
 
-#### How JavaScript works [Translated version](https://habrahabr.ru/company/ruvds/blog/340508/)
+#### Як працює JavaScript [Translated version](https://habrahabr.ru/company/ruvds/blog/340508/)
 
 1. [An overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 1. [Inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 1. [Memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 1. [Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 
-If you decide to complete the task then
-do the following after you're done:
-1. Make screenshots of your progress in the Udacity courses
-   you have completed
-   and put the screenshots in `task_website_performance` folder in
-   your `kottans-frontend` repo
-1. In your `kottans-frontend` repo `README.md`:
-   * add header `## Website Performance Optimization`
-   * embed the screenshots or add links to the screenshots
-   * list your reflections on the course
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. You did an extra effort! Go ahead
-   share your progress with others –
-   post a message in the [course channel][chat]:
-   `Website Performance Optimization — #done` (or `Website Performance Optimization — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. Study Extra Materials below to improve your skills.
-   If you feel it affects your overall course performance consider
-   reverting to those later e.g. when you have all mandatory tasks completed.
+Якщо ви вирішите виконати завдання, то
+після завершення виконайте наступне:
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть його в папку `task_website_performance`
+   вашого репо `kottans-frontend`
+1. В вашому `kottans-frontend` репо `README.md`:
+   - додайте заголовок `##  Website Performance Optimization`
+   - додати скріншот або додати посилання на скріншот
+   - перерахуйте свої міркування щодо кожного пункту завдання
+     (_що для вас було новим_, _що вас здивувало_, _що ви плануєте використовувати в майбутньому_)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   ` Website Performance Optimization — #done` (або ` Website Performance Optimization — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
+1. Для цього завдання вам знадобиться review коду:
+   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
 
-When you finish this task you can proceed to the next one.
+## Готово?
 
-## Done?
+➡️ Ідіть далі [Friends App](friends-app.md) — real project!
 
-➡️ Go forward to [Friends App](friends-app.md) — real project!
-
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg

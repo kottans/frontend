@@ -7,8 +7,8 @@
 
 ## Stage 0. Self-Study
 
-Preparatory stage of _Front-End Course_. Following tasks should be completed
-to join main course. Learn more in [README](README.md).
+Підготовчий етап _Front-End Course_. Слід виконати наступні завдання щоб
+приєднатися до головної частини курсу. Дізнайтеся більше в [README](README.md).
 
 ### General
  0. [Git Basics](tasks/git-intro.md)
@@ -33,7 +33,7 @@ to join main course. Learn more in [README](README.md).
 
 ## Stage 1. The Show Must Go On
 
-Main part of the _Front-End Course_.
+Головна частина _Front-End Course_.
 
 ### Lectures & Workshops
 
@@ -55,7 +55,6 @@ Main part of the _Front-End Course_.
 1. ESNext Api / Generators
 1. Functionality
 1. How browser works/Web workers
-
 
 #### Frontend Framework
 

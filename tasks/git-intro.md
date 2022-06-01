@@ -3,78 +3,77 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Git and GitHub
+# Git та GitHub
 
-Get familiar with Git and GitHub.
+Ознайомтеся з Git і GitHub.
 
- 1. Finish the course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+ 1. Прослухайте курс [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
-    You may resort to subtitles/closed captions and
-    to auto-translated subtitles in particular if you feel
-    it would help you to master the video course better.
+   Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
+   це допоможе вам краще засвоїти відеокурс.
 
-    ![youtube-CC-guide](../img/youtube-captions.png)
+   ![youtube-CC-guide](../img/youtube-captions.png)
 
- 1. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/):
-    - Main: Introduction Sequence
-    - Remote: Push & Pull -- Git Remotes
+ 1. Пройдіть наступні рівні тут [learngitbranching.js.org](https://learngitbranching.js.org/):
+    - Основи: Introduction Sequence
+    - Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
 
- 1. Create repository named `kottans-frontend`.
+ 1. Створіть репозиторій та назвіть його `kottans-frontend`.
 
- 1. Create `README.md` for the repository.
+ 1. Створіть `README.md` для репозіторію.
 
- 1. Describe your impressions about learned materials.
+ 1. Опишіть свої враження від вивченого матеріалу.
 
- 1. Send a pull-request to [Kottans/mock-repo][mock-repo] proposing a change.
+ 1. Надішліть pull-request сюди [Kottans/mock-repo][mock-repo] пропонуючи зміни.
  
-    **How to make a pull-request**
+    **Як зробити pull-request**
  
-    * Fork this repo [Kottans/mock-repo][mock-repo]
-    * Clone your fork to your local machine: `git clone https://github.com/YOUR_USERNAME/mock-repo.git`
-    * Add this repository [Kottans/mock-repo][mock-repo] as an upstream: git remote add upstream `https://github.com/kottans/mock-repo.git`
-    * `git checkout master` and then create new branch, naming is up to you (aka feature branch): `git checkout -b BRANCH_NAME`.
-    * Make some changes to your local repository. It could be anything, really. If you have found a typo in README - great!
-    Take care to give your PR a meaningful name and description.
-    * Сommit your changes to newly created feature branch
-    * Сheckout master branch: `git checkout master`
-    * Pull latest changes from upstream master branch: `git pull upstream master`
-    * Merge master branch into your feature branch: `git checkout BRANCH_NAME && git merge master`
-    * Resolve any merge conflicts if there are any
-    * Push feature branch to your remote repository: `git push --set-upstream origin BRANCH_NAME`
-    * Make pull-request from your repository to [this][mock-repo] repository via GitHub web-interface
-    * If you are asked to fix a merge conflict refer to the extra materials for the related information
+    - Форкніть цей репозиторій [Kottans/mock-repo][mock-repo]
+    - Клонуйте свій форк локально на свій комп'ютер: `git clone https://github.com/YOUR_USERNAME/mock-repo.git`
+    - Додайте цей репозиторій [Kottans/mock-repo][mock-repo] як upstream: git remote add upstream `https://github.com/kottans/mock-repo.git`
+    - `git checkout master` і потім створіть нову гілку, ім'я на ваш роздум (aka feature branch): `git checkout -b BRANCH_NAME`.
+    - Внесіть деякі зміни до свого локального сховища. Це може бути що завгодно, насправді. Якщо ви знайшли помилку в README - чудово!
+    Подбайте про те, щоб дати своєму PR значиме ім’я та опис.
+    - Внесіть зміни до новоствореної гілки (Сommit)
+    - Перейдить до гілки master: `git checkout master`
+    - Витягніть останні зміни з гілки upstream master: `git pull upstream master`
+    - Об’єднайте головну гілку зі своєю гілкою: `git checkout BRANCH_NAME && git merge master`
+    - Вирішіть будь-які конфлікти мержу, якщо такі є (Resolve merge conflicts)
+    - Надішліть гілку до вашого віддаленого сховища: `git push --set-upstream origin BRANCH_NAME`
+    - Зробіть pull-request з вашого репозиторія до [this][mock-repo] репозиторія через GitHub web-interface
+    - Якщо вас попросять виправити merge конфлікт, зверніться до додаткових матеріалів для отримання відповідної інформації
 
-    **Please note, that your PR may not be reviewed quickly.**
+    **Зауважте, що ваш PR можуть не розглянути швидко.**
 
- 1. Study Extra Materials below to improve your skills.
-    If you feel it affects your overall course performance consider
-    reverting to those later e.g. when you have all mandatory tasks completed.
+ 1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
+    Якщо ви вважаєте, що це впливає на вашу загальну ефективність курсу, подумайте щоб
+    повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
 
-When you finish this task you can start the next one.
+Коли ви закінчите це завдання, ви можете приступити до наступного.
 
-## Extra Materials
+## Додаткові матеріали
 
-* [Git за 30 хвилин](https://codeguida.com/post/453)
+- [Git за 30 хвилин](https://codeguida.com/post/453)
 
-* [Git tips](http://sixrevisions.com/web-development/git-tips/) — consolidate your knowledge of Git
+- [Git tips](http://sixrevisions.com/web-development/git-tips/) — закріпити свої знання про Git
 
-* [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
+- [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
 
-* [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
+- [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
 
-* [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+- [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 
-* [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
+- [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 
-* [TypingClub](https://www.typingclub.com/) — improve your typing speed
+- [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
 
-* [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/learning/)
+- [Как учиться и справляться с негативными мыслями[rus]](https://guides.hexlet.io/learning/)
 
-## Done?
+## Готово?
 
-➡️ Go forward to [Linux, Command Line, HTTP Tools](linux-cli-http.md)
+➡️ Ідіть далі [Linux, Command Line, HTTP Tools](linux-cli-http.md)
 
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg

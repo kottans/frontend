@@ -5,105 +5,100 @@
 
 # Friends App
 
-Create a tiny social friends' search page with users cards,
-search, sorting and filtering of them by age, name
-or whatever you want with [Random User API](https://randomuser.me) :)
+Створіть невеличку сторінку пошуку друзів у соціальних мережах з картками користувачів,
+пошуком, сортуванням та фільтрацією їх за віком, прізвищем, ім'ям,
+або чим завгодно, за допомогою [Random User API](https://randomuser.me) :)
 
-## Example
+## Приклади
 
-This is an *example*. You should style your application like you want.
+Це *приклад*. Ви повинні стилізувати свою програму так, як хочете.
 
-Make it personal. Make it beautiful. Make it perfect and then be proud for what you did.
+Зробіть це особистим. Зробіть це красивим. Зробіть це ідеальним, а потім пишайтеся тим, що ви зробили.
 
 ![image](https://i.imgur.com/5tcpqcY.png)
 
-Complete the user stories below.
+Реалізуйте наведені нижче приклади користування.
 
-## As a user, I would like to
+## Як користувач, я хотів би
 
-* see cards list of users on the page, cards may be pretty styled with user photo, name, age, phone number, maybe with some another user information which you would to see in user info card.
-* searching by typing name in search input and see immediately filtering on the page
-* sorting cards by name/age in A-Z/Z-A ways
-* filtering friends by age, by name, whatever you want else options
-* see fancy icons and cool design with shadows, gradients, yellow font on the blue background, etc. Usage of template absolutely acceptable
+- бачити список карток користувачів на сторінці, картки повинні бути гарно стилізовані з фотографією користувача, ім'ям, віком, номером телефону, можливо, з іншою інформацією користувача, яку ви бачите в інформаційній картці юзера
+- шукати, ввівши ім’я в поле пошуку, і одразу побачити фільтрацію на сторінці
+- сортувати картки за іменем/віком та за алфавітом (A-Z/Z-A)
+- фільтрувати друзів за віком, іменами, будь-якими іншими параметрами
+- бачити модні іконки та крутий дизайн з тінями, градієнтами, жовтим шрифтом на синьому фоні тощо. Використання шаблону цілком прийнятне
 
-## If you feel that you can do a better job, you can
+## Якщо ви відчуваєте, що можете зробити роботу краще - зробіть
 
-Note, that this is an additional part of the task. Also you can implement anything from the list below.
+Зауважте, що це додаткова частина завдання. Ви можете реалізувати будь-що зі списку нижче.
 
-### Be like a Durov and
+### Будьте як Дуров і
 
-* add pagination to scrolling
-* sort not only by name and age, but also by date of registration
-* filter by location and email
-* make good responsive/fluid/elastic/whatever design which will work for mobiles
-* use async/awaits for handling async actions
+- додайте пагінацію до прокручування
+- сортуйте не тільки за прізвищем і віком, а й за датою реєстрації
+- фільтруйте за місцем розташування та електронною поштою
+- створить гарний дизайн, який підходить для мобільних пристроїв - responsive/fluid/elastic/будь-що
+- використовуйте async/awaits для обробки асинхронних дій
 
-### Be like a Zuckerberg and
+### Будьте як Цукерберг і
 
-* add support of address bar which means, that user must see a state of filters and sortings in URL
-* using your OOP knowledge, split your application to different parts, like: `FriendsList`, `FiltersContainer`, etc.
-* with help of ES6 modules build website based on frontend components
+- додайте підтримку адресного рядка, що означає, що користувач повинен бачити стан фільтрів і сортування в URL
+- використовуючи свої знання ООП, розділіть свій додаток на різні частини, наприклад: `FriendsList`, `FiltersContainer` тощо.
+- за допомогою модулів ES6 створіть веб-сайт на основі frontend-компонентів
 
-## You can
+## Ви можете
 
-* use all `Array.methods` which you know :)
-* try to figure out with async data encapsulation in request/response. Try callbacks' logic in action
-* understand difference between synchronous and asynchronous network requests
-* get know params & queries in action
-* use `fetch` and/or `XMLHttpRequest`. But *NOT* jQuery. Bad jQuery, bad! No ones like jQuery! `¯\_(ツ)_/¯`
-* understand pros & cons of the immutable data fundamentals on example of copies of arrays
-* try form' key/mouse events, manage them, enable and disable them
+- використовувати всі `Array.methods`, які ви знаєте :)
+- спробувати розібратися з асинхронною інкапсуляцією даних у request/response. Спробуйте логіку callbacks у дії
+- зрозуміти різницю між синхронними та асинхронними network запитами
+- дізнатися параметри та запити в дії
+- використовувати `fetch` та/або `XMLHttpRequest`. Але *НЕ* jQuery. Поганий jQuery, поганий! Ніхто не любить jQuery!`¯\_(ツ)_/¯`
+- зрозуміти плюси і мінуси імутабельності даних на прикладі копій масивів
+- спробувати key/mouse events форм, керувати ними, вмикати та вимикати їх
 
-## Stuff which will help you
+## Речі, які вам допоможуть
 
-* We think that you will need to use promises for this task ;)
-* [Основы XMLHttpRequest](https://learn.javascript.ru/xmlhttprequest) - you
-  can use `XMLHttpRequest` for sending requests to webserver;
-  [Method Fetch замена XHR](https://learn.javascript.ru/fetch) - you can use `fetch` as better tool for sending requests.
-* [Randomuser api with awesome simple examples and docs](https://randomuser.me) -
-  _you can use one of this API for getting data for your website_;
-* [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - you can use
-  this for working with URL;
-* Take a look on [Array methods on learn.javascript.ru](https://learn.javascript.ru/array-methods) and on [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-* [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
-  you must know how to work with browser history.
+- Ми вважаємо, що для цього завдання вам потрібно буде використовувати promises ;)
+- [Основы XMLHttpRequest](https://learn.javascript.ru/xmlhttprequest) - ви
+  можете використовувати `XMLHttpRequest` для надсилання запитів на веб-сервер;
+  [Method Fetch замена XHR](https://learn.javascript.ru/fetch) - Ви можете використовувати `fetch` як кращий інструмент для надсилання запитів.
+- [Randomuser api with awesome simple examples and docs](https://randomuser.me) -
+  _ви можете використовувати один із цих API для отримання даних для вашого веб-сайту_;
+- [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - ви можете використовувати
+  це для роботи з URL;
+- Подивіться на  [Array methods on learn.javascript.ru](https://learn.javascript.ru/array-methods) і на [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
+  ви повинні знати, як працювати з історією браузера.
 
-When you're done with your challenge push your code to GitHub repo and publish
-it using [GitHub Pages](https://pages.github.com).
+Коли ви завершите завдання, пушніть свій код у репозиторію GitHub і опублікуйте
+його використовуючи [GitHub Pages](https://pages.github.com).
 
-When complete do the following:
-1. You will require code review for this task:
-   - For **Frontend 2021** course students: please, follow [these instructions](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
-   - For **p2p course** students: please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
-1. Great job! Go ahead and share your progress with others –
-   post a message in the [course channel][chat]:
-   `Friends App — #done` (or `Friends App — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. You have completed the last tasks section of offline course stage.
-   We shall appreciate your feedback on this section especially
-   if you're doing this course from Ukraine.
-   Please, grant us 10-15 minutes of your time and **complete**
-   **[this feedback form](https://goo.gl/forms/3qotPDzLTwZYqFA42)**.
+Після завершення виконайте наступне:
+1. Для цього завдання вам знадобиться review коду:
+   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `Friends App — #done` (або `Friends App — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає наставникам відстежувати ваш прогрес!**
 
-## Done?
+## Готово?
 
 __Congratulations! 🎉__
 
-* [ ] Have you finished all mandatory tasks?
-* [ ] Are practical tasks get reviewed and
-      PRs are merged into
+- [ ] Ви виконали всі обов’язкові завдання?
+- [ ] Перевірені практичні завдання та
+      PR змержені в
       [frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
       repo `master`?
 
-You have finished __Stage 0__ of the course!
+Ви закінчили __Stage 0__ курсу!
 
-Go ahead and post a celebration sticker or dancing gif
-in the [course channel][chat].
+Розмістіть святкову наклейку або танцювальний GIF
+у [course channel][chat].
 
-... and a tiny thing to do yet.
-[List yourself among course Stage 0 finishers](../students/stage0-finishers.md).
+... і ще невелика річ.
+[Вкажіть себе серед тих, хто закінчив Stage 0 курсу](../students/stage0-finishers.md).
 
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg

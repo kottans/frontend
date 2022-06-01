@@ -36,7 +36,6 @@ and [tags](https://github.com/lempiy/Kottans-Pizza-Api/blob/master/docs/TAG.md#l
 
 ![example](../img/create-pizza.png)
 
-
 - Create pizza page should be secured with authorization permissions.
 - Background of output pizza image should be transparent.
 - As always, feel free to ask your questions in our chat.

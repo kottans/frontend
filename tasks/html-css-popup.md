@@ -3,110 +3,109 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# HTML & CSS practice: Hooli-style Popup
+# HTML і CSS практика: Hooli-style Popup
 
-> **Hooli** is a fictitious corporation from
+> **Hooli** є фіктивною корпорацією від
 > [Silicon Valley TV series](https://www.imdb.com/title/tt2575988/).
-> Many believe it impersonates Google or Apple.
-> Hooli on [Silicon Valley famdom wiki](https://silicon-valley.fandom.com/wiki/Hooli).
-> It is also represented [on the web](http://www.hooli.xyz/).
+> Багато хто вважає, що він імітує Google або Apple.
+> Hooli на [Silicon Valley famdom wiki](https://silicon-valley.fandom.com/wiki/Hooli).
+> Це також представлено [on the web](http://www.hooli.xyz/).
 
-The goal of this task is to practice coding HTML & CSS from mockup. You are expected to deepen your knowledge of HTML & CSS and discover new previously unknown features.
+Мета цього завдання — потренуватися в кодуванні HTML і CSS з макету. Очікується, що ви поглибите свої знання HTML і CSS і відкриєте нові невідомі раніше функції.
 
-## Requirements
+## Вимоги
 
-- no JavaScript, only HTML/CSS, use of preprocessors is allowed
-- no external libraries or frameworks
-- browser support: Chrome only (feel free to use latest features)
-- the popup is expected to have three states depending on user actions:
-  - initial state: popup menu is not visible
-  - upon click on ![popup-button](../img/popup-button.png) button
-    the popup menu gets visible or gets hidden if already open
-  - click on "More" button adds 3 to 10 more icons and
-    makes the content of the popup scrollable
-- mobile view is irrelevant for this task
+- ніякого JavaScript, лише HTML/CSS, дозволено використання препроцесорів
+- ніяких зовнішніх бібліотек чи фреймворків
+- підтримка веб-браузера: лише Chrome (використовуйте найновіші фічі)
+- очікується, що попап матиме три стани залежно від дій користувача:
+  - початковий стан: попап не видно
+  - після натискання на кнопку ![popup-button](../img/popup-button.png)
+    попап стає видимим або прихованим, якщо воно вже відкрите
+  - натисніть кнопку "More", щоб додати ще від 3 до 10 іконок і
+    робить вміст попапу доступним для скролу
 
-## Recommendations
+## Рекомендації
 
-- Make sure that your navigation is built with all semantic [rules](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav).
-- We recommend watching a [video](https://www.youtube.com/watch?v=E6kLaaQFctU&ab_channel=VadimMakeev) about hiding checkbox good parts.
-- Try to style your elements by classes (not by ID and HTML tags).
-- Don't forget to set the `alt` attribute for the `img` tags (if you used them).
-- No need to add a lot of files (inc. icons, gitignore, configs, etc) to your PR. HTML and CSS files would be enough for checking your work.
-- Avoid external scripts for the font icons.
-- Check your preview in the [validator](https://validator.w3.org/).
-- Make sure you've added empty lines in each file from your PR - [reason](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline).
-  If you forget to add an empty line at the end of the file GitHub will show it:
+- Переконайтеся, що ваша навігація побудована з усіма семантичними характеристиками [rules](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav).
+- Рекомендуємо переглянути [відео](https://www.youtube.com/watch?v=E6kLaaQFctU&ab_channel=VadimMakeev) про приховування чекбоксу.
+- Спробуйте стилізувати свої елементи за класами (а не за тегами HTML та ID).
+- Не забудьте встановити атрибут `alt` для тегів `img` (якщо ви їх використовували).
+- Немає необхідності додавати багато файлів (включно з icons, gitignore, configs тощо) до вашого PR. Файлів HTML і CSS буде достатньо для перевірки вашої роботи.
+- Уникайте зовнішніх скриптів для значків шрифтів.
+- Перевірте свій попередній перегляд у [validator](https://validator.w3.org/).
+- Переконайтеся, що ви додали порожні рядки в кожен файл зі свого PR - [reason](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline).
+  Якщо ви забудете додати порожній рядок у кінець файлу, GitHub покаже його:
 
 ![Missed line](https://user-images.githubusercontent.com/16196199/97906688-c123c900-1d4c-11eb-8424-75e9150b0705.png)
 
-- Check your work again and remove all redundant comments from your code.
+- Перевірте свою роботу ще раз і видаліть усі зайві коментарі зі свого коду.
 
-## Warning
+## Увага
 
 :warning: ![Google-Warning](https://place-hold.it/380x24/fff/f03c15?text=Important!+Google+may+ban+your+github+pages+domain!&bold)
 
-The above may happen if your design mimics Google components or services
-as they may decide that you've created a phishing site to steal
-your visitors' Google credentials.
+Вищезазначене може статися, якщо ваш дизайн імітує компоненти чи послуги Google
+оскільки вони можуть вирішити, що ви створили фішинговий сайт для крадіжки
+облікові дані Google ваших відвідувачів.
 
-To avoid this
+Щоб уникнути цього
 
-- DO NOT use word "google", "apple", "amazon" or any other brand in
-  - your project/repo name
-  - any urls
-  - any css selectors
-  - any HTML elements ids (including created with JS) or elsewhere across HTML
-- DO NOT replicate Google design (layout structure, styles etc)
-- DO NOT use Google icons
+- НЕ використовуйте слова «google», «apple», «amazon» чи будь-якого іншого бренду в
+  - назві вашого проекту/репо
+  - будь-яких url
+  - будь-яких селекторах css
+  - будь-яких ідентифікаторах елементів HTML (включаючи створені за допомогою JS) або в іншому місці HTML
+- НЕ повторюйте дизайн Google (структуру макета, стилі тощо)
+- НЕ використовуйте іконки Google
 
-## Examples
+## Приклади
 
-You do not need to make your design 100% identical to the examples below.
-Implementation of the mechanics is more important.
-Use examples for your reference.
+Вам не потрібно робити свій дизайн на 100% ідентичним прикладам нижче.
+Реалізація механіки важливіша.
+Використовуйте приклади для довідки.
 
-Initial state: no pop-up visible:
+Початковий стан: попап не видимий:
 
 ![popup-hidden](../img/popup-hidden.png)
 
-Active state:
+Активний стан:
 
 ![popup-visible](../img/popup-visible.png)
 
-Expanded set of icons, scrollable state:
+Розширений набір іконок, scrollable стан:
 
 ![popup-scrollable](../img/popup-scrollable.png)
 
-All interactive elements should be marked as such on mouse hover.
+Усі інтерактивні елементи мають бути позначені як такі при наведенні (hover) миші
 
 ![popup-hover-state](../img/popup-hover.png)
 
-All interactive elements should have `:focus` state.
+Усі інтерактивні елементи повинні мати стан `:focus`.
 
 ![popup-hover-state](../img/popup-focus.png)
 
-You'll must able to switch across all interactive elements using only keyboard(without a mouse, don't forget about styles for `:focus` state)
+Ви повинні мати можливість перемикатися між усіма інтерактивними елементами, використовуючи лише клавіатуру (без миші, не забувайте про стилі для стану `:focus`)
 
-Feel free using [our icons](https://github.com/kottans/frontend/raw/master/img/popup-icons.zip).
+Можете спокійно юзати [наші іконки](https://github.com/kottans/frontend/raw/master/img/popup-icons.zip).
 
-You may want to publish your results on
+Ви можете опублікувати свої результати на
 [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
-**When complete do the following:**
+**Після завершення виконайте наступне:**
 
-1. You will require code review for this task:
-   - For **Frontend 2021** course students: please, follow [these instructions](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
-   - For **p2p course** students: please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
-1. Great job! Go ahead and share your progress with others –
-   post a message in [course channel][chat]:
-   `HTML-CSS-Popup — #done` (or `HTML-CSS-Popup — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+1. Для цього завдання вам знадобиться review коду:
+   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `HTML-CSS-Popup — #done` (або `HTML-CSS-Popup — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає наставникам відстежувати ваш прогрес!**
 
-## Done?
+## Готово?
 
-➡️ Go forward to [JavaScript Basics](js-basics.md)
+➡️ Ідіть далі [JavaScript Basics](js-basics.md)
 
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg

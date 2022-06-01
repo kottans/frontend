@@ -4,27 +4,34 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-- Q: What courses do you have?
-  + A: Frontend course
-- Q: When the courses is going to start? Any schedule?
-  + A: Preparatory stage of Frontend Course starts 12.10.20. Date of main course to be announced.
-- Q: Is this course available online?
-  + A: Preparatory stage of the course includes free learning materials. As for main course, we plan to make records of all lectures & workshops and make them available online, but live presence is for course students only.
-- Q: Where are courses going to take place?
-  + A: All lectures & workshops will be held online.
-- Q: I want to be a student, what do I do?
-  + A: Great spirit takes you halfway there. You could start working through prerequisites and peer-to-peer tasks, keep an eye on our [public channel](https://twitter.com/kottans_org) and [chat](https://github.com/kottans/frontend#chats)
-- Q: I want to talk you your manager, get me to real person
-  + A: We don't have one, but you could throw a question at the [chats](https://github.com/kottans/frontend#chats) and somebody might answer.
+- Q: Що це за курс?
+  + A: Це курс по frontend.
+- Q: Коли курс починається? Який-небудь розклад?
+  <!-- + A: TODO: Set course starting date -->
+- Q: Цей курс доступний онлайн?
+  + A: Так, курс буде проходити у віддаленому форматі, а усі матеріали будуть
+  записані та викладені для вільного доступу.
+- Q: Де буде проведений курс?
+  + A: Усі лекції та заняття будуть проведені онлайн.
+- Q: Я хочу стати студентом, що мені робити?
+  + A: Бажання - половина успіху! Ти можеш почати працювати над особистими
+  завданнями, поглядати у наші [публічні медіа](https://twitter.com/kottans_org)
+  та [чати](https://github.com/kottans/frontend#chats).
+- Q: Я хотів би поспілкуватись з вашим менеджером, з реальною людиною.
+  + A: У нас немає менеджера, але ви можете задати питання у [чатах](https://github.com/kottans/frontend#chats) і хтось може вам відповісти.
 
-Gentle reminder:
-1) we are not paid to do this
-2) answering same questions over and over takes time, that could be used to make materials for this course better
-3) don't be rude, everyone likes talking to nice people
-4) there's a person on the other end of the screen.
 
-^_^ Knowledge must be shared
-  
+Нагадування:
+1. Нам за це ніхто не сплачує
+1. Надання відповідей на одні і ті самі запитання займає час, який може бути
+використаний на створення матеріалів, які можуть покращити цей курс
+1. Не будьте грубими, усім подобається розмовляти з ввічливими людьми
+1. По іншу сторону екрану завжди інша людина
+
+^_^ Знаннями потрібно ділитись
+
+
+
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg

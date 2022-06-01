@@ -3,56 +3,55 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Git for Team Collaboration
+# Git для командної співпраці
 
-Complete the following:
+Виконайте наступне:
 
- 1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+
+Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
+це допоможе вам краще засвоїти відеокурс.
  
- 2. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/):
-    - Main: Ramping Up, Moving Work Around
-    - Remote: To Origin and Beyond
+1. Пройдіть наступні рівні [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
+   - Основи: Їдемо далі, Переміщуємо роботу туди-сюди
+   - Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
     
-A **Mixed Bag** and **Advanced Topics** from the Main section
-of **Learn Git Branching** are optional. If you skip those now
-make sure to bookmark the resource and revert to it later
-to improve your git skills.
+**Всяке** і **Досвідчений рівень** з головного розділу
+**Вивчай Git Branching** є необов’язковими. Якщо ви пропустите їх зараз
+не забудьте зробити закладку ресурсу та повернутися до нього пізніше
+щоб покращити свої навички git.
 
-When complete do the following:
-1. Make screenshots of your finished lessons
-   and put the screenshots in `task_git_collaboration` folder in
-   your `kottans-frontend` repo
-1. In your `kottans-frontend` repo `README.md`:
-   * add header `## Git Collaboration`
-   * embed the screenshots or add links to the screenshots
-   * list your reflections on all subtasks
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. Great job! Go ahead and share your progress with others –
-   post a message in [course channel][chat]:
-   `Git Collaboration — #done` (or `Git Collaboration — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. Study Extra Materials below to improve your skills.
-   If you feel it affects your overall course performance consider
-   reverting to those later e.g. when you have all mandatory tasks completed.
-1. You may skip Optional materials from this task (if any).
+Після завершення виконайте наступне:
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть його в папку `task_git_collaboration`
+   вашого репо `kottans-frontend`
+1. В вашому `kottans-frontend` репо `README.md`:
+   - додайте заголовок `## Git Collaboration`
+   - додати скріншот або додати посилання на скріншот
+   - перерахуйте свої міркування щодо кожного пункту завдання
+     (_що для вас було новим_, _що вас здивувало_, _що ви плануєте використовувати в майбутньому_)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `Git Collaboration — #done` (або `Git Collaboration — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
+1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
+    Якщо ви вважаєте, що це впливає на вашу загальну ефективність курсу, подумайте щоб
+    повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
+1. Ви можете пропустити опціональні з цього завдання (якщо такі є).
 
-You have completed **General basics** tasks section. We shall appreciate your feedback
-on this section especially if you're doing this course from Ukraine. Please, grant us
-10-15 minutes of your time to complete [this form](https://goo.gl/forms/O80XcZwxhMhGmQKq2).
+Коли ви закінчите це завдання, ви можете приступити до наступного.
 
-When you finish this task you can proceed to the next one.
-
-## Extra materials
+## Додаткові матеріали
 
 - [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://youtu.be/MJUJ4wbFm_A)
 - [Oh shit, git!](http://ohshitgit.com/)
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [GitHub Learning Lab](https://lab.github.com/courses)
 
-## Done?
+## Готово?
 
-➡️ Go forward to [Intro to HTML & CSS](html-css-intro.md)
+➡️ Ідіть далі [Intro to HTML & CSS](html-css-intro.md)
 
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg

@@ -18,17 +18,17 @@ Create a page with a weather cast. As example, you can see forecast from
 
 ### As a user, I would like to:
 
-* enter the name of a city and get the forecast for it;
-* see forecast for some period, not only for today. As example, for
+- enter the name of a city and get the forecast for it;
+- see forecast for some period, not only for today. As example, for
   tomorrow, week, two weeks, etc;
-* choose units — Celsius or Fahrenheit;
-* have a list of favorite cities. By selecting favorite city from the list, I
+- choose units — Celsius or Fahrenheit;
+- have a list of favorite cities. By selecting favorite city from the list, I
   want to see forecast in it;
-* have a list of recently viewed cities;
-* see current city or latitude and longitude in the link in the address bar of
+- have a list of recently viewed cities;
+- see current city or latitude and longitude in the link in the address bar of
   the browser. If I open this link in the new window, website must show me
   weather in this city;
-* see fancy icons for forecast and design. Usage of template absolutely
+- see fancy icons for forecast and design. Usage of template absolutely
   acceptable.
 
 You must support only last versions of major browsers — Chrome, Safari, FF,
@@ -39,31 +39,31 @@ story with mobile devices.
 
 ### Stuff which will help you:
 
-* [Основы XMLHttpRequest](https://learn.javascript.ru/ajax-xmlhttprequest) - you
+- [Основы XMLHttpRequest](https://learn.javascript.ru/ajax-xmlhttprequest) - you
   can use XMLHttpRequest for sending requests to webserver;
-* [Weather public API's](https://github.com/toddmotto/public-apis#weather) -
+- [Weather public API's](https://github.com/toddmotto/public-apis#weather) -
   _you can use one of this API for getting data for your website_;
-* [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - you can use
+- [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL) - you can use
   this for working with URL;
-* [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
+- [Manipulating the browser history](https://developer.mozilla.org/en-US/docs/Web/API/History_API) -
   you must know how to work with browser history.
 
 ### If you feel that you can do a better job, you can:
 
 #### Choose path of master of sun and clouds, and:
 
-* use
+- use
   [async/awaits](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99)
   and [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
   for handling network requests;
-* make good responsive/fluid/elastic/whatever design and other modern stuff;
+- make good responsive/fluid/elastic/whatever design and other modern stuff;
 
 #### Choose path of grandmaster of storms, tornadoes for all over the time, space and in all possible far-far away, and:
 
-* see video, which will give basic understanding about architecture of modern
+- see video, which will give basic understanding about architecture of modern
   website —
   [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw);
-* after finishing above mentioned video, try to build your website from
+- after finishing above mentioned video, try to build your website from
   components. As example:
 
   - Application — fetching, storing and processing all the data
@@ -75,10 +75,10 @@ story with mobile devices.
 
 ### Additional information
 
-* The exact list of forecast periods may depend on API which you choose for this
+- The exact list of forecast periods may depend on API which you choose for this
   task. Providing forecast not for week, but for five days, 10 days, etc.
   totally acceptable;
-* Map with temperatures is not required for this task;
+- Map with temperatures is not required for this task;
 
 #### Video
 

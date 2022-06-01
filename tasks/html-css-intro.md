@@ -3,46 +3,52 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Intro to HTML and CSS
+# Вступ до HTML і CSS
 
 1. [Intro to HTML & CSS (Eng)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
+   Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
+   це допоможе вам краще засвоїти відеокурс.
+
 1. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
 
-2. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+1. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
 
-When complete do the following:
-1. Make screenshots of your progress in (1) and (2)
-   and put the screenshots in `task_html_css_intro` folder in
-   your `kottans-frontend` repo
-1. In your `kottans-frontend` repo `README.md`:
-   * add header `## Intro to HTML and CSS`
-   * embed the screenshots or add links to the screenshots
-   * list your reflections on all subtasks
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. Great job! Go ahead and share your progress with others –
-   post a message in [course channel][chat]:
-   `Intro to HTML and CSS — #done` (or `Intro to HTML and CSS — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. Study Extra Materials below to improve your skills.
-   If you feel it affects your overall course performance consider
-   reverting to those later e.g. when you have all mandatory tasks completed.
-1. You may skip Optional materials from this task (if any).
+Після завершення виконайте наступне:
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть його в папку `task_html_css_intro`
+   вашого репо `kottans-frontend`
+1. В вашому `kottans-frontend` репо `README.md`:
+   - додайте заголовок `## Intro to HTML and CSS`
+   - додати скріншот або додати посилання на скріншот
+   - перерахуйте свої міркування щодо кожного пункту завдання
+     (_що для вас було новим_, _що вас здивувало_, _що ви плануєте використовувати в майбутньому_)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `Intro to HTML and CSS — #done` (або `Intro to HTML and CSS — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
+1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
+    Якщо ви вважаєте, що це впливає на вашу загальну ефективність курсу, подумайте щоб
+    повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
+1. Ви можете пропустити опціональні матеріали з цього завдання (якщо такі є).
 
-When you finish this task you can proceed to the next one.
+Коли ви закінчите це завдання, ви можете приступити до наступного.
 
-## Extra materials:
+## Додаткові матеріали
 
+- [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+- [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+- [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+- [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
 - [freecodecamp.org](https://www.freecodecamp.org)
 - [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
-- [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html)
 - [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
 - [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
-## Done?
+## Готово?
 
-➡️ Go forward to [Responsive Web Design](html-css-responsive.md)
+➡️ Ідіть далі [Responsive Web Design](html-css-responsive.md)
 
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg

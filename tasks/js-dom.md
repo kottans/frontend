@@ -5,69 +5,69 @@
 
 # Document Object Model
 
-### Learn some frontend basics about DOM API:
+### Дізнайтеся деякі frontend основи про DOM API:
 
 1. [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
-   (4 lessons, estimated completion time 8 hrs)
+   (4 уроки, орієнтовний час завершення 8 годин)
+   Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
+   це допоможе вам краще засвоїти відеокурс.
 
 2. [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
-   - finish tasks 12..18 (**Sum All Odd Fibonacci Numbers** to **Everything Be True**) and save a screenshot.
+   - закінчити завдання 12..18 (**Sum All Odd Fibonacci Numbers** до **Everything Be True**) і збережіть скріншот.
 
 ### .then():
 
-3. **Practical task**: Implement interactive side-menu' site without page reloads. You may choose any theme: pokemons, phones, site pages aka about/prices/goal/etc.
-   Action menu - something like this but not so ugly :)
+3. **Практичне завдання**: Впровадити інтерактивне side-menu без перезавантаження сторінки. Ви можете вибрати будь-яку тему: покемони, телефони, сторінки сайту aka about/prices/goal/etc.
+   Action menu - щось на зразок цього, але не таке потворне :)
    ![image](https://i.imgur.com/KcUYO4F.png)
 
-### The goal
+### Головна мета
 
-Main goal - menu with ability to load some predefined html content related to own menu item into right-positioned `<main>` content container.
+Головна мета - меню з можливістю завантажувати деякий попередньо визначений HTML-контент, пов'язаний з власним пунктом меню, в контейнер вмісту `<main>`, розташований праворуч.
 
-### Goals ###
+### Цілі ###
 
-- [ ] complex implementation of full page responsive layout (credit to Udacity course about responsive HTML/CSS).
-- [ ] you can store data in an array of objects
-- [ ] you can use `innerHTML, insertAdjacentHTML, append, createElement, addEventListener`,
-- [ ] you may find useful array methods as `Array#filter`, `Array#sort`, `Array#find`, etc.
-- [ ] and of course - DOM methods.
+- [ ] комплексна реалізація full page responsive layout (курс Udacity про адаптивний HTML/CSS).
+- [ ] ви можете зберігати дані в масиві об’єктів
+- [ ] ви можете використовувати `innerHTML, insertAdjacentHTML, append, createElement, addEventListener`,
+- [ ] будуть корисними методи масиву як `Array#filter`, `Array#sort`, `Array#find`, etc.
+- [ ] і звичайно - методи DOM.
 
-You may want to publish your results on
+Ви можете опублікувати свої результати на
 [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
-When complete do the following:
-1. Make screenshots of your progress in (1) and (2)
-   and put the screenshots in `task_js_dom` folder in
-   your `kottans-frontend` repo
-1. In your `kottans-frontend` repo `README.md`:
-   * add header `## DOM`
-   * embed the screenshots or add links to the screenshots
-   * list your reflections on all subtasks
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. Great job! Go ahead and share your progress with others –
-   post a message in [course channel][chat]:
-   `DOM — #done` (or `DOM — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. You will require code review for your subtask (3):
-   - For **Frontend 2021** course students: please, follow [these instructions](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
-   - For **p2p course** students: please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
-1. Study Extra Materials below to improve your skills.
-   If you feel it affects your overall course performance consider
-   reverting to those later e.g. when you have all mandatory tasks completed.
-1. You may skip Optional materials from this task (if any).
+Після завершення виконайте наступне:
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть його в папку `task_js_dom`
+   вашого репо `kottans-frontend`
+1. В вашому `kottans-frontend` репо `README.md`:
+   - додайте заголовок `## DOM`
+   - додати скріншот або додати посилання на скріншот
+   - перерахуйте свої міркування щодо кожного пункту завдання
+     (_що для вас було новим_, _що вас здивувало_, _що ви плануєте використовувати в майбутньому_)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `DOM — #done` (або `DOM — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
+1. Для цього завдання вам знадобиться review коду:
+   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
+    Якщо ви вважаєте, що це впливає на вашу загальну ефективність курсу, подумайте щоб
+    повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
+1. Ви можете пропустити опціональні матеріали з цього завдання (якщо такі є).
 
-You have completed **Front-End basics** tasks section. We shall appreciate your feedback on this section especially if you're doing this course from Ukraine. Please, grant us 10-15 minutes of your time and complete [this feedback form](https://goo.gl/forms/qht9CEw7E966wXcl1).
+Коли ви закінчите це завдання, ви можете приступити до наступного.
 
-When you finish this task you can proceed to the next one.
-
-## Extra materials
+## Додаткові матеріали
 
 - [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
 - [JavaScript DOM Crash Course by Brad Traversy](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 
-## Done?
+## Готово?
 
-➡️ Go forward to [Building a Tiny JS World](js-pre-oop.md)
+➡️ Ідіть далі [Building a Tiny JS World](js-pre-oop.md)
 
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg

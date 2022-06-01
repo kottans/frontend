@@ -5,48 +5,48 @@
 
 # Building a Tiny JS World
 
-## Assignment
+## Завдання
 
-1. Build a tiny JS world model following the instructions
-   [here](https://github.com/OleksiyRudenko/a-tiny-JS-world).
+1. Створіть a tiny JS world model, дотримуючись інструкцій
+   [тут](https://github.com/OleksiyRudenko/a-tiny-JS-world).
+   Не забувайте, що за необхідністю, ви завжди можете перекласти англомовні матеріали за допомогою онлайн-перекладачів. 
 
-At this stage you are required to complete only **First approach** part.
-You will revert to your Tiny JS World to improve it later.
-So, for now restrict yourself to the means you feel confident with.
+На цьому етапі вам потрібно виконати лише частину **First approach**.
+Ви повернетеся до свого Tiny JS World, щоб покращити його пізніше.
+Отже, поки що обмежтеся засобами, у яких ви відчуваєте себе впевнено.
 
-### Additional requirements
+### Додаткові вимоги
 
-- An object's properties that are parts of the object presentation string must be explicitly listed/specified
-- `Object` methods like `keys`, `values`, `entries` shouldn't be used to build an object's presentation string
-  as these do not guarantee any particular order of keys/values
-- Your code is [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), which means that whenever you see
-  a pattern in your code it should be eliminated as much as possible. Examples:
-  - `print(dog); print(cat); etc ... ` should be refactored employing `Array.forEach` as the least
-  - `` `${obj.prop1}; ${obj.prop2}; ${obj.prop3};` `` (yes, strings/template literals are a form of code)
-    must be refactored employing appropriate `Array` methods (you will find `map` and `join` to be the most handy)
+- Властивості об’єкта, які є частинами рядка представлення об’єкта, мають бути явно перераховані/вказані
+- `Object` методи, такі як `keys`, `values`, `entries` не слід використовувати для створення рядка презентації   об’єкта оскільки вони не гарантують певного порядку ключів/значень 
+- Ваш код [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), що означає, що коли ви бачите
+   паттерн у вашому коді, його слід уникати. Приклади:
+  - `print(dog); print(cat); etc ... ` слід переробити, використовуючи як мінімум `Array.forEach`
+  - `` `${obj.prop1}; ${obj.prop2}; ${obj.prop3};` `` (так, рядки/літерали шаблону є формою коду)
+    необхідно переробити з використанням відповідних методів `Array` (ви знайдете `map` і `join` найбільш зручними)
 
-### Code review and assignment finalization
+### Перевірка коду та завершення виконання завдання
 
-When complete do the following:
-1. You will require code review for this task:
-   - For **Frontend 2021** course students: please, follow [these instructions](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
-   - For **p2p course** students: please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
-   - Note, that especially this task requires you to submit
-   a single file (`index.js` **only**) to the
-   `frontend-2021-homeworks` or `frontend-2019-p2p` repo for code review.
-1. Great job! Go ahead and share your progress with others –
-   post a message in [course channel][chat]:
-   `A Tiny JS World — #done` (or `A Tiny JS World — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. Read one or two articles on OOP under the links in
-   [this repo](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
+**Після завершення виконайте наступне:**
 
-When you finish this task you can proceed to the next one.
+1. Для цього завдання вам знадобиться review коду:
+   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+   - Зауважте, що особливо це завдання вимагає від вас подання
+   один файл (`index.js` **лише**) до
+   `frontend-2022-homeworks` або `frontend-2019-p2p` репозиторія для перевірки коду.
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `A Tiny JS World — #done` (або `A Tiny JS World — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає наставникам відстежувати ваш прогрес!**
+1. Прочитайте одну-дві статті про ООП за посиланнями в
+   [цьому репо](https://github.com/OleksiyRudenko/a-tiny-JS-world/blob/master/README.md#learn-on-your-own)
 
-## Done?
+## Готово?
 
-➡️ Go forward to [Object-Oriented JavaScript](js-oop.md)
+➡️ Ідіть далі [Object-Oriented JavaScript](js-oop.md)
 
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
+
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg

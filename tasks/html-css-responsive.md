@@ -3,48 +3,53 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
-# Responsive Web Design
+# Адаптивний Web Design
 
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
-1. [Flexbox Froggy](http://flexboxfroggy.com/)
+Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
+це допоможе вам краще засвоїти відеокурс.
 
-Finish the subtasks (1) and (2) above.
+1. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 
-When complete do the following:
+1. [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
 
-1. Make screenshots of your progress in (1) and (2)
-   and put the screenshots in `task_responsive_web_design` folder in
-   your `kottans-frontend` repo
-1. In your `kottans-frontend` repo `README.md`:
-   - add header `## Responsive Web Design`
-   - embed the screenshots or add links to the screenshots
-   - list your reflections on all subtasks
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. Great job! Go ahead and share your progress with others –
-   post a message in [course channel][chat]:
-   `Responsive Web Design — #done` (or `Responsive Web Design — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. Study Extra Materials below to improve your skills.
-   If you feel it affects your overall course performance consider
-   reverting to those later e.g. when you have all mandatory tasks completed.
-1. You may skip Optional materials from this task (if any).
+1. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 
-When you finish this task you can proceed to the next one.
+1. [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
 
-## Extra materials
+Після завершення виконайте наступне:
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть його в папку `task_responsive_web_design`
+   вашого репо `kottans-frontend`
+1. В вашому `kottans-frontend` репо `README.md`:
+   - додайте заголовок `## Responsive Web Design`
+   - додати скріншот або додати посилання на скріншот
+   - перерахуйте свої міркування щодо кожного пункту завдання
+     (_що для вас було новим_, _що вас здивувало_, _що ви плануєте використовувати в майбутньому_)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `Responsive Web Design — #done` (або `Responsive Web Design — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
+1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
+    Якщо ви вважаєте, що це впливає на вашу загальну ефективність курсу, подумайте щоб
+    повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
+1. Ви можете пропустити опціональні з цього завдання (якщо такі є).
+
+Коли ви закінчите це завдання, ви можете приступити до наступного.
+
+## Додаткові матеріали
 
 - [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
 - [Specificity calculator](https://specificity.keegan.st/)
-- [Grid Garden](http://cssgridgarden.com/)
 - [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (game)
 - [A simple explanation of High DPI screens](https://broken-links.com/2013/10/02/simple-explanation-high-dpi-screens/)
 
-## Done?
+## Готово?
 
-➡️ Go forward to [HTML & CSS Practice](html-css-popup.md)
+➡️ Ідіть далі [HTML & CSS Practice](html-css-popup.md)
 
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg

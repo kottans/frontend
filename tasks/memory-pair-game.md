@@ -5,44 +5,41 @@
 
 # Memory – Pair Game
 
-We learned a lot, but now let's do some practice!
+Ми багато чого навчилися, а тепер давайте потренуємося!
 
-In this section you will create _Memory - Pair Game_ — a card game in which
-all of the cards are laid face down on a surface and two cards are flipped
-face up over each turn. The object of the game is to turn over pairs
-of matching cards. The game ends when the last pair has been picked up.
+У цьому розділі ви створите _Memory - Pair Game_ — карткову гру, в якій
+всі картки кладуться на поверхню лицьовою стороною вниз, і кожен раз перевертаються по дві картки. 
+Мета гри - знайти пари відповідних карток. 
+Гра закінчується, коли буде підібрана остання пара.
 
 ![Pair Game Example](https://i.imgur.com/dT2VQ9W.gif)
 
+Щоб виконати це завдання, ви повинні мати базові знання
+HTML, CSS і JS. Ви можете використовувати будь-який стиль та анімацію, які хочете —
+єдине правило - робити це самостійно.
 
-In order to complete this challenge you should have a basic knowledge of
-HTML, CSS and JS. You can use any styling and animations you want —
-the only rule is to do it by yourself.
-
-Some of following links might be helpful:
+Деякі з наведених нижче посилань можуть бути корисними:
 
 1. [Shuffle Array](https://css-tricks.com/snippets/javascript/shuffle-array/)
 1. [CSS3 Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 1. [Flip Animation](https://davidwalsh.name/css-flip)
 
-When you're done with your challenge push your code to GitHub repo and publish
-it using [GitHub Pages](https://pages.github.com).
+Коли ви завершите завдання, пушніть свій код у репозиторію GitHub і опублікуйте
+його використовуючи [GitHub Pages](https://pages.github.com).
 
-When complete do the following:
-1. You will require code review for this task:
-   - For **Frontend 2021** course students: please, follow [these instructions](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
-   - For **p2p course** students: please, follow [these instructions](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
-1. Great job! Go ahead and share your progress with others –
-   post a message in the [course channel][chat]:
-   `Memory Pair Game — #done` (or `Memory Pair Game — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+Після завершення виконайте наступне:
+1. Для цього завдання вам знадобиться review коду:
+   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `Memory Pair Game — #done` (або `Memory Pair Game — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає наставникам відстежувати ваш прогрес!**
 
-When you finish this task you can proceed to the next one.
+## Готово?
 
-## Done?
+➡️ Ідіть далі [Website Performance Optimization](app-design-performance.md)
 
-➡️ Go forward to [Website Performance Optimization](app-design-performance.md)
-
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg

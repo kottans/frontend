@@ -5,54 +5,56 @@
 
 # JavaScript Basics
 
-1. [Intro to JS](https://classroom.udacity.com/courses/ud803)
+1. [Вступ до JS](https://classroom.udacity.com/courses/ud803)
 
-1. FreeCodeCamp exercises. Complete the modules below and save screenshots for each module.
-   Use hints available on freecodecamp at each exercise as the first resort when you feel stuck.
-   Other helpful devices are materials from **Extra Materials** section below
-   and students chat to ask any questions and seek for help.
+  Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
+  це допоможе вам краще засвоїти відеокурс.
+
+1. Вправи FreeCodeCamp. Заповніть наведені нижче модулі та збережіть знімки екрана для кожного модуля.
+   Використовуйте підказки, доступні на freecodecamp під час кожної вправи, як перший засіб, коли ви відчуваєте, що застрягли.
+   Іншими допоміжними інструментами є матеріали з розділу **Додаткові матеріали** нижче
+   та студентьский чат, щоб задати будь-які запитання та звернутися за допомогою.
    - [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/) -
-     Basic JavaScript language features. ~100 tiny exercises, 2-3 hrs to complete.
+     Basic JavaScript language features. ~100 невеликі вправи, на виконання 2-3 години.
    - [ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) -
-     JS ES6 features. Complete initial 19 exercises (till **Write Concise Declarative Functions with ES6**),
-     3-4 hrs to complete.
+     JS ES6 features. Виконайте початкові 19 вправ (до **Write Concise Declarative Functions with ES6**),
+     На виконання 3-4 години.
    - [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/) -
-     Manipulate arrays and objects. Complete all exercises (20). 3-4 hrs to complete.
+     Взаємодія з масивами та об’єктами. Виконайте всі вправи (20). На завершення 3-4 години.
    - [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/) -
-     Basic algorithms. Solve all problems (<20). 4-5 hrs to complete.
+     Основи алгоритмів. Розв’яжіть усі задачі (<20). На завершення 4-5 годин.
    - [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/) -
-     Complete all exercises (<25). 2-3 hrs to complete.
+     Виконайте всі вправи (<25). 2-3 години для завершення.
    - [Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) -
-     Intermediate algorithms. Solve initial 11 problems (till **Convert HTML Entities**), 3-5 hrs to complete.
-     - :warning: In [**Pig Latin**](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/)
-       exercise English letter **Y** is considered a consonant.
-     - :warning: In [**Convert HTML Entities**](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities)
-       exercise **DO NOT** copy-paste HTML entities (`'&amp;'`, `'&lt'` etc.) from the tests
-       as those will contain invisible non-breaking spaces and the code won't work as expected. Type them instead.
+      Середній рівень алгоритмів. Розв’яжіть початкові 11 задач (до **Convert HTML Entities**), на виконання 3–5 годин.
+     - :warning: У [**Pig Latin**](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/)
+       вправі англійська літера **Y** вважається приголосним.
+     - :warning: У [**Convert HTML Entities**](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities)
+       вправі **НЕ** копіювати та вставляти об’єкти HTML (`'&amp;'`, `'&lt'` etc.) з тестів
+       оскільки вони міститимуть невидимі нерозривні пробіли, і код не працюватиме належним чином. Натомість введіть їх.
 
-Finish the subtasks (1) and (2) above.
+Виконайте наведені вище підзадачі (1) і (2).
 
-When complete do the following:
-1. Make screenshots of your progress in (1) and (2)
-   and put the screenshots in `task_js_basics` folder in
-   your `kottans-frontend` repo
-1. In your `kottans-frontend` repo `README.md`:
-   * add header `## JS Basics`
-   * embed the screenshots or add links to the screenshots
-   * list your reflections on all subtasks
-     (_what was new to you_, _what surprised you_, _what you intend to use in future_)
-1. Great job! Go ahead and share your progress with others –
-   post a message in [course channel][chat]:
-   `JS Basics — #done` (or `JS Basics — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
-1. Study Extra Materials below to improve your skills.
-   If you feel it affects your overall course performance consider
-   reverting to those later e.g. when you have all mandatory tasks completed.
-1. You may skip Optional materials from this task (if any).
+Після завершення виконайте наступне:
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть його в папку `task_js_basics`
+   вашого репо `kottans-frontend`
+1. В вашому `kottans-frontend` репо `README.md`:
+   - додайте заголовок `## JS Basics`
+   - додати скріншот або додати посилання на скріншот
+   - перерахуйте свої міркування щодо кожного пункту завдання
+     (_що для вас було новим_, _що вас здивувало_, _що ви плануєте використовувати в майбутньому_)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `JS Basics — #done` (або `JS Basics — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
+1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
+    Якщо ви вважаєте, що це впливає на вашу загальну ефективність курсу, подумайте щоб
+    повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
+1. Ви можете пропустити опціональні матеріали з цього завдання (якщо такі є).
 
-When you finish this task you can proceed to the next one.
+Коли ви закінчите це завдання, ви можете приступити до наступного.
 
-
-## Extra materials
+## Додаткові матеріали
 
 - [Курс "Введение в программирование" от Hexlet](https://ru.hexlet.io/courses/introduction_to_programming)
 - [FunFunFunction - Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
@@ -64,11 +66,11 @@ When you finish this task you can proceed to the next one.
 - [JavaScript Equality Table Game](https://eqeq.js.org/)
 - [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
 
-## Done?
+## Готово?
 
-➡️ Go forward to [Document Object Model](js-dom.md)
+➡️ Ідіть далі [Document Object Model](js-dom.md)
 
-⤴️ Back to [Contents](../contents.md)
+⤴️ Повернутися до [Contents](../contents.md)
 
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
