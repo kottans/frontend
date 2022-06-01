@@ -1,7 +1,7 @@
-# HOW TO ASK QUESTIONS
-_How To Get Help Like A Boss_
+# ЯК ЗАДАВАТИ ПИТАННЯ
+_Як Отримати Допомогу Наче Босс_
 
-:heavy_exclamation_mark:**PLEASE READ FULLY**:heavy_exclamation_mark:
+:heavy_exclamation_mark:**БУДЬ ЛАСКА ПРОЧИТАЙТЕ ПОВНІСТЮ**:heavy_exclamation_mark:
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -25,76 +25,74 @@ _How To Get Help Like A Boss_
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
 
-## INTRO
-In the world of hackers, the kind of answers you get to your technical questions depends as much on the way you ask the questions as on the difficulty of developing the answer. This guide will teach you how to ask questions in a way more likely to get you a satisfactory answer.
+## ВСТУП
+У світі хакерів, відповіді, які ви отримаєте на свої технічні запитання, настільки ж залежать від того як саме ви задасте своє питання, як і від складності формулювання цієї відповіді. Цей гайд навчить вас як задавати питання так, щоб з найбільшим шансом отримати відповідь яка вас задовольнить.
 
-**It sometimes looks like we're reflexively rude to newbies and the ignorant. But this isn't really true. Please try to ask good questions :smile_cat:**
+**Іноді може здаватись що ми відштовхуюче грубі з новаками, або приділяємо їм мало уваги. Але насправді це зовсім не так. Будь ласка, спробуйте краще задати питання :smile_cat:**
 
-## General Structure Of The Question
+## Загальна Структура Питання
 
-It is important to give your audience the proper context.
-Luckily delivering context in software engineering
-is much simpler than in many other fields.
+Дуже важливо надавати своїй аудиторії належний контекст. На щастя, надання контексту у програмуванні набагато простіше ніж в інших сферах.
 
-_To get the best feedback on your issue,
-please, follow the structure of asking below.
-Of course wording can be different from suggested,
-depending on your particular situation_
+_Щоб надати зворотній зв'язок за вашим питанням, будь ласка, використовуйте структуру запитування, що наведена нижче. Авжеж, конкретні слова не повинні бути такими самими, все залежить від вашої ситуації._
 
-1. I am doing ..... (e.g. task name
-   and a link to the complete task description)
-1. I want to... (achieve something, e.g. have an element on a web page to float above other elements)
-1. I tried this... (code fragment, or codepen with minimal yet sufficient code fragment to reproduce the issue)
-1. How do I....? / What did I miss?
 
-[_^ back to TOC^_](#table-of-contents)
+1. Я виконую ..... (наприклад, назва завдання та посилання на опис завдання).
+1. Я хочу ..... (досягти чогось, наприклад зробити так, щоб один елемент на сторінці був поверх усіх інших).
+1. Я спробував це ..... (фрагмент коду, [codepen](https://codepen.io/) з мінімальним але основним шматком коду, який дозволяє відтворити проблему).
+1. Як мені це зробити? / Що я пропустив?
 
-## Before You Ask
-Before asking a question, do the following:
 
-1. If your question is about course - [FAQ](https://github.com/kottans/frontend/blob/master/faq.md).
-1. If your question is about tasks -  good place to ask is either of our [chats](#where-to-ask).
-1. If question is about JS or HTML/CSS - search Web, [MDN](https://developer.mozilla.org), etc.
-1. Also you can find an answer by inspection or experimentation.
-1. You're a programmer! So try to find an answer by reading the source code.
+[_^ назад до змісту ^_](#table-of-contents)
 
-When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time. Better yet, display what you have learned from doing these things. We like answering questions for people who have demonstrated they can learn from the answers.
+## Перед Тим Як Питати
+Перед тим як задати питання, виконайте наступне:
 
-Take your time. Do not expect to be able to solve a complicated problem with a few seconds of Googling. Sit back, grab a cup of tea, relax and give the problem some thought before approaching experts. Trust us, they will be able to tell from your questions how much reading and thinking you did, and will be more willing to help if you come prepared. Don't instantly fire your whole arsenal of questions just because your first search turned up no answers (or too many).
+1. Якщо ваше питання про курс - [FAQ](https://github.com/kottans/frontend/blob/master/faq.md).
+1. Якщо ваше питання про вправи - гарним місцем запитати може бути якийсь з наши [чатів](#where-to-ask).
+1. Якщо ваше питання про JS або HTML/CSS - пошукайте в Інтернеті, [MDN](https://developer.mozilla.org) тощо.
+1. Ви також можете самі знайти відповіть методом експериментування та дослідження.
+1. Ви програміст! Спробуйте знайти відповіть читаючи вихідний код.
 
-Prepare your question. Think it through. Hasty-sounding questions get hasty answers, or none at all. The more you do to demonstrate that having put thought and effort into solving your problem before seeking help, the more likely you are to actually get help.
+Коли ви задаєте питання, покажіть, що ви спочатку спробували ці методи; це допоможе показати, що ви не лінитесь та не гаєте свій час та час інших.
+Що навіть краще, покажіть чому ви навчились, виконуючи ці речі. Нам подобається відповідати на питання людей, які демонструють що вони зможуть навчитись з цих відповідей.
 
-**Remember, [there is no such thing as a stupid question.](https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question)**:wink:
+Не поспішайте. Не очікуйте, що вдасться вирішити складну проблему парою секунд Гуглінгу. Розслабтесь, візміть чашку чаю та добряче подумайте над проблему перш ніж турбувати експертів. Повірте, вони зможуть по вашому питанню зрозуміти наскільки багато читання та розмірковування у вас пішло на задачу, та захочуть допомогти, якщо побачать що ви прийшли підготовленими. Не вистрілюйте весь свій арсенал питань просто тому що ваш перший пошуковий запит не видав вам жодних відповідей (або забагато відповідей).
 
-[_^ back to TOC^_](#table-of-contents)
+Підготовте ваше питання. Продумайте його. Поспішні питання отримують поспішні відповіді, або зовсім ніяких. Чим більше ви покажете, що ви подумали над проблемою, та додали до неї зусиль перед тим як шукати допомоги, тим більше шанс того що ви її отримаєте.
 
-## When You Ask
-- **Write in clear, grammatical, correctly-spelled language**
-- **Use [Stack Overflow](https://stackoverflow.com/)** 
+**Пам'ятайте, [немає такої речі як дурне питання.](https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question)**:wink:
 
-    _There are many similar questions, so try [SEARCH](https://stackoverflow.com/search?q=) first and then Ask._
+[_^ назад до змісту ^_](#table-of-contents)
 
-- **Be precise and informative about your problem**
+## Коли Ви Питаєте
 
-     Describe the symptoms of your problem or bug carefully and clearly.
-     
-     Describe the environment in which it occurs (for example a browser).
-     
-     Describe the research you did to try and understand the problem before you asked the question.
-     
-     Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
+- **Пишіть граматично вірно, без помилок, чистою мовою**
+- **Використайте [Stack Overflow](https://stackoverflow.com/)**
 
-- **Describe the problem's symptoms, not your guesses**
+  _Існує безліч схожих питань, так що спробуйте спочатку [ПОШУК](https://stackoverflow.com/search?q=), а потім вже питайте._
 
-- **Be explicit about your question**
+- **Точно та інформативно опишіть свою проблему**
 
-[_^ back to TOC^_](#table-of-contents)
+  Опишіть симптоми вашої проблеми або багу детально та зрозуміло.
 
-### Approaches examples
+  Опишіть оточення в якому відтворюється проблема (наприклад браузер).
 
-#### Approach 1 (bad)
+  Опишіть дослідження які ви зробили щоб спробувати зрозуміти проблему перед тим як задавати питання.
 
-A question like
+  Опишіть кроки які ви зробили щоб розібратись з проблемою самостійно.
+
+- **Опишіть симптоми проблеми, а не ваші здогадки.**
+
+- **Відкрито задавайте ваше питання.**
+
+[_^ назад до змісту ^_](#table-of-contents)
+
+### Приклади Підходів
+
+#### Підхід 1 (поганий)
+
+Питання накшталт
 > I am trying to fetch data from server and
 > publish it on a web page, but nothing happens.
 > What am I doing wrong?
