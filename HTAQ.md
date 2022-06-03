@@ -93,20 +93,19 @@ _Щоб надати зворотній зв'язок за вашим питан
 #### Підхід 1 (поганий)
 
 Питання накшталт
-> I am trying to fetch data from server and
-> publish it on a web page, but nothing happens.
-> What am I doing wrong?
+> Я намагаюсь дістати дані з сервера та
+> відтворити їх на веб сторінці, але нічого не відбувається.
+> Що я роблю не так?
 
-requires too many clarifications and therefore
-can be ignored by community.
+потребують забагато уточнень, тому можуть бути проігноровані спільнотою.
 
-[_^ back to TOC^_](#table-of-contents)
+[_^ назад до змісту ^_](#table-of-contents)
 
-#### Approach 2 (good)
+#### Підхід 2 (гарний)
 
-The alternative approach can be as follows.
+Альтернативних підхід наведено нижче.
 
-> I am trying to fetch data from a server like this.
+> Я намагаюсь дістати дані з сервера наступним чином.
 > ```
 > const query = "https://api.somewhere.else/?id=5";
 > let info;
@@ -122,96 +121,100 @@ The alternative approach can be as follows.
 > });
 > document.getElementById('output').innerHTML = info.name;
 > ```
-> `info` receives data from server response, but `output`
-> element doesn't get updated as expected. What is my mistake?
+> `info` отримує дані з відповіді сервера, але елемент `output`
+> не оновлюється, як мав би. У чому моя помилка?
 
-The fragment above provides required and sufficient context
-and experienced developer will figure out the problem instantly.
+Фрагмент вище надає необхідний контекст і досвідчений розробник вирішить
+проблему миттєво.
 
-This approach requires a bit more efforts from the poster
-namely copy-pasting a code fragment. But the response rate
-will be much higher.
+Такий підхід вимагає трішки більше зусиль від того хто задає питання, а саме
+скопіювати та вставити фрагмент коду. Але це значно підвищить шанс отримання
+відповіді.
 
-[_^ back to TOC^_](#table-of-contents)
+[_^ назад до змісту ^_](#table-of-contents)
 
-#### Approach 3 (complex issue)
+#### Підхід 3 (комплексна проблема)
 
-What if the fragment is way too big and also
-UI render required to see the issue clearly?
+Що якщо фрагмент коду занадто великий і щоб добре побачити проблему потрібно
+відтворити її у інтерфейсі?
 
-Publish a [codepen](https://codepen.io/) or use
-any other [similar service](#front-end-specific-tools-to-use).
+Опублікуйте [codepen](https://codepen.io/) або використайте
+[схожий сервіс](#front-end-specific-tools-to-use).
 
-Then post the link and your comments and question
-to a community chat.
+Після цього відправте посилання на код та коментарі з запитаннм до чату
+спільноти.
 
-[_^ back to TOC^_](#table-of-contents)
+[_^ назад до змісту ^_](#table-of-contents)
 
-#### Approach 4 (even more complex issue)
+#### Підхід 4 (ще більш комплексна проблема)
 
-What if the project is way too big for codepen
-and you cannot extract a part of it to build proper
-visualization?
+Що якщо проект занадто великий для використання codepen і ви не можете
+виокремити його частину для нормального відображення проблеми?
 
-Just open a [draft pull request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
-for the code review!
-That's what draft pull requests can be efficiently used for.
+Створіть [pull request-чернетку](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
+для перегляду коду!
 
-You can open a PR in your own repository.
-Put your code fragment in a dedicated branch, push,
-publish the project (on e.g. GitHub Pages) and invite
-others to review your code.
+Це одна з ситуацій, в яких такі pull request-чернетки можуть бути використані.
 
-You may need to involve them as collaborators via
-project settings. So, invite only those you trust,
-and make sure they want to be invited.
+Ви можете відкрити PR в вашому власному репозиторії.
+Розмістіть фрагмент коду з помилкою у окрему гілку, опублікуйте проект
+(наприклад, на GitHub Pages) та запросіть інших переглянути ваш код.
 
-[_^ back to TOC^_](#table-of-contents)
+Вам можливо знадобиться долучити їх як співпрацівників через налаштування проекту.
+Так що, запрошуйте тільки тих кому ви довіряєте, та тих хто хоче щоб їх запросили.
 
-### Front-End Specific Tools To Use
+[_^ назад до змісту ^_](#table-of-contents)
 
-**IF YOU USE ONE OF THESE TOOLS TO DISPLAY YOUR CODE YOU WILL GET MORE QUICK ANSWER.**
+
+### Інструменти для використання з Front-End
+
+**ЯКЩО ВИ ВИКОРИСТАЄТЕ ЦІ ІНСТРУМЕНТИ ДЛЯ ВІДОБРАЖЕННЯ ВАШОГО КОДУ ВИ ЗМОЖЕТЕ ШВИДШЕ ОТРИМАТИ ВІДПОВІДЬ.**
 - **[CodePen](https://codepen.io/)**
 - **[repl.it](https://repl.it/)**
 - **[jsconsole](https://jsconsole.com/?q=console.log(%27AA%27))**
 
-[_^ back to TOC^_](#table-of-contents)
+[_^ назад до змісту ^_](#table-of-contents)
 
-## Where To Ask
+## Де Задати Питання
 
-1. [FE Students | Kottans](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA) - chat for students, where you can discuss anything related to the current course
-1. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need a help of one of the mentors, or maybe from all of them simultaneously, you can ask it there
+<!-- TODO: list chats -->
 
-:heavy_exclamation_mark:_Please do **NOT** write code in the chat if this is more than 5 lines_:heavy_exclamation_mark:
+:heavy_exclamation_mark:_Будь ласка, **НЕ** відправляйте в чати код, що займає більше 5 рядків_:heavy_exclamation_mark:
 
-Use [online services](#front-end-specific-tools-to-use) to post code instead.
 
-:heavy_exclamation_mark:_Please do **NOT** post code as screenshots
-as this may require your readers to re-type the code
-to see how it would work_:heavy_exclamation_mark:
+Використайте [online сервіси](#front-end-specific-tools-to-use) для цього.
 
-Many chat apps (e.g. Telegram) support markdown.
-Put your code between `` ``` `` and `` ``` ``
-(two rows containing triple backticks) to have
-your code properly formatted.
-`Shift` or `Alt` plus `Enter` keys allow you to write
-multi-line chat message.
+:heavy_exclamation_mark:_Будь ласка, **НЕ** відправляйте свій код у вигляді скріншотів,
+тому що це може змусити читачів передрукувати код,
+щоб побачити як він працює_:heavy_exclamation_mark:
 
-[_^ back to TOC^_](#table-of-contents)
+Більшість чат-додатків (наприклад, Telegram) підтримують Markdown.
+Розташуйте ваш код між `` ``` `` та `` ``` ``
+(два рядка, що містять зворотні галочки (backtick)), щоб ваш код був коректно
+відформатований (приклад нижче).
+```md
+    ```
+    <!-- ваш код -->
+    ```
+```
 
-## Further Readings On The Topic
 
-If you want to know more details on the topic
-or see how other sources discover it and what
-they highlight on, consider reading any of the
-below materials:
+Клавіши `Shift` або `Alt` разом з `Enter` дозволять вам писати повідомлення, що
+складаються з декількох рядків.
+
+[_^ назад до змісту ^_](#table-of-contents)
+
+## Додаткові Матеріали
+
+Якщо ви хочете дізнатись більше деталей на цю тему
+або побачити інші ресурси, зверніть увагу на наступні матеріали:
 
 - [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) -
-  classics; :warning: suggests outdated tool, so be smart
-  and just use contemporary replacement tools as appropriate
+  класика; :warning: пропонує застарілий інструмент, тому будьте розумні
+  та просто коректно використовуйте заміни
 - [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask) -
-  the official Stack Overflow guide (5 minutes reading time)
+  офіційний гайд Stack Overflow (5 хвилин читання)
 - [Ten Tips For Asking Good Questions](https://www.dummies.com/careers/find-a-job/interviews/ten-tips-for-asking-good-questions/) -
-  a really general guide yet applicable in any domain
+  загальний гайд, але можна застосовувати будь-де
 
-[_^ back to TOC^_](#table-of-contents)
+[_^ назад до змісту ^_](#table-of-contents)
