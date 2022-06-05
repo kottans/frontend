@@ -1,7 +1,7 @@
-# HOW TO ASK QUESTIONS
-_How To Get Help Like A Boss_
+# ЯК ЗАДАВАТИ ПИТАННЯ
+_Як Отримати Допомогу Наче Босс_
 
-:heavy_exclamation_mark:**PLEASE READ FULLY**:heavy_exclamation_mark:
+:heavy_exclamation_mark:**БУДЬ ЛАСКА ПРОЧИТАЙТЕ ПОВНІСТЮ**:heavy_exclamation_mark:
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -25,90 +25,87 @@ _How To Get Help Like A Boss_
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
 
-## INTRO
-In the world of hackers, the kind of answers you get to your technical questions depends as much on the way you ask the questions as on the difficulty of developing the answer. This guide will teach you how to ask questions in a way more likely to get you a satisfactory answer.
+## ВСТУП
+У світі хакерів, відповіді, які ви отримаєте на свої технічні запитання, настільки ж залежать від того як саме ви задасте своє питання, як і від складності формулювання цієї відповіді. Цей гайд навчить вас як задавати питання так, щоб з найбільшим шансом отримати відповідь яка вас задовольнить.
 
-**It sometimes looks like we're reflexively rude to newbies and the ignorant. But this isn't really true. Please try to ask good questions :smile_cat:**
+**Іноді може здаватись що ми відштовхуюче грубі з новачками, або приділяємо їм мало уваги. Але насправді це зовсім не так. Будь ласка, спробуйте краще задати питання :smile_cat:**
 
-## General Structure Of The Question
+## Загальна Структура Питання
 
-It is important to give your audience the proper context.
-Luckily delivering context in software engineering
-is much simpler than in many other fields.
+Дуже важливо надавати своїй аудиторії належний контекст. На щастя, надання контексту у програмуванні набагато простіше ніж в інших сферах.
 
-_To get the best feedback on your issue,
-please, follow the structure of asking below.
-Of course wording can be different from suggested,
-depending on your particular situation_
+_Щоб надати зворотній зв'язок за вашим питанням, будь ласка, використовуйте структуру запитів, що наведена нижче. Авжеж, конкретні слова не повинні бути такими самими, все залежить від вашої ситуації._
 
-1. I am doing ..... (e.g. task name
-   and a link to the complete task description)
-1. I want to... (achieve something, e.g. have an element on a web page to float above other elements)
-1. I tried this... (code fragment, or codepen with minimal yet sufficient code fragment to reproduce the issue)
-1. How do I....? / What did I miss?
 
-[_^ back to TOC^_](#table-of-contents)
+1. Я виконую ..... (наприклад, назва завдання та посилання на опис завдання).
+1. Я хочу ..... (досягти чогось, наприклад зробити так, щоб один елемент на сторінці був поверх усіх інших).
+1. Я спробував це ..... (фрагмент коду, [codepen](https://codepen.io/) з мінімальним але основним шматком коду, який дозволяє відтворити проблему).
+1. Як мені це зробити? / Що я пропустив?
 
-## Before You Ask
-Before asking a question, do the following:
 
-1. If your question is about course - [FAQ](https://github.com/kottans/frontend/blob/master/faq.md).
-1. If your question is about tasks -  good place to ask is either of our [chats](#where-to-ask).
-1. If question is about JS or HTML/CSS - search Web, [MDN](https://developer.mozilla.org), etc.
-1. Also you can find an answer by inspection or experimentation.
-1. You're a programmer! So try to find an answer by reading the source code.
+[_^ назад до змісту ^_](#table-of-contents)
 
-When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time. Better yet, display what you have learned from doing these things. We like answering questions for people who have demonstrated they can learn from the answers.
+## Перед Тим Як Питати
+Перед тим як задати питання, виконайте наступне:
 
-Take your time. Do not expect to be able to solve a complicated problem with a few seconds of Googling. Sit back, grab a cup of tea, relax and give the problem some thought before approaching experts. Trust us, they will be able to tell from your questions how much reading and thinking you did, and will be more willing to help if you come prepared. Don't instantly fire your whole arsenal of questions just because your first search turned up no answers (or too many).
+1. Якщо ваше питання про курс - [FAQ](https://github.com/kottans/frontend/blob/master/faq.md).
+1. Якщо ваше питання про вправи - гарним місцем запитати може бути якийсь з наши [чатів](#where-to-ask).
+1. Якщо ваше питання про JS або HTML/CSS - пошукайте в Інтернеті, [MDN](https://developer.mozilla.org) тощо.
+1. Ви також можете самі знайти відповіть методом експериментування та дослідження.
+1. Ви програміст! Спробуйте знайти відповіть читаючи вихідний код.
 
-Prepare your question. Think it through. Hasty-sounding questions get hasty answers, or none at all. The more you do to demonstrate that having put thought and effort into solving your problem before seeking help, the more likely you are to actually get help.
+Коли ви задаєте питання, покажіть, що ви спочатку спробували ці методи; це допоможе показати, що ви не лінитесь та не гаєте свій час та час інших.
+Що навіть краще, покажіть чому ви навчились, виконуючи ці речі. Нам подобається відповідати на питання людей, які демонструють що вони зможуть навчитись з цих відповідей.
 
-**Remember, [there is no such thing as a stupid question.](https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question)**:wink:
+Не поспішайте. Не очікуйте, що вдасться вирішити складну проблему парою секунд Гуглінгу. Розслабтесь, візміть чашку чаю та добряче подумайте над проблемою перш ніж турбувати експертів. Повірте, вони зможуть по вашому питанню зрозуміти наскільки багато читання та розмірковування у вас пішло на задачу, та захочуть допомогти, якщо побачать що ви прийшли підготовленими. Не вистрілюйте весь свій арсенал питань просто тому що ваш перший пошуковий запит не видав вам жодних відповідей (або забагато відповідей).
 
-[_^ back to TOC^_](#table-of-contents)
+Підготовте ваше питання. Продумайте його. Поспішні питання отримують поспішні відповіді, або зовсім ніяких. Чим більше ви покажете, що ви подумали над проблемою, та додали до неї зусиль перед тим як шукати допомоги, тим більше шанс того що ви її отримаєте.
 
-## When You Ask
-- **Write in clear, grammatical, correctly-spelled language**
-- **Use [Stack Overflow](https://stackoverflow.com/)** 
+**Пам'ятайте, [немає такої речі як дурне питання.](https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question)**:wink:
 
-    _There are many similar questions, so try [SEARCH](https://stackoverflow.com/search?q=) first and then Ask._
+[_^ назад до змісту ^_](#table-of-contents)
 
-- **Be precise and informative about your problem**
+## Коли Ви Питаєте
 
-     Describe the symptoms of your problem or bug carefully and clearly.
-     
-     Describe the environment in which it occurs (for example a browser).
-     
-     Describe the research you did to try and understand the problem before you asked the question.
-     
-     Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
+- **Пишіть граматично вірно, без помилок, чистою мовою**
+- **Використайте [Stack Overflow](https://stackoverflow.com/)**
 
-- **Describe the problem's symptoms, not your guesses**
+  _Існує безліч схожих питань, так що спробуйте спочатку [ПОШУК](https://stackoverflow.com/search?q=), а потім вже питайте._
 
-- **Be explicit about your question**
+- **Точно та інформативно опишіть свою проблему**
 
-[_^ back to TOC^_](#table-of-contents)
+  Опишіть симптоми вашої проблеми або багу детально та зрозуміло.
 
-### Approaches examples
+  Опишіть оточення в якому відтворюється проблема (наприклад браузер).
 
-#### Approach 1 (bad)
+  Опишіть дослідження які ви зробили щоб спробувати зрозуміти проблему перед тим як задавати питання.
 
-A question like
-> I am trying to fetch data from server and
-> publish it on a web page, but nothing happens.
-> What am I doing wrong?
+  Опишіть кроки які ви зробили щоб розібратись з проблемою самостійно.
 
-requires too many clarifications and therefore
-can be ignored by community.
+- **Опишіть симптоми проблеми, а не ваші здогадки.**
 
-[_^ back to TOC^_](#table-of-contents)
+- **Відкрито задавайте ваше питання.**
 
-#### Approach 2 (good)
+[_^ назад до змісту ^_](#table-of-contents)
 
-The alternative approach can be as follows.
+### Приклади Підходів
 
-> I am trying to fetch data from a server like this.
+#### Підхід 1 (поганий)
+
+Питання накшталт
+> Я намагаюсь дістати дані з сервера та
+> відтворити їх на веб сторінці, але нічого не відбувається.
+> Що я роблю не так?
+
+потребують забагато уточнень, тому можуть бути проігноровані спільнотою.
+
+[_^ назад до змісту ^_](#table-of-contents)
+
+#### Підхід 2 (гарний)
+
+Альтернативних підхід наведено нижче.
+
+> Я намагаюсь дістати дані з сервера наступним чином.
 > ```
 > const query = "https://api.somewhere.else/?id=5";
 > let info;
@@ -124,96 +121,100 @@ The alternative approach can be as follows.
 > });
 > document.getElementById('output').innerHTML = info.name;
 > ```
-> `info` receives data from server response, but `output`
-> element doesn't get updated as expected. What is my mistake?
+> `info` отримує дані з відповіді сервера, але елемент `output`
+> не оновлюється, як мав би. У чому моя помилка?
 
-The fragment above provides required and sufficient context
-and experienced developer will figure out the problem instantly.
+Фрагмент вище надає необхідний контекст і досвідчений розробник вирішить
+проблему миттєво.
 
-This approach requires a bit more efforts from the poster
-namely copy-pasting a code fragment. But the response rate
-will be much higher.
+Такий підхід вимагає трішки більше зусиль від того хто задає питання, а саме
+скопіювати та вставити фрагмент коду. Але це значно підвищить шанс отримання
+відповіді.
 
-[_^ back to TOC^_](#table-of-contents)
+[_^ назад до змісту ^_](#table-of-contents)
 
-#### Approach 3 (complex issue)
+#### Підхід 3 (комплексна проблема)
 
-What if the fragment is way too big and also
-UI render required to see the issue clearly?
+Що якщо фрагмент коду занадто великий і щоб добре побачити проблему потрібно
+відтворити її у інтерфейсі?
 
-Publish a [codepen](https://codepen.io/) or use
-any other [similar service](#front-end-specific-tools-to-use).
+Опублікуйте [codepen](https://codepen.io/) або використайте
+[схожий сервіс](#front-end-specific-tools-to-use).
 
-Then post the link and your comments and question
-to a community chat.
+Після цього відправте посилання на код та коментарі з запитаннм до чату
+спільноти.
 
-[_^ back to TOC^_](#table-of-contents)
+[_^ назад до змісту ^_](#table-of-contents)
 
-#### Approach 4 (even more complex issue)
+#### Підхід 4 (ще більш комплексна проблема)
 
-What if the project is way too big for codepen
-and you cannot extract a part of it to build proper
-visualization?
+Що якщо проект занадто великий для використання codepen і ви не можете
+виокремити його частину для нормального відображення проблеми?
 
-Just open a [draft pull request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
-for the code review!
-That's what draft pull requests can be efficiently used for.
+Створіть [pull request-чернетку](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
+для перегляду коду!
 
-You can open a PR in your own repository.
-Put your code fragment in a dedicated branch, push,
-publish the project (on e.g. GitHub Pages) and invite
-others to review your code.
+Це одна з ситуацій, в яких такі pull request-чернетки можуть бути використані.
 
-You may need to involve them as collaborators via
-project settings. So, invite only those you trust,
-and make sure they want to be invited.
+Ви можете відкрити PR в вашому власному репозиторії.
+Розмістіть фрагмент коду з помилкою у окрему гілку, опублікуйте проект
+(наприклад, на GitHub Pages) та запросіть інших переглянути ваш код.
 
-[_^ back to TOC^_](#table-of-contents)
+Вам можливо знадобиться долучити їх як співпрацівників через налаштування проекту.
+Так що, запрошуйте тільки тих кому ви довіряєте, та тих хто хоче щоб їх запросили.
 
-### Front-End Specific Tools To Use
+[_^ назад до змісту ^_](#table-of-contents)
 
-**IF YOU USE ONE OF THESE TOOLS TO DISPLAY YOUR CODE YOU WILL GET MORE QUICK ANSWER.**
+
+### Інструменти для використання з Front-End
+
+**ЯКЩО ВИ ВИКОРИСТАЄТЕ ЦІ ІНСТРУМЕНТИ ДЛЯ ВІДОБРАЖЕННЯ ВАШОГО КОДУ ВИ ЗМОЖЕТЕ ШВИДШЕ ОТРИМАТИ ВІДПОВІДЬ.**
 - **[CodePen](https://codepen.io/)**
 - **[repl.it](https://repl.it/)**
 - **[jsconsole](https://jsconsole.com/?q=console.log(%27AA%27))**
 
-[_^ back to TOC^_](#table-of-contents)
+[_^ назад до змісту ^_](#table-of-contents)
 
-## Where To Ask
+## Де Задати Питання
 
-1. [FE Students | Kottans](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA) - chat for students, where you can discuss anything related to the current course
-1. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - if you need a help of one of the mentors, or maybe from all of them simultaneously, you can ask it there
+<!-- TODO: list chats -->
 
-:heavy_exclamation_mark:_Please do **NOT** write code in the chat if this is more than 5 lines_:heavy_exclamation_mark:
+:heavy_exclamation_mark:_Будь ласка, **НЕ** відправляйте в чати код, що займає більше 5 рядків_:heavy_exclamation_mark:
 
-Use [online services](#front-end-specific-tools-to-use) to post code instead.
 
-:heavy_exclamation_mark:_Please do **NOT** post code as screenshots
-as this may require your readers to re-type the code
-to see how it would work_:heavy_exclamation_mark:
+Використайте [online сервіси](#front-end-specific-tools-to-use) для цього.
 
-Many chat apps (e.g. Telegram) support markdown.
-Put your code between `` ``` `` and `` ``` ``
-(two rows containing triple backticks) to have
-your code properly formatted.
-`Shift` or `Alt` plus `Enter` keys allow you to write
-multi-line chat message.
+:heavy_exclamation_mark:_Будь ласка, **НЕ** відправляйте свій код у вигляді скріншотів,
+тому що це може змусити читачів передрукувати код,
+щоб побачити як він працює_:heavy_exclamation_mark:
 
-[_^ back to TOC^_](#table-of-contents)
+Більшість чат-додатків (наприклад, Telegram) підтримують Markdown.
+Розташуйте ваш код між `` ``` `` та `` ``` ``
+(два рядка, що містять зворотні галочки (backtick)), щоб ваш код був коректно
+відформатований (приклад нижче).
+```md
+    ```
+    <!-- ваш код -->
+    ```
+```
 
-## Further Readings On The Topic
 
-If you want to know more details on the topic
-or see how other sources discover it and what
-they highlight on, consider reading any of the
-below materials:
+Клавіши `Shift` або `Alt` разом з `Enter` дозволять вам писати повідомлення, що
+складаються з декількох рядків.
+
+[_^ назад до змісту ^_](#table-of-contents)
+
+## Додаткові Матеріали
+
+Якщо ви хочете дізнатись більше деталей на цю тему
+або побачити інші ресурси, зверніть увагу на наступні матеріали:
 
 - [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) -
-  classics; :warning: suggests outdated tool, so be smart
-  and just use contemporary replacement tools as appropriate
+  класика; :warning: пропонує застарілий інструмент, тому будьте розумні
+  та просто коректно використовуйте заміни
 - [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask) -
-  the official Stack Overflow guide (5 minutes reading time)
+  офіційний гайд Stack Overflow (5 хвилин читання)
 - [Ten Tips For Asking Good Questions](https://www.dummies.com/careers/find-a-job/interviews/ten-tips-for-asking-good-questions/) -
-  a really general guide yet applicable in any domain
+  загальний гайд, але можна застосовувати будь-де
 
-[_^ back to TOC^_](#table-of-contents)
+[_^ назад до змісту ^_](#table-of-contents)
