@@ -78,7 +78,9 @@
 
 Для вашого комфорту ми створили декілька telegram-чатів:
 
-<!-- TODO: Telegram chat links -->
+1. [FE Students | Kottans](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA) - чат для студентів, де ви можете обговорювати будь-що пов'язане із цим курсом 
+1. [FE Questionarium | Kottans](https://t.me/joinchat/DmX0JAl-mh5W0jrWli8Ycw) - якщо ви потребуєте допомоги одного із менторів або допомоги усього менторського складу, ви можете попросити про це у цьому чаті
+1. [Kottans Radio](https://t.me/radio_kottans) - наш канал із корисними посиланнями та дивовижними статтями ;)
 
 ### Питання?
 
