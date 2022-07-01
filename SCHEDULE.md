@@ -9,7 +9,7 @@ xx.xx.2022|12:00|HTML/CSS, JS DOM | DOM and Layout Trees|Nastia M|||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Cookies(печеньки), document.cookie, how browser works 101||||||
 xx.xx.2022|12:00|YDKJS|Scope, Closure||||||
 xx.xx.2022|12:00|YDKJS|Objects & this||||||
-xx.xx.2022|12:00|YDKJS|Prototype||||||
+xx.xx.2022|12:00|YDKJS|Prototype|Nastia M.|||||
 xx.xx.2022|12:00|YDKJS|Types Grammar||||||
 xx.xx.2022|12:00|YDKJS|Callback/Promise||||||
 xx.xx.2022|12:00|YDKJS|Async/Await||||||
