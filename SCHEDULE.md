@@ -11,9 +11,9 @@ xx.xx.2022|12:00|YDKJS|Scope, Closure||||||
 xx.xx.2022|12:00|YDKJS|Objects & this|Oleksii B.|||||
 xx.xx.2022|12:00|YDKJS|Prototype|Nastia M.|||||
 xx.xx.2022|12:00|YDKJS|Types Grammar||||||
-xx.xx.2022|12:00|YDKJS|Callback/Promise||||||
-xx.xx.2022|12:00|YDKJS|Async/Await||||||
-xx.xx.2022|12:00|YDKJS|ESNext API/Generators||||||
+xx.xx.2022|12:00|YDKJS|Callback/Promise|Listochkin|||||
+xx.xx.2022|12:00|YDKJS|Async/Await|Listochkin|||||
+xx.xx.2022|12:00|YDKJS|ESNext API/Generators|Listochkin|||||
 xx.xx.2022|12:00|Framework|Побудова структури додатку, бізнес-процеси||||||
 xx.xx.2022|12:00|Framework|Рекурсії для рендерінгу елементів|Nasia M.|||||
 xx.xx.2022|12:00|Framework|Networking. Використання зовнішніх даних у додатку|Oleksii B.|||||
