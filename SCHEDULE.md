@@ -7,7 +7,7 @@ xx.xx.2022|12:00|HTML/CSS, JS DOM | Стандарти W3C and WHATWG, Розм�
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Графіка в інтернеті, А11Y та форми, робота з контентом||||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | DOM and Layout Trees|Nastia M|||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Cookies(печеньки), document.cookie, how browser works 101|Oleksii B.|||||
-xx.xx.2022|12:00|YDKJS|Scope, Closure||||||
+xx.xx.2022|12:00|YDKJS|Scope, Closure|[Roman H.](https://github.com/Roman-Halenko)|||||
 xx.xx.2022|12:00|YDKJS|Objects & this|Oleksii B.|||||
 xx.xx.2022|12:00|YDKJS|Prototype|Nastia M.|||||
 xx.xx.2022|12:00|YDKJS|Types Grammar||||||
