@@ -5,20 +5,20 @@
 xx.xx.2022|12:00| |Вступна лекція до курсу||||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Стандарти W3C and WHATWG, Розмітка HTML, Вступ в CSS, Сітки||||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Графіка в інтернеті, А11Y та форми, робота з контентом||||||
-xx.xx.2022|12:00|HTML/CSS, JS DOM | DOM and Layout Trees|Nastia M|||||
+xx.xx.2022|12:00|HTML/CSS, JS DOM | DOM and Layout Trees|[Nastia M.](https://github.com/AMashoshyna)|||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Cookies(печеньки), document.cookie, how browser works 101|Oleksii B.|||||
 xx.xx.2022|12:00|YDKJS|Scope, Closure|[Roman H.](https://github.com/Roman-Halenko)|||||
 xx.xx.2022|12:00|YDKJS|Objects & this|Oleksii B.|||||
-xx.xx.2022|12:00|YDKJS|Prototype|Nastia M.|||||
+xx.xx.2022|12:00|YDKJS|Prototype|[Nastia M.](https://github.com/AMashoshyna)|||||
 xx.xx.2022|12:00|YDKJS|Types Grammar||||||
-xx.xx.2022|12:00|YDKJS|Callback/Promise|Listochkin|||||
-xx.xx.2022|12:00|YDKJS|Async/Await|Listochkin|||||
-xx.xx.2022|12:00|YDKJS|ESNext API/Generators|Listochkin|||||
+xx.xx.2022|12:00|YDKJS|Callback/Promise|[Listochkin](https://github.com/listochkin)|||||
+xx.xx.2022|12:00|YDKJS|Async/Await|[Listochkin](https://github.com/listochkin)|||||
+xx.xx.2022|12:00|YDKJS|ESNext API/Generators|[Listochkin](https://github.com/listochkin)|||||
 xx.xx.2022|12:00|Framework|Побудова структури додатку, бізнес-процеси||||||
-xx.xx.2022|12:00|Framework|Рекурсії для рендерінгу елементів|Nasia M.|||||
+xx.xx.2022|12:00|Framework|Рекурсії для рендерінгу елементів|[Nastia M.](https://github.com/AMashoshyna)|||||
 xx.xx.2022|12:00|Framework|Networking. Використання зовнішніх даних у додатку|Oleksii B.|||||
 xx.xx.2022|12:00|Framework|Маштабування додатку||||||
-xx.xx.2022|12:00|Framework|Ефекти, події, їх місце у життєвому циклі|Nasia M.|||||
+xx.xx.2022|12:00|Framework|Ефекти, події, їх місце у життєвому циклі|[Nastia M.](https://github.com/AMashoshyna)|||||
 xx.xx.2022|12:00|Framework|Потоки даних. Стан додатку||||||
 xx.xx.2022|12:00|Framework|Upgrade додатку до сучасного стану||||||
 xx.xx.2022|12:00|Typescript|Вступ. Базові типи|Oleksii Nelin|||||
