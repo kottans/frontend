@@ -2,7 +2,7 @@
 
 | Date | Time | Module | Topic | Lecturer | Summary | Slides | Video | Home task |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-xx.xx.2022|12:00| |Вступна лекція до курсу||||||
+xx.xx.2022|12:00| |Вступна лекція до курсу|[Artem Sychov](https://github.com/suchov)|||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Стандарти W3C and WHATWG, Розмітка HTML, Вступ в CSS, Сітки|Kampov V|||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Графіка в інтернеті, А11Y та форми, робота з контентом|Kampov V|||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | DOM and Layout Trees|[Nastia M.](https://github.com/AMashoshyna)|||||
