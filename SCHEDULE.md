@@ -10,7 +10,7 @@ xx.xx.2022|12:00|HTML/CSS, JS DOM | Cookies(печеньки), document.cookie, 
 xx.xx.2022|12:00|YDKJS|Scope, Closure|[Roman H.](https://github.com/Roman-Halenko)|||||
 xx.xx.2022|12:00|YDKJS|Objects & this|[Oleksii B.](https://github.com/Roophee)|||||
 xx.xx.2022|12:00|YDKJS|Prototype|[Nastia M.](https://github.com/AMashoshyna)|||||
-xx.xx.2022|12:00|YDKJS|Types Grammar||||||
+xx.xx.2022|12:00|YDKJS|Types Grammar|[Vladyslav Z.](https://github.com/what1s1ove)|||||
 xx.xx.2022|12:00|YDKJS|Callback/Promise|[Listochkin](https://github.com/listochkin)|||||
 xx.xx.2022|12:00|YDKJS|Async/Await|[Listochkin](https://github.com/listochkin)|||||
 xx.xx.2022|12:00|YDKJS|ESNext API/Generators|[Listochkin](https://github.com/listochkin)|||||
