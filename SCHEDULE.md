@@ -26,4 +26,4 @@ xx.xx.2022|12:00|Typescript|Advanced types и computed types 101||||||
 xx.xx.2022|12:00|Typescript|TypeScript TypeChallenges||||||
 xx.xx.2022|12:00|Typescript|TypeScript + ESlint Configuration Lecture||||||
 xx.xx.2022|12:00|Typescript|TS infrastructure||||||
-xx.xx.2022|12:00||Випускний||||||
+xx.xx.2022|12:00| |Випускний|[Artem Sychov](https://github.com/suchov)|||||
