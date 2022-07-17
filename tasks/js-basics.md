@@ -13,7 +13,7 @@
 1. Вправи FreeCodeCamp. Заповніть наведені нижче модулі та збережіть знімки екрана для кожного модуля.
    Використовуйте підказки, доступні на freecodecamp під час кожної вправи, як перший засіб, коли ви відчуваєте, що застрягли.
    Іншими допоміжними інструментами є матеріали з розділу **Додаткові матеріали** нижче
-   та студентьский чат, щоб задати будь-які запитання та звернутися за допомогою.
+   та студентський чат, щоб задати будь-які запитання та звернутися за допомогою.
    - [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/) -
      Basic JavaScript language features. ~100 невеликі вправи, на виконання 2-3 години.
    - [ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) -
@@ -37,7 +37,7 @@
 
 Після завершення виконайте наступне:
 1. Зробіть скріншот своїх завершених уроків
-   і помістіть його в папку `task_js_basics`
+   і помістіть його в теку `task_js_basics`
    вашого репо `kottans-frontend`
 1. В вашому `kottans-frontend` репо `README.md`:
    - додайте заголовок `## JS Basics`
@@ -56,13 +56,11 @@
 
 ## Додаткові матеріали
 
-- [Курс "Введение в программирование" от Hexlet](https://ru.hexlet.io/courses/introduction_to_programming)
 - [FunFunFunction - Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - [Algorithms Course by Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [JavaScript Algorithms and Data Structures examples](https://github.com/trekhleb/javascript-algorithms)
-- [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) /
-- [Вы не знаете JS: Начните и Совершенствуйтесь](https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going)
+- [You Don't Know JS Yet: Get Started - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)
 - [JavaScript Equality Table Game](https://eqeq.js.org/)
 - [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
 

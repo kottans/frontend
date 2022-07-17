@@ -32,7 +32,7 @@
 
 Після завершення виконайте наступне:
 1. Зробіть скріншот своїх завершених уроків з (1)
-   і помістіть скріншот в папку `task_linux_cli`
+   і помістіть скріншот в теку `task_linux_cli`
    вашого репо `kottans-frontend`.
 1. В вашому `kottans-frontend` репо `README.md`:
    - додайте заголовок `## Linux CLI, and HTTP`
@@ -43,7 +43,7 @@
    опублікувати повідомлення в [course channel][chat]:
    `Linux CLI and HTTP — #done` (або `Linux CLI and HTTP — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
 1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
-    Якщо ви вважаєте, що це впливає на вашу загальну ефективність курсу, подумайте щоб
+    Якщо ви вважаєте, що це вплине на вашу загальну ефективність курсу, подумайте над тим, щоб
     повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
 1. Ви можете пропустити опціональні матеріали з цього завдання (якщо такі є).
 
@@ -51,7 +51,6 @@
 
 ## Додаткові матеріали
 
-- [Основы командной строки Hexlet [rus]](https://ru.hexlet.io/courses/cli-basics)
 - [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
 - [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
 
