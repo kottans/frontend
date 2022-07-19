@@ -84,7 +84,7 @@ __Congratulations! 🎉__
 - [ ] Ви виконали всі обов’язкові завдання?
 - [ ] Перевірені практичні завдання та
       PR змержені в
-      [frontend-2021-homeworks](https://github.com/kottans/frontend-2021-homeworks)
+      [frontend-2022-homeworks](https://github.com/kottans/frontend-2022-homeworks)
       repo `master`?
 
 Ви закінчили __Stage 0__ курсу!
