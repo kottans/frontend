@@ -47,4 +47,4 @@ _Якщо ви редагуєте файл через інтерфейс GitHub,
 
 ||Дата|Профіль Telegram|Репозиторій курсу|З|П|Н|Коментар студента|Коментар менторів|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|1|2020-10-27|[@shramkoweb](https://t.me/shramkoweb)|[Shramkoweb](https://github.com/Shramkoweb/kottans-frontend)|6|7|0|||
+|0|2020-10-27|[@shramkoweb](https://t.me/shramkoweb)|[Shramkoweb](https://github.com/Shramkoweb/kottans-frontend)|6|7|0|||
