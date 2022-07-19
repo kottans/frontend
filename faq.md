@@ -31,7 +31,7 @@
 ## Як зрозуміти, що набір вже завершено?
 Коли набереться ~30 студентів, що пройшли на Stage1, буде створено відповідний пост про перехід курсу на Stage1.
 
-Список фіналістів Stage0 - [https://github.com/kottans/frontend/blob/2022_UA/students/stage0-finishers.md](https://github.com/kottans/frontend/blob/2022_UA/students/stage0-finishers.md).
+Список фіналістів Stage0 - [тут](students/stage0-finishers.md).
 
 ## Що я отримаю, якщо пройду в Stage1?
 - Доступ до закритого чату студентів, що пройшли на Stage1
@@ -53,7 +53,7 @@
 Ви можете шукати собі study buddy в будь-яких чатах Kottans, або залишити повідомлення в спеціально виділеному чаті - [https://t.me/+45y9dB2iV3JkNDMy](https://t.me/+45y9dB2iV3JkNDMy)
 
 # Я готовий, що робити?
-Ласкаво просимо до [завдань](https://github.com/kottans/frontend/blob/2022_UA/contents.md)
+Ласкаво просимо до [завдань](contents.md)
 
 ## Нагадування
 1. Нам за це ніхто не сплачує
