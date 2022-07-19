@@ -25,15 +25,15 @@
  1. Опишіть свої враження від вивченого матеріалу.
 
  1. Надішліть pull-request сюди [Kottans/mock-repo][mock-repo] пропонуючи зміни.
- 
+
     **Як зробити pull-request**
- 
+
     - Форкніть цей репозиторій [Kottans/mock-repo][mock-repo]
     - Клонуйте свій форк локально на свій комп'ютер: `git clone https://github.com/YOUR_USERNAME/mock-repo.git`
     - Додайте цей репозиторій [Kottans/mock-repo][mock-repo] як upstream: git remote add upstream `https://github.com/kottans/mock-repo.git`
     - `git checkout master` і потім створіть нову гілку, ім'я на ваш роздум (aka feature branch): `git checkout -b BRANCH_NAME`.
     - Внесіть деякі зміни до свого локального сховища. Це може бути що завгодно, насправді. Якщо ви знайшли помилку в README - чудово!
-    Подбайте про те, щоб дати своєму PR значуще ім’я та опис.
+    Подбайте про те, щоб дати своєму PR значуще (осмислене) ім’я та опис.
     - Внесіть зміни до новоствореної гілки (Сommit)
     - Перейдіть до гілки master: `git checkout master`
     - Витягніть останні зміни з гілки upstream master: `git pull upstream master`
