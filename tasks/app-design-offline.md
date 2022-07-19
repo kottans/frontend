@@ -12,9 +12,9 @@
 Якщо ви вирішите виконати завдання, то
 після завершення зробіть наступне:
 1. Зробіть скріншот своїх завершених уроків
-   і помістіть його в папку `task_offline_web_app`
+   і помістіть його в теку `task_offline_web_app`
    вашого репо `kottans-frontend`
-1. В вашому `kottans-frontend` репо `README.md`:
+1. У вашому `kottans-frontend` репо `README.md`:
    - додайте заголовок `## Offline Web Applications`
    - додати скріншот або додати посилання на скріншот
    - перерахуйте свої міркування щодо кожного пункту завдання
@@ -26,13 +26,12 @@
    - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
    - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
 1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
-    Якщо ви вважаєте, що це впливає на вашу загальну ефективність курсу, подумайте щоб
+    Якщо ви вважаєте, що це вплине на вашу загальну ефективність курсу, подумайте над тим, щоб
     повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
 1. Ви можете пропустити опціональні матеріали з цього завдання (якщо такі є).
 
 ## Додаткові матеріали
 
-- [15 тривиальных фактов о правильной работе с протоколом HTTP](https://habrahabr.ru/company/yandex/blog/265569/)
 - [How the Internet works](https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org/internet-works-intro/v/what-is-the-internet)
 - [HTTP/2 101 (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=r5oT_2ndjms)
 - [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)

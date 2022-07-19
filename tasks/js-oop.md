@@ -10,7 +10,7 @@
 
 Після завершення виконайте наступне:
 1. Зробіть скріншот своїх завершених уроків (1)
-   і помістіть його в папку `task_js_oop`
+   і помістіть його в теку `task_js_oop`
    вашого репо `kottans-frontend`
 1. В вашому `kottans-frontend` репо `README.md`:
    - додайте заголовок `## Object Oriented JS`
@@ -37,17 +37,12 @@
 ### ООП частина:
 
 - [Understanding ECMAScript 6. Block Bindings](https://leanpub.com/understandinges6/read/#leanpub-auto-block-bindings)
-- [Рoзуміння ECMAScript 6. Розділ "Блочне зв'язування"](https://understandinges6.denysdovhan.com/manuscript/01-Block-Bindings.html)
+- [Розуміння ECMAScript 6. Розділ "Блочне зв'язування"](https://understandinges6.denysdovhan.com/manuscript/01-Block-Bindings.html)
 
 #### YDKJS English:
 
 - [You Don't Know JS series: Scopes and Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
 - [You Don't Know JS series: _this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes)
-
-#### YDKJS рос:
-
-- [Вы не знаете JS: Область видимости и замыкания](https://github.com/azat-io/you-dont-know-js-ru/tree/master/scope%20%26%20closures)
-- [Вы не знаете JS: this и Прототипы Объектов](https://github.com/azat-io/you-dont-know-js-ru/tree/master/this%20%26%20object%20prototypes)
 
 ### Корисні речі:
 
