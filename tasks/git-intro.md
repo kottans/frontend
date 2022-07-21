@@ -7,12 +7,12 @@
 
 Ознайомтеся з Git і GitHub.
 
- 1. Прослухайте курс [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+ 1. Прослухайте курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
    Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
    це допоможе вам краще засвоїти відеокурс.
 
-   ![youtube-CC-guide](../img/youtube-captions.png)
+   ![git_intro-CC-guide](../img/git_intro.png)
 
  1. Пройдіть наступні рівні тут [learngitbranching.js.org](https://learngitbranching.js.org/):
     - Основи: Introduction Sequence
