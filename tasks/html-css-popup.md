@@ -95,7 +95,7 @@
 **Після завершення виконайте наступне:**
 
 1. Для цього завдання вам знадобиться review коду:
-   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2022-homeworks/blob/master/README.md)
    - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
 1. Чудова робота! Діліться своїми досягненнями з іншими –
    опублікувати повідомлення в [course channel][chat]:

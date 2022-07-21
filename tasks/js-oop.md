@@ -5,11 +5,12 @@
 
 # Object-Oriented JavaScript
 
-1. [Object Oriented JS](https://classroom.udacity.com/courses/ud015)
+1. [ООП 1 частина - Класи](https://www.youtube.com/watch?v=jgCiWIdUZ-s&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=40)
+1. [ООП 2 частина - Прототипи](https://www.youtube.com/watch?v=e-3GS5-rak8&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=46)
 1. [Сodewars](https://www.codewars.com/) - зареєструйтеся, приєднайтеся до клану Kottans і досягніть 7 kyu.
 
 Після завершення виконайте наступне:
-1. Зробіть скріншот своїх завершених уроків (1)
+1. Зробіть скріншот своїх завершених уроків
    і помістіть його в теку `task_js_oop`
    вашого репо `kottans-frontend`
 1. В вашому `kottans-frontend` репо `README.md`:
@@ -23,7 +24,7 @@
    опублікувати повідомлення в [course channel][chat]:
    `Object Oriented JS — #done` (або `Object Oriented JS — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
 1. Для цього завдання вам знадобиться review коду:
-   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2022-homeworks/blob/master/README.md)
    - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
 1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
     Якщо ви вважаєте, що це впливає на вашу загальну ефективність курсу, подумайте щоб

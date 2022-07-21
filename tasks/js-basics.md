@@ -5,7 +5,7 @@
 
 # JavaScript Basics
 
-1. [Вступ до JS](https://classroom.udacity.com/courses/ud803)
+1. [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
 
   Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
   це допоможе вам краще засвоїти відеокурс.

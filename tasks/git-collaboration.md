@@ -7,12 +7,12 @@
 
 Виконайте наступне:
 
-1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+1. Прослухайте частини 3 і 4 курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
 Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
 це допоможе вам краще засвоїти відеокурс.
  
-1. Пройдіть наступні рівні [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
+2. Пройдіть наступні рівні [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
    - Основи: Їдемо далі, Переміщуємо роботу туди-сюди
    - Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
     
