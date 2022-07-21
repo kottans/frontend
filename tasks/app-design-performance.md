@@ -9,24 +9,19 @@
 
 #### Прочитайте це:
 
-1. [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
-1. [Website Performance Optimization](https://www.udacity.com/course/ud884)
+1. [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+1. [Website Performance Optimization](https://learn.udacity.com/courses/ud884)
 1. [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
-1. [Browser Rendering Optimization](https://www.udacity.com/course/ud860)
-1. [Responsive Images](https://www.udacity.com/course/ud882)
-1. [Анимации на GPU: делаем это правильно](https://habrahabr.ru/company/odnoklassniki/blog/313978/)
-1. [Пример веб-производительности](https://habrahabr.ru/company/infobox/blog/226289/)
-1. [Асинхронный JavaScript против отложенного](https://habrahabr.ru/post/323790/)
+1. [Browser Rendering Optimization](https://learn.udacity.com/courses/ud860)
+1. [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+1. [Основы производительности](https://developer.mozilla.org/ru/docs/Web/Performance/Fundamentals)
+1. [Lazy loading](https://developer.mozilla.org/ru/docs/Web/Performance/Lazy_loading)
 
 ### Optional inside optional
 
 #### Важливі аспекти роботи браузера для розробників
 
-1. [Важные аспекты работы браузера для разработчиков. Часть 1](https://habrahabr.ru/company/dataart/blog/304138/)
-1. [Важные аспекты работы браузера для разработчиков. Часть 2](https://habrahabr.ru/company/dataart/blog/304934/)
-
-#### Як працює JavaScript [Translated version](https://habrahabr.ru/company/ruvds/blog/340508/)
-
+1. [Как работают браузеры](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
 1. [An overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 1. [Inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 1. [Memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
@@ -46,7 +41,7 @@
    опублікувати повідомлення в [course channel][chat]:
    ` Website Performance Optimization — #done` (або ` Website Performance Optimization — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
 1. Для цього завдання вам знадобиться review коду:
-   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2022-homeworks/blob/master/README.md)
    - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
 
 ## Готово?

@@ -5,10 +5,7 @@
 
 # Адаптивний Web Design
 
-1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
-
-Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
-це допоможе вам краще засвоїти відеокурс.
+1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
 
 1. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 

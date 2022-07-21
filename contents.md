@@ -26,9 +26,9 @@
  8. [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
  9. [Object oriented JS](tasks/js-oop.md) - practice
  10. [OOP exercise](tasks/js-post-oop.md) - practice
-11. [Offline Web Applications](tasks/app-design-offline.md)
+11. [Offline Web Applications](tasks/app-design-offline.md) - optional
 12. [Memory pair game](tasks/memory-pair-game.md) — real project!
-13. [Website Performance Optimization](tasks/app-design-performance.md)
+13. [Website Performance Optimization](tasks/app-design-performance.md) - optional
 14. [Friends App](tasks/friends-app.md) - real project!
 
 ## Stage 1. The Show Must Go On

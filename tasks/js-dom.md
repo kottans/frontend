@@ -7,8 +7,8 @@
 
 ### Дізнайтеся деякі frontend основи про DOM API:
 
-1. [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
-   (4 уроки, орієнтовний час завершення 8 годин)
+1. Прослухайте тільки розділ [Document Object Model Manipulation](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)
+
    Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
    це допоможе вам краще засвоїти відеокурс.
 
@@ -49,7 +49,7 @@
    опублікувати повідомлення в [course channel][chat]:
    `DOM — #done` (або `DOM — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
 1. Для цього завдання вам знадобиться review коду:
-   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2021-homeworks/blob/master/README.md)
+   - Для студентів курсу **Frontend 2022**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2022-homeworks/blob/master/README.md)
    - Для студентів **p2p course**: будь ласка, дотримуйтесь [цих інструкцій](https://github.com/kottans/frontend-2019-p2p/blob/master/CONTRIBUTING.md)
 1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
     Якщо ви вважаєте, що це вплине на вашу загальну ефективність курсу, подумайте над тим, щоб

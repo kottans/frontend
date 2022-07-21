@@ -5,7 +5,7 @@
 
 # Вступ до HTML і CSS
 
-1. [Intro to HTML & CSS (Eng)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+1. Прослухайте частини 1 і 2 (до Introduction to Responsive Design) курсу [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
    Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
    це допоможе вам краще засвоїти відеокурс.
