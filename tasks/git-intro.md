@@ -7,7 +7,7 @@
 
 Ознайомтеся з Git і GitHub.
 
- 1. Прослухайте частини 1 і 2 курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+ 1. Прослухайте тижні 1 і 2 курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
    Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
    це допоможе вам краще засвоїти відеокурс.
@@ -52,6 +52,8 @@
 Коли ви закінчите це завдання, ви можете приступити до наступного.
 
 ## Додаткові матеріали
+
+- [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 
 - [Git за 30 хвилин](https://codeguida.com/post/453)
 

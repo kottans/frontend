@@ -7,7 +7,7 @@
 
 Виконайте наступне:
 
-1. Прослухайте частини 3 і 4 курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+1. Прослухайте тижні 3 і 4 курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
 Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
 це допоможе вам краще засвоїти відеокурс.
