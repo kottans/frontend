@@ -7,7 +7,7 @@
 
 Ознайомтеся з Git і GitHub.
 
- 1. Прослухайте частини 1 і 2 курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+ 1. Прослухайте тижні 1 і 2 курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
    Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
    це допоможе вам краще засвоїти відеокурс.
