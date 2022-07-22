@@ -53,6 +53,8 @@
 
 ## Додаткові матеріали
 
+- [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
+
 - [Git за 30 хвилин](https://codeguida.com/post/453)
 
 - [Git tips](http://sixrevisions.com/web-development/git-tips/) — закріпити свої знання про Git
