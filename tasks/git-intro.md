@@ -7,24 +7,29 @@
 
 Ознайомтеся з Git і GitHub.
 
- 1. Прослухайте тижні 1 і 2 курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+1.  Прослухайте тижні 1 і 2 курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
-   Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
-   це допоможе вам краще засвоїти відеокурс.
+Для того, щоб проходити курс безкоштовно, треба натиснути кнопку "Enroll for free" і потім на лінк внизу "Audit course"
 
-   ![git_intro-CC-guide](../img/git_intro.png)
+![git_intro_CC_audit](../img/coursera_audit.png)
 
- 2. Пройдіть наступні рівні тут [learngitbranching.js.org](https://learngitbranching.js.org/):
+Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
+це допоможе вам краще засвоїти відеокурс.
+
+![git_intro-CC-guide](../img/git_intro.png)
+
+2.  Пройдіть наступні рівні тут [learngitbranching.js.org](https://learngitbranching.js.org/):
+
     - Основи: Introduction Sequence
     - Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
 
- 1. Створіть репозиторій та назвіть його `kottans-frontend`.
+1.  Створіть репозиторій та назвіть його `kottans-frontend`.
 
- 1. Створіть `README.md` для репозиторію.
+1.  Створіть `README.md` для репозиторію.
 
- 1. Опишіть свої враження від вивченого матеріалу.
+1.  Опишіть свої враження від вивченого матеріалу.
 
- 1. Надішліть pull-request сюди [Kottans/mock-repo][mock-repo] пропонуючи зміни.
+1.  Надішліть pull-request сюди [Kottans/mock-repo][mock-repo] пропонуючи зміни.
 
     **Як зробити pull-request**
 
@@ -33,7 +38,7 @@
     - Додайте цей репозиторій [Kottans/mock-repo][mock-repo] як upstream: git remote add upstream `https://github.com/kottans/mock-repo.git`
     - `git checkout master` і потім створіть нову гілку, ім'я на ваш роздум (aka feature branch): `git checkout -b BRANCH_NAME`.
     - Внесіть деякі зміни до свого локального сховища. Це може бути що завгодно, насправді. Якщо ви знайшли помилку в README - чудово!
-    Подбайте про те, щоб дати своєму PR значуще (осмислене) ім’я та опис.
+      Подбайте про те, щоб дати своєму PR значуще (осмислене) ім’я та опис.
     - Внесіть зміни до новоствореної гілки (Сommit)
     - Перейдіть до гілки master: `git checkout master`
     - Витягніть останні зміни з гілки upstream master: `git pull upstream master`
@@ -45,7 +50,7 @@
 
     **Зауважте, що ваш PR можуть не розглянути швидко.**
 
- 1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
+1.  Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
     Якщо ви вважаєте, що це вплине на вашу загальну ефективність курсу, подумайте над тим, щоб
     повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
 
@@ -77,13 +82,10 @@
 
 ⤴️ Повернутися до [Contents](../contents.md)
 
-
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
-
 [mock-repo]: https://github.com/Kottans/mock-repo
