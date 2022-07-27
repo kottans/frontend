@@ -45,7 +45,7 @@
     - Об’єднайте головну гілку зі своєю гілкою: `git checkout BRANCH_NAME && git merge master`
     - Вирішіть будь-які конфлікти мержу, якщо такі є (Resolve merge conflicts)
     - Надішліть гілку до вашого віддаленого сховища: `git push --set-upstream origin BRANCH_NAME`
-    - Зробіть pull-request з вашого репозиторію до [this][mock-repo] репозиторію через GitHub web-interface
+    - Зробіть pull-request з вашого репозиторію до [цього][mock-repo] репозиторію через GitHub web-interface
     - Якщо вас попросять виправити merge конфлікт, зверніться до додаткових матеріалів для отримання відповідної інформації
 
     **Зауважте, що ваш PR можуть не розглянути швидко.**
@@ -80,7 +80,7 @@
 
 ➡️ Ідіть далі [Linux, Command Line, HTTP Tools](linux-cli-http.md)
 
-⤴️ Повернутися до [Contents](../contents.md)
+⤴️ Повернутися до змісту курсу: [Contents](../contents.md)
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
