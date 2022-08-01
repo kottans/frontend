@@ -45,7 +45,7 @@
 - [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://youtu.be/MJUJ4wbFm_A)
 - [Oh shit, git!](http://ohshitgit.com/)
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
-- [GitHub Learning Lab](https://lab.github.com/courses)
+- [GitHub Skills](https://skills.github.com/)
 
 ## Готово?
 
