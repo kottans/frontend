@@ -42,7 +42,7 @@
     - Внесіть зміни до новоствореної гілки (Сommit)
     - Перейдіть до гілки master: `git checkout master`
     - Витягніть останні зміни з гілки upstream master: `git pull upstream master`
-    - Об’єднайте головну гілку зі своєю гілкою: `git checkout BRANCH_NAME && git merge master`
+    - Об’єднайте свою гілку з головною гілкою: `git checkout master && git merge BRANCH_NAME`
     - Вирішіть будь-які конфлікти мержу, якщо такі є (Resolve merge conflicts)
     - Надішліть гілку до вашого віддаленого сховища: `git push --set-upstream origin BRANCH_NAME`
     - Зробіть pull-request з вашого репозиторію до [цього][mock-repo] репозиторію через GitHub web-interface
