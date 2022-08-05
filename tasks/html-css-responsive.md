@@ -38,9 +38,9 @@
 
 - [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
 - [Specificity calculator](https://specificity.keegan.st/)
-- [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+- [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (game)
-- [A simple explanation of High DPI screens](https://broken-links.com/2013/10/02/simple-explanation-high-dpi-screens/)
+- [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
 
 ## Готово?
 
