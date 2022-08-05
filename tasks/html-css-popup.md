@@ -8,7 +8,7 @@
 > **Hooli** є фіктивною корпорацією від
 > [Silicon Valley TV series](https://www.imdb.com/title/tt2575988/).
 > Багато хто вважає, що він імітує Google або Apple.
-> Hooli на [Silicon Valley famdom wiki](https://silicon-valley.fandom.com/wiki/Hooli).
+> Hooli на [Silicon Valley fandom wiki](https://silicon-valley.fandom.com/wiki/Hooli).
 > Це також представлено [on the web](http://www.hooli.xyz/).
 
 Мета цього завдання — потренуватися в кодуванні HTML і CSS з макета. Очікується, що ви поглибите свої знання HTML і CSS і відкриєте нові невідомі раніше функції.
