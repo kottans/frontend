@@ -17,7 +17,7 @@
    - [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/) -
      Basic JavaScript language features. ~100 невеликі вправи, на виконання 2-3 години.
    - [ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) -
-     JS ES6 features. Виконайте початкові 19 вправ (до **Write Concise Declarative Functions with ES6**),
+     JS ES6 features. Виконайте початкові 17 вправ (до **Write Concise Declarative Functions with ES6**),
      На виконання 3-4 години.
    - [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/) -
      Взаємодія з масивами та об’єктами. Виконайте всі вправи (20). На завершення 3-4 години.
