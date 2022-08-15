@@ -20,7 +20,7 @@
 
 2.  Пройдіть наступні рівні тут [learngitbranching.js.org](https://learngitbranching.js.org/):
 
-    - Основи: Introduction Sequence
+    - Основи: Introduction Sequence, Ramping Up
     - Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
 
 1.  Створіть репозиторій та назвіть його `kottans-frontend`.
