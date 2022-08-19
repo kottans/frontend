@@ -16,7 +16,7 @@ of matching cards. The game ends when the last pair has been picked up.
 
 
 In order to complete this challenge you should have a basic knowledge of
-HTML, CSS and JS. You can use any styling and animations you want —
+[HTML](https://www.scaler.com/topics/html/introduction-to-html/), CSS and JS. You can use any styling and animations you want —
 the only rule is to do it by yourself.
 
 Some of following links might be helpful:
