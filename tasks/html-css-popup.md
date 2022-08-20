@@ -9,7 +9,6 @@
 > [Silicon Valley TV series](https://www.imdb.com/title/tt2575988/).
 > Many believe it impersonates Google or Apple.
 > Hooli on [Silicon Valley famdom wiki](https://silicon-valley.fandom.com/wiki/Hooli).
-> It is also represented [on the web](http://www.hooli.xyz/).
 
 The goal of this task is to practice coding HTML & CSS from mockup. You are expected to deepen your knowledge of HTML & CSS and discover new previously unknown features.
 
