@@ -2,6 +2,10 @@
 
 Ця задача є фінальним проектом курсу Udacity Object Oriented Javascript.
 
+Використовуйте "classname.prototype.*" синтаксис (не ES2015/ES6 `class` syntax).
+
+Зміни вносьте тільки до `app.js` і на код-ревʼю подавайте тільки цей файл.
+
 ## Project Overview
 
 You will be provided visual assets and a game loop engine;
