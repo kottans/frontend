@@ -81,4 +81,4 @@
 [Kottans Buddy Search](https://t.me/+45y9dB2iV3JkNDMy)
 
 **Діскорд для спільної роботи та кодінгу**
-[Join the kottans Discord Server!](https://discord.gg/bSZAgh26)
+[Join the kottans Discord Server!](https://discord.gg/veN96CcsY8)
