@@ -48,3 +48,4 @@ _Якщо ви редагуєте файл через інтерфейс GitHub,
 ||Дата|Профіль Telegram|Репозиторій курсу|З|П|Н|Коментар студента|Коментар менторів|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |1|2022-08-20|[@catvasana](https://t.me/catvasana)|[Kovalov](https://github.com/kovalov/kottans-frontend)|6|7|0|||
+|2|2022-09-08|[@pothel](https://t.me/pothel)|[AsaMitaka](https://github.com/AsaMitaka/kottans-frontend)|6|7|0|||
