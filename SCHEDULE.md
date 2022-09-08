@@ -21,5 +21,8 @@ xx.xx.2022|12:00|Framework|Маштабування додатку||||||
 xx.xx.2022|12:00|Framework|Ефекти, події, їх місце у життєвому циклі|[Nastia M.](https://github.com/AMashoshyna)|||||
 xx.xx.2022|12:00|Framework|Потоки даних. Стан додатку||||||
 xx.xx.2022|12:00|Framework|Upgrade додатку до сучасного стану||||||
-xx.xx.2022|12:00|Typescript|Вступ. Базові типи|Oleksii Nelin|||||
+xx.xx.2022|12:00|Typescript|Навіщо нам типізація?|[Volodymyr Stelmakh](https://github.com/stelmakh)|||||
+xx.xx.2022|12:00|Typescript|Типи на кожен день|[Volodymyr Stelmakh](https://github.com/stelmakh)|||||
+xx.xx.2022|12:00|Typescript|Going deeper|[Volodymyr Stelmakh](https://github.com/stelmakh)|||||
+xx.xx.2022|12:00|Typescript|Мігруємо з JS на TS|[Volodymyr Stelmakh](https://github.com/stelmakh)|||||
 xx.xx.2022|12:00| |Випускний|[Artem Sychov](https://github.com/suchov)|||||
