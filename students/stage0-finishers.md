@@ -49,3 +49,5 @@ _Якщо ви редагуєте файл через інтерфейс GitHub,
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |1|2022-08-20|[@catvasana](https://t.me/catvasana)|[Kovalov](https://github.com/kovalov/kottans-frontend)|6|7|0|||
 |2|2022-09-08|[@pothel](https://t.me/pothel)|[AsaMitaka](https://github.com/AsaMitaka/kottans-frontend)|6|7|0|||
+|3|2022-09-17|[@anton_front](https://t.me/anton_front)|[AntonKottans](https://github.com/AntonKottans/kottans-frontend)|6|7|1|tic-tac-toe в процесі||
+
