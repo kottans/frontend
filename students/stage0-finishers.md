@@ -51,3 +51,5 @@ _Якщо ви редагуєте файл через інтерфейс GitHub,
 |2|2022-09-08|[@pothel](https://t.me/pothel)|[AsaMitaka](https://github.com/AsaMitaka/kottans-frontend)|6|7|0|||
 |3|2022-09-17|[@anton_front](https://t.me/anton_front)|[AntonKottans](https://github.com/AntonKottans/kottans-frontend)|6|7|1|tic-tac-toe в процесі||
 |4|2022-09-28|[@pozzitive11](https://t.me/pozzitive11)|[Pozzitive11](https://github.com/Pozzitive11/kottans-frontend)|6|7|0|||
+|5|2022-09-27|[@VoVaN_zt](https://t.me/VoVaN_zt)|[VoVaN_zt](https://github.com/vovan-zt/kottans-frontend)|6|7|0|I study WPO||
+
