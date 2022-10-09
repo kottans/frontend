@@ -1,6 +1,6 @@
 # Frontend Course 2022
 
-| Date | Time | Module | Topic | Lecturer / Moderator | Cover lecturer | Summary | Slides | Video | Old Video | Home task |
+| Date | Time | Module | Topic | Lecturer / Moderator | Cover lecturer | Summary | Slides | Video | 2021 Video | Home task |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 xx.xx.2022|12:00| |Вступна лекція до курсу|[Artem Sychov](https://github.com/suchov)|||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Стандарти W3C and WHATWG, Розмітка HTML, Вступ в CSS, Сітки|||||[Лекція1](https://www.youtube.com/watch?v=xogSwtgiEJ0); [Лекція2](https://www.youtube.com/watch?v=7Q7jEa5h3FY)||
