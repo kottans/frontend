@@ -3,28 +3,6 @@ _Як Отримати Допомогу Наче Босс_
 
 :heavy_exclamation_mark:**БУДЬ ЛАСКА ПРОЧИТАЙТЕ ПОВНІСТЮ**:heavy_exclamation_mark:
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [HOW TO ASK QUESTIONS](#how-to-ask-questions)
-  - [Table of Contents](#table-of-contents)
-  - [INTRO](#intro)
-  - [General Structure Of The Question](#general-structure-of-the-question)
-  - [Before You Ask](#before-you-ask)
-  - [When You Ask](#when-you-ask)
-    - [Approaches examples](#approaches-examples)
-      - [Approach 1 (bad)](#approach-1-bad)
-      - [Approach 2 (good)](#approach-2-good)
-      - [Approach 3 (complex issue)](#approach-3-complex-issue)
-      - [Approach 4 (even more complex issue)](#approach-4-even-more-complex-issue)
-    - [Front-End Specific Tools To Use](#front-end-specific-tools-to-use)
-  - [Where To Ask](#where-to-ask)
-  - [Further Readings On The Topic](#further-readings-on-the-topic)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-<!-- generated with [DocToc](https://github.com/thlorenz/doctoc) -->
-
 ## ВСТУП
 У світі хакерів, відповіді, які ви отримаєте на свої технічні запитання, настільки ж залежать від того як саме ви задасте своє питання, як і від складності формулювання цієї відповіді. Цей гайд навчить вас як задавати питання так, щоб з найбільшим шансом отримати відповідь яка вас задовольнить.
 
