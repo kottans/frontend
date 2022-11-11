@@ -3,8 +3,10 @@
 | Date | Time | Module | Topic | Lecturer / Moderator | Cover lecturer | Summary | Slides | Video | Home task |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 10.11.2022|19:00| |Вступна лекція до курсу|[Artem Sychov](https://github.com/suchov)||||
-xx.xx.2022|12:00|HTML/CSS, JS DOM | Стандарти W3C and WHATWG, Розмітка HTML, Вступ в CSS, Сітки|[Viktor Yakubiv](https://github.com/viktor-yakubiv)||[Конспект специфікації HTML](https://viktor-yakubiv.github.io/slides/html.html)|[Слайди по HTML](https://viktor-yakubiv.github.io/slides/html.html?view=presentation)|[О. Островний: HTML/CSS (2021)](https://www.youtube.com/watch?v=xogSwtgiEJ0)|
-xx.xx.2022|12:00|HTML/CSS, JS DOM | Графіка в інтернеті, А11Y та форми, робота з контентом|[Viktor Yakubiv](https://github.com/viktor-yakubiv)||||[О. Островний: Зображення, форми, доступність (2021)](https://www.youtube.com/watch?v=7Q7jEa5h3FY)<br>[О. Островний: Як працює браузер (2021)](https://www.youtube.com/watch?v=0l7ikOmdGGQ)||
+12.11.2022|19:00<br>30+20 хв.|HTML/CSS, JS DOM|Стандарт та специфікація HTML|[Viktor Yakubiv](https://github.com/viktor-yakubiv)||[Конспект специфікації HTML](https://viktor-yakubiv.github.io/slides/html.html)|[Слайди по HTML](https://viktor-yakubiv.github.io/slides/html.html?view=presentation)|[О. Островний: HTML/CSS](https://youtu.be/xogSwtgiEJ0) (2021, 0:00:00–1:19:32)|
+14.11.2022|19:00<br>60+30 хв.|HTML/CSS, JS DOM|Основи CSS|[Viktor Yakubiv](https://github.com/viktor-yakubiv)||||[О. Островний: HTML/CSS](https://youtu.be/xogSwtgiEJ0?t=4772) (2021, 1:19:32–2:03:38)|
+16.11.2022|19:00<br>60+30 хв.|HTML/CSS, JS DOM|Основи макетів, Flexbox, Grid|[Viktor Yakubiv](https://github.com/viktor-yakubiv)||||[О. Островний: HTML/CSS](https://youtu.be/xogSwtgiEJ0?t=7418) (2021, 2:03:38–2:54:46)|
+19.11.2022|19:00<br>60+30 хв.|HTML/CSS, JS DOM|Графіка в інтернеті, А11Y та форми, робота з контентом|[Viktor Yakubiv](https://github.com/viktor-yakubiv)||||[О. Островний: Зображення, форми, доступність](https://www.youtube.com/watch?v=7Q7jEa5h3FY) (2021)<br>[О. Островний: Як працює браузер](https://www.youtube.com/watch?v=0l7ikOmdGGQ) (2021)||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | DOM and Layout Trees|[Nastia M.](https://github.com/AMashoshyna)||||
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Cookies(печеньки), document.cookie, how browser works 101|[Oleksii B.](https://github.com/Roophee)||||
 xx.xx.2022|12:00|YDKJS|Scope, Closure|[Roman H.](https://github.com/Roman-Halenko)||||
