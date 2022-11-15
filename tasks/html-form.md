@@ -59,24 +59,29 @@ I don't find this any useful despite I translated it already
 
 **Зауважимо**, що список рекомендованих ресурсів доволі широкий. У вас скоріше за все не вистачить часу, щоб переглянути усе **і** виконати завдання. Пам'ятайте, що практикуватися важливіше, навіть, якщо ваше рішення при цьому не буде ідеальним. Вам не потрібно читати все зараз, сфокусуйтеся на пошуках відповідей на конкретні запитання, що виникають у вас в ході роботи.
 
-- [HTML Forms on MDN](https://developer.mozilla.org/docs/Learn/HTML/Forms) - a series of articles on different aspects of web forms
+- [HTML Forms on MDN](https://developer.mozilla.org/docs/Learn/HTML/Forms) — серія статей про різні аспекти HTML-форм
 - [Native Form Validation - Part I](https://medium.com/samsung-internet-dev/native-form-validation-part-1-bf8e35099f1d)
 - [Native Form Validation - Part II](https://medium.com/samsung-internet-dev/native-form-validation-part-2-552c78f563b)
-- [HTML5 doctor](http://html5doctor.com/element-index/) - HTML elements description with examples
-- [Lecture on HTML by Aleksei Shvaika](https://youtu.be/Y7-0yo4KCVk?list=PLr1siHsWN79BpMXpZv0rEo0b8Wqgf9SUv) for Kottans JS course 2016
-- [Inhuman UI by Vadim Makeev](https://youtu.be/KAK-WAb9vow) - talk on accessibility and what web developers can do about it
-- [Weblind](https://weblind.ru/) - Recommendations on site development for people visually impaired
+- [HTML5 doctor](http://html5doctor.com/element-index/) — опис HTML-елементів з прикладами
+- [Лекція про HTML by Aleksei Shvaika](https://youtu.be/Y7-0yo4KCVk?list=PLr1siHsWN79BpMXpZv0rEo0b8Wqgf9SUv) for Kottans JS course 2016
+- [Inhuman UI by Vadim Makeev](https://youtu.be/KAK-WAb9vow) — розмова про доступність, і що розробниким можуть з цим зробити
+- [Weblind](https://weblind.ru/) — рекомендації по розробці сайтів для людей із відхиленнями зору
 
 ## Відео
 
 Ви можете переглянути записи наших попередніх курсів:
 
-|||    
---- | --- 
-[![First workshop HTML5 Form (1/2) - Yevhen Orlov][first-workshop-1-img]][first-workshop-1] | [First workshop HTML5 Form (1/2) - Yevhen Orlov][first-workshop-1]
-[![First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][first-workshop-2-img]][first-workshop-2] | [First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][first-workshop-2]
-[![Second workshop HTML5 Form - Oleksandr Ostrovnyy][second-workshop-img]][second-workshop]|[Second workshop HTML5 Form - Oleksandr Ostrovnyy][second-workshop]
-[![Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][third-workshop-img]][third-workshop]|[Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][third-workshop]
+|||
+<tr colspan=2><th>Front-End Course 2022</th></tr>
+[![Віктор Якубів: Стандарт і семантика HTML][2022-html-img]][2022-html]|[Віктор Якубів: Стандарт і семантика HTML][2022-html]
+<tr colspan=2><th>Front-End Course 2021</th></tr>
+[![Олександр Островний: HTML/CSS][2021-lesson-1-img]][2021-lesson-1]|[Олександр Островний: HTML/CSS][2021-lesson-1]
+[![Олександр Островний: Зображення, форми, доступність][2021-lesson-2-img]][2021-lesson-2]|[Олександр Островний: Зображення, форми, доступність][2021-lesson-2]
+<tr colspan=2><th>Front-End Course 2020</th></tr>
+[![First workshop HTML5 Form (1/2) - Yevhen Orlov][2020-first-workshop-1-img]][2020-first-workshop-1] | [First workshop HTML5 Form (1/2) - Yevhen Orlov][first-workshop-1]
+[![First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][2020-first-workshop-2-img]][2020-first-workshop-2] | [First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][2020-first-workshop-2]
+[![Second workshop HTML5 Form - Oleksandr Ostrovnyy][2020-second-workshop-img]][2020-second-workshop]|[Second workshop HTML5 Form - Oleksandr Ostrovnyy][2020-second-workshop]
+[![Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][2020-third-workshop-img]][2020-third-workshop]|[Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][2020-third-workshop]
 
 
 
@@ -88,11 +93,19 @@ I don't find this any useful despite I translated it already
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
 
-[first-workshop-1]: https://youtu.be/4MYA3Nocsts
-[first-workshop-1-img]: http://img.youtube.com/vi/4MYA3Nocsts/default.jpg
-[first-workshop-2]: https://youtu.be/ZoC759dIObM
-[first-workshop-2-img]: http://img.youtube.com/vi/ZoC759dIObM/default.jpg
-[second-workshop]: https://youtu.be/eTCGaUILyzg
-[second-workshop-img]: http://img.youtube.com/vi/eTCGaUILyzg/default.jpg
-[third-workshop]: https://youtu.be/NRCvOcEuDEU
-[third-workshop-img]: http://img.youtube.com/vi/NRCvOcEuDEU/default.jpg
+[2022-html]: https://youtu.be/DriWt09EmEw
+[2022-html-img]: https://img.youtube.com/vi/DriWt09EmEw/default.jpg
+
+[2021-lesson-1]: https://youtu.be/xogSwtgiEJ0
+[2021-lesson-1-img]: https://img.youtube.com/vi/xogSwtgiEJ0/default.jpg
+[2021-lesson-2]: https://youtu.be/7Q7jEa5h3FY
+[2021-lesson-2-img]: https://img.youtube.com/vi/7Q7jEa5h3FY/default.jpg
+
+[2020-first-workshop-1]: https://youtu.be/4MYA3Nocsts
+[2020-first-workshop-1-img]: http://img.youtube.com/vi/4MYA3Nocsts/default.jpg
+[2020-first-workshop-2]: https://youtu.be/ZoC759dIObM
+[2020-first-workshop-2-img]: http://img.youtube.com/vi/ZoC759dIObM/default.jpg
+[2020-second-workshop]: https://youtu.be/eTCGaUILyzg
+[2020-second-workshop-img]: http://img.youtube.com/vi/eTCGaUILyzg/default.jpg
+[2020-third-workshop]: https://youtu.be/NRCvOcEuDEU
+[2020-third-workshop-img]: http://img.youtube.com/vi/NRCvOcEuDEU/default.jpg
