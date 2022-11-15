@@ -8,16 +8,12 @@
 ## Вступ
 
 Форми — основа вебу. Грубо кажучи, типовий застосунок здебільшого складається із форм та списків. Форми повинні бути:
-- **зручними**:
-- usable: the user should understand clearly what action/input is required. If the user's input is incorrect, he/she should be notified in a friendly manner about it. The form should respond to user actions and give adequate feedback: user must understand what is happening and what he/she is expected to do (if the form is active, clicked, expecting input etc.)
-- **доступними**:
-- accessible: often the user is using a form not on desktop browser, but on a mobile device, not with a mouse, but with keyboard instead of mouse, with screen reader or other assistive device. Modern web applications are expected to provide optimal user experience in all those cases.
-- гарними і **функціональними**:
-- pretty and design-conform - the look of standard input widgets may diverge significantly from application design. Styling widgets is complicated, because you need to preserve functionality of a widget.
 
-Добре, що HTML надає розробникам широкий набір інструментів, щоб 
-Good news is that HTML5 provides developers with a rich set of tools to approach those challenges in an elegant way. Bad news is that not all browsers support all HTML5 goodies.
-Tasks described in this lesson are often solved with JavaScript, but this approach has some downsides. It is advisable to use all possibilities of pure HTML & CSS before reaching out to JS.
+- **зручними**: користувач чітко розуміє, яку дію має зробити, чи що ввести. Якщо ввід користувача неправильний, це повинно бути повідомлено в зрозумілій формі. Поля вводу і форма повинні реагувати на дії користувача надаючи чітке розуміння, що відбувається, і що потрібно зробити (чи поле активне, сфокусоване, чи очікується введення даних тощо).
+- **доступними**: користувач часто заповнює форму не на комп'ютері, а на мобільному проистрої, не за допомогою мишки, а за допомогою клавіатури замість неї, іноді з допомогою зчитувача екрану. Сучасні веб-застосунки повинні бути зручними в усіх перерахованих випадках.
+- гарними і **функціональними**: стандартний вигляд полів вводу може сильно відрізнятися від дизайну застосунку. Їх стилізація деяких полів може бути доволі складна, оскільки потрібно *повністю* зберігати функціональність.
+
+Останнє часто розв'язується за допомогою JavaScript, але цей підхід має певні недоліки. Ми рекомендуємо використовувати тільки HTML і CSS. Ці дві технології надають широкий набір інструментів, щоб без значних зусиль вирішити _переважну більшість_ задач в цьому завданні, та в подібних задачах за межами курсу.
 
 ## Ключові поняття
 
@@ -50,8 +46,8 @@ I don't find this any useful despite I translated it already
 ## Критерії
 
 - Використовуйте HTML і CSS, не використовуйте JavaScript
-- Використовуйте семантичні елементи, наприклад, `<address>`, `<section>`, `<nav>` тощо - суть завдання в тому, щоб ознайомитися з усіма доступними орціями
-- Елементи форми повинні бути клікабельні, і respond to user action.
+- Використовуйте семантичні елементи, наприклад, `<address>`, `<section>`, `<nav>` тощо — суть завдання в тому, щоб з ними ознайомитися
+- Елементи форми повинні бути клікабельні, і реагувати на дії користувача.
 - Дані форми повинні перевірятися виключно інструментами HTML/CSS. 
 - Елементи форми повинні бути доступними незалежно від методу вводу: миша, клавіатура, тач-девайси. Бонус — тестування за допомогою зчитувача екрану (скрінрідера).
 - Вигляд повинен буди наближеним до макету.
@@ -61,19 +57,19 @@ I don't find this any useful despite I translated it already
 
 ## Додаткові ресурси
 
-Note: The list of recommended resources is extensive. You may not have enough time to read/watch everything AND do the task. Remember, that doing the task is more important, even if the solution is not perfect. You don't need to read everything right now, concentrate on finding answers to particular questions.
+**Зауважимо**, що список рекомендованих ресурсів доволі широкий. У вас скоріше за все не вистачить часу, щоб переглянути усе **і** виконати завдання. Пам'ятайте, що практикуватися важливіше, навіть, якщо ваше рішення при цьому не буде ідеальним. Вам не потрібно читати все зараз, сфокусуйтеся на пошуках відповідей на конкретні запитання, що виникають у вас в ході роботи.
 
-- [HTML Forms on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms) - a series of articles on different aspects of web forms
+- [HTML Forms on MDN](https://developer.mozilla.org/docs/Learn/HTML/Forms) - a series of articles on different aspects of web forms
 - [Native Form Validation - Part I](https://medium.com/samsung-internet-dev/native-form-validation-part-1-bf8e35099f1d)
 - [Native Form Validation - Part II](https://medium.com/samsung-internet-dev/native-form-validation-part-2-552c78f563b)
-- [HTML5 doctor](http://html5doctor.com/element-index/) - HTML5 elements description with examples
+- [HTML5 doctor](http://html5doctor.com/element-index/) - HTML elements description with examples
 - [Lecture on HTML by Aleksei Shvaika](https://youtu.be/Y7-0yo4KCVk?list=PLr1siHsWN79BpMXpZv0rEo0b8Wqgf9SUv) for Kottans JS course 2016
 - [Inhuman UI by Vadim Makeev](https://youtu.be/KAK-WAb9vow) - talk on accessibility and what web developers can do about it
 - [Weblind](https://weblind.ru/) - Recommendations on site development for people visually impaired
 
 ## Відео
 
-You can watch related screencasts from Kottans course live workshops below.
+Ви можете переглянути записи наших попередніх курсів:
 
 |||    
 --- | --- 
