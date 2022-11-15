@@ -71,13 +71,20 @@ I don't find this any useful despite I translated it already
 
 Ви можете переглянути записи наших попередніх курсів:
 
+### Front-End Course 2022
 |||
-<tr colspan=2><th>Front-End Course 2022</th></tr>
+-|-
 [![Віктор Якубів: Стандарт і семантика HTML][2022-html-img]][2022-html]|[Віктор Якубів: Стандарт і семантика HTML][2022-html]
-<tr colspan=2><th>Front-End Course 2021</th></tr>
+
+### Front-End Course 2021
+|||
+-|-
 [![Олександр Островний: HTML/CSS][2021-lesson-1-img]][2021-lesson-1]|[Олександр Островний: HTML/CSS][2021-lesson-1]
 [![Олександр Островний: Зображення, форми, доступність][2021-lesson-2-img]][2021-lesson-2]|[Олександр Островний: Зображення, форми, доступність][2021-lesson-2]
-<tr colspan=2><th>Front-End Course 2020</th></tr>
+
+### Front-End Course 2020
+|||
+-|-
 [![First workshop HTML5 Form (1/2) - Yevhen Orlov][2020-first-workshop-1-img]][2020-first-workshop-1] | [First workshop HTML5 Form (1/2) - Yevhen Orlov][first-workshop-1]
 [![First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][2020-first-workshop-2-img]][2020-first-workshop-2] | [First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][2020-first-workshop-2]
 [![Second workshop HTML5 Form - Oleksandr Ostrovnyy][2020-second-workshop-img]][2020-second-workshop]|[Second workshop HTML5 Form - Oleksandr Ostrovnyy][2020-second-workshop]
