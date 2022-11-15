@@ -44,14 +44,7 @@ I don't find this any useful despite I translated it already
 
 ## Завдання
 
-Розробити сторінку відовідно до макету:
-
-<figure>
-    <a href="https://dribbble.com/shots/1322677-Checkout-Page/attachments/186093">
-        <img src="https://cdn.dribbble.com/users/76090/screenshots/1322677/attachments/186093/checkout-preview_2x.png" alt="Попередній перегляд макету" style="width: 100%; max-height: 80vh; object-position: top; object-fit: cover;">
-    </a>
-    <figcaption>Checkout Page, автор Mathieu Mayer-Mazzoli</figcaption>
-</figure>
+Розробити [сторінку офрмлення замовлення](https://dribbble.com/shots/1322677-Checkout-Page/attachments/186093) відовідно до макету авторства Mathieu Mayer-Mazzoli.
 
 
 ## Критерії
