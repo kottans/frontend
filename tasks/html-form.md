@@ -82,13 +82,13 @@ I don't find this any useful despite I translated it already
 [![Олександр Островний: HTML/CSS][2021-lesson-1-img]][2021-lesson-1]|[Олександр Островний: HTML/CSS][2021-lesson-1]
 [![Олександр Островний: Зображення, форми, доступність][2021-lesson-2-img]][2021-lesson-2]|[Олександр Островний: Зображення, форми, доступність][2021-lesson-2]
 
-### Front-End Course 2020
+### Front-End Course 2019
 |||
 -|-
-[![First workshop HTML5 Form (1/2) - Yevhen Orlov][2020-first-workshop-1-img]][2020-first-workshop-1] | [First workshop HTML5 Form (1/2) - Yevhen Orlov][2020-first-workshop-1]
-[![First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][2020-first-workshop-2-img]][2020-first-workshop-2] | [First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][2020-first-workshop-2]
-[![Second workshop HTML5 Form - Oleksandr Ostrovnyy][2020-second-workshop-img]][2020-second-workshop]|[Second workshop HTML5 Form - Oleksandr Ostrovnyy][2020-second-workshop]
-[![Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][2020-third-workshop-img]][2020-third-workshop]|[Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][2020-third-workshop]
+[![First workshop HTML5 Form (1/2) - Yevhen Orlov][2019-first-workshop-1-img]][2019-first-workshop-1] | [First workshop HTML5 Form (1/2) - Yevhen Orlov][2019-first-workshop-1]
+[![First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][2019-first-workshop-2-img]][2019-first-workshop-2] | [First workshop HTML5 Form (2/2) - Oleksandr Ostrovnyy][2019-first-workshop-2]
+[![Second workshop HTML5 Form - Oleksandr Ostrovnyy][2019-second-workshop-img]][2019-second-workshop]|[Second workshop HTML5 Form - Oleksandr Ostrovnyy][2019-second-workshop]
+[![Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][2019-third-workshop-img]][2019-third-workshop]|[Third workshop HTML5 Form Wrap Up - Oleksandr Ostrovnyy][2019-third-workshop]
 
 
 
@@ -108,11 +108,11 @@ I don't find this any useful despite I translated it already
 [2021-lesson-2]: https://youtu.be/7Q7jEa5h3FY
 [2021-lesson-2-img]: https://img.youtube.com/vi/7Q7jEa5h3FY/default.jpg
 
-[2020-first-workshop-1]: https://youtu.be/4MYA3Nocsts
-[2020-first-workshop-1-img]: http://img.youtube.com/vi/4MYA3Nocsts/default.jpg
-[2020-first-workshop-2]: https://youtu.be/ZoC759dIObM
-[2020-first-workshop-2-img]: http://img.youtube.com/vi/ZoC759dIObM/default.jpg
-[2020-second-workshop]: https://youtu.be/eTCGaUILyzg
-[2020-second-workshop-img]: http://img.youtube.com/vi/eTCGaUILyzg/default.jpg
-[2020-third-workshop]: https://youtu.be/NRCvOcEuDEU
-[2020-third-workshop-img]: http://img.youtube.com/vi/NRCvOcEuDEU/default.jpg
+[2019-first-workshop-1]: https://youtu.be/4MYA3Nocsts
+[2019-first-workshop-1-img]: http://img.youtube.com/vi/4MYA3Nocsts/default.jpg
+[2019-first-workshop-2]: https://youtu.be/ZoC759dIObM
+[2019-first-workshop-2-img]: http://img.youtube.com/vi/ZoC759dIObM/default.jpg
+[2019-second-workshop]: https://youtu.be/eTCGaUILyzg
+[2019-second-workshop-img]: http://img.youtube.com/vi/eTCGaUILyzg/default.jpg
+[2019-third-workshop]: https://youtu.be/NRCvOcEuDEU
+[2019-third-workshop-img]: http://img.youtube.com/vi/NRCvOcEuDEU/default.jpg
