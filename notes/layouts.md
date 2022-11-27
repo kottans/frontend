@@ -89,6 +89,7 @@ Grid ~vs~ and Flexbox
 - [Basic concepts of flexbox](https://developer.mozilla.org/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), Chris Coyier для CSS Tricks
 - [What the Flexbox](https://flexbox.io), Wes Bos
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/), Joshua Comeau
 
 ### Grid
 
@@ -238,14 +239,15 @@ Grid ~vs~ and Flexbox
 	gap: 1rem; /* optional */
 }
 
-:has(> .sidebar) > * {
+:has(> .sidebar) > :where(:not(.sidebar)) {
+	flex-basis: 0;
 	flex-grow: 999;
-	max-inline-size: 50%;
+	min-inline-size: 50%;
 }
 
 .sidebar {
+	flex-basis: 20rem; /* бажаний розмір сайдбара */
 	flex-grow: 1;
-	flex-basis: 20rem;
 }
 ```
 
@@ -265,7 +267,7 @@ Grid ~vs~ and Flexbox
 
 .switcher > * {
 	flex-grow: 1;
-	flex-basis: calc((var(--breakpoint) - 100*) * 999);
+	flex-basis: calc((var(--breakpoint) - 100%) * 999);
 }
 ```
 
@@ -278,7 +280,7 @@ Grid ~vs~ and Flexbox
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-  gap: 1rem;
+  gap: 1rem; /* optional */
 }
 ```
 
@@ -294,6 +296,9 @@ Grid ~vs~ and Flexbox
 	display: none !important;
 }
 ```
+
+`!important` небхідний для того,
+щоб 100% перекрити `display` складних селекторів вагою більше 1 класу.
 
 Приховує елемент, але залишає його доступним для зчитувачів екрану.
 
