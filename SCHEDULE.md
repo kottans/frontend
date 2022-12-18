@@ -9,7 +9,7 @@
 24.11.2022|19:00<br>2 год.|HTML/CSS, JS DOM|Основи макетування, Flexbox, Grid|[Viktor Yakubiv](https://github.com/viktor-yakubiv)|[Деякі підходи до компонування](notes/layouts.md)||[О. Островний: HTML/CSS](https://youtu.be/xogSwtgiEJ0?t=7418) (2021, 2:03:38–2:54:46)|[Форма замовлення](tasks/html-form.md)
 |||HTML/CSS, JS DOM|DOM and Layout Trees|~[Nastia M.](https://github.com/AMashoshyna)~|||[Х. Ландвитович: DOM](https://youtu.be/sSLSp7uz3Mo) (2021)|–
 xx.xx.2022|12:00|HTML/CSS, JS DOM | Cookies(печеньки), document.cookie, how browser works 101|[Oleksii B.](https://github.com/Roophee)|||[Х. Ландвитович: Як працює браузер](https://www.youtube.com/watch?v=0l7ikOmdGGQ) (2021)|
-xx.xx.2022|12:00|YDKJS|Scope, Closure|[Roman H.](https://github.com/Roman-Halenko)|||
+22.12.2022|12:00|YDKJS|Scope, Closure|[Nastia M.](https://github.com/AMashoshyna)|||
 xx.xx.2022|12:00|YDKJS|Objects & this|[Oleksii B.](https://github.com/Roophee)|||
 xx.xx.2022|12:00|YDKJS|Prototype|[Nastia M.](https://github.com/AMashoshyna)|||
 xx.xx.2022|12:00|YDKJS|Types Grammar|[Vladyslav Z.](https://github.com/what1s1ove)|||
