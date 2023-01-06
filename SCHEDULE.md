@@ -12,10 +12,11 @@ xx.xx.2022|12:00|HTML/CSS, JS DOM | Cookies(печеньки), document.cookie, 
 22.12.2022|12:00|YDKJS|Scope, Closure|[Nastia M.](https://github.com/AMashoshyna)|||
 xx.xx.2022|12:00|YDKJS|Objects & this|[Oleksii B.](https://github.com/Roophee)|||
 xx.xx.2022|12:00|YDKJS|Prototype|[Nastia M.](https://github.com/AMashoshyna)|||
-05.01.2023|18:00|YDKJS|Types Grammar|[Vladyslav Z.](https://github.com/what1s1ove)|||
+05.01.2023|18:00|YDKJS|Types Grammar|[Vladyslav Z.](https://github.com/what1s1ove)||[Слайди](https://what1s1ove.github.io/kottans-ydkjs-types-grammar/)|
 xx.xx.2022|12:00|YDKJS|Callback/Promise|[Listochkin](https://github.com/listochkin)|||
 xx.xx.2022|12:00|YDKJS|Async/Await|[Listochkin](https://github.com/listochkin)|||
 xx.xx.2022|12:00|YDKJS|ESNext API/Generators|[Listochkin](https://github.com/listochkin)|||
+xx.xx.2022|12:00|Framework|Frameworks for X-coder|[Vladyslav Z.](https://github.com/what1s1ove)||||
 xx.xx.2022|12:00|Framework|Побудова структури додатку, бізнес-процеси||||[Частина 1](https://www.youtube.com/watch?v=yrQFB0o9-7s&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=26)|
 xx.xx.2022|12:00|Framework|Рекурсії для рендерінгу елементів|[Nastia M.](https://github.com/AMashoshyna)|||
 xx.xx.2022|12:00|Framework|Networking. Використання зовнішніх даних у додатку|[Oleksii B.](https://github.com/Roophee)|||[Частина 3](https://www.youtube.com/watch?v=Q27TVN3OUi8&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=29); [Q&A сесія](https://www.youtube.com/watch?v=AU2YiSt6lR8&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=30)|
