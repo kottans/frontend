@@ -14,7 +14,7 @@ xx.xx.2022|12:00|YDKJS|Objects & this|[Oleksii B.](https://github.com/Roophee)||
 xx.xx.2022|12:00|YDKJS|Prototype|[Nastia M.](https://github.com/AMashoshyna)|||
 05.01.2023|18:00|YDKJS|Types Grammar|[Vladyslav Z.](https://github.com/what1s1ove)||[Слайди](https://what1s1ove.github.io/kottans-ydkjs-types-grammar/)|[video](https://www.youtube.com/watch?v=Gzy9NbEInq8)|
 11.01.2023|18:00|YDKJS|Callback/Promise|[Listochkin](https://github.com/listochkin)|||
-18.01.2023|12:00|YDKJS|Async/Await/ESNext API/Generators|[Listochkin](https://github.com/listochkin)|||
+18.01.2023|18:00|YDKJS|Async/Await/ESNext API/Generators|[Listochkin](https://github.com/listochkin)|||
 xx.xx.2022|12:00|Framework|Frameworks for X-coder|[Vladyslav Z.](https://github.com/what1s1ove)||||
 xx.xx.2022|12:00|Framework|Побудова структури додатку, бізнес-процеси||||[Частина 1](https://www.youtube.com/watch?v=yrQFB0o9-7s&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=26)|
 xx.xx.2022|12:00|Framework|Рекурсії для рендерінгу елементів|[Nastia M.](https://github.com/AMashoshyna)|||
